@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" />
     <style is:global>
         *, *::before, *::after { box-sizing: border-box; }
         ::-webkit-scrollbar { display: none; }
@@ -137,24 +138,41 @@
 
         /* ── nav cards ── */
         .nav-card {
-            display:flex; align-items:center; gap:16px;
-            padding:18px 20px; border-radius:14px;
-            border:1px solid var(--card-border);
-            background:rgba(254,243,208,0.35);
+            display:flex; align-items:center; justify-content:space-between; gap:16px;
+            padding:20px; border-radius:16px; position:relative; overflow:hidden;
+            border:1px solid rgba(220,168,80,0.28);
+            background:rgba(254,246,228,0.55);
             cursor:pointer;
-            transition: background .3s, border-color .3s, transform .25s, box-shadow .3s;
+            transition: background .3s, border-color .3s, box-shadow .3s;
         }
-        .nav-card:hover { transform:translateX(3px); background:rgba(254,243,208,0.65) }
+        .nav-card:hover { background:rgba(254,243,208,0.80) }
         .nav-card.active {
-            background: rgba(240,168,50,0.18)!important;
-            border-color: rgba(220,140,40,0.55)!important;
-            box-shadow: 0 4px 28px rgba(240,168,50,0.15), inset 0 0 20px rgba(240,168,50,0.05);
+            background: rgba(254,243,208,0.70)!important;
+            border-color: rgba(201,106,24,0.40)!important;
+            box-shadow: 0 8px 24px rgba(197,131,76,0.10);
         }
+        .nav-card.active::before {
+            content:'';
+            position:absolute; inset:0;
+            background:linear-gradient(to right, rgba(201,106,24,0.06), transparent);
+            border-radius:inherit; pointer-events:none;
+        }
+        .nav-card .nav-arrow { color:rgba(200,130,40,0.50); transition:color .25s; font-size:.85rem; position:relative; z-index:1; }
+        .nav-card:hover .nav-arrow,
+        .nav-card.active .nav-arrow { color: #c96a18; }
         .nav-icon {
-            flex-shrink:0; width:48px; height:48px; border-radius:10px;
-            background:rgba(240,168,50,0.18); border:1px solid rgba(220,140,40,0.30);
-            display:flex; align-items:center; justify-content:center; font-size:1.3rem;
+            flex-shrink:0; width:44px; height:44px; border-radius:12px;
+            background:rgba(254,246,228,0.90); border:1px solid rgba(220,168,80,0.30);
+            display:flex; align-items:center; justify-content:center;
+            font-size:1rem; color:#c96a18;
+            box-shadow:0 1px 4px rgba(0,0,0,0.05);
+            position:relative; z-index:1;
         }
+        .nav-card.active .nav-icon {
+            background:rgba(253,246,232,0.95);
+            border-color:rgba(201,106,24,0.30);
+        }
+        .nav-card-text { position:relative; z-index:1; }
     </style>
     <script is:inline>
         tailwind.config = {
@@ -518,39 +536,45 @@
             <div class="flex flex-col gap-3 flex-1">
 
                 <div id="card-calm" class="sr1 nav-card" onclick="switchView('calm')">
-                    <div class="nav-icon"><span>🫁</span></div>
-                    <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2 mb-1">
-                            <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Calm My Body</h3>
-                            <span id="badge-calm" class="hidden font-sans text-xs px-2 py-0.5 rounded-full" style="letter-spacing:.15em;text-transform:uppercase;color:rgba(180,100,20,.85);background:rgba(240,168,50,.20);border:1px solid rgba(200,130,40,.35);">Active</span>
+                    <div class="flex items-center gap-4">
+                        <div class="nav-icon"><i class="fa-solid fa-lungs"></i></div>
+                        <div class="nav-card-text">
+                            <div class="flex items-center gap-2 mb-0.5">
+                                <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Calm My Body</h3>
+                                <span id="badge-calm" class="hidden font-sans" style="font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:#c96a18;background:rgba(253,246,232,0.95);border:1px solid rgba(201,106,24,.30);padding:2px 8px;border-radius:9999px;">Active</span>
+                            </div>
+                            <p class="font-sans" style="font-size:.76rem;font-weight:300;color:var(--text-muted);">Guided breathing cycle · 4 minutes</p>
                         </div>
-                        <p class="font-sans" style="font-size:.78rem;font-weight:300;color:var(--text-muted);">Guided breathing cycle · 4 minutes</p>
                     </div>
-                    <span class="font-sans" style="font-size:.85rem;color:var(--accent-border);">→</span>
+                    <i class="fa-solid fa-arrow-right nav-arrow"></i>
                 </div>
 
                 <div id="card-focus" class="sr2 nav-card" onclick="switchView('focus')">
-                    <div class="nav-icon"><span>🧠</span></div>
-                    <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2 mb-1">
-                            <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Reset My Focus</h3>
-                            <span id="badge-focus" class="hidden font-sans text-xs px-2 py-0.5 rounded-full" style="letter-spacing:.15em;text-transform:uppercase;color:rgba(180,100,20,.85);background:rgba(240,168,50,.20);border:1px solid rgba(200,130,40,.35);">Active</span>
+                    <div class="flex items-center gap-4">
+                        <div class="nav-icon"><i class="fa-solid fa-brain"></i></div>
+                        <div class="nav-card-text">
+                            <div class="flex items-center gap-2 mb-0.5">
+                                <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Reset My Focus</h3>
+                                <span id="badge-focus" class="hidden font-sans" style="font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:#c96a18;background:rgba(253,246,232,0.95);border:1px solid rgba(201,106,24,.30);padding:2px 8px;border-radius:9999px;">Active</span>
+                            </div>
+                            <p class="font-sans" style="font-size:.76rem;font-weight:300;color:var(--text-muted);">60-Word Daily Reading · 3 minutes</p>
                         </div>
-                        <p class="font-sans" style="font-size:.78rem;font-weight:300;color:var(--text-muted);">60-Word Daily Reading · 3 minutes</p>
                     </div>
-                    <span class="font-sans" style="font-size:.85rem;color:var(--accent-border);">→</span>
+                    <i class="fa-solid fa-arrow-right nav-arrow"></i>
                 </div>
 
                 <div id="card-head" class="sr3 nav-card" onclick="switchView('head')">
-                    <div class="nav-icon"><span>🍃</span></div>
-                    <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2 mb-1">
-                            <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Clear My Head</h3>
-                            <span id="badge-head" class="hidden font-sans text-xs px-2 py-0.5 rounded-full" style="letter-spacing:.15em;text-transform:uppercase;color:rgba(180,100,20,.85);background:rgba(240,168,50,.20);border:1px solid rgba(200,130,40,.35);">Active</span>
+                    <div class="flex items-center gap-4">
+                        <div class="nav-icon"><i class="fa-solid fa-leaf"></i></div>
+                        <div class="nav-card-text">
+                            <div class="flex items-center gap-2 mb-0.5">
+                                <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Clear My Head</h3>
+                                <span id="badge-head" class="hidden font-sans" style="font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:#c96a18;background:rgba(253,246,232,0.95);border:1px solid rgba(201,106,24,.30);padding:2px 8px;border-radius:9999px;">Active</span>
+                            </div>
+                            <p class="font-sans" style="font-size:.76rem;font-weight:300;color:var(--text-muted);">Thought Dissolver · 5 minutes</p>
                         </div>
-                        <p class="font-sans" style="font-size:.78rem;font-weight:300;color:var(--text-muted);">Thought Dissolver · 5 minutes</p>
                     </div>
-                    <span class="font-sans" style="font-size:.85rem;color:var(--accent-border);">→</span>
+                    <i class="fa-solid fa-arrow-right nav-arrow"></i>
                 </div>
             </div>
 
