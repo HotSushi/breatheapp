@@ -1,0 +1,432 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plugin — The Attention Sanctuary</title>
+    <script is:inline src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" />
+    <style is:global>
+        ::-webkit-scrollbar { display: none; }
+
+        :root {
+            --base:    #fdf6e8;
+            --surface: #faefd4;
+            --text:    #4a2c08;
+            --muted:   #9a7850;
+            --accent:  #c96a18;
+            --amber:   #f0a832;
+            --border:  rgba(220,140,40,0.28);
+        }
+
+        @keyframes fadeSlideIn {
+            from { opacity: 0; transform: translateY(14px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes subtlePulse {
+            0%, 100% { box-shadow: 0 8px 32px rgba(201,106,24,0.22); }
+            50%       { box-shadow: 0 14px 44px rgba(201,106,24,0.40); }
+        }
+        @keyframes fade-up {
+            from { opacity: 0; transform: translateY(18px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        .slide-animate   { animation: fadeSlideIn 0.55s ease forwards; }
+        .release-btn-pulse { animation: subtlePulse 2.2s ease-in-out infinite; }
+        .fu1 { animation: fade-up .8s ease forwards; opacity: 0; animation-delay: .08s }
+        .fu2 { animation: fade-up .8s ease forwards; opacity: 0; animation-delay: .22s }
+        .fu3 { animation: fade-up .8s ease forwards; opacity: 0; animation-delay: .36s }
+        .fi  { animation: fade-up .9s ease forwards; opacity: 0; animation-delay: .55s }
+
+        .feature-slide       { display: none; flex-direction: column; gap: 24px; }
+        .feature-slide.active { display: flex; }
+
+        .dot-indicator {
+            height: 8px; width: 8px;
+            background: rgba(220,140,40,0.28);
+            border-radius: 9999px; border: none; cursor: pointer;
+            transition: width .3s ease, background .3s ease;
+        }
+        .dot-indicator.active { width: 24px; background: var(--accent); }
+
+        .mockup-browser {
+            background: #fff;
+            border-radius: 14px;
+            box-shadow: 0 20px 60px rgba(74,44,8,0.10), 0 4px 16px rgba(74,44,8,0.06);
+        }
+        .browser-bar {
+            background: #F5EFE4;
+            border-radius: 14px 14px 0 0;
+            padding: 10px 14px;
+            display: flex; align-items: center; gap: 8px;
+            border-bottom: 1px solid rgba(220,140,40,0.22);
+        }
+        .browser-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+        .pill {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 6px 12px; border-radius: 9999px;
+            background: rgba(254,246,228,0.80);
+            border: 1px solid rgba(220,140,40,0.28);
+            font-size: .72rem; color: var(--muted);
+            font-family: 'Inter', sans-serif;
+        }
+        .pill i { color: var(--accent); font-size: 9px; }
+
+        .email-field {
+            width: 100%; padding: 16px 20px;
+            border-radius: 16px;
+            border: 1px solid rgba(220,140,40,0.28);
+            background: rgba(254,246,228,0.70);
+            color: var(--text);
+            font-family: 'Inter', sans-serif; font-size: .9rem; font-weight: 300;
+            outline: none;
+            transition: border-color .3s, box-shadow .3s;
+        }
+        .email-field::placeholder { color: rgba(154,120,80,0.50); }
+        .email-field:focus {
+            border-color: rgba(201,106,24,0.50);
+            box-shadow: 0 0 0 3px rgba(240,168,50,0.12);
+        }
+
+        .success-state { animation: fadeSlideIn 0.5s ease forwards; }
+    </style>
+    <script is:inline>
+        tailwind.config = {
+            theme: { extend: {
+                colors: {
+                    'sanctuary-base':    '#fdf6e8',
+                    'sanctuary-surface': '#faefd4',
+                    'sanctuary-text':    '#4a2c08',
+                    'sanctuary-muted':   '#9a7850',
+                    'sanctuary-accent':  '#c96a18',
+                    'sanctuary-amber':   '#f0a832',
+                    'sanctuary-border':  '#e8d8b0',
+                },
+                fontFamily: {
+                    serif: ['Lora','Georgia','serif'],
+                    sans:  ['Inter','system-ui','sans-serif'],
+                }
+            }}
+        }
+    </script>
+</head>
+<body class="bg-sanctuary-base font-sans overflow-x-hidden" style="color: var(--text);">
+
+<!-- ── Header ── -->
+<header class="fu1 w-full px-8 lg:px-12 py-5 flex justify-between items-center"
+        style="border-bottom: 1px solid var(--border); background: rgba(253,246,232,0.90); backdrop-filter: blur(8px); position: sticky; top: 0; z-index: 50;">
+    <span class="font-serif text-sm tracking-[.26em] uppercase italic" style="color: var(--muted); font-weight: 400;">The Attention Sanctuary</span>
+    <nav class="hidden md:flex items-center gap-8">
+        <a href="/" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--muted); text-decoration:none; transition:color .25s;" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--muted)'">Home</a>
+        <a href="/dashboard" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--muted); text-decoration:none; transition:color .25s;" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--muted)'">Dashboard</a>
+        <span class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:500; color:var(--accent); border-bottom:1.5px solid var(--accent); padding-bottom:2px;">Plugin</span>
+        <a href="/complete" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--muted); text-decoration:none; transition:color .25s;" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--muted)'">Complete</a>
+    </nav>
+</header>
+
+<!-- ── Main ── -->
+<main class="flex flex-col lg:flex-row" style="min-height: calc(100vh - 66px);">
+
+    <!-- LEFT — Feature Showcase -->
+    <section class="fu2 w-full lg:w-[60%] flex flex-col items-center justify-center px-10 lg:px-16 py-16 relative"
+             style="background: radial-gradient(ellipse 80% 70% at 50% 50%, #fef3d0 0%, #fde8b0 60%, #fad898 100%); border-right: 1px solid var(--border);">
+
+        <!-- ambient rings -->
+        <div class="absolute inset-0 flex items-center justify-center pointer-events-none" style="opacity:.07;">
+            <div style="width:480px;height:480px;border-radius:50%;border:1px solid var(--accent);position:absolute;"></div>
+            <div style="width:320px;height:320px;border-radius:50%;border:1px solid var(--accent);position:absolute;"></div>
+        </div>
+
+        <!-- Gateway label -->
+        <div class="absolute left-5 top-1/2 -translate-y-1/2 hidden xl:flex flex-col items-center gap-2 pointer-events-none select-none" style="opacity:.22;">
+            <div style="width:1px;height:40px;background:var(--accent);"></div>
+            <span class="font-sans" style="font-size:.5rem;writing-mode:vertical-rl;transform:rotate(180deg);letter-spacing:.3em;text-transform:uppercase;color:var(--accent);">Plugin</span>
+            <div style="width:1px;height:40px;background:var(--accent);"></div>
+        </div>
+
+        <div class="w-full max-w-xl z-10">
+
+            <!-- Section label -->
+            <div class="flex items-center gap-4 mb-8">
+                <div style="width:32px;height:1px;background:rgba(220,140,40,.40);"></div>
+                <span class="font-sans text-xs tracking-[.28em] uppercase" style="font-weight:300;color:var(--muted);">Browser Extension</span>
+                <div style="width:32px;height:1px;background:rgba(220,140,40,.40);"></div>
+            </div>
+
+            <!-- Slides -->
+            <div id="slides-container" style="min-height: 420px; position: relative;">
+
+                <!-- Slide 1: Site Interception -->
+                <div class="feature-slide active slide-animate" id="slide-1">
+                    <div class="mockup-browser w-full">
+                        <div class="browser-bar">
+                            <div class="browser-dot" style="background:#FF6B6B;"></div>
+                            <div class="browser-dot" style="background:#FFD93D;"></div>
+                            <div class="browser-dot" style="background:#6BCB77;"></div>
+                            <div style="flex:1;background:rgba(255,255,255,.70);border-radius:8px;padding:5px 12px;margin-left:10px;font-size:.72rem;color:var(--muted);display:flex;align-items:center;gap:6px;">
+                                <i class="fa-solid fa-lock" style="color:var(--accent);font-size:8px;"></i>
+                                instagram.com
+                            </div>
+                        </div>
+                        <div style="padding:28px 24px;min-height:220px;background:linear-gradient(135deg,#FAF7F0 0%,#F5F0E8 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;">
+                            <div style="width:60px;height:60px;border-radius:16px;background:rgba(201,106,24,.12);border:1px solid rgba(201,106,24,.30);display:flex;align-items:center;justify-content:center;">
+                                <i class="fa-solid fa-hand" style="color:var(--accent);font-size:1.4rem;"></i>
+                            </div>
+                            <p class="font-serif" style="font-size:1.1rem;color:var(--text);text-align:center;margin:0;">Pause before you scroll.</p>
+                            <p style="font-size:.75rem;color:var(--muted);text-align:center;margin:0;">You were about to open Instagram.</p>
+                            <div style="display:flex;gap:10px;margin-top:6px;">
+                                <div style="padding:8px 16px;border-radius:9999px;background:var(--accent);color:#fff;font-size:.72rem;font-weight:500;font-family:'Inter',sans-serif;">Take a breath instead</div>
+                                <div style="padding:8px 16px;border-radius:9999px;border:1px solid rgba(220,140,40,.35);color:var(--muted);font-size:.72rem;font-family:'Inter',sans-serif;">Continue anyway</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="text-align:center;padding:0 8px;">
+                        <h3 class="font-serif" style="font-size:1.2rem;color:var(--text);margin-bottom:8px;">Intelligent Plugin Interception</h3>
+                        <p style="font-size:.84rem;color:var(--muted);line-height:1.65;">Our browser extension catches you the exact moment you navigate to a distracting site, replacing the dopamine loop with a conscious pause.</p>
+                    </div>
+                </div>
+
+                <!-- Slide 2: Daily Reading -->
+                <div class="feature-slide" id="slide-2">
+                    <div class="mockup-browser w-full">
+                        <div class="browser-bar">
+                            <div class="browser-dot" style="background:#FF6B6B;"></div>
+                            <div class="browser-dot" style="background:#FFD93D;"></div>
+                            <div class="browser-dot" style="background:#6BCB77;"></div>
+                            <div style="flex:1;background:rgba(255,255,255,.70);border-radius:8px;padding:5px 12px;margin-left:10px;font-size:.72rem;color:var(--muted);display:flex;align-items:center;gap:6px;">
+                                <i class="fa-solid fa-lock" style="color:var(--accent);font-size:8px;"></i>
+                                sanctuary.app/read
+                            </div>
+                        </div>
+                        <div style="padding:20px 24px;min-height:220px;background:linear-gradient(135deg,#FAF7F0 0%,#F5F0E8 100%);">
+                            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                                <span style="font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);">Daily Reading · Day 12</span>
+                                <span style="font-size:.72rem;color:var(--accent);font-weight:500;">3 min read</span>
+                            </div>
+                            <p class="font-serif" style="font-size:.95rem;color:var(--text);line-height:1.7;margin-bottom:16px;font-style:italic;">"The quality of your attention determines the quality of your life. Every moment of deep focus is an act of self-respect."</p>
+                            <div>
+                                <div style="display:flex;justify-content:space-between;font-size:.72rem;color:var(--muted);margin-bottom:6px;"><span>Reading Progress</span><span>68%</span></div>
+                                <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:6px;">
+                                    <div style="width:68%;background:var(--accent);border-radius:9999px;height:6px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="text-align:center;padding:0 8px;">
+                        <h3 class="font-serif" style="font-size:1.2rem;color:var(--text);margin-bottom:8px;">Daily Micro-Readings</h3>
+                        <p style="font-size:.84rem;color:var(--muted);line-height:1.65;">A fresh curated passage every day — neuroscience, stoicism, cognitive psychology — delivered the moment you would have opened a feed.</p>
+                    </div>
+                </div>
+
+                <!-- Slide 3: History & Mood -->
+                <div class="feature-slide" id="slide-3">
+                    <div class="mockup-browser w-full">
+                        <div class="browser-bar">
+                            <div class="browser-dot" style="background:#FF6B6B;"></div>
+                            <div class="browser-dot" style="background:#FFD93D;"></div>
+                            <div class="browser-dot" style="background:#6BCB77;"></div>
+                            <div style="flex:1;background:rgba(255,255,255,.70);border-radius:8px;padding:5px 12px;margin-left:10px;font-size:.72rem;color:var(--muted);display:flex;align-items:center;gap:6px;">
+                                <i class="fa-solid fa-lock" style="color:var(--accent);font-size:8px;"></i>
+                                sanctuary.app/history
+                            </div>
+                        </div>
+                        <div style="padding:16px 20px;min-height:220px;background:linear-gradient(135deg,#FAF7F0 0%,#F5F0E8 100%);">
+                            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
+                                <span style="font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);">This Week</span>
+                                <span style="font-size:.72rem;color:var(--accent);">View All →</span>
+                            </div>
+                            <div style="display:flex;gap:8px;margin-bottom:14px;">
+                                <div style="flex:1;background:#fff;border-radius:12px;padding:10px 6px;border:1px solid rgba(220,140,40,.22);text-align:center;">
+                                    <div style="font-size:1.2rem;margin-bottom:4px;">😌</div>
+                                    <div style="font-size:.6rem;color:var(--muted);">Mon</div>
+                                    <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:3px;margin-top:5px;"><div style="width:90%;background:var(--accent);border-radius:9999px;height:3px;"></div></div>
+                                </div>
+                                <div style="flex:1;background:#fff;border-radius:12px;padding:10px 6px;border:1px solid rgba(220,140,40,.22);text-align:center;">
+                                    <div style="font-size:1.2rem;margin-bottom:4px;">🧠</div>
+                                    <div style="font-size:.6rem;color:var(--muted);">Tue</div>
+                                    <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:3px;margin-top:5px;"><div style="width:75%;background:var(--accent);border-radius:9999px;height:3px;"></div></div>
+                                </div>
+                                <div style="flex:1;background:#fff;border-radius:12px;padding:10px 6px;border:1px solid rgba(220,140,40,.22);text-align:center;">
+                                    <div style="font-size:1.2rem;margin-bottom:4px;">😤</div>
+                                    <div style="font-size:.6rem;color:var(--muted);">Wed</div>
+                                    <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:3px;margin-top:5px;"><div style="width:40%;background:var(--accent);border-radius:9999px;height:3px;"></div></div>
+                                </div>
+                                <div style="flex:1;background:#fff;border-radius:12px;padding:10px 6px;border:1px solid rgba(220,140,40,.22);text-align:center;">
+                                    <div style="font-size:1.2rem;margin-bottom:4px;">✨</div>
+                                    <div style="font-size:.6rem;color:var(--muted);">Thu</div>
+                                    <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:3px;margin-top:5px;"><div style="width:95%;background:var(--accent);border-radius:9999px;height:3px;"></div></div>
+                                </div>
+                                <div style="flex:1;background:rgba(201,106,24,.10);border-radius:12px;padding:10px 6px;border:1px solid rgba(201,106,24,.30);text-align:center;">
+                                    <div style="font-size:1.2rem;margin-bottom:4px;">🌿</div>
+                                    <div style="font-size:.6rem;color:var(--accent);font-weight:500;">Today</div>
+                                    <div style="width:100%;background:rgba(220,140,40,.20);border-radius:9999px;height:3px;margin-top:5px;"><div style="width:60%;background:var(--accent);border-radius:9999px;height:3px;"></div></div>
+                                </div>
+                            </div>
+                            <div style="display:flex;gap:8px;">
+                                <div style="flex:1;background:#fff;border:1px solid rgba(220,140,40,.22);border-radius:10px;padding:8px 10px;display:flex;align-items:center;gap:7px;">
+                                    <i class="fa-solid fa-circle-check" style="color:var(--accent);font-size:.75rem;"></i>
+                                    <span style="font-size:.72rem;color:var(--muted);">23 sessions complete</span>
+                                </div>
+                                <div style="flex:1;background:#fff;border:1px solid rgba(220,140,40,.22);border-radius:10px;padding:8px 10px;display:flex;align-items:center;gap:7px;">
+                                    <i class="fa-solid fa-arrow-trend-up" style="color:var(--accent);font-size:.75rem;"></i>
+                                    <span style="font-size:.72rem;color:var(--muted);">Focus up 34%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="text-align:center;padding:0 8px;">
+                        <h3 class="font-serif" style="font-size:1.2rem;color:var(--text);margin-bottom:8px;">History &amp; Mood Tracking</h3>
+                        <p style="font-size:.84rem;color:var(--muted);line-height:1.65;">A personal dashboard that saves your completion history, tracks your goals, and logs how your emotional state shifts day by day.</p>
+                    </div>
+                </div>
+
+            </div><!-- /slides-container -->
+
+            <!-- Dot indicators -->
+            <div style="display:flex;align-items:center;justify-content:center;gap:8px;margin-top:24px;">
+                <button class="dot-indicator active" id="dot-0" onclick="goToSlide(0)"></button>
+                <button class="dot-indicator"        id="dot-1" onclick="goToSlide(1)"></button>
+                <button class="dot-indicator"        id="dot-2" onclick="goToSlide(2)"></button>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- RIGHT — Waitlist Form -->
+    <aside class="fu3 w-full lg:w-[40%] flex flex-col items-center justify-center px-10 lg:px-14 py-16 relative"
+           style="background: linear-gradient(160deg, #fef6e4 0%, #faefd4 100%); border-left: 1px solid var(--border);">
+
+        <!-- decorative corner rings -->
+        <div class="absolute bottom-0 right-0 pointer-events-none overflow-hidden" style="width:260px;height:260px;opacity:.08;">
+            <div style="position:absolute;bottom:-100px;right:-100px;width:100%;height:100%;border-radius:50%;border:1px solid var(--accent);"></div>
+            <div style="position:absolute;bottom:-55px;right:-55px;width:70%;height:70%;border-radius:50%;border:1px solid var(--accent);"></div>
+        </div>
+
+        <div class="w-full z-10" style="max-width: 400px;">
+
+            <!-- Header -->
+            <div style="margin-bottom: 36px;">
+                <div style="display:flex;align-items:center;gap:14px;margin-bottom:18px;">
+                    <div style="width:28px;height:1px;background:rgba(220,140,40,.40);"></div>
+                    <span class="font-sans" style="font-size:.7rem;letter-spacing:.28em;text-transform:uppercase;color:var(--muted);font-weight:300;">Private Beta</span>
+                </div>
+                <h1 class="font-serif" style="font-size:clamp(2rem,3vw,2.8rem);font-weight:500;color:var(--text);line-height:1.2;margin-bottom:14px;">
+                    Join the<br>
+                    <em style="font-style:italic;color:var(--accent);">Private Beta</em>
+                </h1>
+                <p class="font-sans" style="font-size:.88rem;font-weight:300;color:var(--muted);line-height:1.68;max-width:320px;">
+                    Reclaim your focus before the scroll loop begins. Be the first to experience the Attention Sanctuary browser extension.
+                </p>
+            </div>
+
+            <!-- Feature pills -->
+            <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:36px;">
+                <span class="pill"><i class="fa-solid fa-shield-halved"></i>Site Interception</span>
+                <span class="pill"><i class="fa-solid fa-book-open"></i>Daily Readings</span>
+                <span class="pill"><i class="fa-solid fa-chart-line"></i>Mood Tracking</span>
+            </div>
+
+            <!-- Form -->
+            <div id="form-container" style="display:flex;flex-direction:column;gap:14px;margin-bottom:32px;">
+                <input id="email-input" type="email" class="email-field" placeholder="Enter your email address…" />
+                <button id="cta-btn" onclick="handleSignup()"
+                    class="release-btn-pulse"
+                    style="width:100%;padding:18px 24px;border-radius:18px;border:none;cursor:pointer;font-family:'Inter',sans-serif;font-size:1rem;font-weight:600;letter-spacing:.04em;color:#fff;background:linear-gradient(135deg,#e8956a 0%,#c96a18 100%);display:flex;align-items:center;justify-content:center;gap:10px;transition:opacity .25s;">
+                    <i class="fa-solid fa-lock-open" style="opacity:.85;"></i>
+                    Secure My Early Access
+                </button>
+            </div>
+
+            <!-- Success state (hidden) -->
+            <div id="success-state" class="hidden" style="margin-bottom:32px;">
+                <div style="width:100%;padding:32px 24px;border-radius:18px;border:1px solid rgba(201,106,24,.30);background:rgba(254,246,228,.70);display:flex;flex-direction:column;align-items:center;gap:14px;text-align:center;">
+                    <div style="width:52px;height:52px;border-radius:50%;background:rgba(201,106,24,.12);border:1px solid rgba(201,106,24,.28);display:flex;align-items:center;justify-content:center;">
+                        <i class="fa-solid fa-check" style="color:var(--accent);font-size:1.1rem;"></i>
+                    </div>
+                    <div>
+                        <h3 class="font-serif" style="font-size:1.25rem;color:var(--text);margin-bottom:6px;">You're on the list.</h3>
+                        <p class="font-sans" style="font-size:.82rem;font-weight:300;color:var(--muted);line-height:1.6;">We'll send a quiet notification when your private beta token is ready.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Social proof -->
+            <div class="fi" style="display:flex;align-items:center;gap:14px;margin-bottom:28px;">
+                <div style="display:flex;">
+                    <img src="https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg" style="width:32px;height:32px;border-radius:50%;border:2px solid #faefd4;object-fit:cover;margin-right:-8px;" />
+                    <img src="https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg" style="width:32px;height:32px;border-radius:50%;border:2px solid #faefd4;object-fit:cover;margin-right:-8px;" />
+                    <img src="https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg" style="width:32px;height:32px;border-radius:50%;border:2px solid #faefd4;object-fit:cover;margin-right:-8px;" />
+                    <img src="https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-6.jpg" style="width:32px;height:32px;border-radius:50%;border:2px solid #faefd4;object-fit:cover;" />
+                </div>
+                <div>
+                    <div class="font-sans" style="font-size:.78rem;font-weight:500;color:var(--text);">847 people already waiting</div>
+                    <div class="font-sans" style="font-size:.7rem;font-weight:300;color:var(--muted);">Spots are limited for private beta</div>
+                </div>
+            </div>
+
+            <!-- Fine print -->
+            <div style="padding-top:20px;border-top:1px solid rgba(220,140,40,.22);text-align:center;">
+                <p class="font-sans" style="font-size:.7rem;font-weight:300;color:rgba(154,120,80,.65);font-style:italic;line-height:1.6;">
+                    <i class="fa-solid fa-feather" style="color:rgba(201,106,24,.45);font-size:.65rem;margin-right:4px;"></i>
+                    No spam. Just a quiet notification when your private beta plugin token is ready.
+                </p>
+            </div>
+
+        </div>
+    </aside>
+
+</main>
+
+<script is:inline>
+    // ── Slide carousel ──
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.feature-slide');
+    const dots   = document.querySelectorAll('.dot-indicator');
+    let autoTimer;
+
+    function goToSlide(idx) {
+        slides[currentSlide].classList.remove('active');
+        dots[currentSlide].classList.remove('active');
+        currentSlide = idx;
+        slides[currentSlide].classList.add('active');
+        slides[currentSlide].classList.remove('slide-animate');
+        void slides[currentSlide].offsetWidth;
+        slides[currentSlide].classList.add('slide-animate');
+        dots[currentSlide].classList.add('active');
+    }
+
+    function startAuto() { autoTimer = setInterval(() => goToSlide((currentSlide + 1) % slides.length), 4000); }
+    function stopAuto()  { clearInterval(autoTimer); }
+
+    dots.forEach((d, i) => d.addEventListener('click', () => { stopAuto(); goToSlide(i); startAuto(); }));
+    startAuto();
+
+    // ── Sign-up form ──
+    function handleSignup() {
+        const input = document.getElementById('email-input');
+        const email = input.value.trim();
+        if (!email || !email.includes('@')) {
+            input.style.borderColor = 'rgba(201,106,24,.55)';
+            input.style.boxShadow   = '0 0 0 3px rgba(240,168,50,.12)';
+            input.placeholder = 'Please enter a valid email…';
+            setTimeout(() => {
+                input.style.borderColor = '';
+                input.style.boxShadow   = '';
+                input.placeholder = 'Enter your email address…';
+            }, 2500);
+            return;
+        }
+        document.getElementById('form-container').style.display = 'none';
+        document.getElementById('success-state').classList.remove('hidden');
+    }
+</script>
+
+</body>
+</html>
