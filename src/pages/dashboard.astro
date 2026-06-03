@@ -229,7 +229,7 @@
                     <div class="br-inner absolute rounded-full" style="width:152px;height:152px;border:2px solid rgba(240,168,50,.65);"></div>
                     <div class="br-core  absolute rounded-full flex items-center justify-center"
                          style="width:96px;height:96px;background:radial-gradient(circle,rgba(240,168,50,.55) 0%,rgba(245,192,80,.25) 70%);border:1.5px solid rgba(220,140,40,.50);">
-                        <span style="font-size:1.8rem;">🫁</span>
+                        <i class="fa-solid fa-lungs" style="font-size:1.6rem;color:rgba(201,106,24,0.75);"></i>
                     </div>
                 </div>
 
@@ -311,13 +311,14 @@
                         <p id="focus-feedback-text" class="font-sans text-sm leading-relaxed" style="font-weight:300;color:var(--text);"></p>
                     </div>
 
-                    <div id="focus-continue" class="hidden mt-6 flex justify-center">
-                        <button onclick="showComplete()"
+                    <div id="focus-continue" class="hidden mt-6 flex flex-col items-center gap-3">
+                        <button onclick="tryAnotherPractice()"
                            class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full"
                            style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);cursor:pointer;transition:background .3s;"
                            onmouseover="this.style.background='rgba(240,168,50,.30)'" onmouseout="this.style.background='var(--accent-light)'">
-                            Continue →
+                            Try another practice →
                         </button>
+                        <a href="/plugin" class="font-sans" style="font-size:.72rem;font-weight:300;font-style:italic;color:rgba(138,96,48,.52);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.80)'" onmouseout="this.style.color='rgba(138,96,48,.52)'">Want to track your progress? Get the plugin</a>
                     </div>
                 </div>
             </div>
@@ -385,12 +386,13 @@
                     <div class="font-serif" style="font-size:2rem;color:rgba(192,120,56,.6);">✦</div>
                     <h3 class="font-serif" style="font-size:1.45rem;font-weight:500;color:var(--text);">Your mind is clear.</h3>
                     <p class="font-sans leading-relaxed" style="font-size:.85rem;font-weight:300;color:var(--text-muted);max-width:280px;">Those thoughts no longer own your attention. You chose presence.</p>
-                    <button onclick="showComplete()"
+                    <button onclick="tryAnotherPractice()"
                        class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full mt-2"
                        style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);cursor:pointer;transition:background .3s;"
                        onmouseover="this.style.background='rgba(240,168,50,.30)'" onmouseout="this.style.background='var(--accent-light)'">
-                        Continue →
+                        Try another practice →
                     </button>
+                    <a href="/plugin" class="font-sans" style="font-size:.72rem;font-weight:300;font-style:italic;color:rgba(138,96,48,.52);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.80)'" onmouseout="this.style.color='rgba(138,96,48,.52)'">Want to track your progress? Get the plugin</a>
                 </div>
 
             </div>
@@ -411,7 +413,7 @@
 
                 <div class="flex items-center gap-3 mb-4">
                     <div class="h-px w-8" style="background:rgba(220,140,40,.45);"></div>
-                    <span class="font-sans text-xs tracking-[.28em] uppercase" style="font-weight:300;color:rgba(180,100,20,.60);">Practice complete</span>
+                    <span class="font-sans text-xs tracking-[.28em] uppercase" style="font-weight:300;color:rgba(180,100,20,.60);">Session complete</span>
                     <div class="h-px w-8" style="background:rgba(220,140,40,.45);"></div>
                 </div>
 
@@ -419,7 +421,7 @@
                     You returned<br><em style="font-style:italic;color:#c96a18;">to yourself.</em>
                 </h1>
                 <p class="font-sans leading-relaxed" style="font-size:.88rem;font-weight:300;max-width:380px;color:rgba(138,96,48,.75);">
-                    That was a meaningful act of care. Your attention is worth protecting — not just today, but every time you open a new tab.
+                    That took intention. Your attention is worth protecting — not just today, but every time a new tab pulls you away.
                 </p>
             </div>
 
@@ -435,9 +437,9 @@
                  style="background:rgba(255,248,230,.65);border-color:rgba(220,140,40,.22);border-radius:24px;backdrop-filter:blur(4px);">
 
                 <div class="mb-6 text-center">
-                    <h2 class="font-serif mb-2" style="font-size:1.2rem;font-weight:500;color:#4a2c08;">Make this your default state</h2>
+                    <h2 class="font-serif mb-2" style="font-size:1.2rem;font-weight:500;color:#4a2c08;">Make this your new default</h2>
                     <p class="font-sans leading-relaxed" style="font-size:.82rem;font-weight:300;max-width:360px;margin:0 auto;color:rgba(138,96,48,.72);">
-                        Create a free account to automatically intercept distraction the next time you open a new tab.
+                        Save your progress and let the extension quietly replace your next distraction with this.
                     </p>
                 </div>
 
@@ -489,6 +491,13 @@
                     <div class="w-5 h-5 rounded-full flex-shrink-0 flex items-center justify-center" style="background:rgba(240,168,50,.15);border:1px solid rgba(220,140,40,.30);"><i class="fa-solid fa-check" style="font-size:.5rem;color:rgba(180,100,20,.80);"></i></div>
                     <span class="font-sans" style="font-size:.76rem;font-weight:300;color:rgba(138,96,48,.65);">Always free to start</span>
                 </div>
+            </div>
+
+            <!-- Plugin nudge -->
+            <div class="flex justify-center mb-5">
+                <a href="/plugin" class="font-sans" style="font-size:.78rem;font-weight:300;color:rgba(138,96,48,.60);text-decoration:underline;text-decoration-color:rgba(220,140,40,.35);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.90)'" onmouseout="this.style.color='rgba(138,96,48,.60)'">
+                    Want to track your progress? Get the plugin →
+                </a>
             </div>
 
             <!-- Skip -->
@@ -604,6 +613,12 @@
 const VIEWS = ['calm','focus','head'];
 let lastActiveView = 'calm';
 let activeView = 'calm';
+
+function tryAnotherPractice() {
+    const idx = VIEWS.indexOf(activeView);
+    const nextView = VIEWS[(idx + 1) % VIEWS.length];
+    switchView(nextView);
+}
 
 function switchView(key) {
     if (key === activeView) return;
@@ -822,6 +837,7 @@ function initHead() {
     aw.style.display = ''; aw.style.opacity = '1';
     const rw = document.getElementById('release-wrap');
     rw.classList.add('hidden');
+    rw.style.opacity = ''; rw.style.display = ''; rw.style.transition = '';
     const cs = document.getElementById('cleared-state');
     cs.classList.add('hidden'); cs.classList.remove('flex');
 }
