@@ -1,14 +1,16 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard — The Attention Sanctuary</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script is:inline src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-    <style>
+    <style is:global>
         *, *::before, *::after { box-sizing: border-box; }
         ::-webkit-scrollbar { display: none; }
 
@@ -124,7 +126,7 @@
             display:flex; align-items:center; justify-content:center; font-size:1.3rem;
         }
     </style>
-    <script>
+    <script is:inline>
         tailwind.config = {
             theme: { extend: {
                 fontFamily: { serif:['Lora','Georgia','serif'], sans:['Inter','system-ui','sans-serif'] }
@@ -140,9 +142,9 @@
     <header class="fu1 flex items-center justify-between px-10 pt-7 pb-5" style="border-bottom:1px solid var(--divider);">
         <span class="font-serif text-sm tracking-[.26em] uppercase italic" style="color:var(--text-muted); font-weight:400;">The Attention Sanctuary</span>
         <nav class="hidden md:flex items-center gap-8">
-            <a href="main.html" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--text-muted); text-decoration:none; transition:color .25s" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-muted)'">Home</a>
+            <a href="/" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--text-muted); text-decoration:none; transition:color .25s" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-muted)'">Home</a>
             <span class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:500; color:var(--accent); border-bottom:1.5px solid var(--accent); padding-bottom:2px;">Dashboard</span>
-            <a href="completed.html" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--text-muted); text-decoration:none; transition:color .25s" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-muted)'">Complete</a>
+            <a href="/complete" class="font-sans text-xs tracking-[.2em] uppercase" style="font-weight:300; color:var(--text-muted); text-decoration:none; transition:color .25s" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-muted)'">Complete</a>
         </nav>
     </header>
 
@@ -262,7 +264,7 @@
                     </div>
 
                     <div id="focus-continue" class="hidden mt-6 flex justify-center">
-                        <a href="completed.html"
+                        <a href="/complete"
                            class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full"
                            style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);text-decoration:none;transition:background .3s;"
                            onmouseover="this.style.background='rgba(192,120,56,.26)'" onmouseout="this.style.background='var(--accent-light)'">
@@ -335,7 +337,7 @@
                     <div class="font-serif" style="font-size:2rem;color:rgba(192,120,56,.6);">✦</div>
                     <h3 class="font-serif" style="font-size:1.45rem;font-weight:500;color:var(--text);">Your mind is clear.</h3>
                     <p class="font-sans leading-relaxed" style="font-size:.85rem;font-weight:300;color:var(--text-muted);max-width:280px;">Those thoughts no longer own your attention. You chose presence.</p>
-                    <a href="completed.html"
+                    <a href="/complete"
                        class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full mt-2"
                        style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);text-decoration:none;transition:background .3s;"
                        onmouseover="this.style.background='rgba(192,120,56,.26)'" onmouseout="this.style.background='var(--accent-light)'">
@@ -424,7 +426,7 @@
     </main>
 </div>
 
-<script>
+<script is:inline>
 // ─────────────────────────────────────────────
 //  VIEW SWITCHING
 // ─────────────────────────────────────────────
@@ -724,12 +726,6 @@ document.getElementById('thought-ta').addEventListener('keydown', e => {
 });
 </script>
 
-<script>
-(function(){
-    function blockEvent(e){if(!e)return false;if(typeof e.preventDefault==='function')e.preventDefault();if(typeof e.stopPropagation==='function')e.stopPropagation();if(typeof e.stopImmediatePropagation==='function')e.stopImmediatePropagation();return false;}
-    document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;if(a.getAttribute('href')&&(a.getAttribute('href').startsWith('main')|| a.getAttribute('href').startsWith('completed')||a.getAttribute('href').startsWith('game')))return;return blockEvent(e);},true);
-    try{window.open=function(){return null};}catch(_){}
-})();
-</script>
+
 </body>
 </html>
