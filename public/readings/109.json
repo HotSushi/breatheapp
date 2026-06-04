@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "In Book VI, Aurelius offers what reads like a protocol for redirecting scattered attention: \"Receive without pride; relinquish without struggle.\" The two halves address separate failure modes. Pride at acquisition attaches the mind to outcomes it cannot control; struggle at loss prolongs contact with what has already passed. Together, the instruction traces the exact shape of a present-moment practice: accept what arrives, release what departs, and in between — in that narrow corridor — exercise judgment. Aurelius is not describing passive resignation but a highly active form of attentional discipline.",
+  "question": "According to the passage, what does the \"relinquish without struggle\" half of Aurelius's instruction address?",
+  "options": [
+    { "text": "The pride that comes with acquiring power or status", "correct": false },
+    { "text": "Prolonged mental contact with what has already passed", "correct": true },
+    { "text": "The tendency to judge others rather than oneself", "correct": false },
+    { "text": "The danger of withdrawing from civic responsibility", "correct": false }
+  ]
+}

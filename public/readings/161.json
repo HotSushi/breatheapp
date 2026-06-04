@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "For Epictetus, the slave-turned-philosopher, virtue was not an ornament but the sole currency of a worthwhile life. Born into bondage, he argued that no external condition — poverty, illness, even chains — could diminish a person who had mastered their own judgments. He divided existence into two categories: what is 'up to us' (our opinions, impulses, desires) and what is not (the body, reputation, property). Only the first domain is the seat of virtue. To chase wealth, praise, or pleasure is to confuse the theatre's painted scenery for the stage itself — vivid, but not real.",
+  "question": "According to Epictetus, which domain is the seat of virtue?",
+  "options": [
+    { "text": "The body, because physical discipline produces moral strength", "correct": false },
+    { "text": "Reputation, because how others perceive us shapes our character", "correct": false },
+    { "text": "Our own opinions, impulses, and desires — what is 'up to us'", "correct": true },
+    { "text": "Wealth, because financial security frees us to act well", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Glucose became the early candidate for ego depletion's biological substrate. Studies found that performing demanding self-regulatory tasks lowered blood glucose, and that consuming a sugary drink appeared to restore performance on subsequent tasks. Baumeister and colleagues leaned on this as evidence that willpower literally ran on sugar. Later research complicated the picture — even rinsing the mouth with glucose, without swallowing, produced partial restoration — suggesting the effect might involve signaling rather than metabolic fuel alone. The glucose hypothesis remains contested, but it crystallized a crucial insight: cognitive effort has a physical cost that can be measured.",
+  "question": "According to the passage, what complicated the glucose hypothesis of ego depletion?",
+  "options": [
+    { "text": "Sugary drinks had no effect on restoring self-control performance.", "correct": false },
+    { "text": "Glucose was found to lower blood pressure rather than restore energy.", "correct": false },
+    { "text": "Rinsing the mouth with glucose without swallowing also partially restored performance.", "correct": true },
+    { "text": "Participants who consumed glucose performed worse on follow-up tasks.", "correct": false }
+  ]
+}

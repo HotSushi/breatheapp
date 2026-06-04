@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosophers distinguish two kinds of body knowledge: the objective body (Körper in German) studied by anatomy, and the lived body (Leib) experienced from within. Merleau-Ponty insisted phenomenology must begin from the Leib, because only through lived bodily experience does the world acquire meaning. A carpenter does not consciously calculate a hammer's weight — the tool becomes an extension of the body schema, felt through the nail rather than in the hand. This incorporation of objects is not metaphorical; neuroimaging studies confirm that tool use reshapes the neural representation of the arm's peripersonal space within minutes.",
+  "question": "What do neuroimaging studies reveal about tool use, according to the passage?",
+  "options": [
+    { "text": "Tool use gradually replaces proprioceptive signals from the arm over several weeks", "correct": false },
+    { "text": "Tool use activates memory regions associated with prior manual training", "correct": false },
+    { "text": "Tool use suppresses objective body feedback to allow concentrated focus", "correct": false },
+    { "text": "Tool use reshapes the neural representation of the arm's peripersonal space within minutes", "correct": true }
+  ]
+}

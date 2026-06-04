@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Psychologist William James wrote in 1890 that the ability to voluntarily bring back a wandering attention is the very root of judgment, character, and will. He believed such training was 'an education which would be the education par excellence.' James lacked the neuroimaging tools to prove his intuition, but he anticipated the modern science of attentional neuroplasticity by a century. Contemporary research has confirmed what he suspected: the neural circuit that notices mind-wandering and redirects attention — centering on the anterior cingulate cortex — strengthens with each repetition of that noticing, like a muscle responding to repeated contractions.",
+  "question": "According to the passage, which brain region strengthens when you notice mind-wandering and redirect attention?",
+  "options": [
+    { "text": "The amygdala, which regulates emotional responses to distraction", "correct": false },
+    { "text": "The hippocampus, responsible for encoding new memories during focus", "correct": false },
+    { "text": "The default mode network, which activates during mind-wandering", "correct": false },
+    { "text": "The anterior cingulate cortex, which centers the noticing-and-redirecting circuit", "correct": true }
+  ]
+}

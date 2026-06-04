@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Inhibitory control — the ability to suppress an automatic response in favor of a deliberate one — matures later than any other cognitive capacity, reaching full development only in the mid-twenties. The classic test is the Stroop task: reading the word RED printed in blue ink takes measurably longer than reading it in red, because the automatic response (reading the word) conflicts with the instructed response (naming the color). The prefrontal cortex must override the faster, habitual pathway. Daniel Kahneman framed this tension as System 1 versus System 2 thinking, but the underlying neuroscience is more specific: it is lateral PFC suppressing striatal habit circuits.",
+  "question": "In the Stroop task described in the passage, why does reading the word RED in blue ink take longer?",
+  "options": [
+    { "text": "The visual cortex struggles to separate color processing from word recognition", "correct": false },
+    { "text": "The anterior cingulate flags the conflict before the PFC can respond", "correct": false },
+    { "text": "The prefrontal cortex must override the faster, habitual reading pathway", "correct": true },
+    { "text": "Naming a color activates a separate neural region than reading a word", "correct": false }
+  ]
+}

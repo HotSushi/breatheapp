@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The experience of mind-wandering without awareness — what researchers call \"decoupled attention\" — represents a failure of the monitoring system rather than of attention itself. A landmark 2010 study by Killingsworth and Gilbert used smartphone sampling to interrupt people during daily life and ask what they were thinking. Nearly half the time, minds were elsewhere. More striking: people reported lower happiness during mind-wandering regardless of what they were doing, including pleasant activities. The crucial variable was not the task but whether the monitoring system had noticed the drift. Awareness of wandering, even mid-wander, partially restored both engagement and wellbeing.",
+  "question": "What did Killingsworth and Gilbert's 2010 study find about mind-wandering and happiness?",
+  "options": [
+    { "text": "People were happiest when performing pleasant tasks, regardless of mind-wandering", "correct": false },
+    { "text": "Mind-wandering caused lower happiness even during pleasant activities", "correct": true },
+    { "text": "Happiness depended primarily on the content of wandering thoughts", "correct": false },
+    { "text": "People who mind-wandered more reported higher creativity but lower happiness", "correct": false }
+  ]
+}

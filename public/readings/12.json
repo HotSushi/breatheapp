@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Executive function is not a single faculty but a family of them. Cognitive scientists group it into three core components: working memory, which holds information in mind while manipulating it; cognitive flexibility, which allows switching between tasks or mental sets; and inhibitory control, which suppresses prepotent but unhelpful responses. These three capacities are orchestrated largely by the prefrontal cortex and its connections to the anterior cingulate. What we casually call 'willpower' or 'focus' is in practice this triumvirate working in concert — and research by Adele Diamond shows they can be strengthened through deliberate training, particularly in childhood.",
+  "question": "According to cognitive scientists cited in the passage, which three components make up executive function?",
+  "options": [
+    { "text": "Attention, memory consolidation, and emotional regulation", "correct": false },
+    { "text": "Working memory, cognitive flexibility, and inhibitory control", "correct": true },
+    { "text": "Sustained attention, selective attention, and divided attention", "correct": false },
+    { "text": "Planning, sequencing, and task initiation", "correct": false }
+  ]
+}

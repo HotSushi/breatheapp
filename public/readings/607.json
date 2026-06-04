@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Not all flow states are equal in their productive yield. Csikszentmihalyi differentiated between autotelic experiences — activities intrinsically rewarding regardless of outcome — and instrumental flow, where absorption serves an external goal. A crossword puzzle and writing a proof both generate flow, but only the latter compounds into expertise. Newport's insight is that the conditions that produce deep work — structured time, clear goals, feedback loops — are precisely those that transform flow from pleasant experience into skill accumulation. Without structure, flow is episodic. With it, flow becomes the mechanism by which rare and valuable competence is built over years.",
+  "question": "According to the passage, what transforms flow from a pleasant experience into a mechanism for building expertise?",
+  "options": [
+    { "text": "Choosing tasks that are intrinsically rewarding rather than externally motivated", "correct": false },
+    { "text": "Working in physical environments specifically designed to minimize interruption", "correct": false },
+    { "text": "Structured time, clear goals, and feedback loops applied to the flow experience", "correct": true },
+    { "text": "Increasing the duration of each flow session until it exceeds two hours", "correct": false }
+  ]
+}

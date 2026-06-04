@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Clear goals and immediate feedback are structural prerequisites of flow — a point Csikszentmihalyi emphasized but that is often overlooked in popular accounts. The surgeon knows at each moment whether the incision is correct. The chess player sees the board change in response to every move. The jazz musician hears in real time whether a phrase lands. These tight feedback loops allow the brain to continuously recalibrate action without conscious deliberation. Tasks that lack clear goals or delay feedback — bureaucratic work, long-horizon projects, ambiguous creative endeavors — are structurally resistant to flow. This explains why writers often describe flow only in revision, not in drafting: editing provides the tight feedback that drafting withholds.",
+  "question": "According to the passage, why do writers often experience flow during revision rather than drafting?",
+  "options": [
+    { "text": "Revision requires less cognitive effort, freeing mental resources for absorption", "correct": false },
+    { "text": "Drafting involves anxiety about originality that blocks the flow state", "correct": false },
+    { "text": "Editing provides the tight feedback loops that drafting withholds", "correct": true },
+    { "text": "Writers have higher skill levels during revision due to accumulated practice", "correct": false }
+  ]
+}

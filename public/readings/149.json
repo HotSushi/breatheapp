@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Stoic physics held that logos permeates matter the way heat permeates iron — not as a separate substance but as an animating principle inseparable from the thing itself. This had a surprising consequence for ethics: because logos is everywhere, reality is always signaling. The question is never whether a signal is present but whether the mind is calibrated to receive it. Marcus Aurelius described this as seeing things 'as they actually are, stripped of the stories we attach to them.' What modern psychologists call cognitive defusion — separating the raw fact from the narrative overlay — the Stoics treated as the foundational act of rational life.",
+  "question": "According to the passage, what question did the Stoics say was never relevant about signals in reality?",
+  "options": [
+    { "text": "Whether a signal deserves a rational response", "correct": false },
+    { "text": "Whether a signal is present at all", "correct": true },
+    { "text": "Whether a signal comes from logos or from chance", "correct": false },
+    { "text": "Whether a signal can be expressed in language", "correct": false }
+  ]
+}

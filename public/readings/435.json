@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In the early days of email, researchers at IBM observed that the average response time to a message was around two days. By 2019, tracking studies showed the median reply arrived within ninety seconds of receipt. This compression did not happen because senders demanded faster replies; it happened because the medium itself, by making instant response frictionless, created a new social norm. Historian Joanne McNeil calls this 'ratchet pressure': once a faster response is possible, the slower one becomes a slight, and politeness compels the upgrade. The result is a communication culture that has optimized for speed at the expense of substance.",
+  "question": "According to the passage, what mechanism drove the shift from two-day to ninety-second email response times?",
+  "options": [
+    { "text": "Corporate policies mandating faster customer service response windows", "correct": false },
+    { "text": "The frictionlessness of instant reply creating a social norm that made slower responses feel rude", "correct": true },
+    { "text": "Senders explicitly requesting faster replies in their messages", "correct": false },
+    { "text": "Smartphone notifications trained users to associate speed with professionalism", "correct": false }
+  ]
+}

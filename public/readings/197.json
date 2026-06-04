@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The evening reflection Seneca describes in De Ira is framed as a trial. He casts himself as both judge and defendant, listing charges: he spoke too bluntly at the dinner, he drank more than he should, he allowed a friend's complaint to go unanswered. The courtroom metaphor is not incidental — Stoic ethics grounds virtue in rational accountability. What you cannot articulate to yourself, you cannot correct. The philosopher and classicist Brad Inwood has argued that Seneca's self-interrogation is the ancient world's clearest precursor to what we now call reflective equilibrium — the process of revising principles in light of specific judgments, and judgments in light of principles.",
+  "question": "What does classicist Brad Inwood identify as the ancient precursor to 'reflective equilibrium' in Seneca's writing?",
+  "options": [
+    { "text": "Seneca's use of the Pythagorean evening verse", "correct": false },
+    { "text": "Seneca's doctrine of indifferents", "correct": false },
+    { "text": "Seneca's courtroom-style self-interrogation", "correct": true },
+    { "text": "Seneca's letters to Lucilius on virtue", "correct": false }
+  ]
+}

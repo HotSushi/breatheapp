@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When Aristotle describes the flourishing life in the Nicomachean Ethics, he uses the word bios — a life as a whole, shaped into a coherent form. A bios is not a sequence of pleasant moments but a narrative with integrity, where early choices constrain and enable later ones. This temporal dimension of eudaimonia has a direct bearing on attention: what we practice attending to now determines what kind of life we can construct over years. Philosopher Charles Taylor, drawing on Aristotle, calls this the 'strong evaluation' that separates a meaningful life from mere preference satisfaction.",
+  "question": "According to the passage, what does Aristotle's concept of bios add to the idea of flourishing?",
+  "options": [
+    { "text": "It emphasizes that each day should contain an equal balance of work and leisure.", "correct": false },
+    { "text": "It grounds eudaimonia in immediate pleasant experiences rather than long-term outcomes.", "correct": false },
+    { "text": "It shifts focus from individual moments to a coherent life-narrative where early choices shape later ones.", "correct": true },
+    { "text": "It introduces Charles Taylor's distinction between preference satisfaction and moral obligation.", "correct": false }
+  ]
+}

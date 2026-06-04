@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "William James wrote in 1890 that 'the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will.' He was describing a capacity that neuroscience would later locate in the prefrontal cortex — specifically in the anterior cingulate, which monitors for attentional lapses and issues corrective signals. What James could not foresee was that this corrective mechanism depends on a relatively low-cortisol, low-norepinephrine neurochemical environment to operate. The wandering attention he urged us to reclaim is not a moral failure; it is, in part, the brain faithfully reporting the state of its own stress chemistry.",
+  "question": "Where did neuroscience later locate the capacity William James described as 'voluntarily bringing back a wandering attention'?",
+  "options": [
+    { "text": "The hippocampus, which stores attentional templates", "correct": false },
+    { "text": "The cerebellum, which coordinates cognitive timing", "correct": false },
+    { "text": "The prefrontal cortex, specifically the anterior cingulate", "correct": true },
+    { "text": "The locus coeruleus, which broadcasts alerting signals", "correct": false }
+  ]
+}

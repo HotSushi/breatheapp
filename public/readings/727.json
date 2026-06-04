@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In adolescence, synaptic pruning reaches its most dramatic pitch. The prefrontal cortex — the seat of planning, impulse control, and judgment — undergoes extensive restructuring between the ages of twelve and twenty-five, a process that depends critically on adequate sleep. Neuroscientist Sarah-Jayne Blakemore has documented how this period of pruning sharpens the signal-to-noise ratio of the adolescent brain, eliminating unused connections while strengthening those that are exercised. Chronic sleep restriction during this window does not merely impair performance in the short term; it may permanently alter the architecture of a brain still under construction, with consequences that persist into adulthood.",
+  "question": "According to the passage, why is sleep deprivation in adolescence more consequential than in adulthood?",
+  "options": [
+    { "text": "Adolescents produce more cortisol during wakefulness, accelerating synaptic degradation", "correct": false },
+    { "text": "The adolescent brain requires more total sleep hours to sustain basic metabolic function", "correct": false },
+    { "text": "Sleep loss in adolescence may permanently alter brain architecture still under active construction", "correct": true },
+    { "text": "The hippocampus does not consolidate memories effectively until the prefrontal cortex is fully myelinated", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Each morning in a Zen monastery, practitioners engage in a simple ritual: they wash their bowl as if they have never washed a bowl before. This is not performance. It is a structured practice of approaching the familiar as strange — what phenomenologists call 'defamiliarization' and what Viktor Shklovsky described as the purpose of art: 'to make objects unfamiliar, to make forms difficult, to increase the difficulty and length of perception.' Shoshin applies the same logic to daily life. The mundane — a bowl, a breath, a doorway — becomes the training ground. When the ordinary ceases to be ordinary, attention is no longer rationed. It arrives in full.",
+  "question": "According to the passage, what did Viktor Shklovsky identify as the purpose of art?",
+  "options": [
+    { "text": "To create beauty from ordinary materials through skilled craftsmanship.", "correct": false },
+    { "text": "To preserve cultural memory by transforming familiar experiences into ritual.", "correct": false },
+    { "text": "To establish a philosophical foundation for Zen monastic practice.", "correct": false },
+    { "text": "To make objects unfamiliar and increase the difficulty and length of perception.", "correct": true }
+  ]
+}

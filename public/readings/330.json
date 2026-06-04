@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "One of the most consequential applications of the willpower-as-resource model concerns habit formation. Charles Duhigg, drawing on MIT neuroscience, argues that habits exist precisely to spare executive resources: once a behavior is encoded in the basal ganglia as a cue-routine-reward loop, it no longer requires deliberate initiation. The prefrontal cortex is essentially bypassed. This is why highly structured people often appear to have more willpower — they have offloaded recurring decisions to habit, keeping their executive reserves intact for genuinely novel demands. The implication is architectural: willpower management is less about summoning strength in the moment and more about designing an environment where strength is rarely needed.",
+  "question": "According to the passage, why do highly structured people often appear to have more willpower?",
+  "options": [
+    { "text": "They have biologically stronger prefrontal cortices.", "correct": false },
+    { "text": "They have offloaded recurring decisions to habit, preserving executive reserves.", "correct": true },
+    { "text": "They consume more glucose throughout the day to maintain cognitive performance.", "correct": false },
+    { "text": "They deliberately practice resisting temptation to strengthen willpower over time.", "correct": false }
+  ]
+}

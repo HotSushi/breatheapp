@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In the Satipatthana Sutta, the Buddha outlines four foundations of mindfulness: body, feeling-tone, mind-states, and mental objects. The second foundation — vedana, or feeling-tone — is among the subtlest. Every sensation, the teaching holds, arrives pre-tagged as pleasant, unpleasant, or neutral. This micro-valence, faster than conscious thought, is what drives craving and aversion before the rational mind can intervene. Vipassana practice makes vedana visible: the practitioner learns to catch the half-second gap between sensation and reactivity, seeing the tag before it triggers behavior. Neuroscientist Antonio Damasio's somatic marker hypothesis offers a striking parallel, suggesting that the body emotionally pre-labels experience to guide decision-making.",
+  "question": "According to the passage, why is vedana considered particularly important in vipassana practice?",
+  "options": [
+    {
+      "text": "It reveals the micro-valence that drives craving and aversion before rational thought can intervene",
+      "correct": true
+    },
+    {
+      "text": "It is the foundation the Buddha considered most essential of the four",
+      "correct": false
+    },
+    {
+      "text": "It describes the four types of consciousness classified in the Abhidhamma",
+      "correct": false
+    },
+    {
+      "text": "It provides a parallel to Antonio Damasio's research on emotional memory",
+      "correct": false
+    }
+  ]
+}

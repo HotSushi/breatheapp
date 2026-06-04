@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The London taxi driver studies, led by Eleanor Maguire at University College London, offered some of the most vivid proof of adult neuroplasticity. Drivers who had spent years navigating the city's labyrinthine streets showed enlarged posterior hippocampi — the region used for spatial navigation — compared to non-drivers. Crucially, the enlargement grew larger with more years of driving experience. Though the hippocampus is most associated with memory, the underlying principle applies to any cognitive faculty: sustained, effortful use of a mental capacity reshapes the tissue that supports it. Attention, like navigation, is a trainable geography.",
+  "question": "What happened to the posterior hippocampi of London taxi drivers over time?",
+  "options": [
+    { "text": "They shrank as automatic navigation reduced the need for active spatial processing", "correct": false },
+    { "text": "They became enlarged, with greater enlargement correlating with more years of driving", "correct": true },
+    { "text": "They showed no change, as hippocampal volume is genetically fixed", "correct": false },
+    { "text": "They expanded only in drivers who also practiced meditation", "correct": false }
+  ]
+}

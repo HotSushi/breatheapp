@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The Hungarian word for 'flow' in Csikszentmihalyi's native tongue is áramlás — a streaming, a current carrying you forward. He chose the English word 'flow' after interviewing rock climbers who spontaneously used it to describe their experience: movement without effort, as though the climb itself were doing the climbing. This metaphor reveals something important. Flow is not characterized by trying harder but by a kind of effortful ease — full engagement without the friction of self-consciousness. The climber is not pushing against the rock; the climber and the rock have, for a time, become a single system responding to gravity.",
+  "question": "According to the passage, how did Csikszentmihalyi arrive at the word 'flow' for his theory?",
+  "options": [
+    { "text": "He translated the Hungarian word áramlás directly into English.", "correct": false },
+    { "text": "He chose it to describe the smooth, continuous nature of deep concentration.", "correct": false },
+    { "text": "Rock climbers he interviewed spontaneously used the word to describe their experience.", "correct": true },
+    { "text": "It was suggested by his research team as a contrast to the term 'stagnation.'", "correct": false }
+  ]
+}

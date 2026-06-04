@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The Roman philosopher Seneca warned that a life scattered across obligations is a life unlived: 'Omnia aliena sunt; tempus tantum nostrum est' — everything else belongs to others, only time is truly ours. Two thousand years later, tech ethicist Tristan Harris rephrased the same concern in behavioral terms: every notification is a tiny seizure of agency, a moment when the product's agenda displaces the user's own. The cumulative architecture of always-on platforms is therefore not simply distracting; it is, in Seneca's sense, a systematic form of dispossession, redistributing the user's hours toward ends they never consciously chose.",
+  "question": "How does the passage connect Seneca's philosophy to Tristan Harris's critique of notifications?",
+  "options": [
+    { "text": "Both argue that distraction is primarily a personal failure of willpower", "correct": false },
+    { "text": "Both see the seizure of attention as a form of dispossession — redistributing one's time toward ends one never chose", "correct": true },
+    { "text": "Both propose that disconnecting from technology restores philosophical clarity", "correct": false },
+    { "text": "Seneca anticipated the concept of variable reward schedules that Harris later studied", "correct": false }
+  ]
+}

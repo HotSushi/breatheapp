@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James wrote in 1890 that 'the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will.' He understood attention as a selecting force — consciousness, he argued, is not a passive mirror of the world but an active editor. What we attend to constitutes, in a real sense, what we experience. Fragmented attention therefore does not merely reduce productivity; it fragments the self. A mind perpetually pulled between inputs never fully inhabits any of them, producing a kind of experiential poverty despite apparent busyness.",
+  "question": "According to William James, what does voluntarily returning a wandering attention represent?",
+  "options": [
+    { "text": "The root of judgment, character, and will.", "correct": true },
+    { "text": "A compensatory mechanism for low working memory capacity.", "correct": false },
+    { "text": "A sign of hyperfocus that can become pathological.", "correct": false },
+    { "text": "An automatic reflex that cannot be trained or cultivated.", "correct": false }
+  ]
+}

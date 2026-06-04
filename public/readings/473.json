@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Former Google design ethicist Tristan Harris introduced the concept of attention hijacking — the deliberate engineering of products to capture and hold human attention against its owner's interests. Harris drew on behavioral psychology to show that platforms deploy variable-reward schedules, the same mechanism that makes slot machines compelling, through features like the pull-to-refresh gesture and unpredictable notification timing. The phone, he argued, is not a neutral tool any more than a casino is a neutral room. The asymmetry is stark: thousands of engineers optimize endlessly against one person's willpower, and willpower, unlike software, cannot be updated.",
+  "question": "What psychological mechanism does Harris say platforms exploit through features like pull-to-refresh?",
+  "options": [
+    { "text": "Classical conditioning through consistent positive reinforcement", "correct": false },
+    { "text": "Loss aversion triggered by notification badges", "correct": false },
+    { "text": "Variable-reward schedules, the same mechanism behind slot machines", "correct": true },
+    { "text": "Social proof cues that make users feel left out if offline", "correct": false }
+  ]
+}

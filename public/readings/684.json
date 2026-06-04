@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Ernest Hemingway famously stopped writing mid-sentence each day — not at a natural pause but at a point of momentum, knowing exactly what the next sentence would be. His shutdown ritual was built into the act of writing itself: ending before the well ran dry meant the next morning's session began with traction rather than the dread of a blank page. This technique encodes a form of prospective memory, a mental bookmark that dissolves the overnight gap. The unfinished sentence is an open loop held deliberately, cueing re-entry. What Hemingway intuited, cognitive science now confirms: a vivid next-action makes resumption nearly effortless.",
+  "question": "According to the passage, what cognitive function does Hemingway's mid-sentence stopping technique serve?",
+  "options": [
+    { "text": "It prevents writer's block by exhausting creative output before rest", "correct": false },
+    { "text": "It encodes a prospective memory that makes resuming work the next morning nearly effortless", "correct": true },
+    { "text": "It trains the brain to maintain flow states across multiple sleep cycles", "correct": false },
+    { "text": "It reduces anxiety by signaling the completion of each writing session", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Tristan Harris, a former Google design ethicist, gave the slot-machine metaphor its most influential popular articulation: the smartphone is a slot machine in your pocket. But the metaphor cuts deeper than aesthetics. Pull-to-refresh — the gesture that reloads a social feed — was deliberately modeled on the slot-machine lever by Loren Brichter, who invented it for Tweetie in 2009. The mechanical similarity is not coincidental; it exploits the same dopaminergic loop. Each downward pull introduces a moment of genuine uncertainty about what will load next, and that uncertainty, however brief, is enough to sustain the behavioral loop that Skinner documented in 1957.",
+  "question": "Who invented the pull-to-refresh gesture, and what was its behavioral model?",
+  "options": [
+    { "text": "Tristan Harris, modeling it on the unpredictability of email inboxes", "correct": false },
+    { "text": "Loren Brichter, deliberately modeling it on the slot-machine lever", "correct": true },
+    { "text": "Engineers at Twitter, drawing on Skinner's lever-press experiments directly", "correct": false },
+    { "text": "Loren Brichter, based on user research showing people preferred physical gestures", "correct": false }
+  ]
+}

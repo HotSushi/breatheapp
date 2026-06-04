@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Interoceptive training changes the brain structurally. Sara Lazar at Harvard demonstrated that long-term meditators have significantly thicker cortex in the right anterior insula and right prefrontal cortex compared to age-matched controls — regions directly implicated in attention and body awareness. Crucially, insula thickness correlated with meditation experience in years, suggesting a dose-response relationship. This is not mere relaxation shaping the brain; it is the repeated act of attending to inner body states carving new architecture. The insula grows where attention is placed. It is, in this sense, the most literal possible demonstration that attention is not just a function of the brain but a force that shapes it.",
+  "question": "What correlation did Sara Lazar's research find between meditation experience and brain structure?",
+  "options": [
+    { "text": "More years of meditation correlated with reduced amygdala volume, indicating lower stress reactivity", "correct": false },
+    { "text": "Meditators showed wider corpus callosum, improving communication between hemispheres", "correct": false },
+    { "text": "Meditators had increased prefrontal gray matter density, improving working memory capacity", "correct": false },
+    { "text": "Insula cortical thickness correlated with years of meditation experience in a dose-response relationship", "correct": true }
+  ]
+}

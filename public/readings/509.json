@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "One of Aristotle's most vivid arguments for sustained engagement comes from his analysis of pleasure in Book X of the Nicomachean Ethics. He observes that pleasure does not accompany an activity from outside, like a coating applied after the fact, but arises from within the activity itself when it is performed well. A musician who plays beautifully experiences pleasure inherent in the playing. This means that the deepest satisfactions are structurally inaccessible to those who disengage before mastery — the pleasure lives inside the difficulty, not beyond it. Shortcuts to stimulation, by this logic, forfeit the richest rewards.",
+  "question": "According to Aristotle's analysis in Book X, where does genuine pleasure reside in an activity?",
+  "options": [
+    { "text": "Pleasure accompanies an activity from outside, like recognition or reward received after completion.", "correct": false },
+    { "text": "Pleasure arises from within the activity itself when it is performed with skill and full engagement.", "correct": true },
+    { "text": "Pleasure is greatest at the beginning of an activity, before the difficulty becomes apparent.", "correct": false },
+    { "text": "Pleasure in skilled activity is a form of hedone that Aristotle ranked below theoria.", "correct": false }
+  ]
+}

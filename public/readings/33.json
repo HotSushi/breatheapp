@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In the late 1970s, cognitive psychologist Adriaan de Groot studied chess masters and found they didn't calculate more moves than novices — they perceived the board differently. Masters saw meaningful constellations of pieces, not individual pawns. This is chunking: the cognitive process by which familiar patterns are compressed into single units in working memory. Where a novice holds eight separate pieces, a master holds one chunk called 'a kingside attack.' Herbert Simon estimated that grandmasters carry roughly 50,000 such patterns, each stored in long-term memory and retrieved as a single unit, effectively sidestepping the four-item limit.",
+  "question": "What did de Groot's research on chess masters reveal about their cognitive strategy?",
+  "options": [
+    { "text": "They calculated several more moves ahead than novices could manage", "correct": false },
+    { "text": "They perceived meaningful patterns as single chunks rather than individual pieces", "correct": true },
+    { "text": "They relied on intuition rather than memory or pattern recognition", "correct": false },
+    { "text": "They stored information in working memory more efficiently than novices", "correct": false }
+  ]
+}

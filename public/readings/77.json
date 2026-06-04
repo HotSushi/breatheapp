@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In phenomenological philosophy, Edmund Husserl distinguished between the 'living body' (Leib) \u2014 experienced from within \u2014 and the 'objective body' (K\u00f6rper) \u2014 observed from outside. Neuroscience has since mapped this distinction onto distinct cortical circuits. The insula and anterior cingulate process Leib-like signals: ownership, effort, warmth, the sense that this body is mine. Proprioceptive and visual cortices process K\u00f6rper-like signals: shape, position, movement in space. Attention-training traditions that anchor awareness in breath or heartbeat operate in the Leib domain. They do not merely calm the body; they relocate the attentional center of gravity from abstract thought to inhabited presence.",
+  "question": "According to the passage, what is the key distinction between the cortical circuits processing Leib and those processing K\u00f6rper?",
+  "options": [
+    {
+      "text": "Leib circuits involve the insula and cingulate processing ownership and inner felt experience; K\u00f6rper circuits involve position and movement in space",
+      "correct": true
+    },
+    {
+      "text": "Leib circuits process voluntary movement; K\u00f6rper circuits process involuntary sensation",
+      "correct": false
+    },
+    {
+      "text": "Leib circuits are older evolutionarily; K\u00f6rper circuits are uniquely human cortical developments",
+      "correct": false
+    },
+    {
+      "text": "Leib circuits require conscious effort to activate; K\u00f6rper circuits operate entirely below awareness",
+      "correct": false
+    }
+  ]
+}

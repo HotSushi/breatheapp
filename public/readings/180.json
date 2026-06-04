@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Contemporary attention researchers have found in Chrysippus an unlikely ally. The psychologist Jonathan Schooler coined the term 'meta-awareness' for the capacity to notice one is having a thought without being captured by it — the fleeting observer that can watch a craving arise and choose not to follow it. This maps precisely onto what Chrysippus called the rational soul's relationship to impressions: perceiving without yet endorsing. Cognitive neuroscientist Antoine Lutz found that trained meditators show stronger activation in areas associated with monitoring and inhibiting response when irrelevant stimuli appear. Chrysippus had no fMRI, but he had identified the architecture: impression, then — crucially — a gap.",
+  "question": "What does Jonathan Schooler's concept of 'meta-awareness' correspond to in Chrysippean philosophy?",
+  "options": [
+    { "text": "The kataleptic impression that accurately represents an external fact", "correct": false },
+    { "text": "The capacity to perceive an impression without yet endorsing or acting on it", "correct": true },
+    { "text": "The trained habit of recalling past errors before making new judgments", "correct": false },
+    { "text": "The propatheiai — involuntary first reactions that precede conscious choice", "correct": false }
+  ]
+}

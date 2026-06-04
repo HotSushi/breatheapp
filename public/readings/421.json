@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Aza Raskin, who designed infinite scroll while at Mozilla in 2006, later calculated that his invention costs humanity roughly 200,000 hours of attention every day. The mechanism is deceptively simple: by removing the natural pause of pagination — the moment a user decides whether to continue — the interface eliminates the decision point entirely. Psychologists call this 'default continuance': when stopping requires effort and continuing requires none, most people continue. Raskin eventually apologized publicly for the design, comparing it to building a slot machine into every website. He became a co-founder of the Center for Humane Technology.",
+  "question": "What psychological mechanism does infinite scroll exploit, according to the passage?",
+  "options": [
+    { "text": "Variable reward schedules that trigger dopamine release", "correct": false },
+    { "text": "Social comparison bias that makes users seek external validation", "correct": false },
+    { "text": "Default continuance, where stopping requires effort while continuing requires none", "correct": true },
+    { "text": "Loss aversion, which makes users fear missing new content", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Psychologist Mihaly Csikszentmihalyi identified a precise condition for flow: the challenge of a task must slightly exceed the performer's current skill level. Too easy, and attention wanders into boredom. Too hard, and anxiety breaks concentration. This Goldilocks ratio is not accidental — it can be engineered into a workspace. Designers of high-performance environments use it deliberately: adjusting task complexity, limiting available time, or increasing stakes just enough to keep the nervous system alert without triggering threat responses. The environment is not a backdrop; it is an active participant in regulating the difficulty gradient.",
+  "question": "According to the passage, what happens when a task is too easy?",
+  "options": [
+    { "text": "Anxiety increases and the threat response is triggered", "correct": false },
+    { "text": "Flow deepens because the person feels competent and confident", "correct": false },
+    { "text": "Attention wanders into boredom", "correct": true },
+    { "text": "The prefrontal cortex compensates by increasing processing speed", "correct": false }
+  ]
+}

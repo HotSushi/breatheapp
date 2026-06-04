@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca wrote to his friend Lucilius about what he called the 'loss of time' — the peculiar way distraction erodes a life without leaving visible marks. 'Omnia aliena sunt, tempus tantum nostrum est,' he wrote: everything is alien to us; time alone is ours. Yet people give away hours to spectacles, gossip, and idle visits as freely as if they had an infinite supply. Seneca was not condemning pleasure but the unconscious surrender of attention — the way we reach the end of a day having been perpetually occupied and yet having pursued nothing of real worth.",
+  "question": "What did Seneca identify as the only thing truly belonging to us?",
+  "options": [
+    { "text": "Virtue, which cannot be taken by force", "correct": false },
+    { "text": "Reason, the divine spark within each person", "correct": false },
+    { "text": "Friendship, built through deliberate choice", "correct": false },
+    { "text": "Time, which all other things are alien to", "correct": true }
+  ]
+}

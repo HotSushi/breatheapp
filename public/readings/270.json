@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The integration of all eight path factors is captured in the Pali concept of bhavana — mental cultivation or development. Bhavana is not practice in the performance sense but in the agricultural sense: preparing conditions for something to grow. Vietnamese teacher Thich Nhat Hanh extended this metaphor by describing the mind as a garden where both flowers and weeds are watered by attention. Right Effort determines what you water; Right Mindfulness determines that you see clearly what is there. Neuroscientist Richard Davidson's longitudinal studies at the University of Wisconsin found that sustained bhavana measurably thickens the prefrontal cortex, the region governing deliberate attention and emotional regulation.",
+  "question": "According to the passage, what is the agricultural sense of bhavana that Thich Nhat Hanh draws upon?",
+  "options": [
+    { "text": "Harvesting the fruits of insight after a period of concentrated effort", "correct": false },
+    { "text": "Weeding out unwholesome thoughts through disciplined daily practice", "correct": false },
+    { "text": "Preparing conditions for something to grow, rather than performing a technique", "correct": true },
+    { "text": "Watering all mental states equally to develop unconditional equanimity", "correct": false }
+  ]
+}

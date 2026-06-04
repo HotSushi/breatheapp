@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The German Romantic poet Friedrich Schiller famously kept rotting apples in his desk drawer, claiming the smell stimulated his creative thinking. While the mechanism he imagined was fanciful, contemporary research on environmental priming suggests he was onto something real. Studies by Ravi Mehta and colleagues found that ambient noise at moderate levels — around 70 decibels — enhances creative cognition by inducing a mild state of diffuse attention. The critical insight is that creativity is not maximized by optimal focus but by the right kind of unfocus: enough looseness in attention to allow unlikely connections, but enough engagement to act on them.",
+  "question": "According to the passage, at approximately what noise level does research suggest creative cognition is enhanced?",
+  "options": [
+    { "text": "30 decibels — near silence", "correct": false },
+    { "text": "50 decibels — quiet conversation level", "correct": false },
+    { "text": "90 decibels — loud background noise", "correct": false },
+    { "text": "70 decibels — moderate ambient noise", "correct": true }
+  ]
+}

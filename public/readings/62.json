@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Sophie Leroy's concept of \"attention residue\" explains why interrupted work feels so hard to resume. When you leave a task unfinished, a portion of your working memory continues processing it in the background, even as you attempt to engage with something new. In her 2009 studies, participants who switched away from an incomplete task showed significantly lower performance on subsequent work compared to those who had finished cleanly. The incomplete task kept pulling cognitive resources back, like an unsaved file still consuming RAM. Closure, it turns out, is not merely emotional — it is neurologically necessary for efficient attention.",
+  "question": "What does Sophie Leroy's research show about leaving a task unfinished before switching?",
+  "options": [
+    { "text": "It improves creativity by allowing unconscious processing", "correct": false },
+    { "text": "It has no measurable effect on subsequent task performance", "correct": false },
+    { "text": "It causes significantly lower performance on the next task", "correct": true },
+    { "text": "It reduces stress by distributing cognitive load", "correct": false }
+  ]
+}

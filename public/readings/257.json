@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Zen concept of jishin — self-compassion — appears in Dogen's thirteenth-century Shobogenzo in a striking formulation: 'To study the Buddha way is to study the self; to study the self is to forget the self.' What looks like a contradiction resolves when we understand that genuine self-compassion is not self-indulgence but the cessation of self-attack. When we stop the relentless internal monologue of inadequacy, the self loosens its grip — we forget it in the sense of no longer being consumed by it. The anxious phone-check, researchers note, is often not boredom but the self seeking external validation to quiet that same internal critic.",
+  "question": "According to the passage, what does the Zen concept of 'forgetting the self' actually mean in practice?",
+  "options": [
+    { "text": "Achieving ego dissolution through advanced koan practice.", "correct": false },
+    { "text": "Ceasing self-attack so completely that the self no longer consumes awareness.", "correct": true },
+    { "text": "Studying Buddhist texts until personal identity becomes fluid.", "correct": false },
+    { "text": "Replacing self-concern with concern for the sangha, or community.", "correct": false }
+  ]
+}

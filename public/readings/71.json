@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The insula, a cortical region folded deep within the lateral sulcus, was long dismissed as a relay station. Neuroscientist A.D. Craig reframed it entirely: the posterior insula receives raw signals from the body's interior \u2014 temperature, pain, itch, heartbeat \u2014 while the anterior insula integrates these into a felt sense of the present moment. Craig called this the neural substrate of 'the material me.' When you feel your breath without labeling it, you are activating precisely this circuit. The insula does not narrate; it renders. It converts physiological fact into subjective presence, making the body the mind's most reliable anchor to now.",
+  "question": "According to the passage, what does A.D. Craig identify as the function of the anterior insula?",
+  "options": [
+    {
+      "text": "Integrating raw bodily signals into a felt sense of the present moment",
+      "correct": true
+    },
+    {
+      "text": "Relaying pain signals from the spinal cord to the motor cortex",
+      "correct": false
+    },
+    {
+      "text": "Filtering external sensory input before it reaches consciousness",
+      "correct": false
+    },
+    {
+      "text": "Storing autobiographical memories associated with physical sensation",
+      "correct": false
+    }
+  ]
+}

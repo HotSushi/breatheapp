@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Exercise is a potent circadian anchor, but its timing determines whether it advances or delays the clock. A 2019 analysis in the Journal of Physiology found that exercise at 7 a.m. or between 1 and 4 p.m. consistently advanced the circadian phase — making it easier to wake earlier. Evening exercise, between 7 and 10 p.m., delayed the clock. The mechanism involves temperature: vigorous exercise raises core body temperature, and the circadian system interprets falling temperature as an evening cue. Exercising late keeps temperature elevated precisely when the body expects it to drop, postponing the transition into sleep readiness.",
+  "question": "According to the passage, why does late evening exercise delay the circadian clock?",
+  "options": [
+    { "text": "It suppresses melatonin production through muscle activation", "correct": false },
+    { "text": "It keeps core body temperature elevated when the body expects it to drop", "correct": true },
+    { "text": "It stimulates cortisol release that overrides evening wind-down signals", "correct": false },
+    { "text": "It advances the circadian phase beyond the body's recovery capacity", "correct": false }
+  ]
+}

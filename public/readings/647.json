@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The 'attention residue' phenomenon, identified by business school professor Sophie Leroy, explains why even completed tasks can impair focus on what follows. When you switch from Task A to Task B, part of your cognitive bandwidth remains allocated to Task A — rehearsing unresolved threads, reviewing what was left undone. Leroy found that people with high attention residue performed significantly worse on demanding cognitive tasks. The implication is counterintuitive: finishing one thing cleanly before starting another is not a nicety of organization but a prerequisite for full cognitive engagement with whatever comes next.",
+  "question": "What did Leroy find about people with high attention residue when completing demanding cognitive tasks?",
+  "options": [
+    { "text": "They made more creative connections between unfinished and new tasks", "correct": false },
+    { "text": "They performed significantly worse than those with low attention residue", "correct": true },
+    { "text": "They were more likely to abandon new tasks before completion", "correct": false },
+    { "text": "They took longer to start new tasks but performed equally well once engaged", "correct": false }
+  ]
+}

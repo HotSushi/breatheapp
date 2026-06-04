@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Zen teacher Shunryu Suzuki described beginner's mind as the condition in which sati is most naturally at work: a mind that has not pre-classified what it encounters cannot sleepwalk through experience. But neurologically, habituated perception is efficient — the brain builds predictive models precisely to avoid attending to the familiar. Continuous recollection is therefore not a relaxed state but an act of metabolic generosity, requiring the prefrontal cortex to keep overriding the brain's energy-saving defaults. This is why Suzuki called it a practice rather than a method: the effort must be renewed moment to moment.",
+  "question": "Why does the passage characterize continuous recollection as 'an act of metabolic generosity'?",
+  "options": [
+    { "text": "Because it demands that practitioners slow down and breathe more deeply", "correct": false },
+    { "text": "Because the brain's predictive models conserve energy, and overriding them requires ongoing prefrontal effort", "correct": true },
+    { "text": "Because giving attention freely to others is what Buddhist practice ultimately requires", "correct": false },
+    { "text": "Because it involves releasing stored emotional tension held in the body", "correct": false }
+  ]
+}

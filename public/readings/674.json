@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Deep creative blocks have a hidden economics that most schedules ignore: the startup cost. Before a novelist writes a single sentence worth keeping, she has re-entered the story's world — its voice, its tensions, its open questions. Before a software architect writes a line of code, he has re-loaded the entire dependency graph of the problem into working memory. These startup costs are real, measurable, and non-transferable. Cal Newport estimated that each context switch between tasks carries a cognitive cost of twenty minutes or more. Protecting a creative block is therefore not a luxury for the privileged; it is basic resource management for anyone whose output is intellectual.",
+  "question": "What does the passage mean by the 'startup cost' of creative work?",
+  "options": [
+    { "text": "The financial overhead of establishing a creative business.", "correct": false },
+    { "text": "The time required to re-load the problem's full context into working memory.", "correct": true },
+    { "text": "The emotional difficulty of beginning a challenging creative project.", "correct": false },
+    { "text": "The energy spent negotiating protected time with managers.", "correct": false }
+  ]
+}

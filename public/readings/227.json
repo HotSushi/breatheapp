@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Shunryu Suzuki, who brought Soto Zen to San Francisco in the 1960s, described the meditating mind as a swinging door: breath comes in, breath goes out, and thoughts move through without obstruction. The door does not grab what passes. This image addresses a common confusion about anicca practice: students believe they must empty the mind of distractions, whereas Suzuki taught that trying to close the door — to stop thoughts — converts a flowing process into a frozen one. Impermanence requires movement. When the practitioner stops grasping at stillness as a goal, each arising thought becomes evidence of the very impermanence the teaching points to.",
+  "question": "What error does Suzuki identify in students who try to empty the mind of distraction?",
+  "options": [
+    { "text": "They are applying Theravada techniques incompatible with Zen.", "correct": false },
+    { "text": "Trying to stop thoughts converts a flowing process into a frozen one.", "correct": true },
+    { "text": "They focus on the breath instead of the arising thought.", "correct": false },
+    { "text": "They mistake the swinging door for the goal of practice.", "correct": false }
+  ]
+}

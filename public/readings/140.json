@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius describes attention as a kind of wakefulness that most people never sustain for long. 'How many a Chrysippus, how many a Socrates, how many an Epictetus, have time already swallowed up?' he writes — a reminder that even the vigilant are finite, and that vigilance itself must be renewed rather than assumed. The Stoic discipline of attention was not a state to be achieved and maintained but a rhythm of loss and recovery. You drift; you notice; you return. The drifting is not failure — it is the condition of being human. The failure would be to stop noticing, to let the drift become permanent, to mistake distraction for a default the mind cannot escape.",
+  "question": "According to the passage, what does the Stoic rhythm of attentional practice actually consist of?",
+  "options": [
+    { "text": "Achieving a permanent state of vigilance through sustained effort", "correct": false },
+    { "text": "Emulating the example of Socrates and Epictetus as models of continuous wakefulness", "correct": false },
+    { "text": "Avoiding drift entirely through morning preparation and evening review", "correct": false },
+    { "text": "A recurring cycle of drifting, noticing, and returning rather than a fixed state to be held", "correct": true }
+  ]
+}

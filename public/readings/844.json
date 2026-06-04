@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Cognitive offloading — the deliberate use of the environment to reduce internal memory demands — is not merely a coping strategy for the forgetful. Research by Risko and Gilbert shows it is a universal feature of human cognition. We leave objects near doors to remember them; we arrange ingredients spatially as we cook; we use fingers to track arithmetic. These behaviors are not signs of cognitive weakness but of efficiency: the brain trades internal storage for perceptual access, exploiting the stability of the external world to solve problems it would struggle to hold entirely within working memory. The environment becomes an extension of the mind's workspace.",
+  "question": "According to Risko and Gilbert's research, what cognitive trade-off underlies the practice of offloading?",
+  "options": [
+    { "text": "The brain trades social connection for individual efficiency", "correct": false },
+    { "text": "The brain trades perceptual access for internal processing speed", "correct": false },
+    { "text": "The brain trades long-term memory for short-term convenience", "correct": false },
+    { "text": "The brain trades internal storage for perceptual access, exploiting environmental stability", "correct": true }
+  ]
+}

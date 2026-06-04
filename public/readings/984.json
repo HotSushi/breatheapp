@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Twitter pile-ons follow a surprisingly regular temporal pattern. Sociologist Zeynep Tufekci observed that online outrage cascades tend to peak within four to eight hours and collapse within forty-eight — not because participants reflect and reconsider, but because the algorithm surfaces a newer target. The mob does not disperse; it migrates. Each individual user experiences righteous engagement as a moral act, unaware that the sequence of targets is curated by a recommendation engine optimizing for arousal. The feeling of collective justice is, structurally, indistinguishable from collective entertainment.",
+  "question": "According to the passage, why do online outrage cascades typically collapse within 48 hours?",
+  "options": [
+    { "text": "Participants reflect and reconsider their initial reactions", "correct": false },
+    { "text": "Platform moderators intervene to suppress the content", "correct": false },
+    { "text": "The algorithm surfaces a newer target, causing the mob to migrate rather than disperse", "correct": true },
+    { "text": "Users exhaust their capacity for moral outrage over time", "correct": false }
+  ]
+}

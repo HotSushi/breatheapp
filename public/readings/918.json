@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Magazine editors in the early twentieth century understood what neuroscientists would later confirm: anxiety and desire are the two emotions that most reliably command sustained attention. Cosmopolitan, founded in 1886, perfected the formula — alternate between making readers feel inadequate and promising a solution, usually purchasable. The genius was structural. Advertising did not interrupt editorial; editorial was designed to prime readers for advertising. The cover image created longing; the article deepened it; the product on the facing page offered relief. Each element primed the next in what media scholars now call an anxiety-desire cascade.",
+  "question": "What do media scholars call the editorial structure where content alternates between inducing inadequacy and offering relief?",
+  "options": [
+    { "text": "The dual product market", "correct": false },
+    { "text": "The variable-reward loop", "correct": false },
+    { "text": "The audience commodity model", "correct": false },
+    { "text": "An anxiety-desire cascade", "correct": true }
+  ]
+}

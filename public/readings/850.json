@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "If the mind can extend outward into tools and environments, it raises a troubling question about what happens when those extensions are disrupted. Clark calls this 'cognitive prosthesis anxiety': the unease we feel when separated from devices we have integrated into our cognitive loops. Research on nomophobia — the fear of being without a smartphone — shows measurable spikes in cortisol and impaired working memory performance when users are deprived of their devices. This is not mere inconvenience or habit. If the phone genuinely constitutes part of the user's extended cognitive system, its removal is not unlike a mild acquired brain injury: the system works, but less well than before.",
+  "question": "What does Clark's term 'cognitive prosthesis anxiety' refer to?",
+  "options": [
+    { "text": "Fear that artificial intelligence will eventually replace human cognition", "correct": false },
+    { "text": "Anxiety about using unfamiliar digital tools for the first time", "correct": false },
+    { "text": "Unease felt when separated from devices that have been integrated into one's cognitive loops", "correct": true },
+    { "text": "Worry that relying on external tools signals low intelligence", "correct": false }
+  ]
+}

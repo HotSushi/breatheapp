@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher and cognitive scientist Thomas Metzinger argues that the self is not a thing but an ongoing process — what he calls the 'phenomenal self-model,' a real-time simulation the brain runs of itself. Crucially, this self-model is invisible to itself: we do not experience ourselves as a model but as a real entity looking outward at the world. This transparency is what makes attention feel passive — as though we are simply registering what is there. In reality, the brain actively constructs both the observer and the observed. Reclaiming attention, on Metzinger's account, means becoming partially aware of the simulation — catching the model in the act of modeling.",
+  "question": "What does Metzinger mean when he says the phenomenal self-model is 'transparent'?",
+  "options": [
+    { "text": "It can be easily examined through introspection", "correct": false },
+    { "text": "It is invisible to itself, making us feel like real observers rather than simulations", "correct": true },
+    { "text": "It accurately reflects the external world without distortion", "correct": false },
+    { "text": "It disappears during deep meditation", "correct": false }
+  ]
+}

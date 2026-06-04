@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "In 2009, Paul Graham identified a structural incompatibility at the heart of creative organizations: the maker's schedule and the manager's schedule operate on fundamentally different units of time. Managers think in hours — a meeting at 11 means the morning is sliced into two fragments. Makers think in half-days or full days. A single meeting dropped into the middle of an afternoon doesn't cost one hour; it destroys the entire block, because deep creative work requires a long runway before it reaches altitude. The cost is asymmetric, invisible on a calendar, and almost never factored into how organizations allocate time.",
+  "question": "According to the passage, why does a single meeting cost a maker more than one hour of lost time?",
+  "options": [
+    { "text": "Makers take longer to commute to meeting rooms than managers do.", "correct": false },
+    { "text": "Meetings introduce social anxiety that lingers for hours afterward.", "correct": false },
+    { "text": "Deep creative work requires a long uninterrupted runway to reach productive altitude.", "correct": true },
+    { "text": "Managers deliberately schedule meetings during peak creative hours.", "correct": false }
+  ]
+}

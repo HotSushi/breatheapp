@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The infinite scroll, patented by Aza Raskin in 2006 and later regretted by its inventor, eliminates the natural stopping point that pagination once provided. Raskin estimated that his invention causes roughly 200,000 hours of wasted time per day. But its deeper effect is subtler: it removes the moment of decision. A page break asks users to actively choose to continue; infinite scroll converts passive inertia into continued engagement. This is not a neutral interface choice. It is the application of variable reward logic to navigation itself — each downward scroll might surface something compelling, so the scroll continues not from desire but from the absence of any reason to stop.",
+  "question": "According to the passage, what is the 'deeper effect' of infinite scroll beyond wasting time?",
+  "options": [
+    { "text": "It loads variable reward content at a faster rate than paginated feeds", "correct": false },
+    { "text": "It removes the moment of decision, converting inertia into continued engagement", "correct": true },
+    { "text": "It increases the total volume of content each user encounters per session", "correct": false },
+    { "text": "It trains users to expect immediate content gratification from all digital interfaces", "correct": false }
+  ]
+}

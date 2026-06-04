@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Late in his life, Seneca described the experience of re-reading philosophy after years of administrative distraction: he found that arguments he had once thought he understood had become merely familiar, not truly possessed. 'It is not enough to know,' he wrote, 'you must also keep what you know in use.' The Stoics called this the difference between episteme — stable, integrated knowledge — and mere doxa, opinion that can be dislodged by the next compelling impression. A virtue not practiced continuously is not really a virtue: it is a habit that has lapsed, an unused muscle that has lost its strength.",
+  "question": "What distinction does the passage draw between episteme and doxa?",
+  "options": [
+    { "text": "Episteme concerns ethics; doxa concerns natural science", "correct": false },
+    { "text": "Episteme is stable, integrated knowledge; doxa is opinion that can be dislodged", "correct": true },
+    { "text": "Episteme is acquired through reading; doxa through direct experience", "correct": false },
+    { "text": "Episteme belongs to the sage alone; doxa is available to ordinary people", "correct": false }
+  ]
+}

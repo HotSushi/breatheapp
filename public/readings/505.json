@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle opens the Metaphysics with the observation that all human beings by nature desire to know. He singles out sight as the sense we love most, because it reveals more differences than any other and brings us closest to the world's actual structure. But desire to know is not the same as actually knowing — the appetite must be disciplined into sustained inquiry. Aristotle's own method was relentlessly cumulative: he surveyed predecessors, gathered empirical observations, and returned to the same questions for years. He would have regarded the modern habit of switching topics every few minutes not as curiosity but as its counterfeit.",
+  "question": "According to the passage, why does Aristotle single out sight among the senses?",
+  "options": [
+    { "text": "Because Aristotle believed visual memory was more reliable than memory based on sound.", "correct": false },
+    { "text": "Because sight was the only sense Aristotle considered capable of reaching theoria.", "correct": false },
+    { "text": "Because it reveals more differences than any other sense and brings us closest to the world's structure.", "correct": true },
+    { "text": "Because the eye, unlike the ear, can be voluntarily controlled and directed by the will.", "correct": false }
+  ]
+}

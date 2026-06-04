@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The dichotomy of control is not a counsel of indifference — a misconception that has dogged Stoicism since antiquity. Epictetus uses the Greek word 'prohairesis' for the rational will: the capacity to assent, to choose, to judge. Everything within prohairesis is ours; everything outside it is not. But prohairesis is active, not passive. It shapes how we respond to illness, loss, and injustice. It determines whether insult lands as a wound or passes through. The Stoics called this the 'inner citadel' — not a retreat from the world but a fortified position from which one engages it without being overrun.",
+  "question": "What does the Greek term 'prohairesis,' as used by Epictetus, refer to?",
+  "options": [
+    { "text": "The practice of withdrawing from public life to avoid external harm", "correct": false },
+    { "text": "The philosophical school founded by Zeno of Citium", "correct": false },
+    { "text": "The rational will — the capacity to assent, choose, and judge", "correct": true },
+    { "text": "The Stoic ideal of emotional indifference to all outcomes", "correct": false }
+  ]
+}

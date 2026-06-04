@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Eyal Ophir, one of the Stanford researchers behind the 2009 multitasking study, later offered a more nuanced interpretation of his findings. Heavy media multitaskers may not be cognitively impaired, he argued, but rather differently optimized — tuned to a broad, diffuse attentional stance rather than a narrow, focused one. The problem is ecological mismatch: contemporary workplaces and educational systems reward deep, sustained focus, precisely the mode that chronic multitasking erodes. A person shaped by constant media switching brings a forager's attentional strategy into an environment that demands a craftsman's. The capacity is real; the context makes it a liability.",
+  "question": "What does Ophir's revised interpretation suggest about heavy media multitaskers?",
+  "options": [
+    { "text": "They have permanently damaged their working memory through overuse", "correct": false },
+    { "text": "They are optimized for broad, diffuse attention but mismatched to environments requiring sustained focus", "correct": true },
+    { "text": "They perform equally well on all tasks once they receive proper training", "correct": false },
+    { "text": "They develop stronger peripheral awareness that compensates for reduced depth of focus", "correct": false }
+  ]
+}

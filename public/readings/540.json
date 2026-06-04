@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Gita's closing chapters distinguish between two kinds of renunciation: sannyasa, the abandonment of action itself, and tyaga, the abandonment of attachment to action's fruits. Krishna emphatically prefers tyaga. The sannyasi who refuses to act still carries a mind full of desire and aversion; the tyagi acts fully and skillfully while remaining psychologically free of the outcome. This distinction maps onto a distinction in contemporary motivational psychology between 'behavioral disengagement' and 'cognitive reappraisal.' Withdrawing from a task does not resolve the attachment; reframing one's relationship to the result does. The Gita insists that genuine freedom of attention comes not from doing less, but from wanting differently.",
+  "question": "According to the passage, why does Krishna prefer tyaga over sannyasa?",
+  "options": [
+    { "text": "Tyaga leads to faster spiritual advancement on the path of karma yoga", "correct": false },
+    { "text": "Sannyasa requires abandoning all social duties, which destabilizes society", "correct": false },
+    { "text": "The sannyasi still carries desire and aversion despite refusing to act, while the tyagi acts freely without attachment to results", "correct": true },
+    { "text": "Tyaga is accessible to warriors like Arjuna, while sannyasa is reserved for monks", "correct": false }
+  ]
+}

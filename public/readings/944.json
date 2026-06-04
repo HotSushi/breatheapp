@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The 1970 memo by Lewis Powell to the U.S. Chamber of Commerce is one of the most consequential documents in the history of organized political attention. Powell, then a corporate lawyer, argued that American business had neglected the \"campus, the pulpit, the media, the courts\" — all the institutions where ideas are formed and amplified. He urged corporations to systematically fund think tanks, cultivate academics, and place spokespeople on television. What Powell described was not propaganda in the crude sense but an infrastructure for shaping which ideas would receive credible, well-resourced attention — and which would remain marginal for lack of amplification.",
+  "question": "What did Lewis Powell argue corporations had neglected that allowed unfavorable ideas to gain traction?",
+  "options": [
+    { "text": "The lobbying mechanisms inside the legislative branch", "correct": false },
+    { "text": "The courts, campuses, media, and pulpits where ideas are formed and amplified", "correct": true },
+    { "text": "The labor unions that controlled worker attention and organizing", "correct": false },
+    { "text": "The advertising industry that shaped consumer preferences", "correct": false }
+  ]
+}

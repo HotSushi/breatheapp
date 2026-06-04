@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle taught that virtues are not innate gifts but stable dispositions — hexeis — forged by repeated practice. The courageous person does not feel no fear; she acts well in spite of fear until right action becomes second nature. Attention works the same way. What we call focus is not a talent some people have and others lack, but a hexis: a trained capacity that strengthens through daily exercise and atrophies through neglect. Aristotle would have found nothing surprising in the neuroscientific observation that sustained attentional practice physically thickens the prefrontal cortex through repeated myelination of its circuits.",
+  "question": "According to the passage, what does Aristotle's concept of hexis suggest about focused attention?",
+  "options": [
+    { "text": "Focus is an innate gift distributed unequally at birth.", "correct": false },
+    { "text": "Attention is primarily a function of courage rather than a distinct mental faculty.", "correct": false },
+    { "text": "Focus is a stable disposition built through repeated practice, not a fixed talent.", "correct": true },
+    { "text": "Hexis refers specifically to the physical thickening of neural tissue through exercise.", "correct": false }
+  ]
+}

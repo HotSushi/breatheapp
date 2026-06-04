@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The locus coeruleus is a small, blue-tinged nucleus in the brainstem that functions as the brain's norepinephrine broadcast station. Under moderate stress it fine-tunes attention, narrowing the spotlight of awareness onto relevant stimuli. But researcher Amy Arnsten's work at Yale demonstrated that high levels of stress — the kind that triggers sustained norepinephrine and dopamine release — actually impair prefrontal cortex connectivity. The very circuits needed to sustain attention, resist impulse, and hold goals in working memory go offline. Arnsten describes the prefrontal cortex as uniquely vulnerable to stress: the last region to develop evolutionarily, and the first to surrender function when the body reads threat.",
+  "question": "What did Amy Arnsten's research reveal about the prefrontal cortex under high stress?",
+  "options": [
+    { "text": "It becomes more efficient by pruning irrelevant connections", "correct": false },
+    { "text": "Its connectivity is impaired, taking attention circuits offline", "correct": true },
+    { "text": "It compensates by increasing dopamine sensitivity", "correct": false },
+    { "text": "It redirects resources to the locus coeruleus for sharper focus", "correct": false }
+  ]
+}

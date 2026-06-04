@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Collective attention obeys a law of scarcity that operates at civilizational scale. Economists Huberman and Hogg demonstrated that the number of topics commanding broad public attention at any given moment is surprisingly small — roughly constant regardless of population size. As the number of voices producing content multiplies, the number of things those voices are collectively discussing does not. The result is that cultural attention becomes simultaneously more fragmented at the margins and more concentrated at the top, producing a paradox: infinite content, fewer ideas. The diversity of media masks a poverty of shared focus.",
+  "question": "What paradox does the passage describe regarding the growth of media content?",
+  "options": [
+    { "text": "More voices produce more shared topics of discussion", "correct": false },
+    { "text": "Infinite content coexists with a poverty of widely shared ideas", "correct": true },
+    { "text": "Fragmentation at the margins leads to fragmentation at the top", "correct": false },
+    { "text": "Cultural attention expands proportionally with population size", "correct": false }
+  ]
+}

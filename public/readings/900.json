@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Buddhist philosophy distinguishes between 'monkey mind' — consciousness that swings restlessly from branch to branch — and the still, unified awareness cultivated through samatha meditation. Modern cognitive science offers an unexpected parallel: the default mode network (DMN), active during mind-wandering, is suppressed when attention stabilizes on a chosen object. Neuroscientist Judson Brewer found that experienced meditators show dramatically reduced DMN activity, correlating with reports of less self-referential rumination. The ancient prescription and the contemporary finding converge: unified consciousness is not our default state but an achievement, requiring practice to sustain against the mind's centrifugal tendencies.",
+  "question": "What did Judson Brewer find in experienced meditators regarding the default mode network?",
+  "options": [
+    { "text": "Experienced meditators showed increased DMN activity, enabling richer self-reflection.", "correct": false },
+    { "text": "The DMN was activated selectively during loving-kindness meditation but suppressed during breathing focus.", "correct": false },
+    { "text": "DMN activity was unchanged but its connectivity to the prefrontal cortex was strengthened.", "correct": false },
+    { "text": "Experienced meditators showed dramatically reduced DMN activity, correlating with less self-referential rumination.", "correct": true }
+  ]
+}

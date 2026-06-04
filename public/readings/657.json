@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The concept of a 'shutdown ritual' — a fixed sequence of actions marking the end of a workday — was formalized by Cal Newport but has roots in older creative practice. Chekhov reportedly cleared his desk and covered it with a cloth each evening; the gesture physically separated work-time from rest. Newport's version involves reviewing incomplete tasks, confirming nothing urgent is unaddressed, then saying aloud a completion phrase. The ritual's purpose is neurological: the brain continues processing unfinished tasks after work ends, a phenomenon Bluma Zeigarnik documented in 1927. The shutdown ritual signals closure, quieting that background loop and protecting recovery time.",
+  "question": "What phenomenon documented by Bluma Zeigarnik explains why shutdown rituals are neurologically useful?",
+  "options": [
+    { "text": "The brain suppresses memory consolidation when tasks remain incomplete", "correct": false },
+    { "text": "The brain continues processing unfinished tasks after work ends", "correct": true },
+    { "text": "Closing routines activate the parasympathetic nervous system and lower cortisol", "correct": false },
+    { "text": "Verbal affirmations reinforce positive associations with completed work", "correct": false }
+  ]
+}

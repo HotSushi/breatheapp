@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics used the metaphor of a citadel to describe the inner life. Marcus Aurelius writes that the rational mind is 'a fortress to which a person can retreat at any time and find peace.' But a fortress is only useful if its gates are monitored. Prosoche was the gatekeeping function: attention directed inward, scrutinizing which impressions were being allowed to enter and shape judgment. Unlike modern mindfulness, which often aims at non-judgmental observation, Stoic vigilance was explicitly evaluative — each incoming impression was to be assessed immediately against reason. The citadel metaphor captures this dual role: protection and discernment, not mere awareness.",
+  "question": "How does the passage distinguish Stoic prosoche from modern mindfulness?",
+  "options": [
+    { "text": "Prosoche focuses on breath awareness while mindfulness focuses on thought content", "correct": false },
+    { "text": "Prosoche is practiced only in the evening while mindfulness is continuous", "correct": false },
+    { "text": "Prosoche is explicitly evaluative, assessing impressions against reason, while mindfulness aims at non-judgmental observation", "correct": true },
+    { "text": "Prosoche addresses external events while mindfulness addresses internal states", "correct": false }
+  ]
+}

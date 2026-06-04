@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Sociologist Judy Wajcman coined the term 'time pressure paradox' to capture a peculiar feature of always-on work culture: despite labor-saving technologies multiplying faster than ever, knowledge workers report feeling more time-starved, not less. Email and messaging tools eliminate travel and waiting but simultaneously collapse the natural gaps between tasks where recuperation and reflection once lived. The intervals that used to be dead time — commutes, elevator rides, the pause before a meeting — are now colonized by micro-tasks, erasing the cognitive white space that the brain requires to consolidate learning and generate insight.",
+  "question": "What does Wajcman's 'time pressure paradox' describe?",
+  "options": [
+    { "text": "The finding that workers in knowledge industries work fewer hours than manual laborers", "correct": false },
+    { "text": "The discovery that slower technology leads to greater time pressure at work", "correct": false },
+    { "text": "The irony that labor-saving technology makes workers feel more time-starved, not less", "correct": true },
+    { "text": "The observation that time-tracking software increases employee anxiety", "correct": false }
+  ]
+}

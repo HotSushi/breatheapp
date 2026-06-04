@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The philosopher Thomas Metzinger, drawing on both neuroscience and Buddhist phenomenology, argues in 'The Ego Tunnel' that the sense of being a unified self is a model, not a fact — a construction the brain updates continuously. Vipassana practitioners report a perception he would recognize: at high resolution, the 'observer' dissolves into a sequence of observing-moments, each distinct. This is not alarming if properly contextualised; indeed, Theravada texts describe it as liberating. What falls away is not the person but the rigidity of self-grasping, the habit of treating each passing mood as a permanent resident. Without that rigidity, thoughts lose the authority to define who one is.",
+  "question": "According to the passage, what do Theravada texts describe as falling away in advanced vipassana practice?",
+  "options": [
+    {
+      "text": "The rigidity of self-grasping, not the person",
+      "correct": true
+    },
+    {
+      "text": "The unified self that neuroscience confirms is neurologically real",
+      "correct": false
+    },
+    {
+      "text": "The sequence of observing-moments that Metzinger identifies as consciousness",
+      "correct": false
+    },
+    {
+      "text": "The capacity for emotional experience, leaving only bare awareness",
+      "correct": false
+    }
+  ]
+}

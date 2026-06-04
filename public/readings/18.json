@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Attention is not a single beam but a hierarchy of selection. At the lowest level, the superior colliculus in the brainstem orients the eyes and head toward salient stimuli automatically — a mechanism so ancient it predates the cortex. At mid-levels, the parietal cortex constructs a 'priority map' of the visual field, weighting locations by both bottom-up salience and top-down goals. At the apex, the prefrontal cortex issues strategic commands that reshape this map entirely. Michael Posner's work identified three distinct attentional networks — alerting, orienting, and executive — each with separable anatomy and neurochemistry. Executive control, seated in the PFC, is the only network capable of overriding the others.",
+  "question": "According to Posner's framework described in the passage, what distinguishes the executive attentional network from the alerting and orienting networks?",
+  "options": [
+    { "text": "It is the only network capable of overriding the other two networks", "correct": true },
+    { "text": "It operates without input from the parietal cortex's priority map", "correct": false },
+    { "text": "It is the most evolutionarily ancient of the three networks", "correct": false },
+    { "text": "It responds exclusively to bottom-up salient stimuli", "correct": false }
+  ]
+}

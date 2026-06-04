@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "In studies of scientific creativity, Kevin Dunbar observed laboratory meetings where breakthroughs rarely emerged from solitary late-night work — they came from conversations in which an analogy from one scientist's field illuminated a problem in another's. He called this distributed cognition: ideas incubate not only inside individual minds but in the space between them. This suggests the creative process is not strictly sequential. Incubation can be social as well as solitary. A colleague's offhand remark can trigger the illumination that weeks of private effort failed to produce, because the external perspective supplies the conceptual distance that time alone is meant to create.",
+  "question": "What does Dunbar's concept of distributed cognition suggest about the incubation phase?",
+  "options": [
+    { "text": "It is most effective when individuals work in complete isolation.", "correct": false },
+    { "text": "It requires a minimum of several weeks to produce genuine insight.", "correct": false },
+    { "text": "It depends on unconscious memory consolidation during sleep.", "correct": false },
+    { "text": "Incubation can occur socially, not only inside an individual mind.", "correct": true }
+  ]
+}

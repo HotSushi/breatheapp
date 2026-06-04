@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The Kaplans described four sequential components of a restorative environment: being away, extent, fascination, and compatibility. Each is necessary but insufficient alone. Being away involves psychological distance — a sense of departure from ordinary demands, achievable even in a city park. Extent refers to an environment rich enough to constitute a whole other world, requiring no supplementary mental effort to populate. Fascination and compatibility complete the picture, but it is extent that researchers find most underappreciated: a narrow strip of urban landscaping fails to restore not because it lacks beauty but because its shallow scope forces the mind to reach beyond it, reimposing cognitive load.",
+  "question": "Why does a narrow strip of urban landscaping fail to restore attention according to the Kaplans' model?",
+  "options": [
+    { "text": "It lacks the fractal complexity needed to engage involuntary attention", "correct": false },
+    { "text": "Its shallow extent forces the mind beyond it, reimposing cognitive load", "correct": true },
+    { "text": "It creates compatibility conflicts by juxtaposing natural and urban elements", "correct": false },
+    { "text": "It provides being away but fails to generate the fascination component", "correct": false }
+  ]
+}

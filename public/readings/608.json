@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The philosopher Michael Polanyi argued that we know more than we can tell — that expert knowledge contains a tacit dimension inaccessible to explicit description. A master chess player cannot fully articulate why a position feels dangerous; a surgeon cannot enumerate every microadjustment that constitutes surgical touch. This tacit knowledge accumulates only through prolonged engagement with a domain, not through reading about it. Newport draws the implication: skills whose value rests on tacit knowledge are structurally resistant to imitation. They require the very thing that distraction culture makes scarce — extended, repeated immersion in a single domain over years.",
+  "question": "What property of tacit knowledge, according to the passage, makes it resistant to imitation?",
+  "options": [
+    { "text": "It is protected by intellectual property law and professional licensing requirements", "correct": false },
+    { "text": "It can only be acquired through prolonged, repeated immersion and cannot be fully articulated", "correct": true },
+    { "text": "It requires specialized equipment that limits access to a small number of practitioners", "correct": false },
+    { "text": "It decays rapidly in others who lack the same innate cognitive architecture", "correct": false }
+  ]
+}

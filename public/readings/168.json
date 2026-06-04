@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus compared the undisciplined person to someone who attends a banquet and grabs at every dish that passes — tasting nothing fully, always reaching for the next thing. He contrasted this with the sage, who waits for what comes naturally within reach, takes only what is appropriate, and remains wholly present to the experience of eating rather than to the prospect of the next course. This image is not merely about self-restraint. It is about the quality of engagement: the person perpetually chasing stimulation is not more alive than the one who attends to a single thing — they are less so, because their attention is perpetually divided.",
+  "question": "In Epictetus's banquet analogy, what distinguishes the sage from the undisciplined person?",
+  "options": [
+    { "text": "The sage eats less, preserving resources for later", "correct": false },
+    { "text": "The sage is wholly present to each experience rather than reaching for the next", "correct": true },
+    { "text": "The sage refuses food that was not prepared virtuously", "correct": false },
+    { "text": "The sage leaves the banquet early to avoid temptation", "correct": false }
+  ]
+}

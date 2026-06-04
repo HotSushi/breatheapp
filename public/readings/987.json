@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Philosopher Hannah Arendt wrote that totalitarianism required the destruction of the private realm — the interior space where individuals think against the crowd. What she could not have imagined was a technology that monetizes the erosion of that space. Smartphones create what researcher Sherry Turkle calls 'always-on' social performance: the continuous pressure to broadcast, react, and signal group membership. When every moment is potentially public, private thought becomes economically unproductive. The platform has no interface for thinking that does not generate a post. Interior life becomes residual; the crowd becomes the default mode of existence.",
+  "question": "According to the passage, what condition did Arendt identify as necessary for totalitarianism to function?",
+  "options": [
+    { "text": "The destruction of the private realm where individuals think against the crowd", "correct": true },
+    { "text": "The creation of always-on social performance through technology", "correct": false },
+    { "text": "The monetization of social signaling and group membership", "correct": false },
+    { "text": "The replacement of interior thought with public broadcasting", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The parasympathetic nervous system operates through a single remarkable nerve: the vagus, which wanders from the brainstem down through the heart, lungs, and gut. Cardiologist Stephen Porges calls it the body's 'safety circuit' \u2014 when activated, it slows heart rate, drops blood pressure, and signals organs that threat has passed. Unlike the sympathetic system's diffuse hormonal cascade, parasympathetic signaling is precise and electrical, reaching individual organs within milliseconds. This speed matters: the body can shift from alarm to calm faster than conscious thought. The vagus nerve is not merely a relaxation switch but a continuous monitor, broadcasting the internal state upward to the brain at every moment.",
+  "question": "According to the passage, what distinguishes parasympathetic signaling from sympathetic signaling?",
+  "options": [
+    {
+      "text": "Parasympathetic signaling is precise and electrical, reaching organs within milliseconds, unlike the sympathetic system's diffuse hormonal cascade",
+      "correct": true
+    },
+    {
+      "text": "Parasympathetic signals travel through the spinal cord rather than the brainstem",
+      "correct": false
+    },
+    {
+      "text": "Parasympathetic signaling relies on adrenaline released from the adrenal glands",
+      "correct": false
+    },
+    {
+      "text": "Parasympathetic signals are slower because they must travel through the gut before reaching the heart",
+      "correct": false
+    }
+  ]
+}

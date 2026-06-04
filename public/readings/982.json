@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Gustave Le Bon, writing in 1895, argued that individuals inside a crowd undergo a psychological transformation: their capacity for critical reasoning dissolves into what he called the 'racial unconscious,' a shared substrate of instinct. Modern neuroscience offers a revision. Research by Mina Cikara at Harvard shows that group identity does not erase individual cognition but redirects it — people reason just as hard, but now in service of the group's emotional goals. The crowd does not make you stupid; it makes you strategically biased. This is more dangerous, because it feels like thinking.",
+  "question": "According to the passage, how does Cikara's research revise Le Bon's theory of crowd psychology?",
+  "options": [
+    { "text": "It confirms that critical reasoning dissolves inside crowds", "correct": false },
+    { "text": "It shows that group identity only affects people with weak individual identities", "correct": false },
+    { "text": "It argues that crowds redirect reasoning toward the group's emotional goals rather than erasing it", "correct": true },
+    { "text": "It proves that racial unconscious drives are stronger than individual cognition", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Philosopher and phenomenologist Maurice Merleau-Ponty argued that thinking cannot be cleanly separated from bodily existence — the mind does not merely inhabit the body like a pilot in a cockpit. Decades later, cognitive scientists Francisco Varela, Evan Thompson, and Eleanor Rosch formalized this as 'embodied cognition': the idea that neural processes are shaped by the sensorimotor dynamics of a body moving through the world. Modern BDNF research lends this philosophy unexpected empirical weight. When muscles contract rhythmically, they release a cascade of molecular signals that reshape the very neural architecture of thought. The body does not support the mind — it partially constitutes it.",
+  "question": "According to the passage, what does the concept of 'embodied cognition' propose?",
+  "options": [
+    { "text": "The brain operates independently of bodily movement and sensation", "correct": false },
+    { "text": "Neural processes are shaped by the sensorimotor dynamics of a moving body", "correct": true },
+    { "text": "BDNF was first predicted by Merleau-Ponty's philosophical framework", "correct": false },
+    { "text": "Rhythmic muscle contractions primarily benefit cardiovascular health", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In 'Brain Rules,' molecular biologist John Medina observes that the default human posture — for nearly all of evolutionary history — was upright locomotion, not seated stillness. The brain, he argues, was never designed to sit still for eight hours; it was built to solve problems while moving across varied terrain. Medina cites studies showing that a brisk 20-minute walk can improve cognitive performance on subsequent attention tasks for up to an hour. His prescription is architectural: offices and classrooms should be designed around walking meetings, standing desks, and frequent movement breaks — not as wellness amenities, but as engineering solutions to the fundamental mismatch between sedentary environments and mobile brains.",
+  "question": "According to the passage, how long can the cognitive benefits of a 20-minute brisk walk last?",
+  "options": [
+    { "text": "Up to 30 minutes", "correct": false },
+    { "text": "Up to two hours", "correct": false },
+    { "text": "Up to 20 minutes, matching the walk duration", "correct": false },
+    { "text": "Up to one hour", "correct": true }
+  ]
+}

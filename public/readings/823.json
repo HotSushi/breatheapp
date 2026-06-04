@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Frank Jackson's 'Mary's Room' thought experiment pressed the hard problem into a corner. Mary is a neuroscientist who has lived her entire life in a black-and-white room, yet she knows every physical fact about color vision — the wavelengths, the retinal cells, the cortical responses. When she finally leaves the room and sees red for the first time, does she learn something new? Jackson said yes: she learns what red looks like. If all the physical facts were already known and yet she still learns something, then there must be facts about experience — qualia — that are not physical facts. The argument has been contested but never cleanly refuted.",
+  "question": "In Jackson's thought experiment, what does Mary's moment of seeing red for the first time demonstrate?",
+  "options": [
+    { "text": "That neuroscience cannot fully explain color perception even in principle", "correct": false },
+    { "text": "That experiential facts about qualia are not exhausted by physical facts", "correct": true },
+    { "text": "That knowledge requires direct sensory experience to be scientifically valid", "correct": false },
+    { "text": "That color vision depends on cultural exposure rather than neurological structure", "correct": false }
+  ]
+}

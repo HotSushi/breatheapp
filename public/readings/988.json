@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Herd behavior in financial markets has a precise mechanism: information cascades. Economist Sushil Bikhchandani showed that a rational individual, observing others act, may rationally discard their own private information and follow the herd — because the herd's revealed preferences constitute stronger evidence than one's own signal. This is not irrationality; it is Bayesian updating taken to a pathological extreme. The same logic governs trending topics: each retweet signals others that this content is worth attending to, creating a cascade in which aggregate attention becomes its own justification. The crowd is self-validating by design.",
+  "question": "In Bikhchandani's model of information cascades, why might a rational person follow the herd against their own private information?",
+  "options": [
+    { "text": "Social pressure overcomes their capacity for independent reasoning", "correct": false },
+    { "text": "The herd's collective revealed preferences constitute stronger evidence than one's own signal", "correct": true },
+    { "text": "Individual information is always less accurate than group information", "correct": false },
+    { "text": "Bayesian updating requires discarding prior beliefs entirely", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "William James, writing in 1890, described voluntary attention as a resource that 'comes in beats' \u2014 brief flickers of focused direction rather than a sustained beam. He argued that what we call 'sustained attention' is really rapid reorientation: the will repeatedly recaptures the same object. This insight anticipates modern findings on attention blink and microsaccades by over a century. Timed focus sprints operationalize James's observation: rather than demanding that attention hold without wavering, a sprint asks only that you keep returning to the task within a bounded window. The discipline is not in never drifting; it is in noticing the drift and returning before the sprint clock expires.",
+  "question": "According to the passage, what did William James argue 'sustained attention' actually consists of?",
+  "options": [
+    {
+      "text": "A slow expansion of working memory capacity through deliberate practice",
+      "correct": false
+    },
+    {
+      "text": "Suppression of the default mode network through acts of conscious willpower",
+      "correct": false
+    },
+    {
+      "text": "A neurological state achievable only after twenty minutes of undisturbed work",
+      "correct": false
+    },
+    {
+      "text": "Repeated rapid reorientations back to the same object rather than a continuous beam",
+      "correct": true
+    }
+  ]
+}

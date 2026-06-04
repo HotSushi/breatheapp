@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The philosopher Simone Weil wrote that 'attention is the rarest and purest form of generosity.' She meant something precise: to truly attend to another person is to suspend one's own interior monologue, one's judgments and agendas, and simply receive. This quality of attention — which Weil associated with prayer and love — is exactly what surveillance capitalism systematically erodes. When every surface of digital life is designed to trigger reaction rather than reflection, the capacity for deep, generous attention atrophies. Reclaiming it is not merely a personal productivity goal. It is a moral and relational act.",
+  "question": "What does Simone Weil mean by calling attention 'the rarest and purest form of generosity'?",
+  "options": [
+    { "text": "That focus is a gift we give ourselves through meditation", "correct": false },
+    { "text": "That truly attending to another requires suspending one's own judgments and agendas", "correct": true },
+    { "text": "That generous people are naturally better at staying focused", "correct": false },
+    { "text": "That prayer is the most reliable way to strengthen attention", "correct": false }
+  ]
+}

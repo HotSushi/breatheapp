@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic concept of the hegemonikon — the ruling faculty of the mind — positioned our rational attention as the seat of identity itself. Chrysippus, the third head of the Stoic school, argued that when we let trivial stimuli redirect this faculty, we do not merely lose time; we surrender governance of the self. The modern neuroscientist's finding that the default mode network, when hijacked by social anxiety or rumination, consumes the same cognitive resources as deliberate thought would have surprised no Stoic. They already knew: an unguarded mind does not rest — it labors on things unworthy of it.",
+  "question": "What did Chrysippus argue happens when trivial stimuli redirect the hegemonikon?",
+  "options": [
+    { "text": "The mind enters a productive rest state similar to meditation", "correct": false },
+    { "text": "Rational thought is temporarily suspended but quickly recovers", "correct": false },
+    { "text": "We lose not just time but governance of the self", "correct": true },
+    { "text": "The default mode network activates to compensate for lost focus", "correct": false }
+  ]
+}

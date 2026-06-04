@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The neuroscientist Earl Miller at MIT has shown that what we call multitasking is, for the human cortex, largely a fiction. The brain does not run two cognitive processes simultaneously — it switches between them, incurring a measurable cost each time. Miller's lab demonstrated that this switching depletes the prefrontal cortex's limited pool of neural glucose, leaving the brain less capable of sustained reasoning after each toggle. A person who believes they are efficiently handling email and analysis in parallel is actually doing neither well. Monotasking is not a productivity trick; it is an alignment with how the brain actually operates.",
+  "question": "According to Miller's research, what resource is depleted by rapid task-switching?",
+  "options": [
+    { "text": "Dopamine in the reward pathways", "correct": false },
+    { "text": "Neural glucose in the prefrontal cortex", "correct": true },
+    { "text": "Acetylcholine reserves in the hippocampus", "correct": false },
+    { "text": "Serotonin levels in the default mode network", "correct": false }
+  ]
+}

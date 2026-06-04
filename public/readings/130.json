@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The final paradox of Seneca's letters is that they were written fast, in a man's last years, yet have outlasted almost everything his era considered permanent — the emperors, the legions, the marble forums. In Letter LXXIX he tells Lucilius that a great thought, once written, escapes its author's mortality: 'omnia dehinc saecula in te conspicient' — 'all the ages henceforth will look upon you.' For Seneca, writing was the one act that genuinely defeated time — not by stopping it but by making something still read when both writer and reader were dust. The letters are, at their deepest level, an argument that sustained attention is the only human act that outlives the human.",
+  "question": "How does Seneca say writing defeats time, according to Letter LXXIX?",
+  "options": [
+    { "text": "By preserving the writer's name in official imperial archives", "correct": false },
+    { "text": "By training readers to resist distraction through close reading", "correct": false },
+    { "text": "By stopping time during the act of composition", "correct": false },
+    { "text": "By creating something still read long after the writer has died", "correct": true }
+  ]
+}

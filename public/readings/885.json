@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Cognitive scientist Alva Noë argues in Action in Perception that perceiving is not something that happens to us but something we do — an exercise of sensorimotor knowledge grounded in the body. When you see a tomato, you do not merely receive a two-dimensional image; you implicitly know how your movement would alter the view. This 'sensorimotor contingency' theory holds that attention is inseparable from bodily readiness. A person absorbed in a smartphone loses not only visual attention but the sensorimotor openness that keeps them oriented to surrounding space. Digital distraction is, in this sense, a narrowing of the body's perceptual grip on the environment.",
+  "question": "What does Alva Noë mean by 'sensorimotor contingency' in the context of perception?",
+  "options": [
+    { "text": "The brain's prediction of what sensory input will arrive next based on memory", "correct": false },
+    { "text": "Knowing how one's own movement would alter the view of a perceived object", "correct": true },
+    { "text": "The reflex arc that links incoming stimuli to immediate motor responses", "correct": false },
+    { "text": "The contingent relationship between emotional state and sensory clarity", "correct": false }
+  ]
+}

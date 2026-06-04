@@ -746,22 +746,21 @@ const readings = [
     },
 ];
 
+const READINGS_TOTAL = 1000;
 let focusTimerInterval = null;
 let currentReading = null;
 
-function initFocus() {
-    currentReading = readings[Math.floor(Math.random() * readings.length)];
-
-    document.getElementById('pillar-label').textContent = currentReading.pillar;
-    const wc = currentReading.text.split(/\s+/).length;
+function renderReading(reading) {
+    currentReading = reading;
+    document.getElementById('pillar-label').textContent = reading.pillar;
+    const wc = reading.text.split(/\s+/).length;
     document.getElementById('word-count').textContent   = wc + ' words';
-    document.getElementById('reading-para').textContent  = currentReading.text;
-    document.getElementById('question-text').textContent = currentReading.question;
+    document.getElementById('reading-para').textContent  = reading.text;
+    document.getElementById('question-text').textContent = reading.question;
 
-    // Build answer options
     const wrap = document.getElementById('answer-wrap');
     wrap.innerHTML = '';
-    currentReading.options.forEach((opt, i) => {
+    reading.options.forEach((opt, i) => {
         const btn = document.createElement('button');
         btn.className = 'ans-btn';
         btn.dataset.correct = opt.correct;
@@ -770,14 +769,12 @@ function initFocus() {
         wrap.appendChild(btn);
     });
 
-    // Reset comprehension area
     const ca = document.getElementById('comprehension-area');
     ca.style.opacity = '0'; ca.style.pointerEvents = 'none';
     ca.classList.remove('unlock-pop');
     document.getElementById('focus-feedback').classList.add('hidden');
     document.getElementById('focus-continue').classList.add('hidden');
 
-    // Re-arm timer bar
     clearInterval(focusTimerInterval);
     const barParent = document.getElementById('timer-bar').parentElement;
     const oldBar = document.getElementById('timer-bar');
@@ -789,11 +786,20 @@ function initFocus() {
     let secs = 17;
     focusTimerInterval = setInterval(() => {
         secs--;
-        if (secs <= 0) {
-            clearInterval(focusTimerInterval);
-            unlockComprehension();
-        }
+        if (secs <= 0) { clearInterval(focusTimerInterval); unlockComprehension(); }
     }, 1000);
+}
+
+function initFocus() {
+    const n = Math.floor(Math.random() * READINGS_TOTAL) + 1;
+    fetch('/readings/' + n + '.json')
+        .then(r => r.ok ? r.json() : null)
+        .then(data => {
+            if (data) { renderReading(data); return; }
+            // fallback to hardcoded if file missing
+            renderReading(readings[Math.floor(Math.random() * readings.length)]);
+        })
+        .catch(() => renderReading(readings[Math.floor(Math.random() * readings.length)]));
 }
 
 function unlockComprehension() {

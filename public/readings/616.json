@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Chess masters perceive board positions differently than novices — not as collections of individual pieces but as meaningful configurations. Adriaan de Groot's 1940s studies found that grandmasters could reconstruct a mid-game position from a five-second glance, while beginners recalled only a handful of pieces. Yet when pieces were placed randomly, the grandmasters' advantage vanished. This proved they were not seeing better; they were recognizing patterns built from thousands of hours of deliberate study. Herbert Simon later estimated grandmasters hold roughly fifty thousand such patterns in long-term memory. Expertise, then, is largely a library of perceptual chunks — rapid recognition structures assembled only through sustained, focused engagement with a domain.",
+  "question": "What did de Groot's experiments reveal about the chess grandmasters' memory advantage for board positions?",
+  "options": [
+    { "text": "It disappeared when pieces were arranged randomly, proving the advantage was pattern recognition, not superior memory", "correct": true },
+    { "text": "It persisted even with random positions, confirming they had genuinely superior working memory", "correct": false },
+    { "text": "It was most pronounced in endgame positions rather than mid-game configurations", "correct": false },
+    { "text": "It was limited to pieces they had personally played in competitive matches", "correct": false }
+  ]
+}

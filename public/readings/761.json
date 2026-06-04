@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In the late 1990s, neuroscientist Carl Cotman at UC Irvine discovered that aerobic exercise triggers the release of brain-derived neurotrophic factor, or BDNF — a protein he called 'Miracle-Gro for the brain.' BDNF promotes the survival of existing neurons, accelerates the growth of new ones, and strengthens synaptic connections in the hippocampus. Cotman's animal studies showed that rats given access to running wheels produced dramatically more BDNF than sedentary controls, with corresponding improvements in maze learning. The mechanism is precise: sustained aerobic effort signals muscles to release chemicals that cross the blood-brain barrier, instructing the brain to reinvest in its own architecture.",
+  "question": "According to the passage, what triggers the release of BDNF in the brain?",
+  "options": [
+    { "text": "Deep sleep and slow-wave rest cycles", "correct": false },
+    { "text": "Sustained aerobic exercise", "correct": true },
+    { "text": "High-protein dietary intake", "correct": false },
+    { "text": "Repeated exposure to novel environments", "correct": false }
+  ]
+}

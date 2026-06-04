@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In Plum Village, the community Thich Nhat Hanh founded in France, a bell rings randomly throughout the day. Every activity stops; everyone breathes three conscious breaths; then life resumes. The bell does not announce importance — it interrupts the assumption that the present moment can wait. Hanh borrowed this practice from Vietnamese village life, where temple bells once structured communal attention. Transposed to a modern context, the bell becomes resistance to what he called \"running\" — the habitual forward-leaning of the mind that evacuates the present. The practice is architectural: not relying on individual willpower but building interruption into the environment itself.",
+  "question": "According to the passage, why does the bell at Plum Village ring randomly rather than at scheduled times?",
+  "options": [
+    { "text": "To mirror the unpredictability of traditional Vietnamese village rhythms", "correct": false },
+    { "text": "To interrupt the assumption that the present moment can wait and return attention to now", "correct": true },
+    { "text": "To signal transitions between different periods of monastic practice", "correct": false },
+    { "text": "To train practitioners to maintain awareness despite external disruption", "correct": false }
+  ]
+}

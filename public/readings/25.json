@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The mesolimbic dopamine pathway — running from the ventral tegmental area through the nucleus accumbens and into the prefrontal cortex — is sometimes called the brain's wanting circuit, a term introduced by neuroscientist Kent Berridge to distinguish desire from pleasure. Berridge showed in rodent studies that destroying dopamine-producing neurons left animals indifferent to food but still capable of enjoying it if food was placed in their mouths. Wanting and liking are neurologically separable. What platforms engineer is wanting without reliable liking: the drive to scroll continues even when the scroll produces nothing satisfying, because the dopaminergic anticipation machine is running independently of any actual reward.",
+  "question": "What distinction did Kent Berridge demonstrate through his rodent studies?",
+  "options": [
+    { "text": "That dopamine controls memory consolidation more than motivation", "correct": false },
+    { "text": "That wanting and liking are neurologically separable systems", "correct": true },
+    { "text": "That the prefrontal cortex mediates both desire and pleasure equally", "correct": false },
+    { "text": "That destruction of the nucleus accumbens eliminates both desire and enjoyment", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The Roman philosopher Seneca wrote to his friend Lucilius: 'Withdraw into yourself as much as you can; associate with those who will make a better man of you.' He was warning against the diffuse sociability of Rome — the endless dinner parties and forum gossip — that left a man knowing many people and being known by none. The warning maps almost precisely onto the architecture of modern social feeds. Breadth of acquaintance has never been easier to accumulate; the discipline Seneca commended — of choosing depth over reach, of giving one's full attention to the few — has never been harder to practice.",
+  "question": "What parallel does the passage draw between Seneca's warning and modern social feeds?",
+  "options": [
+    { "text": "Both argue that solitude is superior to any form of social engagement.", "correct": false },
+    { "text": "Both warn against diffuse sociability that produces broad acquaintance but precludes deep mutual knowing.", "correct": true },
+    { "text": "Both suggest that meaningful relationships require formal settings and ritual.", "correct": false },
+    { "text": "Both identify urban density as the primary cause of social fragmentation.", "correct": false }
+  ]
+}

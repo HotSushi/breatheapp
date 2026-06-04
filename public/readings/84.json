@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The spotlight metaphor of attention originates with Michael Posner's landmark 1980 paper on spatial cueing. Posner showed that directing covert attention — without moving the eyes — to a location in space speeds the detection of stimuli appearing there, exactly as a spotlight illuminates a patch of stage. What the metaphor also implies, and what subsequent research confirmed, is that the spotlight has an edge: stimuli just outside the attended region are actually suppressed below baseline, creating an \"inhibitory surround.\" Attention is not simply a flashlight added to a dark room; it simultaneously brightens the center and dims the periphery.",
+  "question": "What does the passage say happens to stimuli just outside the attended region in Posner's spotlight model?",
+  "options": [
+    { "text": "They are processed at baseline speed, neither faster nor slower.", "correct": false },
+    { "text": "They receive extra processing to orient the spotlight toward them.", "correct": false },
+    { "text": "They are suppressed below baseline, forming an inhibitory surround.", "correct": true },
+    { "text": "They are redirected to the right hemisphere for parallel processing.", "correct": false }
+  ]
+}

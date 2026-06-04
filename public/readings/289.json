@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The I Ching, older than the Tao Te Ching and foundational to Taoist cosmology, presents a universe of continuous change in which the wise response is not to impose structure but to read the moment's inherent tendency — its shi — and move with it. Scholar François Jullien contrasts this with Greek teleological thinking, which projects a fixed goal and drives toward it. Attentional science finds a correlate: 'sustained attention' experiments show that performance collapses not from boredom alone but from the rigidity of holding a fixed target. Flexible, moment-to-moment engagement — reading shi — preserves vigilance far longer than rigid target-locking.",
+  "question": "According to the passage, what does attentional science show causes performance collapse in sustained attention experiments?",
+  "options": [
+    { "text": "The gradual depletion of glucose available to the prefrontal cortex", "correct": false },
+    { "text": "Boredom caused by insufficient novelty in the task environment", "correct": false },
+    { "text": "The rigidity of holding a fixed target, not just boredom alone", "correct": true },
+    { "text": "Over-reliance on external rewards that undermine intrinsic motivation", "correct": false }
+  ]
+}

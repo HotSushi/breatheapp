@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In the Stoic tradition, Epictetus drew a hard line between what is 'up to us' — judgment, desire, aversion — and what is not: reputation, circumstance, the behavior of others. This dichotomy of control is a map for navigating the attention economy. You cannot stop platforms from engineering compulsion. You cannot prevent the feed from existing. What remains fully within your domain is where you direct your gaze and what you choose to dwell on. The Stoic practice of daily resistance — of deliberately withdrawing attention from what is merely urgent to restore it to what genuinely matters — is as applicable today as it was in ancient Rome.",
+  "question": "How does the passage apply the Stoic dichotomy of control to the attention economy?",
+  "options": [
+    { "text": "By arguing that Stoics anticipated the dangers of social media platforms", "correct": false },
+    { "text": "By suggesting that controlling platform design is the key to mental freedom", "correct": false },
+    { "text": "By identifying where you direct your gaze and what you dwell on as the domain within your control", "correct": true },
+    { "text": "By showing that Epictetus valued urgent tasks over meaningful ones", "correct": false }
+  ]
+}

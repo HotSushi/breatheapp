@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Deliberate practice requires what psychologists call metacognitive monitoring — the ability to observe your own performance as if from the outside while executing it. Elite athletes call this 'playing in the zone' while simultaneously maintaining an analytical awareness of errors. This dual attention is cognitively expensive and develops slowly. Beginners typically cannot do it at all; their full attention is consumed by execution. Intermediate performers can sustain it briefly. Experts have internalized enough of the skill's mechanics that a portion of attention is freed for self-observation. This is why Ericsson found that beginners' practice sessions benefit most from external instruction, while experts develop the inner coach — a precise internal observer that can monitor and adjust in real time.",
+  "question": "According to the passage, why do beginners benefit most from external instruction rather than self-monitoring during practice?",
+  "options": [
+    { "text": "Beginners lack the emotional resilience to process self-criticism without becoming discouraged", "correct": false },
+    { "text": "External feedback is more accurate than internal feedback at all skill levels", "correct": false },
+    { "text": "Beginners' full attention is consumed by execution, leaving none for self-observation", "correct": true },
+    { "text": "Beginners have not yet formed the long-term memory structures needed to store feedback", "correct": false }
+  ]
+}

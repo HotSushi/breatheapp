@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The parasympathetic response has an evolutionary logic that modern life routinely defeats. For most of human history, threats were brief and physical — a predator, a fall — followed by genuine safety and recovery. The parasympathetic state evolved to claim that recovery window: repair tissue, consolidate memory, restore immune function. But digital environments manufacture a continuous low-level threat signal: notifications, unread counts, ambient social comparison. The body cannot distinguish between a charging lion and an unanswered email at 2 a.m. Both suppress the rest-and-digest state. Physiologist Robert Sapolsky has observed that humans are perhaps uniquely able to generate sustained stress responses from thought alone, making the parasympathetic system chronically inaccessible.",
+  "question": "According to the passage, what observation did Robert Sapolsky make about humans and stress?",
+  "options": [
+    { "text": "Humans have weaker parasympathetic responses than other mammals because of cultural conditioning", "correct": false },
+    { "text": "Humans develop more efficient stress-recovery cycles than other animals over a lifetime", "correct": false },
+    { "text": "Humans are perhaps uniquely able to generate sustained stress responses from thought alone", "correct": true },
+    { "text": "Humans experience stress only in response to physical threats, unlike other primates", "correct": false }
+  ]
+}

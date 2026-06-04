@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle ends the Nicomachean Ethics not with a list of virtues but with a call to action: knowing what eudaimonia is does not make you flourish — you must actually live it. This gap between knowledge and practice is what he called akrasia, weakness of will: the person who knows the better course yet chooses the worse. Aristotle traced akrasia not to ignorance but to a failure of imagination — the immediate pleasure appears larger than the distant good because the mind has not been trained to make the distant vivid. Regular attention practice, in his framework, is precisely the exercise that makes the meaningful future feel real.",
+  "question": "According to the passage, what does Aristotle identify as the root cause of akrasia?",
+  "options": [
+    { "text": "Ignorance of what the good life requires, which philosophy can correct.", "correct": false },
+    { "text": "Excessive bodily appetite that overpowers even well-trained rational faculties.", "correct": false },
+    { "text": "A failure of imagination that makes the immediate pleasure appear larger than the distant good.", "correct": true },
+    { "text": "The absence of philia, because without friends we cannot be held accountable for our choices.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The philosopher Blaise Pascal wrote in 1654 that 'all of humanity's problems stem from man's inability to sit quietly in a room alone.' He was not prescribing isolation but diagnosing restlessness: we fill our hours with diversions because stillness confronts us with ourselves. Thoreau understood Pascal's diagnosis viscerally. At Walden, he spent entire mornings sitting in his doorway, doing nothing by any external measure. He called this 'a kind of work.' Modern attention researchers would recognize it as what psychologist Mary Helen Immordino-Yang terms the 'resting state' — the neural condition in which the brain consolidates meaning, not merely accumulates experience.",
+  "question": "What does the passage say Thoreau called his mornings of sitting in his doorway doing nothing?",
+  "options": [
+    { "text": "Deliberate solitude", "correct": false },
+    { "text": "A kind of work", "correct": true },
+    { "text": "The resting state", "correct": false },
+    { "text": "Prosoche", "correct": false }
+  ]
+}

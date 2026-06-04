@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Thoreau kept a journal for twenty-four years — nearly two million words — yet he distilled his Walden experiment into a single directive: 'I went to the woods because I wished to live deliberately.' The word 'deliberately' is doing heavy lifting. It derives from the Latin libra, a scale, suggesting careful weighing. Thoreau was not fleeing society but calibrating the ratio between input and attention. At Walden, he eliminated inputs — visitors, commerce, small talk — until what remained could be weighed properly. The Pond itself appears in the journal as a kind of mirror: perfectly still water reveals the sky only when the surface is undisturbed.",
+  "question": "What does the passage say is the Latin root behind Thoreau's word 'deliberately'?",
+  "options": [
+    { "text": "Libertas, meaning freedom", "correct": false },
+    { "text": "Liber, meaning book or record", "correct": false },
+    { "text": "Libra, meaning a scale", "correct": true },
+    { "text": "Delibero, meaning to weigh options quickly", "correct": false }
+  ]
+}

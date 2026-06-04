@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James, writing in 1890, described consciousness not as a chain of discrete beads but as a river — something he called the 'stream of consciousness.' The metaphor was deliberate. A river has currents, eddies, and backflows; it is never the same twice, yet it remains recognizably itself. James argued that every thought arrives already tinged by what came before it, and that separating one mental state from another is as artificial as drawing a line across flowing water. He called the transitional moments between stable thoughts 'the fringe' — the felt sense of where a thought is heading before it fully arrives.",
+  "question": "What did William James call the transitional moments between stable thoughts?",
+  "options": [
+    { "text": "The current", "correct": false },
+    { "text": "The stream", "correct": false },
+    { "text": "The fringe", "correct": true },
+    { "text": "The interval", "correct": false }
+  ]
+}

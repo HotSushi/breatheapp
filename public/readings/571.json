@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Simone Weil, the French philosopher and mystic, argued that attention is not concentration — a common confusion. Concentration involves muscular effort and a furrowing of the brow, a kind of mental clenching that actually closes the mind. True attention, by contrast, is a waiting: the mind holds itself empty, ready, available. In her 1942 essay 'Reflections on the Right Use of School Studies,' Weil described attention as the suspension of thought, leaving the mind detached and blank yet permeable — like a still pool rather than a clenched fist. This emptying, not filling, is where genuine understanding enters.",
+  "question": "According to Weil, what distinguishes true attention from mere concentration?",
+  "options": [
+    { "text": "Attention requires greater mental effort than concentration", "correct": false },
+    { "text": "Attention involves muscular relaxation while concentration uses the breath", "correct": false },
+    { "text": "Attention is a receptive waiting whereas concentration is a muscular clenching that closes the mind", "correct": true },
+    { "text": "Attention is reserved for spiritual practice while concentration serves intellectual work", "correct": false }
+  ]
+}

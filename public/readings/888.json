@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Drew Leder, in The Absent Body, observes that the healthy body tends to disappear from awareness during skilled engagement. A pianist at peak performance does not attend to fingers but through them to the music. Leder calls this 'bodily disappearance' — the body becomes transparent precisely when it is functioning well. But disruption, pain, or the glare of a smartphone notification causes the body to 'dys-appear': it retrudes into awareness as an obstacle. Reclaiming attention after digital interruption is therefore not merely a cognitive task; it requires the body to re-achieve transparency — to settle back into the absorbed, self-effacing posture that sustains focused perception.",
+  "question": "What does Leder call the phenomenon where the body retreats from awareness during skilled engagement?",
+  "options": [
+    { "text": "Motor intentionality", "correct": false },
+    { "text": "Embodied simulation", "correct": false },
+    { "text": "Sensorimotor contingency", "correct": false },
+    { "text": "Bodily disappearance", "correct": true }
+  ]
+}

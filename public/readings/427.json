@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Tristan Harris introduced the concept of 'time well spent' as an alternative design philosophy to engagement-maximizing metrics. The conventional measure of product success \u2014 time on screen \u2014 treats all minutes as equal. Harris argued that ten minutes absorbed in a meaningful conversation is categorically different from ten minutes trapped in a compulsive scroll. He proposed that platforms audit their features against users' own stated values: if people consistently report regretting a behavior after doing it, that is evidence the design is working against them. The distinction is between engagement that the user chose and engagement the interface manufactured.",
+  "question": "What test does Harris propose for whether a platform feature works against users?",
+  "options": [
+    {
+      "text": "Whether users consistently report regretting the behavior after doing it",
+      "correct": true
+    },
+    {
+      "text": "Whether the feature generates more time on screen than comparable apps",
+      "correct": false
+    },
+    {
+      "text": "Whether the feature was designed primarily to serve advertiser interests",
+      "correct": false
+    },
+    {
+      "text": "Whether users can accurately estimate how much time they spend on it",
+      "correct": false
+    }
+  ]
+}

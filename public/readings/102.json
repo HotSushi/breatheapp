@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Meditations were never meant to be published. Marcus Aurelius wrote them in Greek, for himself alone, as a private exercise in self-correction. Scholars call the work hypomnemata — a personal philosophical notebook. Each entry is less an argument than a reminder: Aurelius catching himself drifting from Stoic principles and pulling himself back. What makes the text extraordinary is precisely this vulnerability. The most powerful man in the Roman world is visible here chiding himself for impatience, vanity, and distraction — proving that self-observation is not a beginner's practice but a lifelong discipline.",
+  "question": "What does the passage identify as the scholarly term for the type of personal notebook Aurelius used?",
+  "options": [
+    { "text": "Premeditatio", "correct": false },
+    { "text": "Hypomnemata", "correct": true },
+    { "text": "Aphorismata", "correct": false },
+    { "text": "Enchiridion", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Task-switching costs are well-documented: studies by David Meyer and Joshua Rubinstein at the University of Michigan found that shifting between tasks can consume up to 40 percent of productive time through what they called mental gear-switching. Less discussed is the reciprocal finding — that even a brief transition ritual before switching tasks can reduce this cost substantially. In studies of surgical residents, a simple 30-second pause-and-reset protocol between procedures reduced procedural errors by measurable margins. The pause is not wasted time; it is the time the brain needs to release one context, close its open loops, and arrive at the next task with fresh attentional resources rather than residual cognitive debt.",
+  "question": "According to Meyer and Rubinstein's research, how much productive time can task-switching consume through mental gear-switching?",
+  "options": [
+    { "text": "Up to 20 percent", "correct": false },
+    { "text": "Up to 30 percent", "correct": false },
+    { "text": "Up to 40 percent", "correct": true },
+    { "text": "Up to 55 percent", "correct": false }
+  ]
+}

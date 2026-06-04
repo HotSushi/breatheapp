@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The e-reading versus print debate is less about technology than about environmental cues. Researcher Anne Mangen found that readers of print texts significantly outperformed e-reader users on narrative reconstruction — they remembered plot events in correct sequence and with greater detail. Her explanation was spatial: a physical book provides a proprioceptive map of the text. Readers know approximately where in the body of the book a passage lives. This tactile orientation, absent in scrollable interfaces, appears to anchor memory encoding. The book's weight and thickness are not ornamental features; they are part of the cognitive apparatus of deep reading.",
+  "question": "How did Anne Mangen explain why print readers outperformed e-reader users at narrative reconstruction?",
+  "options": [
+    { "text": "Print text uses fonts optimized for the visual cortex.", "correct": false },
+    { "text": "Print readers tend to read more slowly as a learned habit.", "correct": false },
+    { "text": "Physical books provide a proprioceptive spatial map that anchors memory encoding.", "correct": true },
+    { "text": "E-readers produce blue light that impairs long-term memory consolidation.", "correct": false }
+  ]
+}

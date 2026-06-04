@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The default mode network does not work alone. It forms one node in a broader architecture that includes the executive control network and the salience network, which decides which of the two deserves resources at any moment. Cognitive neuroscientist Vinod Menon describes the salience network — anchored in the anterior insula and anterior cingulate cortex — as the brain's switching mechanism. Rest matters partly because it allows the salience network to recalibrate: after sustained focus, it loses precision, treating low-priority signals as urgent. A fatigued salience network is why everything feels equally important and nothing gets done.",
+  "question": "According to the passage, what happens to the salience network after sustained focus?",
+  "options": [
+    { "text": "It deactivates entirely, handing control to the default mode network.", "correct": false },
+    { "text": "It strengthens its connections with the executive control network.", "correct": false },
+    { "text": "It loses precision, treating low-priority signals as urgent.", "correct": true },
+    { "text": "It shifts its anchor point from the insula to the prefrontal cortex.", "correct": false }
+  ]
+}

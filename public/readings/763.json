@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The hippocampus — the brain's primary site of memory consolidation — is one of only two regions in the adult brain capable of neurogenesis, the birth of entirely new neurons. For decades, scientists assumed this process was fixed at birth. Researcher Fernando Nottebohm's work on songbirds in the 1980s cracked that assumption open, and subsequent studies by Fred Gage at the Salk Institute confirmed it in mammals. What's striking is that hippocampal neurogenesis is not automatic: it requires stimulation. Aerobic exercise is among the most reliable triggers identified, producing new neurons that integrate into existing memory circuits within weeks of regular training.",
+  "question": "According to the passage, what makes hippocampal neurogenesis notable compared to other brain regions?",
+  "options": [
+    { "text": "It was first documented in the prefrontal cortex", "correct": false },
+    { "text": "It occurs only during childhood development", "correct": false },
+    { "text": "It happens automatically without any external stimulation", "correct": false },
+    { "text": "The hippocampus is one of only two adult brain regions capable of producing new neurons", "correct": true }
+  ]
+}

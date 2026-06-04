@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Cognitive scientists studying expertise have documented a phenomenon called 'inattentional blindness' — the failure to perceive unexpected stimuli when attention is narrowed by task-focus. Daniel Simons and Christopher Chabris made the effect famous with their 1999 gorilla experiment: subjects focused on counting basketball passes missed a figure in a gorilla suit walking through the scene. Zen beginner's mind addresses exactly this failure mode. The practitioner is trained not to narrow attention prematurely — to resist the efficiency of tunnel focus in favor of what the tradition calls 'wide-angle awareness.' The gorilla you miss is always the thing you didn't know you needed to see.",
+  "question": "What did the Simons and Chabris gorilla experiment demonstrate, as described in the passage?",
+  "options": [
+    { "text": "That focused attention improves recall of task-relevant information.", "correct": false },
+    { "text": "That wide-angle awareness is achievable only through Zen training.", "correct": false },
+    { "text": "That narrowed task-focus can cause people to miss entirely unexpected stimuli.", "correct": true },
+    { "text": "That inattentional blindness is a uniquely human perceptual limitation.", "correct": false }
+  ]
+}

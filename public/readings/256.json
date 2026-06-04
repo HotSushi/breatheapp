@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Anxious scrolling and compassion operate through opposing neural circuits. Neuroscientist Tania Singer's fMRI studies at the Max Planck Institute found that empathic distress — sharing another's pain without resolution — activates the anterior insula and the threat-detection network, producing burnout. Compassion training, by contrast, activates the medial orbitofrontal cortex and dopaminergic reward circuits, producing what Singer calls 'resilient concern.' This is why scrolling through distressing news for hours does not feel like compassion even when motivated by social concern: it rehearses distress without engaging the motivational system that actually generates caring action.",
+  "question": "What does Tania Singer's research identify as the neural difference between empathic distress and compassion?",
+  "options": [
+    { "text": "Empathic distress uses more oxygen; compassion conserves metabolic resources.", "correct": false },
+    { "text": "Empathic distress activates threat-detection circuits; compassion activates reward circuits, producing resilient concern.", "correct": true },
+    { "text": "Compassion requires greater cognitive effort and engages the dorsolateral prefrontal cortex.", "correct": false },
+    { "text": "Both activate identical circuits, but compassion is sustained for longer durations.", "correct": false }
+  ]
+}

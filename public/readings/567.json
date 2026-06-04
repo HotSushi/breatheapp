@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James wrote at a moment when industrial civilization was beginning to fragment attention in ways the pre-modern world had not. Newspapers, telegraphs, and urban noise competed for a cognitive resource that had evolved in quieter conditions. He feared a cultural drift toward passive attention — a population increasingly responsive to stimulation rather than purposeful in choosing where to look. His concern looks prophetic from the vantage of the digital age. The attention economy, built to harvest involuntary attention at scale, is precisely the force James described a century before it existed. His prescription remains the same: cultivate the voluntary, and treat each return of attention as a small act of freedom.",
+  "question": "What did James fear would result from the increasing stimulation of industrial civilization?",
+  "options": [
+    { "text": "A decline in derived interest and long-form reading", "correct": false },
+    { "text": "A weakening of the prefrontal cortex's regulatory capacity", "correct": false },
+    { "text": "A cultural drift toward passive rather than voluntary attention", "correct": true },
+    { "text": "An overreliance on habit rather than deliberate judgment", "correct": false }
+  ]
+}

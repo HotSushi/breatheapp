@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Prospective memory failures are not random — they cluster around transitions. You forget to take the pill when you leave the kitchen; you forget to post the letter when you exit the house. These are boundary failures, and they arise because the brain uses spatial and temporal context as a retrieval scaffold. When context shifts, the cues associated with an intention can become temporarily inaccessible. Gabriel Radvansky's event segmentation theory helps explain this: each bounded episode in experience is stored as a coherent 'event model,' and crossing a boundary triggers an update that can suppress information from the prior episode — the cognitive mechanism behind the famous 'doorway effect.'",
+  "question": "What does Gabriel Radvansky's event segmentation theory suggest causes boundary-related memory failures?",
+  "options": [
+    { "text": "Spatial anxiety disrupts the hippocampus during transitions.", "correct": false },
+    { "text": "Working memory is overloaded by new environmental stimuli.", "correct": false },
+    { "text": "Crossing a boundary triggers an update that can suppress prior episode information.", "correct": true },
+    { "text": "The prefrontal cortex deprioritizes intentions when locomotion begins.", "correct": false }
+  ]
+}

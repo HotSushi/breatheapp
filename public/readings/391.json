@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1979, John Flavell coined the term \"metacognition\" to describe thinking about one's own thinking — the capacity to monitor, evaluate, and regulate cognitive processes from a kind of internal balcony. Flavell distinguished between metacognitive knowledge (what you know about how minds work) and metacognitive monitoring (watching your own mind in real time). Most people conflate the two, assuming that knowing attention is limited automatically produces the skill of watching it. It does not. A student who can explain the limits of working memory in a lecture may still read three pages without registering a single word, because knowing and monitoring are separate cognitive systems.",
+  "question": "According to Flavell, what is the key distinction in his theory of metacognition?",
+  "options": [
+    { "text": "The difference between short-term and long-term memory storage", "correct": false },
+    { "text": "The separation between metacognitive knowledge and metacognitive monitoring", "correct": true },
+    { "text": "The gap between conscious intention and unconscious habit", "correct": false },
+    { "text": "The contrast between verbal reasoning and spatial reasoning", "correct": false }
+  ]
+}

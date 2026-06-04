@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "David Chalmers sharpened Nagel's insight into what he called the 'hard problem of consciousness': explaining not just why the brain processes information (the 'easy problems') but why any of that processing is accompanied by subjective experience at all. The easy problems — attention, memory integration, verbal reporting — are not trivial, but they yield, in principle, to functional explanation. The hard problem does not. Why should electrical activity in the visual cortex produce the vivid redness of a rose rather than occurring in the dark? That question, Chalmers argued, remains open even after every neural mechanism is mapped.",
+  "question": "According to Chalmers, what makes the 'hard problem' of consciousness distinct from the 'easy problems'?",
+  "options": [
+    { "text": "The hard problem involves more complex neural circuits than the easy problems", "correct": false },
+    { "text": "The easy problems are unsolvable, while the hard problem can be addressed with better instruments", "correct": false },
+    { "text": "The easy problems can be solved by explaining functions, but the hard problem asks why processing is accompanied by subjective experience at all", "correct": true },
+    { "text": "The hard problem concerns attention and memory, while easy problems concern visual perception", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The image of the lone genius — Mozart composing at age four, Einstein intuiting relativity on a tram — has always been seductive and largely fictional. Michael Howe's study of biographical records found that even those classified as prodigies showed the same pattern Ericsson identified in ordinary experts: years of concentrated, guided practice before any notable achievement. Mozart's early compositions, his father Leopold's letters reveal, were heavily corrected and supervised. Einstein's special relativity paper, published at twenty-six, followed years of intense thought experiments he had conducted since adolescence. The genius myth flatters observers and discourages learners. The deliberate practice model is less romantic but far more useful: it offers a mechanism, not a mystery.",
+  "question": "What does the passage cite as evidence that Mozart's early compositions do not support the lone-genius myth?",
+  "options": [
+    { "text": "Mozart's early works were later found to have been composed collaboratively with other musicians", "correct": false },
+    { "text": "His father Leopold's letters reveal the compositions were heavily corrected and supervised", "correct": true },
+    { "text": "Musicologists have dated his first original works to age eight, not age four as traditionally claimed", "correct": false },
+    { "text": "His famous early pieces were arrangements of existing melodies rather than original compositions", "correct": false }
+  ]
+}

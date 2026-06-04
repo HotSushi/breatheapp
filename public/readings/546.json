@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Montaigne kept a private motto painted on the beams of his study ceiling: 'Que sais-je?' — What do I know? This epistemic humility was not decorative. It was a trigger for what psychologists now call metacognitive monitoring — pausing to audit confidence before committing to an opinion. The crowd, Montaigne observed, moves by contagion; its beliefs spread not through argument but through social pressure and repetition. Withdrawing the mind from the crowd meant, practically, suspending borrowed certainties long enough to ask whether they had been examined at all.",
+  "question": "According to the passage, how did Montaigne use the motto 'Que sais-je?' functionally?",
+  "options": [
+    { "text": "As a reminder to read more widely before forming opinions", "correct": false },
+    { "text": "As a trigger to audit confidence before committing to an opinion", "correct": true },
+    { "text": "As a sign of intellectual modesty toward his readers", "correct": false },
+    { "text": "As a defense against critics who questioned his learning", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Neurologist Ann Graybiel's MIT lab demonstrated in the 1990s that rats navigating a maze initially showed diffuse neural activity throughout the brain. As the route became habitual, activity collapsed into a brief spike at the maze's start and another at its end — the basal ganglia had compressed the entire sequence. Graybiel called this process 'chunking': the brain bundles a chain of actions into one automated unit to conserve cognitive energy. This efficiency is a feature, not a flaw. But it also explains why habitual behaviors feel effortless and invisible — they run below the threshold of conscious awareness, making them remarkably resistant to deliberate change.",
+  "question": "What did Graybiel's rat maze experiments reveal about neural activity as behavior becomes habitual?",
+  "options": [
+    { "text": "Activity spread across more brain regions as the route was memorized", "correct": false },
+    { "text": "The prefrontal cortex took over primary control of the sequence", "correct": false },
+    { "text": "Activity compressed into brief spikes at the start and end of the sequence", "correct": true },
+    { "text": "The hippocampus replaced the basal ganglia as the dominant structure", "correct": false }
+  ]
+}

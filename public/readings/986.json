@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Collective attention is not simply the sum of individual attentions. Network scientists studying citation patterns and viral content have found that attention cascades exhibit 'superlinear' scaling: once a piece of content crosses a threshold of early adopters, each additional share increases the probability of the next share, creating explosive growth disconnected from the content's actual quality or truth value. Biologist Robert Trivers called a related dynamic 'runaway selection' in evolutionary contexts. Online, the runaway dynamic selects not for fitness but for emotional resonance — a process that systematically amplifies the most alarming, shaming, or tribally validating content.",
+  "question": "What does the passage identify as the primary driver of content in a 'superlinear' attention cascade?",
+  "options": [
+    { "text": "The verified accuracy of the information being shared", "correct": false },
+    { "text": "The number of early adopters who share it in the first hour", "correct": false },
+    { "text": "The content's quality relative to competing posts", "correct": false },
+    { "text": "Emotional resonance, favoring alarming, shaming, or tribally validating content", "correct": true }
+  ]
+}

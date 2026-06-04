@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Daniel Dennett argues that the self is not a fixed entity residing in the brain but a \"center of narrative gravity\" — a fictional point around which stories about our experience cohere. Just as a physical center of gravity is a useful abstraction rather than a thing you can touch, the narrative self is a useful fiction the brain constructs to make sense of disparate experiences. The danger, Dennett suggests, is mistaking this abstraction for a real agent. When we over-identify with our narrative, we defend it compulsively, attending only to information that confirms the story and filtering out everything that challenges it.",
+  "question": "According to Dennett, what does over-identifying with the narrative self cause us to do?",
+  "options": [
+    { "text": "Develop a more coherent sense of personal identity over time", "correct": false },
+    { "text": "Lose access to unconscious memories stored in the brain", "correct": false },
+    { "text": "Attend only to information that confirms our story, filtering out challenges", "correct": true },
+    { "text": "Confuse the physical brain with abstract cognitive processes", "correct": false }
+  ]
+}

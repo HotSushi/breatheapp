@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Intermittent fasting has complicated the simple equation of 'more glucose equals better thinking.' During a fast, the liver converts fatty acids into ketone bodies — primarily beta-hydroxybutyrate — which neurons can use as an alternative fuel. Neuroscientist Mark Mattson at the NIH found that ketones provide a cleaner, more efficient energy source than glucose for certain cognitive tasks, producing fewer reactive oxygen species as metabolic byproducts. Brief fasting periods also elevate BDNF, the growth factor that promotes neuroplasticity. The insight is counterintuitive: withholding food intermittently may sharpen the brain precisely because it forces a metabolic shift away from glucose dependency.",
+  "question": "According to the passage, what metabolic advantage do ketone bodies offer compared to glucose as brain fuel?",
+  "options": [
+    { "text": "They cross the blood-brain barrier more slowly, extending energy delivery", "correct": false },
+    { "text": "They produce fewer reactive oxygen species as metabolic byproducts", "correct": true },
+    { "text": "They are synthesized directly in neurons without liver involvement", "correct": false },
+    { "text": "They enhance insulin sensitivity in the prefrontal cortex", "correct": false }
+  ]
+}

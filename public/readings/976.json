@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Philosopher Michael Goldhaber argued in 1997 that we were transitioning from a material economy to an attention economy — and that this shift was as consequential as the industrial revolution. In a world where information is abundant, what becomes scarce and therefore valuable is the human capacity to notice. Goldhaber predicted that attention would become the primary currency of social and economic life, that those who commanded it would accumulate power, and that those who fragmented it would impoverish themselves. His framework explains why influencer culture, viral content, and outrage-driven media all converge on the same mechanism: the competitive capture of a finite human resource.",
+  "question": "What did Michael Goldhaber predict would become the primary currency of economic and social life?",
+  "options": [
+    { "text": "Data, as the raw material of the information economy", "correct": false },
+    { "text": "Influence, measured by follower counts and engagement rates", "correct": false },
+    { "text": "Human attention, as the scarce resource in an information-abundant world", "correct": true },
+    { "text": "Creative content, which compounds in value as information spreads", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Giulio Tononi's Integrated Information Theory proposes a radical answer to the hard problem: consciousness is identical to integrated information, measured by the quantity phi. A system is conscious to the degree that its parts generate more information together than they do separately. This definition does not privilege biology — a sufficiently complex network of any material could, in principle, be conscious. But it also implies counterintuitive results: a photodiode has a vanishingly small but nonzero phi, while certain simple feedforward neural networks, despite their processing power, may have near-zero consciousness. For Tononi, the structure of integration, not the substrate, is what gives rise to experience.",
+  "question": "According to Tononi's Integrated Information Theory, what determines whether a system is conscious?",
+  "options": [
+    { "text": "Whether the system is made of biological neurons capable of firing action potentials", "correct": false },
+    { "text": "The degree to which its parts generate more information together than separately, measured as phi", "correct": true },
+    { "text": "The total number of distinct states the system can represent in working memory", "correct": false },
+    { "text": "Whether the system can pass a behavioral test for self-awareness", "correct": false }
+  ]
+}

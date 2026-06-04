@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Talmudic concept of bitul Torah — the sin of wasted Torah study time — reveals how seriously the rabbis treated the ethics of attention. Any hour not devoted to study was not merely idle; it was a depletion of something communal. This was not asceticism but a sophisticated theory of collective knowledge. The Talmud imagined wisdom as a living corpus that requires continuous human attention to remain vital. When individuals allow their focus to collapse into distraction, the tradition itself loses density. Rabbi Akiva, who began study at forty, embodied the counter-argument: no moment of desisting is irreversible, but no moment of engagement is wasted.",
+  "question": "According to the passage, what did the concept of bitul Torah treat wasted study time as?",
+  "options": [
+    { "text": "A depletion of something communal", "correct": true },
+    { "text": "A personal sin requiring ritual atonement", "correct": false },
+    { "text": "An invitation to rest before resuming more focused work", "correct": false },
+    { "text": "A sign that the student lacked sufficient natural talent", "correct": false }
+  ]
+}

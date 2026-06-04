@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Neuroscientist Maryanne Wolf describes deep reading as a cognitive luxury the brain was never evolutionarily designed to perform — it requires the visual cortex, language centers, and frontal lobe to collaborate in a circuit assembled through years of practice. When this circuit fires during sustained literary reading, it activates the same default mode network associated with introspection and empathy. Wolf warns that habitual skimming reorganizes this circuit, training the brain to extract information rather than inhabit meaning. The silent meditation of a serious novel is not passive reception but an act of neurological construction.",
+  "question": "According to Wolf, what happens to the brain's reading circuit when a person habitually skims?",
+  "options": [
+    { "text": "It strengthens the default mode network for deeper empathy.", "correct": false },
+    { "text": "It shifts activity away from the frontal lobe entirely.", "correct": false },
+    { "text": "It reorganizes the circuit toward extracting information rather than inhabiting meaning.", "correct": true },
+    { "text": "It reduces collaboration between the visual cortex and language centers.", "correct": false }
+  ]
+}

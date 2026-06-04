@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher Albert Borgmann introduced the concept of 'device paradigm' to describe how modern technology hides its inner workings behind a seamless interface, severing people from the effort and attention that once gave activities meaning. A smartphone delivers music, navigation, and social contact without requiring the focal practices — learning, navigating, conversing — that historically shaped human competence. Borgmann argued this concealment was not neutral: when a device removes the need for engaged skill, it also removes the occasions for presence and depth. Connectivity, paradoxically, becomes a mechanism for a subtler form of absence.",
+  "question": "What does Borgmann mean by 'device paradigm' in the context of the passage?",
+  "options": [
+    { "text": "The tendency of devices to malfunction when overloaded with tasks", "correct": false },
+    { "text": "The pattern by which devices hide their workings and sever users from meaningful engagement", "correct": true },
+    { "text": "The design principle that makes smartphones addictive through variable rewards", "correct": false },
+    { "text": "The social norm that requires people to be reachable at all times", "correct": false }
+  ]
+}

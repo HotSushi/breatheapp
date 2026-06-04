@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucius compared inadequate self-cultivation to an unfinished earthwork: \"If I stop when the work is one basketful short of completion, it is I who stop.\" The metaphor is architectural — a mound not quite complete remains a hole. Progress not consolidated is progress lost. This anticipates what psychologists call the completion effect: unfinished tasks linger in working memory, consuming attentional resources until resolved. The Confucian student was expected to carry each lesson to genuine closure — not to the end of a session but to the point where the material could be reproduced without the teacher present.",
+  "question": "What does Confucius's earthwork metaphor illustrate about self-cultivation?",
+  "options": [
+    {
+      "text": "That effort must be distributed evenly across all tasks",
+      "correct": false
+    },
+    {
+      "text": "That physical labor builds the discipline needed for study",
+      "correct": false
+    },
+    {
+      "text": "That progress not consolidated to completion is progress lost",
+      "correct": true
+    },
+    {
+      "text": "That teachers should set high and exacting standards",
+      "correct": false
+    }
+  ]
+}

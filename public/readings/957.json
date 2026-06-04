@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Historian Tony Judt, writing while paralyzed by ALS, described his method of composing long essays entirely in his head overnight — holding the full arc of an argument in working memory until morning. This practice, once common among scholars trained before word processors, is now nearly inconceivable. Researchers studying writing processes find that constant access to external storage — notes, drafts, search — atrophies the internal rehearsal capacity that sustained extended argument. When cognition is permanently offloaded, the mind loses not just the habit of holding ideas but the architecture required to sequence them across time.",
+  "question": "What cognitive capacity does the passage say is atrophied by constant offloading to external storage?",
+  "options": [
+    { "text": "The ability to retrieve and cite factual information accurately", "correct": false },
+    { "text": "Internal rehearsal capacity that sustained extended argument", "correct": true },
+    { "text": "The speed of initial idea generation and creative association", "correct": false },
+    { "text": "The ability to evaluate sources for credibility and bias", "correct": false }
+  ]
+}

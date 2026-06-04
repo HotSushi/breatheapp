@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The business model of the modern web was not designed for distraction — it evolved toward it. Early online advertising simply replicated print: a banner in a margin, easily ignored. Click-through rates collapsed within years. Platforms learned that engagement, measured in time-on-site and return visits, was the only reliable proxy for ad revenue. This created a selection pressure: features that held attention survived; features that did not were cut. The result was an ecosystem shaped less by human intention than by the cold logic of optimization — a digital environment that emerged to capture minds because capturing minds paid.",
+  "question": "According to the passage, why did online platforms evolve toward attention-capturing features?",
+  "options": [
+    { "text": "Engagement metrics like time-on-site were the most reliable proxies for ad revenue", "correct": true },
+    { "text": "Platform designers intentionally set out to addict users from the start", "correct": false },
+    { "text": "Early banner advertising was too profitable to abandon quickly", "correct": false },
+    { "text": "Regulators required platforms to maximize user engagement", "correct": false }
+  ]
+}

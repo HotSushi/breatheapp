@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Laozi describes the ideal ruler as one whose people say, 'We did it ourselves' — governance so attuned to natural conditions that its action is invisible. This is wu wei applied to leadership, but the same logic governs inner governance of the mind. Forcing attention onto a task produces what researchers call 'ironic process theory,' documented by Daniel Wegner: the effort to suppress a thought reliably strengthens it, because suppression itself requires monitoring for the unwanted content. To not think of a white bear, you must first think of a white bear. Laozi's invisible ruler understood: the mind that commands without grasping commands best.",
+  "question": "What does Daniel Wegner's ironic process theory, as described in the passage, explain?",
+  "options": [
+    { "text": "That positive visualization strengthens desired outcomes", "correct": false },
+    { "text": "That suppressing a thought strengthens it by requiring monitoring for the unwanted content", "correct": true },
+    { "text": "That unconscious processes outperform deliberate reasoning on complex decisions", "correct": false },
+    { "text": "That attention naturally gravitates toward emotionally salient stimuli", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Charles Darwin protected his creative blocks with almost military discipline. Each morning he worked from 8 to 9:30, then took a walk on what he called his 'thinking path' before returning for a second session until noon. Afternoons were left for correspondence and visitors — what we would now call manager time. Darwin's diary reveals that he was acutely aware of the difference between time spent thinking and time spent communicating. He guarded the former not out of misanthropy but out of a precise understanding that his output — ideas that reshaped biology — required a specific kind of solitude that social exchange could not merely interrupt but actually prevent.",
+  "question": "What does Darwin's diary reveal about his reason for guarding morning blocks of work?",
+  "options": [
+    { "text": "He found social interaction personally exhausting and needed recovery time.", "correct": false },
+    { "text": "He believed mornings had better light for reading and writing.", "correct": false },
+    { "text": "He understood that social exchange could not merely interrupt but actually prevent deep thinking.", "correct": true },
+    { "text": "His doctor advised him to limit afternoon intellectual effort to protect his health.", "correct": false }
+  ]
+}

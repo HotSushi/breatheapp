@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In 1998, Andy Clark and David Chalmers published a paper that quietly detonated a bomb under cognitive science. They asked a disarmingly simple question: if a process in the brain counts as part of cognition, why not a process outside it? Their thought experiment features Otto, a man with Alzheimer's who relies on a notebook to remember where the museum is. Inga, by contrast, retrieves the same information from biological memory. Clark and Chalmers argued that Otto's notebook plays the same functional role as Inga's hippocampus — and therefore deserves the same cognitive status. Mind, they proposed, is not skin-bound.",
+  "question": "According to Clark and Chalmers, why does Otto's notebook deserve cognitive status equal to Inga's biological memory?",
+  "options": [
+    { "text": "Because Otto consults it more frequently than Inga consults her own memory", "correct": false },
+    { "text": "Because written records are more reliable than biological storage", "correct": false },
+    { "text": "Because it performs the same functional role in guiding Otto's behavior as Inga's hippocampus performs for her", "correct": true },
+    { "text": "Because Alzheimer's disease destroys all internal cognitive processes", "correct": false }
+  ]
+}

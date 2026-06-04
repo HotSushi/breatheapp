@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cognitive offloading is the practice of externalizing mental content — lists, schedules, ideas — onto the environment to free working memory for deeper processing. David Allen's Getting Things Done system is essentially a cognitive offloading architecture: by capturing every commitment in a trusted external system, the mind is relieved of the duty to remember and can instead focus. Neuroscientist Russ Poldrack's research shows that the prefrontal cortex, which manages goal-directed attention, is easily saturated. When it must simultaneously track unresolved items and perform analytical work, performance on both degrades. Offloading is not laziness — it is the deliberate reallocation of scarce neural resources.",
+  "question": "According to the passage, what does Russ Poldrack's research reveal about the prefrontal cortex?",
+  "options": [
+    { "text": "It performs best when multitasking between memory retrieval and analysis", "correct": false },
+    { "text": "It is easily saturated, and tracking unresolved items while doing analytical work degrades both", "correct": true },
+    { "text": "It can be trained to ignore distractions through repeated offloading exercises", "correct": false },
+    { "text": "It only activates when tasks are captured in an external system", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Leon Festinger's 1954 theory of social comparison proposed that humans have a drive to evaluate their own opinions and abilities by comparing themselves to others. In stable, local communities, such comparisons were bounded — you measured yourself against neighbors and colleagues you knew intimately. Social media obliterates that bound. You now compare yourself not to your neighbor but to the most successful person in your field globally, the most attractive person your algorithm has surfaced, the most adventurous traveler it found. The reference group has expanded to billions, guaranteeing that almost everyone falls near the bottom of almost every distribution.",
+  "question": "What problem with social comparison does the passage identify as unique to social media?",
+  "options": [
+    { "text": "Social media encourages comparisons based on personality rather than achievement.", "correct": false },
+    { "text": "Festinger's theory was developed before social media existed and no longer applies.", "correct": false },
+    { "text": "Social media replaces authentic self-evaluation with algorithmic feedback.", "correct": false },
+    { "text": "The reference group has expanded to billions, placing nearly everyone near the bottom of most distributions.", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus uses the metaphor of an actor to explain what is ours. The role — hero or beggar, long or short — is assigned by the author of the play. Our business is to perform whatever role we are given with full commitment and skill. The actor who refuses a minor role on the grounds that he deserves a grander one has confused the performance with the performer. What is ours is the quality of the performance; what is not ours is the script. This metaphor extends to social roles: the Stoic does not resent being born poor, ill, or obscure, because excellence of character is available in every role equally.",
+  "question": "In Epictetus's actor metaphor, what specifically belongs to 'what is ours'?",
+  "options": [
+    { "text": "Choosing which role to play in the performance", "correct": false },
+    { "text": "The quality and commitment of the performance itself", "correct": true },
+    { "text": "Determining the length and content of the play", "correct": false },
+    { "text": "Selecting the audience that will witness the performance", "correct": false }
+  ]
+}

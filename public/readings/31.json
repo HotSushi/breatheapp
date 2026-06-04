@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "George Miller's landmark 1956 paper, 'The Magical Number Seven, Plus or Minus Two,' proposed that working memory holds roughly seven discrete items at once. Later research by Nelson Cowan revised this estimate downward to four chunks — and critically, only if those chunks aren't disrupted by interference. Working memory isn't a passive storage bin; it's an active workspace maintained by sustained neural firing in the prefrontal cortex. The moment attention shifts, that firing degrades and items vanish. This is why interruptions don't merely pause thinking — they erase it. The cost isn't the seconds lost; it's the reconstructed scaffolding.",
+  "question": "According to the passage, what happens to working memory contents when attention shifts?",
+  "options": [
+    { "text": "The neural firing that sustains them degrades and they vanish", "correct": true },
+    { "text": "They are transferred to long-term memory for safekeeping", "correct": false },
+    { "text": "They are compressed into fewer but denser chunks", "correct": false },
+    { "text": "They persist briefly before fading over several minutes", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Zen tradition treats 'returning' not as a failure to be corrected but as the practice itself. The koan literature is full of paradox on this point: 'If you meet the Buddha, kill him' undermines the idea that recollection is arrival at a fixed destination. For Dogen, the thirteenth-century Soto founder, continuous practice — shoshin no kokoro — means that each moment of returning IS awakening, not a stepping-stone toward it. The mind that notices it has wandered and returns is not inferior to the mind that never wandered; in noticing, something has already happened that matters more than unbroken concentration.",
+  "question": "According to Dogen's teaching on shoshin no kokoro, what is the status of each moment of returning in practice?",
+  "options": [
+    { "text": "A necessary but preliminary step toward the deeper concentration that constitutes true awakening", "correct": false },
+    { "text": "An imperfection that dedicated practitioners gradually eliminate as their practice matures", "correct": false },
+    { "text": "Each moment of returning IS awakening, not merely a stepping-stone toward it", "correct": true },
+    { "text": "A demonstration of the mind's natural openness, which koan study aims to preserve", "correct": false }
+  ]
+}

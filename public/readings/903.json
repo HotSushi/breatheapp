@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon's scarcity argument carries a hidden implication that most readers miss: the problem is not distraction but competition. Distraction implies a personal failing — a lack of discipline. Competition implies a structural condition — many parties fighting for a limited resource. Simon situated the attention crisis in economics rather than psychology. This distinction matters enormously. When attention is scarce because of competition, individual willpower is an insufficient remedy. The structure of the competition itself must be examined. Who benefits from capturing your attention? What incentives shape the platforms designed to hold it?",
+  "question": "According to the passage, why does framing attention loss as 'competition' rather than 'distraction' matter?",
+  "options": [
+    { "text": "It assigns responsibility to technology companies rather than individuals", "correct": false },
+    { "text": "It suggests that willpower alone cannot solve a structural competition problem", "correct": true },
+    { "text": "It proves that attention scarcity only affects people with poor self-control", "correct": false },
+    { "text": "It shifts attention research from economics back into psychology", "correct": false }
+  ]
+}

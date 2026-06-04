@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In the 1950s, sleep researcher Nathaniel Kleitman — who had earlier discovered REM sleep — noticed that the 90-minute cycles marking deep and light sleep did not vanish when people woke up. They continued throughout the day as what he called the Basic Rest-Activity Cycle, or BRAC. Every 90 minutes or so, the brain completes a full oscillation between focused alertness and a quieter, more diffuse state. Most people override this signal with caffeine or willpower, but the biology persists regardless. The drowsiness, the wandering attention, the urge to stare out a window — these are not failures of discipline. They are the nervous system requesting its scheduled maintenance.",
+  "question": "According to the passage, what did Kleitman call the recurring 90-minute cycles he observed during waking hours?",
+  "options": [
+    { "text": "Circadian alertness intervals", "correct": false },
+    { "text": "The Basic Rest-Activity Cycle", "correct": true },
+    { "text": "REM carryover episodes", "correct": false },
+    { "text": "Ultradian sleep remnants", "correct": false }
+  ]
+}

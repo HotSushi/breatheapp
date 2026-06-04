@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The replication crisis of the 2010s reached ego depletion directly. Evan Carter and Michael McCullough conducted a meta-analysis in 2013 suggesting the published literature on ego depletion was riddled with publication bias. Then in 2016, a massive pre-registered multi-lab replication study involving 2,141 participants found no significant ego depletion effect. The field convulsed. Critics argued the replication had used a weak depletion manipulation; defenders of the null result countered that the original paradigm was simply underpowered noise. What emerged was not a clean refutation but a more honest accounting: the effect may be real but smaller and more context-dependent than its early champions believed.",
+  "question": "What did the 2016 pre-registered multi-lab replication study find regarding ego depletion?",
+  "options": [
+    { "text": "It confirmed ego depletion with greater statistical power than the original studies.", "correct": false },
+    { "text": "It found no significant ego depletion effect across 2,141 participants.", "correct": true },
+    { "text": "It found ego depletion only in participants with low baseline glucose.", "correct": false },
+    { "text": "It proved that publication bias had no impact on the original findings.", "correct": false }
+  ]
+}

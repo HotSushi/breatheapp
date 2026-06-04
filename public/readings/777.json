@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Breakfast timing studies have surfaced a revealing asymmetry: children who eat breakfast perform better on memory and attention tasks in the morning, but the cognitive benefit fades for adults in ways that depend heavily on what was eaten rather than when. A study by Andrew Smith at Cardiff University found that schoolchildren given a glucose drink before testing showed improved recall, while adults showed no significant effect — suggesting the developing brain is more sensitive to acute glycemic shifts. This developmental difference has implications for adult nutrition: for mature brains, consistency of dietary pattern matters more than any single meal's glycemic load.",
+  "question": "According to the passage, what did Andrew Smith's Cardiff University study find about adults given a glucose drink before testing?",
+  "options": [
+    { "text": "Adults showed improved memory recall similar to children", "correct": false },
+    { "text": "Adults showed no significant cognitive effect", "correct": true },
+    { "text": "Adults showed improved attention but not memory", "correct": false },
+    { "text": "Adults performed worse on recall tasks after the glucose drink", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucius described the process of self-cultivation in four ascending stages: investigation of things, extension of knowledge, sincerity of will, rectification of the mind. The sequence matters: you cannot rectify the mind without first sincerely examining the will, and you cannot examine the will without first extending knowledge through direct investigation. This hierarchy mirrors the executive function cascade identified by neuropsychologist Alexander Luria — perception precedes evaluation, which precedes intention, which precedes controlled action. Confucius mapped the same pipeline two thousand years before neuroscience could image it, and drew the same conclusion: shortcuts collapse the structure.",
+  "question": "Why does the sequence of Confucius's four stages of self-cultivation matter, according to the passage?",
+  "options": [
+    {
+      "text": "Each stage corresponds to a different period of life",
+      "correct": false
+    },
+    {
+      "text": "Performing them out of order is considered ritually improper",
+      "correct": false
+    },
+    {
+      "text": "Each stage must be mastered before the next teacher will accept you",
+      "correct": false
+    },
+    {
+      "text": "The later stages require the earlier ones as their foundation",
+      "correct": true
+    }
+  ]
+}

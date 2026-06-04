@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Ancient Stoic philosophers practiced a nightly review they called the \"evening examination\" — Marcus Aurelius recorded his in the Meditations, Seneca described his in letters. The practice was not self-flagellation but inventory: what did I do, what should I have done differently, what remains undone. Modern sleep researchers have identified a physiological mechanism that parallels this ritual. During the hypnagogic state just before sleep, the hippocampus replays the day's events for consolidation. Deliberately reviewing and resolving the day's open threads before this window may influence which memories consolidate and, critically, reduce the intrusive rumination that disrupts sleep onset.",
+  "question": "According to the passage, what is the hypnagogic state and why is it relevant to shutdown practices?",
+  "options": [
+    { "text": "A deep sleep stage during which the prefrontal cortex processes unfinished tasks", "correct": false },
+    { "text": "The state just before sleep, during which the hippocampus replays the day's events for consolidation", "correct": true },
+    { "text": "A meditative state induced by Stoic reflection that reduces cortisol", "correct": false },
+    { "text": "The morning alertness window when working memory is at peak capacity", "correct": false }
+  ]
+}

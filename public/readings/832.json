@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Mihaly Csikszentmihalyi's research into 'flow' identified a paradox of presence: you are most fully in an experience precisely when self-monitoring ceases. In flow, the prefrontal cortex's self-referential activity quiets — a state neuroscientists call transient hypofrontality. The result is what Csikszentmihalyi's subjects repeatedly described as 'merging with the activity,' a dissolution of the boundary between doer and deed. This is not unconsciousness but hyperconscious absorption. Time dilates or vanishes. The self that worries, evaluates, and compares temporarily steps aside, leaving only the clean transaction between attention and world.",
+  "question": "What does Csikszentmihalyi's research suggest happens to self-monitoring when a person enters flow?",
+  "options": [
+    { "text": "It intensifies, producing sharper awareness of one's own performance", "correct": false },
+    { "text": "It ceases, as prefrontal self-referential activity quiets", "correct": true },
+    { "text": "It shifts from verbal to purely visual processing", "correct": false },
+    { "text": "It transfers to the cerebellum, freeing the cortex for the task", "correct": false }
+  ]
+}

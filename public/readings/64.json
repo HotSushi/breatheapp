@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The Zeigarnik effect, named after Soviet psychologist Bluma Zeigarnik, describes the brain's tendency to remember incomplete tasks more vividly than completed ones. Zeigarnik observed in 1927 that waiters could recall complex orders in detail — until the bill was paid, after which the memory dissolved rapidly. Neurologically, open tasks create a persistent activation loop in working memory: the brain keeps them \"hot\" to ensure follow-through. This mechanism, useful for survival, becomes a source of cognitive noise in modern life. Every unresolved commitment occupies attentional bandwidth, quietly competing with whatever you are trying to focus on now.",
+  "question": "According to the passage, why do incomplete tasks persist in working memory?",
+  "options": [
+    { "text": "They are encoded with stronger emotional tags than completed tasks", "correct": false },
+    { "text": "The brain creates a persistent activation loop to ensure follow-through", "correct": true },
+    { "text": "The hippocampus consolidates them more deeply during sleep", "correct": false },
+    { "text": "Incomplete tasks trigger dopamine release that strengthens memory traces", "correct": false }
+  ]
+}

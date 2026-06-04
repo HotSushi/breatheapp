@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Cognitive flexibility — the capacity to shift mental set when circumstances change — depends heavily on dopaminergic signaling in the prefrontal cortex. The PFC operates within a narrow dopamine window: too little and the system becomes rigid and perseverative, stuck in one mode; too much and it becomes overly reactive, switching too readily. This inverted-U relationship, documented by Amy Arnsten at Yale, explains why both stress and boredom impair flexible thinking. Chronic stress floods the PFC with catecholamines that push dopamine above the optimal range, effectively taking the cortex offline. Focused breathing and brief pauses work partly by restoring that dopamine equilibrium.",
+  "question": "According to Amy Arnsten's research described in the passage, what happens to cognitive flexibility when dopamine in the PFC exceeds the optimal range?",
+  "options": [
+    { "text": "The PFC becomes rigid and stuck in one mode of thinking", "correct": false },
+    { "text": "The anterior cingulate compensates by increasing error monitoring", "correct": false },
+    { "text": "Cognitive flexibility improves temporarily before declining sharply", "correct": false },
+    { "text": "The PFC becomes overly reactive, switching mental sets too readily", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In 1984, environmental psychologist Roger Ulrich published a landmark study in Science: surgical patients whose windows faced a stand of trees recovered faster, required less pain medication, and received fewer negative nursing notes than those facing a brick wall. The finding was startling in its simplicity. Nature was not merely pleasant — it was pharmacologically active. Ulrich proposed that natural scenes trigger an affective response in ancient subcortical circuits, bypassing the slower cortical evaluation system. The body interprets foliage, water, and open sky as signals of safety, lowering cortisol and shifting the autonomic nervous system toward parasympathetic dominance before conscious appreciation even registers.",
+  "question": "According to Ulrich's model, how does the body process natural scenes relative to conscious thought?",
+  "options": [
+    { "text": "Natural scenes require cortical evaluation before triggering a physiological response", "correct": false },
+    { "text": "The body's response to nature depends on prior positive associations with outdoor settings", "correct": false },
+    { "text": "Subcortical circuits respond to natural scenes before conscious appreciation registers", "correct": true },
+    { "text": "Parasympathetic activation occurs only after the prefrontal cortex classifies the scene as safe", "correct": false }
+  ]
+}

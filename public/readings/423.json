@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Infinite scroll transforms the web page from a container with edges into something closer to a river — endless, directionless, pulling you forward without ever arriving anywhere. The philosopher Albert Borgmann described modern technology as hiding the 'device paradigm': the machinery that produces an experience is concealed so that only the commodity — warmth, music, information — is visible. Infinite scroll is an extreme instance of this concealment. The interface erases every sign of its own mechanics, leaving only the sensation of content arriving. Users cannot see how much they have consumed or how much remains. Scale disappears, and with it, judgment.",
+  "question": "What does Albert Borgmann's 'device paradigm' describe, as used in the passage?",
+  "options": [
+    { "text": "The way smartphones have replaced older tools like radios and thermostats", "correct": false },
+    { "text": "The tendency of users to anthropomorphize their digital devices", "correct": false },
+    { "text": "The way technology conceals its machinery so only the delivered commodity is visible", "correct": true },
+    { "text": "The paradigm shift when devices become networked and social", "correct": false }
+  ]
+}

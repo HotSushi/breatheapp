@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Sociologist Georg Simmel wrote in 1903 that city life forces the mind into a defensive posture: confronted with relentless stimulation, urban dwellers develop a blasé attitude — a deliberate flattening of responsiveness — as a form of psychic self-protection. The smartphone era has urbanized the mind globally. Every person, regardless of geography, now inhabits a stimulation density that Simmel associated only with the largest metropolises. The attention economy did not merely commodify focus; it created a condition in which withdrawal from stimulation requires active effort, while submission to it requires none.",
+  "question": "What did Georg Simmel call the defensive psychological posture that urban dwellers adopt against relentless stimulation?",
+  "options": [
+    { "text": "Attentional poverty", "correct": false },
+    { "text": "The orienting reflex", "correct": false },
+    { "text": "The blasé attitude", "correct": true },
+    { "text": "Cognitive withdrawal", "correct": false }
+  ]
+}

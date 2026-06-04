@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Daniel Dennett disagrees that the hard problem is real at all. In 'Consciousness Explained,' he argues that the felt quality of experience — the redness of red, the painfulness of pain — is not a residue left over after science explains function; it is the function. What feels inexplicable is not a mysterious inner light but the brain's habit of representing its own states in a particular way. Dennett calls the opposing view 'Cartesian theater' thinking: the illusion that somewhere inside us there is a final audience watching the show. Remove that illusion, he argues, and the hard problem dissolves. The mystery persists only as long as we insist on asking the wrong question.",
+  "question": "What does Dennett mean when he warns against 'Cartesian theater' thinking?",
+  "options": [
+    { "text": "The mistake of studying consciousness through purely philosophical rather than empirical methods", "correct": false },
+    { "text": "The error of assuming consciousness is localized in the prefrontal cortex", "correct": false },
+    { "text": "The illusion that there is an inner observer inside the brain receiving and experiencing representations", "correct": true },
+    { "text": "The tendency to conflate theatrical performance with psychological immersion", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius returned obsessively in his private notebooks to what modern translators render as 'the first movements' — the involuntary micro-reactions that precede any conscious choice. When the crowd cheers and you feel a surge of pleasure, that surge is not yet an emotion in the Stoic sense; it is a pre-passion, a propatheia. Chrysippus had catalogued these first tremors carefully: the pallor of fear before fear is endorsed, the laugh that escapes before the joke is judged funny. These are not sins against reason because they have not yet involved reason. The offense begins only at assent — when you water the tremor into a flood.",
+  "question": "What distinguishes a propatheia from a full emotion in Stoic psychology?",
+  "options": [
+    { "text": "A propatheia is felt only in the body, whereas a full emotion affects the mind", "correct": false },
+    { "text": "A propatheia is caused by external events, while a full emotion is self-generated", "correct": false },
+    { "text": "A propatheia involves reason's verdict, whereas a full emotion does not", "correct": false },
+    { "text": "A propatheia is an involuntary reaction that has not yet received the mind's assent", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Psychologist Karl Anders Ericsson, famous for deliberate practice research, observed that elite performers — musicians, chess players, athletes — consistently slept nine or more hours per night. What looks like a behavioral quirk is a biological necessity: high-skill performance depends on rapid neural transmission, and myelin, the insulating sheath that speeds neural signals, is regenerated and maintained during sleep. Sleep deprivation measurably degrades myelin integrity, slowing transmission in precisely the circuits that underpin focused, executive attention. The capacity for mastery, Ericsson's data implied, is not just practiced — it is slept.",
+  "question": "According to the passage, what does sleep deprivation do to myelin?",
+  "options": [
+    { "text": "It accelerates myelin regeneration in motor circuits", "correct": false },
+    { "text": "It degrades myelin integrity, slowing transmission in circuits underlying attention", "correct": true },
+    { "text": "It shifts myelin production from sensory to executive regions", "correct": false },
+    { "text": "It causes myelin to accumulate in the hippocampus", "correct": false }
+  ]
+}

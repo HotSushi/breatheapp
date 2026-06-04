@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James left one of the most direct challenges in the history of psychology: 'The faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will. An education which should improve this faculty would be the education par excellence.' He wrote these words not as inspiration but as a testable hypothesis — one that researchers have spent over a century attempting to verify. Studies of mindfulness, deliberate practice, and cognitive training have all circled back to the same finding: the act of noticing distraction and returning is the irreducible unit of attentional development. James named the mechanism before the tools existed to measure it.",
+  "question": "What did James identify as 'the very root of judgment, character, and will'?",
+  "options": [
+    { "text": "The cultivation of derived interest over immediate stimulation", "correct": false },
+    { "text": "The ability to construct chains of association during study", "correct": false },
+    { "text": "The development of passive attention into voluntary attention", "correct": false },
+    { "text": "The faculty of voluntarily bringing back a wandering attention", "correct": true }
+  ]
+}

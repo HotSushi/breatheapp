@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "A 2019 study by MaryCarol Hunter and colleagues at the University of Michigan measured cortisol in participants who took a twenty-minute nature walk at least three times per week. The data revealed a dose-response curve: the first twenty minutes produced the steepest drop in salivary cortisol. Beyond ninety minutes, the stress-reduction effect plateaued. The finding has practical weight — it suggests that brief, frequent nature exposure is more efficient per minute than occasional long immersions. Importantly, participants who checked their phones or read during the walk showed significantly blunted cortisol reductions, implying that the restoration mechanism requires genuine sensory engagement with the natural environment.",
+  "question": "What did Hunter's study find about participants who checked phones during their nature walk?",
+  "options": [
+    { "text": "They experienced cortisol reductions identical to fully engaged walkers after ninety minutes", "correct": false },
+    { "text": "Their cortisol levels increased rather than decreased during the walk", "correct": false },
+    { "text": "They showed significantly blunted cortisol reductions compared to fully engaged walkers", "correct": true },
+    { "text": "Phone use had no measurable effect on cortisol but reduced reported wellbeing", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The task-positive network does not act alone. A third system — the salience network, anchored by the anterior insula and the dorsal anterior cingulate cortex — acts as a switch between the default and task-positive networks. Neuroscientist Vinod Menon describes it as the brain's relevance detector: it continuously monitors internal and external signals and decides which large-scale network should be in command. When the salience network malfunctions — as in certain anxiety disorders — it may fail to suppress the default mode network even when focused work demands otherwise, leaving people trapped in ruminative loops that persist despite their best intentions to concentrate.",
+  "question": "What role does Vinod Menon assign to the salience network?",
+  "options": [
+    { "text": "It encodes long-term memories during focused tasks", "correct": false },
+    { "text": "It boosts the task-positive network's processing speed", "correct": false },
+    { "text": "It acts as a switch between the default and task-positive networks", "correct": true },
+    { "text": "It suppresses emotional processing during high-demand tasks", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The most common misreading of the dichotomy treats it as a license for fatalism: if outcomes are not mine, why strive? Epictetus answers in Enchiridion chapter two by distinguishing preferred indifferents from mere indifference. Wealth, health, and reputation are 'preferred' — the Stoic pursues them. They are 'indifferent' only in that virtue does not depend on achieving them. A physician works with full effort to heal; the patient's recovery lies outside her control. The effort was never wasted — it was the exercise of prohairesis at full strength. The dichotomy does not diminish striving; it liberates it from the corrosive anxiety of needing a specific result.",
+  "question": "How does Epictetus answer the charge that the dichotomy of control licenses fatalism and passive indifference?",
+  "options": [
+    { "text": "By arguing that outcomes do in fact fall within our control if we try hard enough", "correct": false },
+    { "text": "By claiming that external results are unimportant and should be ignored entirely", "correct": false },
+    { "text": "By distinguishing preferred indifferents: one pursues them fully but does not require a specific result to maintain virtue", "correct": true },
+    { "text": "By citing Marcus Aurelius as evidence that Stoics achieved great external success", "correct": false }
+  ]
+}

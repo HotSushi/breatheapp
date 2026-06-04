@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Talmudic study culture was organized around the chavruta — the learning pair — precisely because the rabbis understood that attention sustains itself through accountability. When you study alone, the drift toward distraction meets no resistance; when you study with a partner, your wandering mind becomes visible as absence. The chavruta practice transformed attention from a solitary discipline into a relational obligation. Rabbi Yochanan Ben Zakkai, who preserved rabbinic learning after the Temple's destruction, reportedly said that a student without a study partner \"has no Torah.\" The implication is not about content but about the quality of focus that dialogue alone can produce.",
+  "question": "According to the passage, what did the chavruta system primarily accomplish?",
+  "options": [
+    { "text": "It allowed scholars to cover twice as much material in the same time", "correct": false },
+    { "text": "It transformed attention from a solitary discipline into a relational obligation", "correct": true },
+    { "text": "It ensured that disputed interpretations could be quickly resolved", "correct": false },
+    { "text": "It preserved oral traditions that could not be written down", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In the Zen tradition, the tea ceremony — chado — was designed as a structured exercise in beginner's mind. Each gathering is treated as a once-in-a-lifetime encounter, captured in the phrase ichi-go ichi-e: 'one time, one meeting.' The point is not ritual for its own sake, but the recognition that this particular bowl of tea, on this particular afternoon, with these particular people, will never occur again. Sen no Rikyu, the sixteenth-century tea master who codified chado, understood that impermanence is not a source of sadness but of attention. When you know something cannot be repeated, you actually look at it.",
+  "question": "What does the phrase ichi-go ichi-e mean, according to the passage?",
+  "options": [
+    { "text": "The art of preparing tea with complete concentration.", "correct": false },
+    { "text": "One time, one meeting — each encounter is unrepeatable.", "correct": true },
+    { "text": "The harmony between host and guest in ceremonial practice.", "correct": false },
+    { "text": "A meditation on the transience of all sensory pleasure.", "correct": false }
+  ]
+}

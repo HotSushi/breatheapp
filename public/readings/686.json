@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cognitive offloading extends beyond to-do lists. Architects and composers have long used external representations — sketches, chord charts, physical models — not merely to record ideas but to think through them. Extended Mind theorists Andy Clark and David Chalmers proposed in 1998 that cognition is not bounded by the skull: when an external object reliably functions as part of a cognitive process, it is genuinely part of that mind. A notebook that holds your half-formed argument is not a backup copy of your thought; it is an active extension of it. Offloading to the right external medium can therefore expand the effective size of working memory beyond biological limits.",
+  "question": "According to Clark and Chalmers' Extended Mind thesis as described in the passage, what qualifies an external object as part of a person's mind?",
+  "options": [
+    { "text": "When it is created by the person and stored in a personal location", "correct": false },
+    { "text": "When it contains information the person cannot hold in biological memory", "correct": false },
+    { "text": "When it reliably functions as part of a cognitive process", "correct": true },
+    { "text": "When it is accessed more than once during a single work session", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The ancient Greek idea of scholē — often mistranslated as 'leisure' — meant time freed from necessity, available for self-cultivation. Aristotle distinguished it sharply from amusement: amusement recovers one from labor, but scholē is the condition in which the highest human capacities, reason and contemplation, can actually operate. The crowd, in Aristotle's analysis, lives almost entirely in labor and amusement, cycling between exhaustion and distraction. Withdrawing the mind from the crowd was, for him, a class practice only in the economic sense — but philosophically it was the threshold between animal and fully human life.",
+  "question": "How did Aristotle distinguish scholē from amusement?",
+  "options": [
+    { "text": "Amusement was morally inferior; scholē was virtuous", "correct": false },
+    { "text": "Amusement recovers from labor; scholē enables reason and contemplation", "correct": true },
+    { "text": "Scholē required physical stillness; amusement involved bodily activity", "correct": false },
+    { "text": "Amusement was for citizens; scholē was reserved for philosophers", "correct": false }
+  ]
+}

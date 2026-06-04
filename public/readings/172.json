@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics drew a sharp distinction between what is kataleptic — truly graspable — and what merely appears to be. Chrysippus argued that not all impressions deserve assent: only the kataleptike phantasia, the cognitive impression that accurately represents reality, earns the mind's agreement. This was not abstract caution. When a soldier sees an ally in dim light and mistakes him for an enemy, the false impression feels just as vivid as a true one. Assenting without examination is therefore not a passive failure but an active error of reason. The wise person, Chrysippus held, suspends judgment whenever an impression cannot be verified as kataleptic.",
+  "question": "What distinguishes a kataleptike phantasia from other impressions, according to Chrysippus?",
+  "options": [
+    { "text": "It is more emotionally intense than ordinary impressions", "correct": false },
+    { "text": "It arrives through the sense of sight rather than other senses", "correct": false },
+    { "text": "It accurately represents reality and therefore earns the mind's agreement", "correct": true },
+    { "text": "It is repeated consistently across multiple observations", "correct": false }
+  ]
+}

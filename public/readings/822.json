@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Thomas Nagel's 1974 essay 'What Is It Like to Be a Bat?' introduced a deceptively simple test for consciousness: there is something it is like to be a bat — some inner, experiential character to its existence — and that character is inaccessible to us even in principle. We can learn everything about bat echolocation, map every firing neuron, simulate the whole system, and still not know what the bat's world feels like from the inside. Nagel was not making a claim about scientific limits but about the irreducibly subjective nature of experience. Consciousness, he argued, is essentially a point of view, and no objective description can substitute for one.",
+  "question": "What does Nagel's bat thought experiment specifically argue cannot be captured through objective, third-person description?",
+  "options": [
+    { "text": "The neurological mechanisms underlying bat echolocation", "correct": false },
+    { "text": "The evolutionary history of bat sensory systems", "correct": false },
+    { "text": "The subjective, first-person character of the bat's experience", "correct": true },
+    { "text": "The behavioral repertoire bats use to navigate in darkness", "correct": false }
+  ]
+}

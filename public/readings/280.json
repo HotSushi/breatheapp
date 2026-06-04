@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Nyingma scholar Anne Klein, in her comparative study 'Unbounded Wholeness,' traces how the dzogchen concept of 'ground' — the primordial open expanse in which both samsara and nirvana arise — challenges standard Western notions of subjectivity. The ground is not a self that experiences; it has no center to protect, no story to maintain. This is why, Klein argues, resting in open presence feels threatening to the ordinary ego: it dissolves the very vantage point from which one normally evaluates experience. The felt sense of 'I am meditating' is itself a contraction away from rigpa, a subtle grasping that reinstates the observer and its objects.",
+  "question": "According to the passage, why does resting in open presence feel threatening to the ordinary ego?",
+  "options": [
+    { "text": "It requires confronting memories and emotions that the ego usually suppresses", "correct": false },
+    { "text": "It produces physical sensations of dissolution that the nervous system resists", "correct": false },
+    { "text": "It dissolves the vantage point from which the ego normally evaluates experience", "correct": true },
+    { "text": "It demands complete physical stillness that the body finds uncomfortable", "correct": false }
+  ]
+}

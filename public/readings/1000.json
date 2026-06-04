@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The ancient Greek word for leisure was skholé — the root of 'school.' For Aristotle, skholé was not the absence of work but its precondition: the free, unhurried time required for thought, friendship, and the cultivation of virtue. He distinguished it sharply from anapausis, mere rest that restores a worker for further labor. The attention economy has colonized both categories, converting leisure into consumption and rest into productivity optimization. Reclaiming sovereignty means recovering the Aristotelian distinction: carving out time that is neither recuperative nor productive but genuinely free — time whose purpose is to make you more fully yourself, not more efficiently available.",
+  "question": "How does the passage distinguish Aristotle's concept of skholé from anapausis?",
+  "options": [
+    { "text": "Skholé was physical rest while anapausis referred to intellectual contemplation", "correct": false },
+    { "text": "Skholé was reserved for citizens while anapausis was available to all classes", "correct": false },
+    { "text": "Anapausis was genuine freedom while skholé restored workers for further labor", "correct": false },
+    { "text": "Skholé was free time for thought and virtue while anapausis merely restored a worker for further labor", "correct": true }
+  ]
+}

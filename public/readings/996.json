@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The medieval monk had an enemy with a name: acedia, the 'noonday demon' described by fourth-century ascetic Evagrius Ponticus. It was not laziness but a restless inability to stay present — a compulsive urge to wander mentally, to check whether the grass was greener elsewhere. The monastic response was a practice called stabilitas: commitment to staying, to working through the resistance rather than fleeing it. Contemporary researchers recognize acedia in what they call 'task-unrelated thought,' the mind's default tendency to drift. What the monks understood is that presence is not a feeling — it is a discipline renewed moment by moment.",
+  "question": "What did Evagrius Ponticus mean by acedia?",
+  "options": [
+    { "text": "A form of spiritual laziness caused by insufficient prayer", "correct": false },
+    { "text": "A restless inability to stay present and a compulsive urge to mentally wander", "correct": true },
+    { "text": "The physical fatigue that strikes monks during afternoon work hours", "correct": false },
+    { "text": "A medieval term for what modern researchers call depression", "correct": false }
+  ]
+}

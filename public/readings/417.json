@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "One of Gloria Mark's most counterintuitive findings is that interruptions don't simply add time to a task — they change how the task is performed. Workers interrupted mid-project compensate by working faster after resuming, which in turn raises their stress levels, frustration, and self-reported time pressure. Mark calls this the \"compensatory acceleration\" effect: rather than extend their workday, people unconsciously speed up to absorb the lost time. The visible budget is preserved; the hidden cost is carried in exhaustion and error. Attention, unlike money, cannot be borrowed and repaid without interest. The debt accumulates in the body and the quality of the work itself.",
+  "question": "What does Gloria Mark's 'compensatory acceleration' effect describe?",
+  "options": [
+    {
+      "text": "The tendency of interrupted workers to postpone tasks until the following day",
+      "correct": false
+    },
+    {
+      "text": "The brain's mechanism for blocking new interruptions after an initial distraction",
+      "correct": false
+    },
+    {
+      "text": "The way workers unconsciously speed up after an interruption to absorb the lost time",
+      "correct": false
+    },
+    {
+      "text": "The increased efficiency that comes from switching between related tasks repeatedly",
+      "correct": true
+    }
+  ]
+}

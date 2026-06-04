@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "When you focus deeply on a problem, a distinctive set of neural events unfolds. The default mode network — associated with mind-wandering, self-referential thought, and rumination — is suppressed. Simultaneously, the dorsal attention network, anchored in the intraparietal sulcus and frontal eye fields, becomes dominant. This is not passive silence but active competition: the two networks are anticorrelated, and engagement of one systematically suppresses the other. Psychologist Mihaly Csikszentmihalyi described the experiential correlate of this state as 'flow' — a complete absorption in which the sense of self temporarily disappears. Attention, at its most complete, consumes its own witness.",
+  "question": "According to the passage, what happens to the default mode network during states of deep focus?",
+  "options": [
+    { "text": "It synchronizes with the dorsal attention network to amplify cognitive performance", "correct": false },
+    { "text": "It activates to support self-referential processing needed for sustained effort", "correct": false },
+    { "text": "It is actively suppressed due to its anticorrelated relationship with the dorsal attention network", "correct": true },
+    { "text": "It transfers its activity to the prefrontal cortex, which maintains executive control", "correct": false }
+  ]
+}

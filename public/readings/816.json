@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Critics of Husserl, particularly those influenced by cognitive science, have pressed a sharp objection: if every consciousness is consciousness of something, what becomes of background states like moods? Anxiety, Heidegger observed, is precisely a state without a clear intentional object — one feels anxious about nothing in particular. Rather than abandon intentionality, some phenomenologists respond by distinguishing 'object-directed' intentionality from 'world-directed' or 'background' intentionality: moods disclose the world as a whole rather than any single thing within it. This debate reveals that intentionality is not a simple two-place relation between a mind and a thing but a layered structure with multiple modes.",
+  "question": "According to the passage, how do some phenomenologists respond to the objection that moods like anxiety lack a clear intentional object?",
+  "options": [
+    { "text": "By abandoning the concept of intentionality altogether", "correct": false },
+    { "text": "By arguing that moods are not genuine mental acts", "correct": false },
+    { "text": "By distinguishing object-directed from world-directed intentionality", "correct": true },
+    { "text": "By reducing moods to unconscious neurological signals", "correct": false }
+  ]
+}

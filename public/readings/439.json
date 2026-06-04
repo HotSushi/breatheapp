@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The concept of 'availability creep' describes how the expectation of responsiveness expands to fill whatever hours a medium can reach. Studies of hospital physicians found that after pager systems replaced fixed-schedule call duties, on-call doctors reported being unable to fully relax even during designated off-hours — their bodies remained in a state of physiological vigilance. The device did not merely extend working hours; it blurred the boundary between on-duty and off-duty at the neurological level, keeping the autonomic nervous system primed for response even when no message had yet arrived.",
+  "question": "According to the passage, what did research on physicians with pagers reveal about off-hours rest?",
+  "options": [
+    { "text": "Pager systems reduced physician burnout by replacing unpredictable interruptions with scheduled calls", "correct": false },
+    { "text": "Doctors remained in physiological vigilance even during designated off-hours, unable to fully relax", "correct": true },
+    { "text": "Physicians adapted within six months and learned to ignore the pager during leisure time", "correct": false },
+    { "text": "The study found no measurable difference in cortisol between pager users and non-users", "correct": false }
+  ]
+}

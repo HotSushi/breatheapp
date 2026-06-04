@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic school distinguished between three types of content competing for the mind's attention: necessary impressions that support action, unnecessary impressions that merely entertain, and corrupting impressions that actively distort judgment. Cleanthes, who succeeded Zeno as head of the Stoa, used the metaphor of a wax tablet: the mind only has so much surface, and every idle impression pressed into it displaces the capacity for clear inscription. This is not asceticism but information hygiene — an argument that the quality of one's thinking depends not only on what one attends to, but on what one refuses to attend to.",
+  "question": "What was Cleanthes' wax tablet metaphor meant to illustrate?",
+  "options": [
+    { "text": "That idle impressions displace capacity for clear thought by filling limited mental space", "correct": true },
+    { "text": "That memories fade over time and must be rehearsed daily", "correct": false },
+    { "text": "That only written philosophy survives the corruption of oral tradition", "correct": false },
+    { "text": "That the mind becomes sharper the more impressions it processes", "correct": false }
+  ]
+}

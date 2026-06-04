@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The psychological refractory period describes a bottleneck in the brain's response-selection machinery. When two stimuli demand responses in quick succession, the second response is delayed — not because perception fails, but because a central processor can only select one response at a time. Harold Pashler's work in the 1980s and 1990s showed that this delay increases systematically as the interval between stimuli decreases. The brain is not slow; it is serial. No amount of practice fully eliminates the bottleneck, though training can reduce other parts of the reaction chain. The refractory period reveals that multitasking, at the level of decision-making, is largely an illusion.",
+  "question": "According to the passage, what does Harold Pashler's research reveal about multitasking?",
+  "options": [
+    { "text": "It is possible if stimuli are presented in different sensory modalities", "correct": false },
+    { "text": "It is an illusion at the level of decision-making, due to a serial central processor", "correct": true },
+    { "text": "It becomes fully efficient with sufficient practice", "correct": false },
+    { "text": "It fails only when stimuli are visually similar", "correct": false }
+  ]
+}

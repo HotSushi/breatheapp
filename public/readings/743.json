@@ -1,0 +1,23 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Physiological calm is measurable. Heart rate variability \u2014 the slight fluctuation in timing between heartbeats \u2014 serves as one of the most sensitive indices of parasympathetic tone. A high HRV signals that the vagus nerve is actively modulating the heart, damping stress reactivity and accelerating recovery. Psychologist Richard Davidson found that meditators with years of practice showed significantly elevated HRV compared to controls, suggesting the parasympathetic system can be trained like a muscle. Crucially, HRV drops not only during acute stress but during sustained low-grade distraction \u2014 the condition that defines most modern digital life. Calm, in other words, requires active cultivation, not merely the cessation of obvious threat.",
+  "question": "According to the passage, what does high heart rate variability indicate?",
+  "options": [
+    {
+      "text": "That the sympathetic system is primed for rapid stress response",
+      "correct": false
+    },
+    {
+      "text": "That the prefrontal cortex is suppressing emotional responses effectively",
+      "correct": false
+    },
+    {
+      "text": "That the individual has recently undergone intense physical exercise",
+      "correct": false
+    },
+    {
+      "text": "That the vagus nerve is actively modulating the heart and damping stress reactivity",
+      "correct": true
+    }
+  ]
+}

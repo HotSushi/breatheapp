@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Interleaving works partly through a mechanism called contextual interference. When learners switch between tasks, each switch requires them to reload the relevant context, reactivate the relevant schema, and suppress the previous one. This extra mental load — the interference — is what blocked practice eliminates and what makes blocked practice feel easier. But that interference, as Shea and Morgan showed in 1979 with motor learning tasks, is precisely what builds the flexible, transferable knowledge that holds up under novel conditions. The brain constructs more robust representations when forced to distinguish, reload, and contrast than when it simply repeats.",
+  "question": "According to the passage, what does contextual interference specifically require learners to do during each task switch?",
+  "options": [
+    { "text": "Pause and reflect on what was just learned before engaging with new material", "correct": false },
+    { "text": "Reload the relevant context, reactivate the relevant schema, and suppress the previous one", "correct": true },
+    { "text": "Form an explicit comparison between the previous task and the new one", "correct": false },
+    { "text": "Apply working memory resources to encoding rather than retrieval", "correct": false }
+  ]
+}

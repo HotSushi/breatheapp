@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Carr traces the internet's intellectual lineage to Frederick Winslow Taylor, the industrial engineer who in 1911 proposed scientific management: measuring every motion of a factory worker to eliminate inefficiency. Taylor believed the human body was a machine whose output could be maximized by optimization. Silicon Valley, Carr argues, applied Taylor's logic to the mind. Google's stated mission — to organize all the world's information and make it universally accessible — encodes a Taylorist assumption: that thinking is a form of information retrieval, and that speed and volume are measures of cognitive success. Deep, slow, ruminative thought has no metric in this system and therefore, gradually, no place.",
+  "question": "What does Carr identify as the Taylorist assumption embedded in Google's stated mission?",
+  "options": [
+    { "text": "That workers should be supervised and their output continuously measured", "correct": false },
+    { "text": "That human attention is a scarce resource that corporations should compete to capture", "correct": false },
+    { "text": "That thinking is a form of information retrieval best measured by speed and volume", "correct": true },
+    { "text": "That universal access to information reduces social inequality", "correct": false }
+  ]
+}

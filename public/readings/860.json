@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher P.F. Strawson argued in 'Freedom and Resentment' that moral responsibility is grounded not in metaphysical freedom but in our reactive attitudes — the resentment, gratitude, and indignation we direct at agents we hold responsible. We do not excuse chronic inattentiveness in a friend the way we excuse a seizure, because we implicitly treat attention as a domain of agency. This participant stance, as Strawson called it, is already built into ordinary relationships. We hold each other responsible for what we notice and what we ignore long before any philosophical argument about free will is settled.",
+  "question": "What did Strawson call the stance through which we hold others morally responsible?",
+  "options": [
+    { "text": "The reactive attitude", "correct": false },
+    { "text": "The objective stance", "correct": false },
+    { "text": "The participant stance", "correct": true },
+    { "text": "The indignation principle", "correct": false }
+  ]
+}

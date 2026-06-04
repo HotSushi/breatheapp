@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The classical Buddhist metaphor for a restless mind is a monkey leaping from branch to branch — kapicitta in Sanskrit. The image is precise: a monkey does not sit still because stillness offers no reward, not because it lacks the capacity for it. The Pali Canon's Anguttara Nikaya identifies five hindrances that keep the mind in perpetual motion: sensual desire, ill will, sloth, restlessness, and doubt. Restlessness alone, the texts note, is often the last to dissolve, persisting even after the grosser agitations have quieted. It operates like background noise the practitioner has stopped noticing until silence finally reveals how loud it was.",
+  "question": "According to the passage, which of the five hindrances is described as the last to dissolve in practice?",
+  "options": [
+    { "text": "Ill will", "correct": false },
+    { "text": "Sensual desire", "correct": false },
+    { "text": "Doubt", "correct": false },
+    { "text": "Restlessness", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Economist Thorstein Veblen described 'conspicuous consumption' in 1899 as the practice of buying goods primarily to signal status to observers. Social media has produced what researchers call conspicuous experience: publicly documented travel, dining, concerts, and adventures whose value lies partly in being witnessed. FOMO is the demand side of this economy — the anxiety of the observer who registers that others' experiences are accumulating publicly while their own are not. The feed is a ledger of witnessed lives. To log off is not merely to rest; it is to stop accruing entries in a ledger whose scoring rules you did not choose.",
+  "question": "What does the passage call the 'demand side' of the conspicuous experience economy?",
+  "options": [
+    { "text": "The impulse to document and share one's own experiences on social media.", "correct": false },
+    { "text": "The platform algorithms that amplify highly engaged posts.", "correct": false },
+    { "text": "FOMO — the anxiety of observers who feel their experiences are not publicly accumulating.", "correct": true },
+    { "text": "Veblen's concept of conspicuous consumption applied to digital goods.", "correct": false }
+  ]
+}

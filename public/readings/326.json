@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Barack Obama famously wore only gray or blue suits, and Steve Jobs anchored to a daily uniform of black turtleneck and jeans. Both cited the same rationale: eliminating trivial decisions preserved cognitive resources for consequential ones. This intuition — that decision-making has a cumulative cost — predates the science. William James wrote in 1890 that the art of being wise is knowing what to overlook. What modern research has added is a mechanism: each choice, however small, engages evaluative circuitry that shares resources with later executive function. Designing routines to automate low-stakes decisions is not laziness — it is cognitive hygiene.",
+  "question": "According to the passage, why did figures like Obama and Jobs adopt fixed daily uniforms?",
+  "options": [
+    { "text": "To signal authority and consistency to those around them.", "correct": false },
+    { "text": "To preserve cognitive resources by eliminating trivial decisions.", "correct": true },
+    { "text": "To reduce time spent shopping for clothing.", "correct": false },
+    { "text": "To comply with professional advice from cognitive scientists.", "correct": false }
+  ]
+}

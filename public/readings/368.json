@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "There is a troubling asymmetry at the heart of inattentional blindness: we do not know what we are missing. The gorilla-blind observer does not experience a gap or a flicker of uncertainty — they watch the same video as the gorilla-aware observer and feel equally confident about what they saw. Daniel Kahneman calls this 'what you see is all there is': the mind constructs a coherent story from available inputs and presents it as a complete picture. The invisible gorilla is not absent from the observer's memory; it was never a candidate for memory in the first place. This is why self-assessment of attentional lapses is so unreliable: the very mechanism that produces the lapse also prevents its detection.",
+  "question": "According to the passage, why is self-assessment of attentional lapses unreliable?",
+  "options": [
+    { "text": "People are embarrassed to admit missing important stimuli and underreport lapses", "correct": false },
+    { "text": "Attention lapses occur too briefly for any subsequent reflection to recover them", "correct": false },
+    { "text": "The mechanism that produces the lapse also prevents its detection, leaving no felt gap", "correct": true },
+    { "text": "Working memory erases traces of unattended stimuli within seconds of the lapse", "correct": false }
+  ]
+}

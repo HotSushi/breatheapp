@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Zen tradition employs the image of clouds passing across an open sky to convey impermanence. Clouds are not the sky; thoughts are not awareness. Dogen, the thirteenth-century Japanese founder of Soto Zen, wrote in the Shobogenzo that practice is not the elimination of thought but the recognition that thoughts do not stain the sky of awareness. A cloud of distraction does not corrupt the sky; it simply passes. This teaching reorients the practitioner's relationship to distraction: instead of fighting the clouds — which is itself a form of cloudiness — one rests as the sky and watches each formation drift without residue.",
+  "question": "According to the passage, what did Dogen teach about the relationship between thoughts and awareness?",
+  "options": [
+    { "text": "Thoughts must be eliminated for awareness to remain pure.", "correct": false },
+    { "text": "Thoughts and awareness arise simultaneously from the same source.", "correct": false },
+    { "text": "Thoughts do not stain the sky of awareness.", "correct": true },
+    { "text": "Awareness can only be accessed after distraction fully subsides.", "correct": false }
+  ]
+}

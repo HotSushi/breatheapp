@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The prefrontal cortex does not generate attention so much as govern it. Neuroscientist Earl Miller's work at MIT revealed that the PFC sends top-down signals that bias competition among sensory neurons, amplifying representations of task-relevant stimuli while suppressing irrelevant ones. Think of it less as a spotlight operator and more as a casting director: it decides which neural actors get stage time. When PFC function is compromised — by sleep deprivation, stress, or aging — that editorial authority weakens, and every distraction wins its audition. The cortex is not broken; its gatekeeping simply goes offline.",
+  "question": "According to the passage, what happens to attentional control when PFC function is compromised?",
+  "options": [
+    { "text": "The PFC generates stronger signals to compensate for the disruption", "correct": false },
+    { "text": "Sensory neurons stop responding to external stimuli altogether", "correct": false },
+    { "text": "The editorial authority that suppresses distractions weakens", "correct": true },
+    { "text": "Working memory capacity increases to offset the loss", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The concept of dependent origination — paticca-samuppada — gives anicca its mechanical precision. Nothing arises independently; every phenomenon, including a distracting thought, depends on a chain of antecedent conditions. Nagarjuna, the second-century Madhyamaka philosopher, argued in the Mulamadhyamakakarika that because all phenomena are dependently arisen, none possess inherent, stable existence. A distracting thought about tomorrow's deadline exists because anxiety, anticipation, and sensory cues converged. When those conditions shift — when attention is gently redirected — the thought loses its purchase. This is not willpower; it is an understanding of how phenomena structurally cannot persist without continual conditioning.",
+  "question": "According to the passage, why does a distracting thought lose its hold when attention is redirected?",
+  "options": [
+    { "text": "Willpower overrides the thought's emotional charge.", "correct": false },
+    { "text": "The thought has reached its natural duration limit.", "correct": false },
+    { "text": "Nagarjuna taught that redirection severs the self from the thought.", "correct": false },
+    { "text": "The thought cannot persist without continual conditioning.", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Marya Schechtman, in \"The Constitution of Selves,\" argues that narrative self-constitution is not merely psychological but normative: we become morally responsible agents by inhabiting a coherent story about ourselves over time. Yet this same narrative coherence generates what she calls \"characterization projects\" — ongoing internal PR campaigns that protect the story's consistency. Characterization projects bias recall (we remember ourselves as more virtuous), bias attention (we notice confirming evidence), and bias inference (we explain away disconfirmation). Schechtman's account reveals that the very mechanism enabling moral agency also systematically distorts perception.",
+  "question": "According to Schechtman, what are \"characterization projects\"?",
+  "options": [
+    { "text": "Philosophical thought experiments used to test theories of personal identity", "correct": false },
+    { "text": "Internal campaigns that protect narrative consistency by biasing recall, attention, and inference", "correct": true },
+    { "text": "Neural processes that consolidate episodic memories into a coherent life story", "correct": false },
+    { "text": "Social rituals through which communities assign moral responsibility to individuals", "correct": false }
+  ]
+}

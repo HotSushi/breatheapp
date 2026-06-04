@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In the 1950s, behaviorist B.F. Skinner placed pigeons in boxes where pressing a lever sometimes released food — unpredictably. The pigeons became frantic, pecking far more obsessively than those who received food on every press. Skinner called this a variable-ratio reinforcement schedule, and it produces the highest, most persistent rates of behavior of any reward pattern he studied. Slot machines are engineered on this exact principle. So are social media feeds. When a pull-to-refresh gesture might yield ten new notifications or zero, the uncertainty itself becomes the engine of compulsion — not the reward, but the possibility of reward.",
+  "question": "According to the passage, what specifically drives compulsive behavior under a variable-ratio schedule?",
+  "options": [
+    { "text": "The size of the reward when it finally arrives", "correct": false },
+    { "text": "The frequency of rewards relative to effort expended", "correct": false },
+    { "text": "The uncertainty about whether a reward will appear", "correct": true },
+    { "text": "The social visibility of the reward to other users", "correct": false }
+  ]
+}

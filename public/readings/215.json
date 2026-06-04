@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Ajahn Chah, the Thai forest master, used a simple image to teach non-attachment to thought: the mind is like still forest water. A deer comes to drink, a snake crosses, clouds reflect and dissolve — all without the water grasping or pushing away. The water does not become the deer. This metaphor cuts to something the vipassana tradition insists upon: awareness itself is not conditioned by what it observes. Thoughts arise in awareness the way sounds arise in silence — the silence is not altered by the sound. The error practitioners commonly make is identifying with the content of thought rather than recognizing the unconditioned space in which thought appears.",
+  "question": "According to the passage, what error do practitioners commonly make regarding thoughts?",
+  "options": [
+    { "text": "Treating thoughts as enemies to be suppressed rather than observed", "correct": false },
+    { "text": "Identifying with the content of thought rather than recognizing awareness as unconditioned", "correct": true },
+    { "text": "Attempting to analyze the source of each thought as it arises", "correct": false },
+    { "text": "Focusing exclusively on pleasant thoughts and ignoring unpleasant ones", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The second half of Rabbi Tarfon's teaching is rarely quoted with the weight it deserves: \"neither are you free to desist from it.\" This clause transforms the first into something more demanding than permission to stop. Freedom — cherut in Hebrew — is a concept the Talmud treats with precision. The rabbis distinguished between freedom from obligation and freedom through obligation. To be free to desist would mean one's attention was one's own to withdraw at any moment. Rabbi Tarfon denies precisely this. Attention is not a private resource to be allocated by whim; it is a covenantal commitment that binds even when completion is impossible.",
+  "question": "According to the passage, what does Rabbi Tarfon deny about attention?",
+  "options": [
+    { "text": "That attention can ever be fully sustained without a partner", "correct": false },
+    { "text": "That scholars deserve rest after completing a full tractate", "correct": false },
+    { "text": "That finishing a task is ever within a single person's power", "correct": false },
+    { "text": "That attention is a private resource one is free to withdraw at whim", "correct": true }
+  ]
+}

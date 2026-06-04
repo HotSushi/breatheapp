@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Meditations are unusual among philosophical texts because they record failure as readily as progress. Aurelius writes of days spent in sloth, of anger indulged, of time wasted on trivialities unworthy of a rational mind. Pierre Hadot, the French philosopher who devoted much of his career to interpreting Marcus Aurelius, argued that these confessions reveal the true Stoic method: not a set of conclusions reached and held, but a continuous series of \"spiritual exercises\" — daily reorientations of attention. For Hadot, Stoicism was less a doctrine than a practice of returning, again and again, to what one already knew.",
+  "question": "According to philosopher Pierre Hadot, what did the Meditations reveal about the true Stoic method?",
+  "options": [
+    { "text": "That Marcus Aurelius was privately skeptical of Stoic doctrine", "correct": false },
+    { "text": "That Stoicism was best understood as a set of fixed doctrinal conclusions", "correct": false },
+    { "text": "That daily spiritual exercises and continual reorientation defined Stoic practice more than doctrine", "correct": true },
+    { "text": "That failure was a sign of insufficient philosophical training", "correct": false }
+  ]
+}

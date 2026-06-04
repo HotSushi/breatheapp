@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tibetan practice of tonglen inverts the instinctual logic of the attention economy. Where social media trains us to inhale validation and exhale complaints, tonglen asks the practitioner to breathe in suffering — imagined as dark, heavy smoke — and breathe out relief as cool white light. Pema Chodron explains that this deliberate contact with discomfort dissolves the armoring that keeps us trapped in anxious self-referential loops. By voluntarily taking in what we normally flee, we discover that suffering is workable, that it does not require the constant distraction and noise we habitually use to avoid it.",
+  "question": "According to Pema Chodron, what does deliberately breathing in suffering during tonglen dissolve?",
+  "options": [
+    { "text": "The practitioner's desire to help others.", "correct": false },
+    { "text": "The armoring that keeps us trapped in anxious self-referential loops.", "correct": true },
+    { "text": "The distinction between self and other in Tibetan Buddhist philosophy.", "correct": false },
+    { "text": "Negative karma accumulated through unskillful past actions.", "correct": false }
+  ]
+}

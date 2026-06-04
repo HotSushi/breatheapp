@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "A 2009 Stanford study by Clifford Nass and colleagues produced a counterintuitive finding: people who identified as heavy media multitaskers performed worse on tests of filtering irrelevant information, task-switching, and working memory than light multitaskers. The researchers had expected habitual multitaskers to excel at managing multiple inputs. Instead, heavy multitaskers appeared unable to suppress their attention to irrelevant stimuli — their brains had not sharpened through practice but had become sensitized to distraction itself. Nass described it as a kind of cognitive trap: the behavior that feels productive actively degrades the capacities it seems to exercise.",
+  "question": "What unexpected finding did Clifford Nass's 2009 Stanford study produce about heavy media multitaskers?",
+  "options": [
+    { "text": "They outperformed light multitaskers on working memory tasks but underperformed on spatial reasoning.", "correct": false },
+    { "text": "They showed improved task-switching speed but reduced long-term memory consolidation.", "correct": false },
+    { "text": "They performed worse at filtering irrelevant information and task-switching than light multitaskers.", "correct": true },
+    { "text": "They displayed higher creativity scores, offsetting their slower processing speeds.", "correct": false }
+  ]
+}

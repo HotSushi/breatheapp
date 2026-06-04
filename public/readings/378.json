@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Prospective memory depends critically on the hippocampus — the same structure that retrieves autobiographical past also projects into an anticipated future. Neuroimaging studies by Donna Rose Addis and Daniel Schacter showed that imagining future personal events activates nearly the same network as remembering past ones: hippocampus, medial prefrontal cortex, and posterior parietal regions. This 'default mode network' was long dismissed as the brain doing nothing; it is now understood as the brain doing something deeply purposeful — constructing a coherent narrative across time. Damage to this network, as in early Alzheimer's disease, impairs not just recall of the past but the ability to plan for any personal future.",
+  "question": "What did neuroimaging studies by Addis and Schacter reveal about imagining future events?",
+  "options": [
+    { "text": "Future simulation is localized entirely to the prefrontal cortex.", "correct": false },
+    { "text": "It activates nearly the same brain network as remembering past personal events.", "correct": true },
+    { "text": "The hippocampus is not involved in prospective thought, only retrospective recall.", "correct": false },
+    { "text": "The default mode network becomes inactive during future-oriented thinking.", "correct": false }
+  ]
+}

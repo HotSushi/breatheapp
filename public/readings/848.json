@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Smartphone dependence has given the extended mind thesis new urgency — and new critics. Psychologist Betsy Sparrow's 'Google effect' experiments demonstrated that people are less likely to encode information they expect to retrieve digitally, and more likely to remember where to find it than what it contains. This mirrors Otto's notebook, but critics see a troubling asymmetry: Otto's notebook supplements a failing memory, while healthy users appear to be offloading memories they could otherwise form. If the extended mind is not merely additive but substitutive, habitually outsourcing cognition may quietly erode the internal capacities that make us who we are.",
+  "question": "What troubling asymmetry do critics identify between Otto's notebook and smartphone offloading?",
+  "options": [
+    { "text": "Smartphones are more expensive and less reliable than paper notebooks", "correct": false },
+    { "text": "Otto's notebook supplements a failing memory, while smartphones may substitute for memories healthy users could otherwise form", "correct": true },
+    { "text": "Smartphones create social isolation while notebooks do not", "correct": false },
+    { "text": "Digital storage degrades over time whereas Otto's notes remain stable", "correct": false }
+  ]
+}

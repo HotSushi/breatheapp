@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In a 2014 study by Timothy Wilson at the University of Virginia, participants were left alone in a room for fifteen minutes with nothing to do. Two-thirds found the experience so unpleasant that, when offered the option, they administered mild electric shocks to themselves rather than continue sitting in silence. One participant shocked himself 190 times in fifteen minutes. Wilson noted that the mind, absent external input, turns against its host. Pascal had anticipated this finding three and a half centuries earlier — but he had no laboratory. He had only an honest account of what he observed in every court in France.",
+  "question": "What did participants in Timothy Wilson's 2014 study choose to do rather than continue sitting in silence?",
+  "options": [
+    { "text": "Leave the room early and forfeit their participation payment", "correct": false },
+    { "text": "Request distracting reading material from the researchers", "correct": false },
+    { "text": "Engage in repetitive physical movements like tapping or pacing", "correct": false },
+    { "text": "Administer mild electric shocks to themselves", "correct": true }
+  ]
+}

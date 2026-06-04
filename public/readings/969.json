@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Vulnerability researcher Brené Brown defines connection as 'the energy that exists between people when they feel seen, heard, and valued.' Her empirical work found that the capacity for genuine connection correlates strongly with the willingness to be vulnerable — to share uncertainty, fear, and imperfection without knowing how the other will respond. Social media systematically undermines this precondition. The platform incentivizes the polished reveal over the honest confession, the achievement post over the admission of struggle. We perform connection for an audience rather than risk it with a witness, and the performance, however applauded, leaves the performer alone.",
+  "question": "According to Brown's research cited in the passage, what precondition does social media undermine?",
+  "options": [
+    { "text": "The willingness to consume rather than create content.", "correct": false },
+    { "text": "The frequency of face-to-face contact that builds shared memory.", "correct": false },
+    { "text": "The vulnerability required to share uncertainty and imperfection without knowing the other's response.", "correct": true },
+    { "text": "The reciprocity norms that govern equitable exchange in close relationships.", "correct": false }
+  ]
+}

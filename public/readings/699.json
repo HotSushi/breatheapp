@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "In the Talmudic tradition, the practice of hevruta — paired study of sacred texts — treats reading not as a solitary act but as a structured argument with another mind and with the text itself. Readers are expected to challenge, to sit with contradiction, and to resist the comfort of premature resolution. This mirrors what literary theorist Wolfgang Iser called the \"implied reader\": the active participant a text presupposes and calls into being through gaps, silences, and deliberate ambiguities. Great narrative literature does not deliver meaning; it creates the conditions under which the reader's attention must construct it.",
+  "question": "According to Wolfgang Iser, how does great narrative literature deliver meaning?",
+  "options": [
+    { "text": "Through explicit moral statements embedded in the plot.", "correct": false },
+    { "text": "It creates conditions under which the reader's attention must construct meaning.", "correct": true },
+    { "text": "By modeling the hevruta practice of paired interpretation.", "correct": false },
+    { "text": "Through the implied author's direct address to the reader.", "correct": false }
+  ]
+}

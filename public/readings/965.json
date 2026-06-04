@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The loneliness epidemic predates smartphones but has deepened with them. In a 2018 report, the former U.S. Surgeon General Vivek Murthy identified loneliness as a public-health crisis comparable in mortality risk to smoking fifteen cigarettes a day. Crucially, Murthy argued that the problem is not quantity of social contact but quality: people who reported checking social media frequently felt more isolated than those who used it rarely. The mechanism appears to be social comparison — each glance at another's curated life produces a small deficit of self-worth that accumulates into chronic disconnection.",
+  "question": "According to the passage, what mechanism links frequent social media use to increased feelings of isolation?",
+  "options": [
+    { "text": "Social media use disrupts sleep, which in turn impairs social functioning.", "correct": false },
+    { "text": "Heavy users develop distorted expectations that real-world friends cannot meet.", "correct": false },
+    { "text": "Social comparison with curated content produces accumulating deficits of self-worth.", "correct": true },
+    { "text": "Frequent checking crowds out time that would otherwise be spent in direct conversation.", "correct": false }
+  ]
+}

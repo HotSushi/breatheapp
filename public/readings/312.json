@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The central mechanism of flow is what Csikszentmihalyi called the challenge-skill balance. When a task's demands exceed our abilities, we feel anxiety. When our abilities far outstrip the task, we feel boredom. Flow occupies the narrow corridor between these states — where challenge and skill are roughly matched and both are elevated. This is not a stable region but a dynamic one: as skill grows, yesterday's flow activity becomes today's boredom. The model predicts that mastery without escalating challenge produces stagnation, not satisfaction. A pianist who never attempts harder pieces, a programmer who never faces harder problems — both drift toward a state that feels comfortable but is neurologically understimulating.",
+  "question": "According to the challenge-skill model, what happens when a person's abilities far exceed the demands of a task?",
+  "options": [
+    { "text": "They enter a state of deep flow", "correct": false },
+    { "text": "They experience anxiety about maintaining performance", "correct": false },
+    { "text": "They feel boredom", "correct": true },
+    { "text": "They develop greater intrinsic motivation", "correct": false }
+  ]
+}

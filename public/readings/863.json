@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In the 1970s, Ulric Neisser proposed the \"perceptual cycle\": a schema directs exploratory activity, which samples the environment, which updates the schema. What we attend to is never raw sensation — it is always mediated by the anticipatory schemas we carry. Crucially, schemas are themselves narrative structures: they encode not just objects but sequences, roles, and expected outcomes. A person operating under the schema of \"busy professional running late\" will literally not see the street musician who would otherwise captivate them. Attention is not a spotlight we aim; it is a story we are already inside.",
+  "question": "According to Neisser's perceptual cycle, what role do schemas play in attention?",
+  "options": [
+    { "text": "They suppress irrelevant sensory input at the retinal level before processing begins", "correct": false },
+    { "text": "They direct exploratory activity, shaping which aspects of the environment get sampled", "correct": true },
+    { "text": "They operate independently of narrative structures, filtering only spatial information", "correct": false },
+    { "text": "They slow attention to allow more thorough processing of each stimulus", "correct": false }
+  ]
+}

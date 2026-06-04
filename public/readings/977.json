@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Cognitive capital — the aggregate capacity of a workforce to think clearly and at depth — is not measured on any balance sheet, yet economists increasingly recognize it as a primary driver of organizational productivity. A study by McKinsey Global Institute estimated that high-skill knowledge workers spend only 39 percent of their time on role-specific tasks, with the remainder consumed by email, meetings, and administrative coordination. The implication is striking: organizations that protect their employees' focused time are not offering a perk — they are recovering a resource that chronic distraction has been systematically destroying.",
+  "question": "What does the McKinsey study cited in the passage reveal about knowledge worker time allocation?",
+  "options": [
+    { "text": "Knowledge workers spend 61 percent of their time on role-specific, high-value tasks", "correct": false },
+    { "text": "Email alone accounts for more than half of a typical knowledge worker's day", "correct": false },
+    { "text": "Only 39 percent of knowledge worker time is spent on role-specific tasks", "correct": true },
+    { "text": "Meeting frequency is the single largest predictor of cognitive capital loss", "correct": false }
+  ]
+}

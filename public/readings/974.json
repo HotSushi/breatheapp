@@ -1,0 +1,23 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Peter Drucker coined the term 'knowledge worker' in 1959 to describe someone whose primary asset is the ability to think. Unlike factory workers measured by physical output per hour, knowledge workers produce value through the quality of their cognitive activity \u2014 judgment, synthesis, creativity, and sustained analysis. Drucker warned that traditional management tools, designed to optimize physical labor, would be inappropriate for managing minds. Decades later, most knowledge work organizations still rely on visible presence, email responsiveness, and meeting attendance as proxies for productivity \u2014 metrics that measure activity rather than the depth of thought the work actually requires.",
+  "question": "According to the passage, what flaw persists in how most organizations manage knowledge workers?",
+  "options": [
+    {
+      "text": "They pay knowledge workers based on physical output rather than cognitive output",
+      "correct": false
+    },
+    {
+      "text": "They overemphasize creativity at the expense of sustained analysis",
+      "correct": false
+    },
+    {
+      "text": "They apply Drucker's original framework too rigidly to modern contexts",
+      "correct": false
+    },
+    {
+      "text": "They rely on activity metrics that fail to measure depth of thought",
+      "correct": true
+    }
+  ]
+}

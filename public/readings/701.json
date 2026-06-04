@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "When you stop working, your brain does not. The default mode network — a constellation of regions including the medial prefrontal cortex, posterior cingulate, and angular gyrus — activates precisely when external demands cease. Neuroscientist Marcus Raichle, who first characterized this network in 2001, observed that it consumed nearly as much glucose as the task-positive networks people assumed did all the real work. The default mode is not idling; it is running its own agenda: consolidating memory, simulating social futures, and building the narrative continuity that makes you feel like a coherent self across time.",
+  "question": "According to the passage, what did Marcus Raichle's 2001 observation reveal about the default mode network's energy use?",
+  "options": [
+    { "text": "It consumed far less energy than active task networks, suggesting it was mostly dormant.", "correct": false },
+    { "text": "It consumed nearly as much glucose as the task-positive networks people assumed did the real work.", "correct": true },
+    { "text": "It drew energy primarily from the hippocampus rather than glucose metabolism.", "correct": false },
+    { "text": "It activated only during sleep, not during ordinary waking rest.", "correct": false }
+  ]
+}

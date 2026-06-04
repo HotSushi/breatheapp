@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh introduced the term 'interbeing' to describe the Mahayana insight that no being exists in isolation — each arises through a web of conditions that includes every other. This is not a metaphor but a perceptual training. Nhat Hanh writes that when you hold a piece of paper, you can see the cloud that rained on the forest, the logger, the sun. Practiced as an attention exercise, interbeing transforms the scrolling reflex: rather than consuming images of others as content, the practitioner perceives a field of interdependent lives. The result, in clinical terms, is a shift from consummatory behavior — consuming for relief — toward affiliative behavior, which is intrinsically sustaining.",
+  "question": "How does Thich Nhat Hanh's concept of interbeing function as an attention exercise, according to the passage?",
+  "options": [
+    { "text": "It trains the practitioner to see all appearances as illusory, reducing attachment to digital content.", "correct": false },
+    { "text": "It transforms consuming images of others as content into perceiving a field of interdependent lives.", "correct": true },
+    { "text": "It replaces verbal thinking with visual perception, quieting the default mode network.", "correct": false },
+    { "text": "It encourages slower breathing, which activates the parasympathetic nervous system during screen use.", "correct": false }
+  ]
+}

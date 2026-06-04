@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 2009, communication scholar Clifford Nass and his colleagues at Stanford published a study that upended popular assumptions about heavy media multitaskers. They expected to find that people who regularly juggle multiple streams of media would show superior attentional abilities — after all, they practice switching constantly. Instead, the researchers found the opposite: chronic media multitaskers performed worse on tests of attention filtering, working memory, and task-switching than light multitaskers. Nass concluded that heavy media multitaskers are \"suckers for irrelevancy\" — their brains had become less capable of ignoring distracting stimuli, not more.",
+  "question": "What did Nass's 2009 Stanford study find about chronic media multitaskers?",
+  "options": [
+    { "text": "They developed superior working memory from constant practice", "correct": false },
+    { "text": "They showed equal performance to light multitaskers on all cognitive tests", "correct": false },
+    { "text": "They performed worse on attention filtering, working memory, and task-switching", "correct": true },
+    { "text": "They were better at filtering distraction but slower at task completion", "correct": false }
+  ]
+}

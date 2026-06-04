@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher C. Thi Nguyen has argued that social media creates what he calls 'value capture' — a process by which the rich, qualitative texture of human judgment is replaced by a single quantified metric: the like count. When we write, we originally aim at honesty, wit, connection, or beauty. But once a number appears beneath our words, we learn to optimize for that number instead. Gradually, the metric colonizes the goal. Nguyen compares this to a hiker who starts walking for love of nature but becomes obsessed with step counts. The map has replaced the territory, and the original value has been quietly evacuated.",
+  "question": "What does Nguyen mean by 'value capture' in the context of social media?",
+  "options": [
+    { "text": "Platforms capture user data and sell it to advertisers", "correct": false },
+    { "text": "Rich qualitative goals are replaced by optimization for a single metric like likes", "correct": true },
+    { "text": "Viral content captures more value for platforms than creators", "correct": false },
+    { "text": "Users' personal values are captured in their algorithmic profiles", "correct": false }
+  ]
+}

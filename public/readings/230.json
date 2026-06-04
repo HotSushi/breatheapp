@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Korean Zen master Seungsahn taught that distracting thoughts arise from 'don't know mind' being covered by opinions, memories, and plans. His letters to Western students, collected in 'Dropping Ashes on the Buddha,' return repeatedly to one instruction: when a thought comes, let it come; when it goes, let it go. The practice is not indifference but precise timing — neither holding the thought in place nor pushing it away. Seungsahn framed this as honoring anicca: to cling to a pleasant distraction or resist an unpleasant one is to pretend that the thought is a thing with permanence, when observation reveals that every thought has already begun to dissolve the moment it appears.",
+  "question": "According to Seungsahn, what does clinging to a pleasant thought or resisting an unpleasant one represent?",
+  "options": [
+    { "text": "A necessary stage in building concentration.", "correct": false },
+    { "text": "Acting as if the thought has permanence, contrary to what observation shows.", "correct": true },
+    { "text": "The natural expression of don't-know mind.", "correct": false },
+    { "text": "A technique used only by beginning practitioners.", "correct": false }
+  ]
+}

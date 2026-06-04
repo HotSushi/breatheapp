@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Cognitive psychologist Ap Dijksterhuis introduced the theory of unconscious thought in 2006, arguing that the mind processes complex information more effectively during periods of distraction than during deliberate analysis. In his studies, participants who were given a filler task after receiving complex information made better decisions than those who ruminated. The mechanism appears to involve the default mode network — active precisely when the prefrontal cortex stands down. Micro-recovery, then, is not merely the absence of work; it is a parallel processing mode where the brain continues integrating, pattern-matching, and pruning without conscious supervision.",
+  "question": "According to Dijksterhuis's theory, what happens in the brain during a distraction-based rest period?",
+  "options": [
+    { "text": "The amygdala consolidates emotional memories to free up working memory", "correct": false },
+    { "text": "The default mode network processes complex information while the prefrontal cortex stands down", "correct": true },
+    { "text": "Cortical oscillations synchronize to reinforce recently encoded procedural skills", "correct": false },
+    { "text": "Hippocampal replay transfers short-term memories into long-term storage", "correct": false }
+  ]
+}

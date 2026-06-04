@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Husserl's late work on the 'lifeworld' extended intentionality beyond individual acts into the shared, pre-theoretical horizon within which all experience occurs. We do not encounter objects as bare particulars and then assign them meaning; we inherit a culturally and historically sedimented world that always already presents things as tools, obstacles, symbols, or dangers. The intentional arc, in this late Husserlian sense, reaches from the individual conscious act all the way through intersubjective practice and historical tradition. Maurice Merleau-Ponty would later anchor this arc in the body, arguing that motor habits — the practiced grip of a craftsman's hand — embody intentionality without the mediation of explicit thought.",
+  "question": "According to the passage, how did Merleau-Ponty extend Husserl's late thinking about intentionality?",
+  "options": [
+    { "text": "By locating intentionality in linguistic structures shared across cultures", "correct": false },
+    { "text": "By anchoring intentionality in bodily motor habits rather than explicit thought", "correct": true },
+    { "text": "By arguing that intentionality vanishes in collective rather than individual experience", "correct": false },
+    { "text": "By replacing the concept of intentionality with the notion of the lifeworld", "correct": false }
+  ]
+}

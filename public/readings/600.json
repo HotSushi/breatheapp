@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Talmud's treatment of generational transmission offers a final angle on the incompletability of work. Each generation of scholars received Torah from the previous one and was obligated to pass it forward, not merely to master it themselves. This chain — the mesorah — meant that individual incompletion was structurally built into the design. No single generation was supposed to arrive at the end. The work's continuity depended on each participant accepting that they were a link, not a terminus. To desist was not only personal abdication; it was a break in the chain that no subsequent link could repair. Attention, in this framing, is always inherited and always owed forward.",
+  "question": "According to the passage, why was individual incompletion structurally built into the mesorah?",
+  "options": [
+    { "text": "Because no single generation was meant to arrive at the end of the work", "correct": true },
+    { "text": "Because memorizing the entire oral tradition exceeded any one person's capacity", "correct": false },
+    { "text": "Because the Torah was continuously expanded by new rabbinic commentary", "correct": false },
+    { "text": "Because political persecution often interrupted sustained periods of study", "correct": false }
+  ]
+}

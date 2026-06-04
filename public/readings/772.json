@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Not all glucose delivery is equal. The glycemic index — a measure of how rapidly carbohydrates raise blood sugar — shapes the quality of cognitive fuel as much as its quantity. High-glycemic foods spike glucose sharply, triggering an insulin surge that can overshoot and leave the brain temporarily under-fueled. Nutritional neuroscientist Fernando Gomez-Pinilla at UCLA has shown that diets chronically high in refined sugars impair synaptic plasticity and reduce BDNF, the protein that supports learning and memory. A steady supply from low-glycemic sources — legumes, oats, leafy vegetables — provides the gradual, sustained energy that focused cognition demands.",
+  "question": "According to the passage, what effect do diets high in refined sugars have on the brain, according to Fernando Gomez-Pinilla's research?",
+  "options": [
+    { "text": "They increase the production of BDNF", "correct": false },
+    { "text": "They stabilize insulin levels over time", "correct": false },
+    { "text": "They impair synaptic plasticity and reduce BDNF", "correct": true },
+    { "text": "They enhance working memory in the short term", "correct": false }
+  ]
+}

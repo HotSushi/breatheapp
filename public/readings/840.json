@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Cognitive scientist Anil Seth proposes that consciousness is a 'controlled hallucination' — the brain's best predictive model of the world, perpetually updated by sensory error signals. On this view, full presence is what happens when prediction and perception are tightly coupled: the model is being corrected in real time by vivid incoming data. Distraction breaks this coupling. The predictive model drifts, running on stale priors. You believe you are experiencing the room you are sitting in, but you are mostly experiencing a cached version of it. Seth's framework gives presence a precise functional definition: it is the degree to which your conscious model tracks the actual present rather than a recycled past.",
+  "question": "According to Anil Seth's framework, what happens to the predictive model during distraction?",
+  "options": [
+    { "text": "It accelerates, generating more hypotheses about the environment per second", "correct": false },
+    { "text": "It shuts down, leaving raw sensory data unprocessed in working memory", "correct": false },
+    { "text": "It transfers processing from visual to auditory channels to compensate", "correct": false },
+    { "text": "It drifts and runs on stale priors, decoupling from vivid incoming sensory data", "correct": true }
+  ]
+}

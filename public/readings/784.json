@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In the 1990s, neuroscientist Mary Helen Immordino-Yang used neuroimaging to show that resting-state brain activity is not passive — it is metabolically costly and functionally critical. The brain consumes roughly 20 percent of the body's energy while accounting for only two percent of its mass, and this consumption barely drops during wakeful rest. What shifts is the allocation: task-negative networks take over from task-positive ones. This handoff appears essential for social cognition, moral reasoning, and self-understanding. A culture that eliminates rest from its workday does not gain productivity — it quietly dismantles the neural architecture of reflective thought.",
+  "question": "What does Immordino-Yang's research suggest about the brain's energy use during wakeful rest?",
+  "options": [
+    { "text": "Energy consumption drops sharply, allowing neural repair to occur", "correct": false },
+    { "text": "The brain redirects energy to the limbic system for emotional regulation", "correct": false },
+    { "text": "Energy consumption barely drops, but shifts from task-positive to task-negative networks", "correct": true },
+    { "text": "Rest conserves energy by suppressing default mode network activity", "correct": false }
+  ]
+}

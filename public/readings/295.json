@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In classical Yoga philosophy, the Yoga Sutras of Patanjali describe smrtih — memory or recollection — as one of the five functions of the mind that practice must refine. Unlike sati, smrtih in Patanjali's scheme can be an obstacle: clinging to past experiences keeps the mind circling in samskara, habitual grooves worn by repetition. The paradox of continuous recollection in yoga is that one must remember the present — the instruction, the posture, the breath — while releasing memory of past and future. Present-moment smrtih functions less like recall and more like vigilance: the mind repeatedly checking whether it has drifted.",
+  "question": "In Patanjali's framework, what distinguishes problematic smrtih from its beneficial form?",
+  "options": [
+    { "text": "Beneficial smrtih recalls teachings of the guru; problematic smrtih is self-generated", "correct": false },
+    { "text": "Beneficial smrtih is vigilance toward the present moment; problematic smrtih clings to past experiences", "correct": true },
+    { "text": "Beneficial smrtih strengthens concentration; problematic smrtih weakens it through over-effort", "correct": false },
+    { "text": "Beneficial smrtih arises spontaneously; problematic smrtih requires deliberate cultivation", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "One of Carr's most cited observations concerns the nature of memory. Human memory is not a hard drive; it is a living system that reconstructs experience each time we recall it. Psychologist Endel Tulving distinguished 'semantic memory' — factual knowledge — from 'episodic memory,' the autobiographical record of personal experience. What we remember shapes who we are. When we outsource memory to search engines, we are not simply storing facts externally; we are interrupting the biological process by which information becomes identity. Carr warns that a mind accustomed to Googling rather than remembering may retain access to data while losing the deeply consolidated understanding that only personal memory produces.",
+  "question": "What distinction did psychologist Endel Tulving draw that is relevant to Carr's argument about memory and identity?",
+  "options": [
+    { "text": "The distinction between conscious and unconscious information processing", "correct": false },
+    { "text": "The distinction between short-term and long-term memory storage", "correct": false },
+    { "text": "The distinction between semantic memory and episodic memory", "correct": true },
+    { "text": "The distinction between declarative and procedural knowledge", "correct": false }
+  ]
+}

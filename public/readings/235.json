@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Children between two and four years old display something neurologists call 'perceptual curiosity' — an orientation toward novelty that drives exploratory behavior without requiring prior goal-setting. Developmental psychologist Alison Gopnik argues that this state is not immaturity but a sophisticated cognitive mode that adults have largely lost. She calls it 'the lantern of attention,' contrasting it with the adult 'spotlight' that concentrates focus but excludes peripheral data. Zen beginner's mind is, in Gopnik's framework, an intentional recovery of the lantern — a broadening of attentional aperture that trades efficiency for completeness. The beginner is not less competent; the beginner simply refuses to prune the field.",
+  "question": "What does Alison Gopnik mean by 'the lantern of attention,' as described in the passage?",
+  "options": [
+    { "text": "A meditative state achieved through years of Zen training.", "correct": false },
+    { "text": "The narrow, goal-directed focus that characterizes expert adult cognition.", "correct": false },
+    { "text": "A broad attentional mode that includes peripheral data, contrasted with the adult spotlight.", "correct": true },
+    { "text": "The perceptual curiosity that emerges only during deep sleep cycles in children.", "correct": false }
+  ]
+}

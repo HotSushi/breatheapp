@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The inbox zero philosophy, often misunderstood as a demand for constant email processing, was designed by Merlin Mann as a metaphor for cognitive closure, not empty folders. The goal is to make every item in your system a decided thing: acted upon, delegated, deferred with a date, or deleted. The anxiety of the full inbox is not caused by volume but by unresolved decisions — each message represents a micro-question to which the brain has not yet supplied an answer. Cognitive offloading in this context means converting ambiguous items into explicit commitments the system will surface at the right time, removing them entirely from active mental circulation.",
+  "question": "According to the passage, what actually causes inbox anxiety, according to Merlin Mann's framework?",
+  "options": [
+    { "text": "The sheer volume of messages that must be processed each day", "correct": false },
+    { "text": "Constant notifications that interrupt deep work sessions", "correct": false },
+    { "text": "Unresolved decisions, since each message is a micro-question without an answer", "correct": true },
+    { "text": "The presence of delegated tasks that remain visible in a shared inbox", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Aquaporin-4, a water channel protein densely concentrated on astrocyte endfeet surrounding blood vessels, is the molecular engine of the glymphatic system. When aquaporin-4 is genetically deleted in mice, glymphatic flow drops by 65 percent and amyloid clearance fails. Human studies have found that variants in the AQP4 gene correlate with higher rates of Alzheimer's pathology. This single protein connects sleep quality to long-term cognitive fate. It reframes the glymphatic system not as background maintenance but as a precision molecular infrastructure — one whose degradation begins with consistently poor sleep.",
+  "question": "What happens to glymphatic flow in mice when aquaporin-4 is genetically deleted?",
+  "options": [
+    { "text": "It increases by 65 percent due to compensatory mechanisms", "correct": false },
+    { "text": "It drops by 65 percent and amyloid clearance fails", "correct": true },
+    { "text": "It is rerouted through cerebrospinal fluid channels", "correct": false },
+    { "text": "It becomes dependent on REM sleep duration instead", "correct": false }
+  ]
+}

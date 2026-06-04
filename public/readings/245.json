@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The practice of washing dishes mindfully is, at its core, a confrontation with the ordinary. Zen traditions have long used mundane labor — chopping wood, carrying water — as the primary site of awakening, deliberately refusing the idea that spiritual life occupies a separate register from daily existence. When Master Zhaozhou was asked what Buddha is, he answered: \"I have finished eating my porridge. Now I am washing my bowl.\" The response is not evasion; it points directly at the practice. Presence in small acts dissolves the hierarchy that exalts meditation while dismissing the kitchen sink.",
+  "question": "What does Zhaozhou's answer about washing his bowl illustrate in the passage?",
+  "options": [
+    { "text": "That Buddhist teachers use riddles to test their students' patience", "correct": false },
+    { "text": "That ritual eating is more sacred than other daily activities", "correct": false },
+    { "text": "That ordinary tasks like washing a bowl are themselves a complete expression of awakened presence", "correct": true },
+    { "text": "That monks must complete physical chores before sitting in meditation", "correct": false }
+  ]
+}

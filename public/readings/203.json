@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The breath occupies a singular position in Buddhist practice not because it is calming by nature, but because it is always present and always changing. Anapanasati — mindfulness of breathing — is taught in a sixteen-step progression in the Majjhima Nikaya, beginning with simply knowing whether the breath is long or short. Zen master Thich Nhat Hanh described this as 'following the breath home,' using continuity rather than concentration as the vehicle. The physiological mechanism is now understood: slow diaphragmatic breathing activates the vagus nerve, shifting the autonomic nervous system from sympathetic to parasympathetic dominance, lowering cortisol and heart rate within minutes.",
+  "question": "According to the passage, what makes the breath a singular object for Buddhist practice?",
+  "options": [
+    { "text": "It is inherently calming and pleasant to observe", "correct": false },
+    { "text": "It is always present and always changing", "correct": true },
+    { "text": "It directly activates the prefrontal cortex", "correct": false },
+    { "text": "It was specifically recommended by the Buddha above all other objects", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The spacing effect carries a paradox: learning that feels difficult in the moment produces better long-term retention than learning that feels easy. Robert Bjork at UCLA introduced the term \"desirable difficulties\" to describe this class of conditions — spacing, testing, interleaving — that slow apparent progress while accelerating durable learning. The confusion students feel when returning to spaced material signals genuine retrieval effort, not failure. Bjork's insight was that subjective fluency is a poor guide to actual learning: the very feeling of ease can indicate that information is moving through working memory without depositing anything in long-term storage.",
+  "question": "According to Bjork's concept of desirable difficulties, what does a student's subjective sense of ease during study indicate?",
+  "options": [
+    { "text": "That the material has been successfully transferred to long-term storage", "correct": false },
+    { "text": "That the student is ready to move on to more challenging content", "correct": false },
+    { "text": "That working memory is processing information without depositing it in long-term storage", "correct": true },
+    { "text": "That retrieval effort has been optimized through sufficient prior review", "correct": false }
+  ]
+}

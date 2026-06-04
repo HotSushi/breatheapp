@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic doctrine of withholding assent — epoch — was borrowed from the Skeptic school but transformed. The Academic Skeptics used suspension of judgment to conclude that certainty is impossible and that tranquility follows from giving up the search. Chrysippus accepted the mechanics but reversed the goal: withhold assent not as a permanent retreat into uncertainty, but as a disciplined pause before each impression. The aim is not to stop forming beliefs but to form better ones. Where the Skeptic's epoch is a destination, the Stoic version is a habit — a practiced hesitation that keeps reason in charge of what the self endorses.",
+  "question": "How did Chrysippus transform the Skeptic concept of epoch?",
+  "options": [
+    { "text": "He applied it only to ethical judgments, not to perceptual ones", "correct": false },
+    { "text": "He combined it with Platonic forms to create a new theory of knowledge", "correct": false },
+    { "text": "He restricted it to wise men, arguing ordinary people lack the patience for suspension", "correct": false },
+    { "text": "He turned it from a permanent retreat into a disciplined pause for forming better beliefs", "correct": true }
+  ]
+}

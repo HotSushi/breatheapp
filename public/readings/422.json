@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Tristan Harris, a former design ethicist at Google, argues that the attention economy has produced a fundamental asymmetry: on one side are a billion users with ordinary human minds; on the other, teams of engineers optimizing algorithms with near-unlimited data and compute. Harris frames this not as a user willpower problem but as a structural one — the product is not the content you consume but your attention itself, sold to advertisers. He draws on B.J. Fogg's Persuasive Technology Lab, where Harris studied, to show that every interface element — notification timing, color, animation — is a deliberate lever on human behavior.",
+  "question": "How does Tristan Harris characterize the core problem of the attention economy?",
+  "options": [
+    { "text": "As a failure of individual willpower that better habits can solve", "correct": false },
+    { "text": "As a structural asymmetry between ordinary human minds and optimized algorithmic systems", "correct": true },
+    { "text": "As a regulatory failure that governments have refused to address", "correct": false },
+    { "text": "As a generational gap in digital literacy between older and younger users", "correct": false }
+  ]
+}

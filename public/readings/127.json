@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "In Letter XLIX, Seneca uses a striking image to describe the pace at which life passes: a spinning top. The faster it turns, the less you can see the individual markings on its surface. He applies this to aging — youth passes so quickly that in retrospect it occupies almost no space at all. But the image cuts deeper: speed creates the illusion of solidity. A life crammed with activity looks full from the outside and feels empty from within. Seneca's prescription is not to slow down but to introduce what he calls mora — deliberate pauses in which you actually register what is happening to you.",
+  "question": "What illusion does Seneca's spinning-top image identify in a life crammed with activity?",
+  "options": [
+    { "text": "That speed creates an appearance of fullness while the inner life remains empty", "correct": true },
+    { "text": "That constant motion gradually destroys one's capacity for wisdom", "correct": false },
+    { "text": "That youth passes slowly but old age accelerates without warning", "correct": false },
+    { "text": "That Roman entertainments were designed to distract citizens from virtue", "correct": false }
+  ]
+}

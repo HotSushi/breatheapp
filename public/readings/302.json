@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The bat-and-ball problem is Kahneman's most famous demonstration of System 1's overreach. A bat and ball cost $1.10 together; the bat costs $1 more than the ball. Most people immediately answer \"ten cents\" — and are wrong. The correct answer is five cents. System 1 decomposes the sentence pattern into a familiar arithmetic shortcut, delivering a confident but incorrect solution before System 2 has been engaged. What is striking is not that people make this error, but that they make it with certainty. System 1 does not signal its own unreliability; it produces fluent answers that feel like conclusions.",
+  "question": "What is the correct answer to the bat-and-ball problem as described in the passage?",
+  "options": [
+    { "text": "Ten cents", "correct": false },
+    { "text": "Five cents", "correct": true },
+    { "text": "Fifteen cents", "correct": false },
+    { "text": "One dollar", "correct": false }
+  ]
+}

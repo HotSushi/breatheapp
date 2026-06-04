@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Cal Newport's concept of \"digital minimalism\" is not a rejection of technology but a philosophy of deliberate adoption. Where most people accumulate digital tools passively — downloading apps because they are free, keeping social media because others use it — Newport argues for a different standard: a tool earns its place only if it substantially supports something you deeply value, and no less-costly alternative exists. This inversion of the default question, from \"why not?\" to \"why?\", forces users to articulate what they actually want from their attention before committing it to a platform.",
+  "question": "According to the passage, what standard must a digital tool meet under Newport's philosophy to justify its use?",
+  "options": [
+    { "text": "It must be used by a significant portion of the user's social network", "correct": false },
+    { "text": "It must be free or low-cost compared to alternatives", "correct": false },
+    { "text": "It must substantially support a deeply held value with no less-costly alternative", "correct": true },
+    { "text": "It must demonstrably improve productivity over a 30-day trial period", "correct": false }
+  ]
+}

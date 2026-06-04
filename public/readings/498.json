@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The Romantic poets treated purposeless walking — what they called 'sauntering' — as a cognitive practice, not merely recreation. Wordsworth composed verse aloud while walking, trusting the rhythm of his stride to organize thought. Keats described the mind during aimless movement as 'dwelling in uncertainty,' open to impressions without forcing resolution. What they intuited, cognitive scientists have since confirmed: physical movement without a destination reduces prefrontal control just enough to allow associative thinking to surface. The unscheduled walk is thus a technology older than the smartphone and more effective at one specific task — producing thoughts that surprise their thinker.",
+  "question": "What do cognitive scientists confirm about physical movement without a destination, as described in the passage?",
+  "options": [
+    { "text": "It elevates mood by increasing serotonin, which in turn improves memory consolidation.", "correct": false },
+    { "text": "It synchronizes heart rate and breathing, creating conditions for focused analytical thinking.", "correct": false },
+    { "text": "It reduces prefrontal control just enough to allow associative thinking to surface.", "correct": true },
+    { "text": "It activates the hippocampus, making spatial memory temporarily more accessible.", "correct": false }
+  ]
+}

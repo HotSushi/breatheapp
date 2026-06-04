@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Not all mental intrusions are created equal. Research by Daniel Wegner on ironic process theory revealed that actively trying to suppress a thought — 'don't think about the unfinished report' — paradoxically increases its frequency. The suppression attempt requires a monitoring process that continually checks for the forbidden thought, which ironically activates it. This mechanism is distinct from the Zeigarnik effect, which arises from goal incompleteness rather than suppression. But the two can compound: a person who both has an incomplete task and tries to stop thinking about it may experience a double amplification of intrusion. The remedy for each is different; conflating them leads to failed interventions.",
+  "question": "According to Wegner's ironic process theory, what happens when you try to suppress a thought?",
+  "options": [
+    { "text": "The thought fades faster because attention is directed away from it", "correct": false },
+    { "text": "The monitoring process required activates the very thought being suppressed", "correct": true },
+    { "text": "The prefrontal cortex overrides the thought through inhibitory control", "correct": false },
+    { "text": "Suppression works initially but the thought returns during sleep", "correct": false }
+  ]
+}

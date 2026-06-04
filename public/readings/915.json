@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The Nielsen rating system, launched in the 1950s, did something philosophically radical: it converted the act of watching television into a measurable, tradeable unit. Attention became a currency with a price. Media economists call this the dual product market — broadcasters sell content to audiences and simultaneously sell those audiences to advertisers. The price of an advertising slot fluctuated based on how many eyeballs it commanded and how desirable those eyeballs were demographically. The term 'eyeballs,' now commonplace in startup pitch decks, entered media language precisely because human beings had been reduced to sensory organs for sale.",
+  "question": "In the dual product market described in the passage, what do broadcasters sell to advertisers?",
+  "options": [
+    { "text": "The rights to produce original content", "correct": false },
+    { "text": "Access to audiences whose attention they have already captured", "correct": true },
+    { "text": "Advertising slots with guaranteed viewer engagement", "correct": false },
+    { "text": "Demographic data collected from Nielsen households", "correct": false }
+  ]
+}

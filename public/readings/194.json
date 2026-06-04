@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic journaling tradition drew on an older Greek practice called epimeleia heautou — care of the self. Foucault, in The Hermeneutics of the Subject, traced how this practice required writing as an external support for memory and self-knowledge. Unlike modern therapy's cathartic model, Stoic writing was not about releasing emotion but about forming judgment. You wrote not to discharge what you felt but to clarify what you should think. The distinction is precise: catharsis empties; Stoic writing fills. A journal entry was complete not when the feeling was expressed, but when the correct doctrine had been restated clearly enough to act on.",
+  "question": "According to the passage, how does the Stoic journaling model differ from the cathartic model of modern therapy?",
+  "options": [
+    { "text": "Stoic writing focuses on releasing emotion, while therapy focuses on forming judgment", "correct": false },
+    { "text": "Stoic writing rejects self-knowledge in favor of external action", "correct": false },
+    { "text": "Stoic writing was about forming judgment, not discharging feeling", "correct": true },
+    { "text": "Stoic writing was primarily a communal rather than private practice", "correct": false }
+  ]
+}

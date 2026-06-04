@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Germane load — a third category in Sweller's revised cognitive load theory — refers to the effort invested in forming and refining schemas, the very cognitive structures that reduce future load. Unlike extraneous load, which should always be minimized, germane load is desirable: it is the productive struggle through which understanding is built. Research by Robert Bjork on 'desirable difficulties' confirms this paradox. Spacing practice, interleaving topics, and withholding feedback all increase germane load and improve long-term retention, even though they feel harder and slower in the moment. The discomfort of learning is not a sign of poor instruction — it may be a sign that it is working.",
+  "question": "According to the passage, why does Robert Bjork consider some difficulties 'desirable'?",
+  "options": [
+    { "text": "They reduce extraneous load by removing unnecessary cognitive scaffolding", "correct": false },
+    { "text": "They signal that the learner is processing material at a deeper semantic level", "correct": false },
+    { "text": "They increase germane load, which builds the schemas that improve long-term retention", "correct": true },
+    { "text": "They habituate learners to frustration, improving resilience under high cognitive demands", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Maurice Merleau-Ponty argued that presence is not a mental achievement but a bodily one. In his 'Phenomenology of Perception,' he showed that skilled performance — a pianist's hands, a carpenter's hammer strokes — enacts understanding the body already holds. The tool becomes an extension of the body schema, and in that extension, the gap between self and world closes. Digital devices invert this: they demand we attend to the interface rather than through it. Presence collapses not because the mind wanders but because the technology inserts itself as an object of attention rather than disappearing into transparent use.",
+  "question": "According to Merleau-Ponty, what happens when a tool is genuinely mastered in skilled performance?",
+  "options": [
+    { "text": "Conscious attention must monitor each movement more carefully", "correct": false },
+    { "text": "Verbal cognition takes over from motor memory to guide the action", "correct": false },
+    { "text": "The tool becomes a distinct object requiring dedicated mental resources", "correct": false },
+    { "text": "The gap between self and world closes as the tool extends the body schema", "correct": true }
+  ]
+}

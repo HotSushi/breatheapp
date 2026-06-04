@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Memory consolidation during sleep is not a passive recording process but an active reconstruction. The hippocampus, which functions as a temporary buffer for new experiences, replays those experiences during slow-wave sleep, transferring them to the neocortex for long-term storage. Neuroscientist Matthew Walker describes this as the brain's overnight filing system. Crucially, the hippocampus has a limited capacity — much like a USB drive. If sleep is skipped, new experiences cannot be properly offloaded, and the following day's learning suffers not just from fatigue but from a structurally full inbox. The mechanism is not metaphorical: hippocampal saturation is measurable in functional MRI studies.",
+  "question": "According to the passage, why does skipping sleep impair the following day's learning beyond just causing fatigue?",
+  "options": [
+    { "text": "The prefrontal cortex loses access to executive function without adequate rest", "correct": false },
+    { "text": "The hippocampus remains structurally saturated, leaving no room for new input", "correct": true },
+    { "text": "REM sleep is needed to generate the neurotransmitters required for focus", "correct": false },
+    { "text": "The neocortex requires downtime to produce new synaptic receptor sites", "correct": false }
+  ]
+}

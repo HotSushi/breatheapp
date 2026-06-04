@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Tim Wu's 2016 book 'The Attention Merchants' traces advertising back to the penny press of the 1830s, when newspapers like the New York Sun discovered they could sell papers below cost and recoup the loss through advertising. The key innovation was not printing technology but a business model: manufacture cheap content to aggregate an audience, then sell that audience to whoever wanted to reach it. Wu argues this model has been reinvented in every generation — by radio, television, cable, and finally the internet — each time colonizing a new domain of daily life that had previously been free from commercial interruption.",
+  "question": "What business model innovation did the 1830s penny press introduce, according to Tim Wu?",
+  "options": [
+    { "text": "Selling newspapers at a premium price to upscale subscribers", "correct": false },
+    { "text": "Using printing technology to lower production costs dramatically", "correct": false },
+    { "text": "Selling papers below cost and recouping losses through advertising revenue", "correct": true },
+    { "text": "Partnering with governments to distribute news at no charge", "correct": false }
+  ]
+}

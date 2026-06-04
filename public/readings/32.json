@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Cognitive load theory, developed by educational psychologist John Sweller in the 1980s, distinguishes between intrinsic load — the inherent complexity of material — and extraneous load, which is friction imposed by poor design or unnecessary information. Working memory handles both simultaneously, and their demands are additive. A cluttered interface, ambiguous instructions, or irrelevant notifications each consume cognitive resources that could have been directed at understanding. Sweller's insight was that instruction fails not because students lack ability but because designers fail to respect the finite architecture of the mind. Reducing extraneous load is, in effect, an act of cognitive generosity.",
+  "question": "According to the passage, what does Sweller's theory say about why instruction often fails?",
+  "options": [
+    { "text": "Students do not practice retrieval enough to retain what they learn", "correct": false },
+    { "text": "Intrinsic load is typically too high for novice learners", "correct": false },
+    { "text": "Designers impose extraneous load that exhausts finite working memory", "correct": true },
+    { "text": "Motivation, not cognitive capacity, is the primary barrier to learning", "correct": false }
+  ]
+}

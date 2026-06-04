@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Derek Parfit argued that personal identity over time is less like a solid thread and more like overlapping chains of psychological continuity. When attention is continuously fragmented, this continuity weakens. Each task-switch introduces a micro-discontinuity: the person who was immersed in writing is not quite the person who glances at a notification. Across hundreds of such breaks in a day, the cumulative effect may be something like a dissolution of narrative selfhood — not a dramatic rupture, but a slow erosion of the coherent experiential perspective that gives life its sense of purpose and direction.",
+  "question": "How does the passage apply Parfit's view of personal identity to fragmented attention?",
+  "options": [
+    { "text": "Each task-switch strengthens psychological continuity by building new associative links.", "correct": false },
+    { "text": "Parfit believed attention fragmentation was incompatible with moral responsibility.", "correct": false },
+    { "text": "Fragmented attention can erode the narrative coherence of selfhood through accumulated micro-discontinuities.", "correct": true },
+    { "text": "Parfit argued that personal identity is entirely independent of attentional states.", "correct": false }
+  ]
+}

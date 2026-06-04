@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Infinite scroll was not the only design decision that quietly colonized time. Autoplay — the feature that launches the next video two seconds before the current one ends — was introduced by Netflix and later adopted by YouTube and TikTok. Like infinite scroll, it inverts the default: the action requiring effort is stopping, not continuing. Media scholars have noted that autoplay exploits what psychologist Roy Baumeister called 'ego depletion': as the day progresses, the mental effort required to resist a default increases while willpower reserves diminish. Platforms that schedule autoplay for evening hours are, in effect, timing their capture to coincide with the mind's weakest defenses.",
+  "question": "Why might platforms timing autoplay for evening hours be strategically significant, according to the passage?",
+  "options": [
+    { "text": "Because users consume more content at night and are more likely to subscribe", "correct": false },
+    { "text": "Because screen brightness in dark rooms amplifies video engagement", "correct": false },
+    { "text": "Because advertising rates are higher during prime-time evening viewing", "correct": false },
+    { "text": "Because ego depletion means willpower to resist defaults is lower by evening", "correct": true }
+  ]
+}

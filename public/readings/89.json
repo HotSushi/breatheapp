@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Divided attention collapses when the tasks involved share the same processing modality. Alan Baddeley's working memory model identifies a \"phonological loop\" — a verbal rehearsal system — that can only hold one stream of speech at a time. This is why reading while listening to a podcast degrades both tasks: they compete for the same subsystem. Tasks from different modalities, like humming while sketching, interfere less. The practical upshot is that the geometry of multitasking matters: not whether you are doing two things at once, but whether those two things draw from the same neural resource pool. Collision is modal, not merely temporal.",
+  "question": "According to the passage, why does reading while listening to a podcast degrade both tasks?",
+  "options": [
+    { "text": "The anterior cingulate detects conflict and slows both tasks as a penalty.", "correct": false },
+    { "text": "They compete for the same phonological loop, which can only hold one speech stream.", "correct": true },
+    { "text": "Both tasks require sustained norepinephrine, which is a limited resource.", "correct": false },
+    { "text": "The visual cortex cannot process text while the auditory cortex is engaged.", "correct": false }
+  ]
+}

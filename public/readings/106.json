@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Book III of the Meditations contains one of Aurelius's most precise self-observations: he notes that the mind often wanders into unnecessary complexity, adding drama and commentary to events that are, in themselves, neutral. He calls this the \"amplification\" that we layer onto simple facts. A man says something rude; the rude words are a fact. The injury, the grievance, the replaying — those are additions. Aurelius does not advise suppression but subtraction: strip away the amplification, and return to the bare event. This practice, applied moment by moment, is what he means by living in accordance with nature.",
+  "question": "What does Aurelius mean by \"amplification\" in the passage's description of Book III?",
+  "options": [
+    { "text": "The tendency to exaggerate one's own virtues in private reflection", "correct": false },
+    { "text": "Drama and commentary the mind adds to events that are themselves neutral", "correct": true },
+    { "text": "The use of rhetorical emphasis in philosophical writing", "correct": false },
+    { "text": "A technique for strengthening memory through repetition", "correct": false }
+  ]
+}

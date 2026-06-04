@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Zeno of Citium founded Stoicism after a shipwreck stripped him of his merchant cargo and deposited him in Athens. He found a bookseller reading Xenophon's account of Socrates and asked where he could find men like that. The accident that ruined him became the event that made him. The Stoics drew from this origin story a structural point: what looks catastrophic at close range often looks generative from sufficient distance. The 'view from above' is not a fantasy exercise; it is an empirical claim that our temporal proximity to an event systematically distorts our assessment of its significance.",
+  "question": "What empirical claim does the passage say the Stoics draw from Zeno's origin story?",
+  "options": [
+    { "text": "Shipwrecks and disasters are more common than philosophers acknowledge", "correct": false },
+    { "text": "Philosophical study is a superior vocation to commerce", "correct": false },
+    { "text": "Temporal proximity to an event systematically distorts our assessment of its significance", "correct": true },
+    { "text": "Accidental encounters are the primary source of philosophical insight", "correct": false }
+  ]
+}

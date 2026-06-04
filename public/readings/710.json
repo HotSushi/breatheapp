@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Mathematician Henri Poincaré described in 1908 how the solution to a topology problem he had struggled with for weeks arrived at the instant his foot touched the step of a carriage — unbidden, fully formed. He theorized that conscious work had mobilized \"atoms\" of mathematical ideas, and that during rest these atoms continued colliding autonomously, seeking stable combinations. What Poincaré described intuitively maps onto what researchers now call \"spontaneous thought\": the default mode network's capacity to run simulations without conscious direction. Rest does not pause the mind. It hands the problem to a part of the mind that operates without the constraint of your attention.",
+  "question": "According to the passage, what did Poincaré believe happened to mathematical ideas during rest?",
+  "options": [
+    { "text": "They were encoded into long-term memory through hippocampal replay.", "correct": false },
+    { "text": "They dissolved and had to be reconstructed from scratch after rest.", "correct": false },
+    { "text": "They were suppressed by the conscious mind until sleep could process them.", "correct": false },
+    { "text": "They continued colliding autonomously, seeking stable combinations.", "correct": true }
+  ]
+}

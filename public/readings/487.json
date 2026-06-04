@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The performance penalty of multitasking is not distributed equally across the population. Research by cognitive psychologist Patricia Hirsch found that older adults suffer disproportionately larger switch costs than younger adults, not because of diminished processing speed alone, but because the inhibitory mechanisms that clear task-set interference decline with age. Adolescents, on the other hand, show high tolerance for task-switching in terms of speed but display greater accuracy loss — trading precision for pace. The practical implication is that no age group escapes cognitive cost; the costs simply manifest differently depending on which executive functions are most developed or most vulnerable.",
+  "question": "According to Hirsch's research, why do older adults suffer larger switch costs than younger adults?",
+  "options": [
+    { "text": "They have less experience with digital devices and require more cognitive effort to use them", "correct": false },
+    { "text": "Their working memory capacity is smaller, limiting the number of active tasks", "correct": false },
+    { "text": "The inhibitory mechanisms that clear task-set interference decline with age", "correct": true },
+    { "text": "Their visual processing slows, making screen-based multitasking especially costly", "correct": false }
+  ]
+}

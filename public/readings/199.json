@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "There is a practical asymmetry in Stoic evening reflection that is easy to miss: it looks backward but aims forward. Marcus does not review the day to assign blame or to feel regret — the Stoics considered prolonged self-reproach a form of vanity, an excessive attention to one's own failures. The review exists solely to generate tomorrow's correction. Pierre Hadot, in Philosophy as a Way of Life, called these Stoic writing practices 'spiritual exercises' — not because they were mystical but because they exercised the attention, training it to inhabit principle rather than drift with mood. The examined day is raw material, not an end in itself.",
+  "question": "According to Pierre Hadot, why did he call Stoic writing practices 'spiritual exercises'?",
+  "options": [
+    { "text": "Because they connected daily life to divine reason", "correct": false },
+    { "text": "Because they had mystical origins in Pythagorean ritual", "correct": false },
+    { "text": "Because they exercised the attention, training it to inhabit principle rather than drift with mood", "correct": true },
+    { "text": "Because they required withdrawal from ordinary social life", "correct": false }
+  ]
+}

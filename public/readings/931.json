@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Before the industrial age, distraction was a luxury of the wealthy. A Roman senator might be tempted by the amphitheater; a Victorian gentleman by the club. Most people's attention was claimed entirely by survival. The 20th century began to change this, but it was the smartphone — cheap, networked, and engineered for compulsion — that finally democratized distraction. Today a subsistence farmer in rural Kenya and a hedge fund manager in Manhattan share a common vulnerability: both carry a device whose revenue model depends on fragmenting their concentration. Distraction, once a class privilege, is now a universal condition.",
+  "question": "According to the passage, what technological shift made distraction universally available across economic classes?",
+  "options": [
+    { "text": "The invention of television in the mid-20th century", "correct": false },
+    { "text": "The rise of industrial mass media and radio broadcasting", "correct": false },
+    { "text": "The spread of cheap, networked smartphones engineered for compulsion", "correct": true },
+    { "text": "The construction of public amphitheaters in ancient cities", "correct": false }
+  ]
+}

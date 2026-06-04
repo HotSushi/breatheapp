@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's letters to Lucilius are saturated with a single complaint: time is stolen from us because we do not guard it. 'Collect and save the time which till lately was being cut into and stolen from you,' he writes. But Seneca's diagnosis is precise — the thief is usually internal. Distraction, he argues, arrives through consent. We invite it by failing to examine how we spend each hour. His remedy was recollective attention: at day's end, review what you did, thought, and felt. This evening audit was not guilt but calibration — a way of making the invisible visible so that tomorrow's attention could be more deliberately placed.",
+  "question": "According to Seneca, what was the purpose of reviewing one's day each evening?",
+  "options": [
+    { "text": "To assign blame for lost time to external circumstances", "correct": false },
+    { "text": "To generate guilt as a motivating force for discipline", "correct": false },
+    { "text": "To make invisible patterns of distraction visible so future attention could be placed more deliberately", "correct": true },
+    { "text": "To satisfy a Stoic ritual prescribed by Epictetus", "correct": false }
+  ]
+}

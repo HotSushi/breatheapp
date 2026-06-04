@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The glymphatic system's dependence on body posture is one of neuroscience's more surprising findings. Researchers at Stony Brook University demonstrated that the lateral (side-sleeping) position maximizes cerebrospinal fluid flow through glymphatic channels, clearing waste more efficiently than back or stomach sleeping. This posture advantage was observed in rats but aligns with epidemiological data showing side-sleeping correlates with lower rates of neurodegeneration in humans. The brain's maintenance architecture is not indifferent to how we sleep — it is exquisitely sensitive to conditions that, until recently, were considered matters of personal comfort alone.",
+  "question": "What sleeping posture does the passage identify as most effective for glymphatic waste clearance?",
+  "options": [
+    { "text": "Back sleeping, which reduces pressure on glymphatic channels", "correct": false },
+    { "text": "Stomach sleeping, which increases cerebrospinal fluid velocity", "correct": false },
+    { "text": "Elevated head position, which mirrors aquaporin-4 orientation", "correct": false },
+    { "text": "Lateral (side) sleeping, which maximizes cerebrospinal fluid flow", "correct": true }
+  ]
+}

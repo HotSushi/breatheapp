@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The philosopher Michael Polanyi argued that all knowledge has a tacit dimension — we know more than we can tell. Expert craftspeople, scientists, and artists operate from embodied knowledge that resists articulation. This tacit knowing is built through years of practice and lives in procedural memory, not declarative recall. The creative act often involves surfacing this inarticulate knowing into explicit form: the novelist who does not know how a scene ends until writing it, the engineer who senses a design flaw before isolating it. Stepping back — closing the laptop, leaving the studio — does not pause the creative process; it allows the tacit layer to do what explicit reasoning cannot.",
+  "question": "What does Polanyi mean by the 'tacit dimension' of knowledge, as described in the passage?",
+  "options": [
+    { "text": "Knowledge that is stored in long-term memory but rarely accessed", "correct": false },
+    { "text": "Knowledge built through social interaction and distributed cognition", "correct": false },
+    { "text": "Knowledge acquired through reading rather than direct experience", "correct": false },
+    { "text": "Embodied knowledge that exceeds what can be explicitly articulated", "correct": true }
+  ]
+}

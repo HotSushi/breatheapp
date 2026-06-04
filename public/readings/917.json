@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 2017, former Facebook president Sean Parker admitted that the platform was designed to exploit a vulnerability in human psychology. The goal was not merely to provide a useful service but to consume as much of a user's time and attention as possible. The mechanism was the variable-reward loop: unpredictable social feedback — likes, comments, shares — delivered on an irregular schedule, which behavioral psychologist B.F. Skinner had shown decades earlier produces the most compulsive response patterns. What Skinner demonstrated with pigeons and food pellets, Silicon Valley industrialized at two billion users.",
+  "question": "According to the passage, why does unpredictable social feedback produce especially compulsive behavior?",
+  "options": [
+    { "text": "It mimics the dopamine release triggered by completing tasks", "correct": false },
+    { "text": "B.F. Skinner showed that variable-reward schedules produce the most compulsive response patterns", "correct": true },
+    { "text": "Sean Parker's research found that irregular feedback increases time-on-site metrics", "correct": false },
+    { "text": "Users feel more valued when approval arrives at unexpected intervals", "correct": false }
+  ]
+}

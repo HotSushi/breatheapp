@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Sustained attention — the capacity to hold focus on a single task over extended time — depends on a circuit linking the prefrontal cortex to the locus coeruleus, a small brainstem nucleus that releases norepinephrine. As norepinephrine tone declines during prolonged work, the signal-to-noise ratio in prefrontal neurons drops, and mind-wandering increases. This is not a character flaw; it is neurochemical physics. The brain's arousal system cannot maintain peak gain indefinitely. Deliberate rest — even a two-minute pause — partially restores norepinephrine tone, buying another window of clean, directed focus before the next inevitable drift.",
+  "question": "According to the passage, what happens in the prefrontal cortex when norepinephrine tone declines?",
+  "options": [
+    { "text": "The signal-to-noise ratio drops, leading to increased mind-wandering.", "correct": true },
+    { "text": "The locus coeruleus becomes overactive and floods the cortex with signal.", "correct": false },
+    { "text": "Dopamine compensates by binding to prefrontal receptors.", "correct": false },
+    { "text": "Sustained attention improves as the brain shifts to a default mode.", "correct": false }
+  ]
+}

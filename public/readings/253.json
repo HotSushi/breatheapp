@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Buddhist teacher Sharon Salzberg describes the 'near enemy' of metta as sentimentality — a clinging, selective warmth that feels like love but is actually attachment in disguise. The near enemy mimics the virtue while undermining it. Genuine loving-kindness must eventually extend to neutral people and even to those we dislike; when it stalls at people we already favor, it has become pema masquerading as metta. This graduated extension — from self, to loved ones, to neutral strangers, to difficult people, to all beings — is precisely what transforms metta from pleasant feeling into a reorientation of the entire attentional system toward connection rather than threat.",
+  "question": "What does Salzberg call the 'near enemy' of metta, and why is it problematic?",
+  "options": [
+    { "text": "Anger, because it directly destroys compassionate feeling.", "correct": false },
+    { "text": "Indifference, because it prevents emotional engagement with others.", "correct": false },
+    { "text": "Sentimentality — a selective warmth that is actually attachment in disguise.", "correct": true },
+    { "text": "Equanimity, because it makes one emotionally distant from suffering.", "correct": false }
+  ]
+}

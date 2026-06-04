@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The Romans had a concept called otium \u2014 deliberate, unstructured leisure distinct from both work and entertainment. Unlike negotium, which meant business, otium was the space where philosophy, reflection, and self-cultivation happened. Cicero considered it essential to the examined life. Modern productivity culture has abolished the distinction: free time is now a resource to optimize, filled with podcasts, self-improvement content, and scheduled relaxation apps. What we have lost is not rest but the unscheduled mental wandering that ancient thinkers recognized as the seedbed of wisdom. Optimization colonizes the very hours that once allowed us to think.",
+  "question": "How does the passage distinguish otium from modern leisure?",
+  "options": [
+    {
+      "text": "Otium was unscheduled mental wandering, while modern leisure is treated as a resource to optimize.",
+      "correct": true
+    },
+    {
+      "text": "Otium was structured rest used to prepare for more productive work.",
+      "correct": false
+    },
+    {
+      "text": "Otium referred to entertainment, while negotium referred to philosophical reflection.",
+      "correct": false
+    },
+    {
+      "text": "Modern leisure provides the same mental benefits as otium but through different means.",
+      "correct": false
+    }
+  ]
+}

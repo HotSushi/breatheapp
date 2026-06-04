@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The philosopher Thomas Nagel famously asked 'What is it like to be a bat?' to argue that subjective experience has an irreducible character no third-person account can capture. Less discussed is the implication for presence: if experience has intrinsic qualitative character — what Nagel calls 'qualia' — then failing to be fully present is not merely an efficiency loss but an ontological one. You are not getting less done; you are missing the actual substance of your life. The Austrian philosopher Robert Musil explored this in 'The Man Without Qualities,' whose protagonist possesses every cognitive capacity yet inhabits no moment completely, condemned to perpetual readiness for a life that never quite arrives.",
+  "question": "What ontological loss does the passage describe when a person fails to be fully present?",
+  "options": [
+    { "text": "A reduction in long-term memory consolidation of meaningful events", "correct": false },
+    { "text": "Missing the irreducible qualitative substance of experience itself", "correct": true },
+    { "text": "A decline in the brain's capacity to generate novel solutions", "correct": false },
+    { "text": "The fragmentation of narrative identity over time", "correct": false }
+  ]
+}

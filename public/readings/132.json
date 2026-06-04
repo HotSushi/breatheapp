@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic philosopher Epictetus drew a hard line between two categories: things within our power (prohairesis) and things outside it. Attention sits squarely in the first category. Yet Epictetus observed that most people spend their days attending to externals — reputation, wealth, the behavior of others — while neglecting the inner faculty that governs how those externals are received. He called this inversion a form of voluntary slavery. The discipline of attention (prosoche) was, for him, the practice of reclaiming ownership: each time the mind drifted toward what it could not control, the task was simply to notice, and return.",
+  "question": "What did Epictetus call the habit of attending primarily to things outside one's control?",
+  "options": [
+    { "text": "Prosoche", "correct": false },
+    { "text": "A form of voluntary slavery", "correct": true },
+    { "text": "Prohairesis", "correct": false },
+    { "text": "A rational exercise in realism", "correct": false }
+  ]
+}

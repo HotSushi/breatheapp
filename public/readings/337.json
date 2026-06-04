@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "David Allen, the productivity strategist behind Getting Things Done, arrived at a practical corollary to the Zeigarnik effect without invoking it by name. He observed that the mind holds open commitments in a kind of RAM — volatile, capacity-limited, and energy-consuming. Every unmapped commitment, every task without a defined next action, occupies a slot in this mental RAM. The solution Allen proposed was radical in its simplicity: capture everything into an external trusted system. Offloading to paper or software relieves the cognitive system of its monitoring burden. The Zeigarnik loop closes not because the task is done, but because the brain trusts that a system will remember it.",
+  "question": "According to the passage, why does capturing tasks in an external system relieve cognitive burden?",
+  "options": [
+    { "text": "It increases working memory capacity by freeing up neural resources", "correct": false },
+    { "text": "It ensures the most urgent tasks are completed first", "correct": false },
+    { "text": "It reduces anxiety by making deadlines more visible and concrete", "correct": false },
+    { "text": "The brain trusts the system to remember, so it stops monitoring the open task", "correct": true }
+  ]
+}

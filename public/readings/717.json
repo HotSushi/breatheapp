@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The post-lunch dip — that heavy-lidded valley between roughly 1 and 3 p.m. — is often blamed on the meal. But it appears even when lunch is skipped. Chronobiologist Jürgen Aschoff identified it as a secondary circadian trough, a feature of human biology as consistent as the nighttime sleep drive. Many cultures that historically scheduled a midday rest were not surrendering to laziness; they were reading a signal the body writes into every day. The dip marks a genuine nadir in core body temperature, reaction time, and vigilance — and a brief nap during this window restores cognitive performance more efficiently than caffeine.",
+  "question": "According to the passage, what did Jürgen Aschoff find about the post-lunch dip?",
+  "options": [
+    { "text": "It is caused primarily by carbohydrate consumption at midday", "correct": false },
+    { "text": "It is a secondary circadian trough that occurs even when lunch is skipped", "correct": true },
+    { "text": "It corresponds to a peak in ultradian rhythm activity", "correct": false },
+    { "text": "It is unique to cultures that traditionally practice midday rest", "correct": false }
+  ]
+}

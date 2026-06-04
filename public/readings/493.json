@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Neuroscientist Mary Helen Immordino-Yang discovered that the brain's default mode network — active during mind-wandering and rest — is not idle but engaged in constructing a coherent sense of self. When adolescents in her studies were given unstructured reflection time, the medial prefrontal cortex processed emotionally significant experiences in ways that shaped moral reasoning and empathy. Constant digital stimulation suppresses this network, effectively interrupting the neural process by which we become who we are. Boredom, in this account, is not wasted time. It is when the brain quietly assembles the architecture of character.",
+  "question": "According to Immordino-Yang's research, what does the default mode network do during unstructured rest?",
+  "options": [
+    { "text": "It consolidates procedural memories and motor skills for future tasks.", "correct": false },
+    { "text": "It processes emotionally significant experiences in ways that shape moral reasoning and empathy.", "correct": true },
+    { "text": "It reduces cortisol levels, providing physiological recovery from stress.", "correct": false },
+    { "text": "It generates random creative associations that become useful in later problem-solving.", "correct": false }
+  ]
+}

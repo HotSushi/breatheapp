@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca wrote to his friend Lucilius that the scattered mind — one that lurches from topic to topic, gathering impressions without digesting them — was not merely inefficient but contrary to human nature. 'Gather and save,' he urged, 'the few things that can enrich you.' The mind's natural work, for Seneca, was not consumption but assimilation: taking in select material, subjecting it to reason, and incorporating it so thoroughly that it altered how one saw and acted. He compared this to the bee gathering from many flowers to produce something entirely its own. The distracted collector of impressions remained forever a tourist in knowledge; the concentrated mind became what it had understood.",
+  "question": "According to the passage, what did Seneca compare concentrated intellectual assimilation to?",
+  "options": [
+    { "text": "A river carving its channel through stone over time", "correct": false },
+    { "text": "A soldier who selects the right weapon for each battle", "correct": false },
+    { "text": "A scholar organizing a vast library into useful categories", "correct": false },
+    { "text": "A bee gathering from many flowers to produce something entirely its own", "correct": true }
+  ]
+}

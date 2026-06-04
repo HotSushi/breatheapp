@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The deeper unity behind spacing, interleaving, and desirable difficulty is a single principle: learning is not the transfer of content into storage but the construction of retrievable structure. Each time the brain retrieves or generates information under conditions of moderate difficulty, it reinforces the pathways that make future retrieval possible. Bjork calls this encoding variability: varied practice creates multiple retrieval cues, so the memory can be reached from many angles. Massed, easy practice creates one deep rut. Varied, effortful practice creates a web. The web holds when context changes; the rut is useless the moment the conditions of the original study session do not repeat.",
+  "question": "According to the passage, why does varied effortful practice produce more durable memory than massed easy practice?",
+  "options": [
+    { "text": "It increases the total time on task, which is the primary driver of long-term retention", "correct": false },
+    { "text": "It prevents interference between similar memories by separating them in time", "correct": false },
+    { "text": "It creates multiple retrieval cues so the memory can be accessed from many angles", "correct": true },
+    { "text": "It activates emotional arousal, which enhances the consolidation of declarative memories", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Novelist Marilynne Robinson observed that we habitually narrate ourselves into smallness — constructing identities around wounds, grievances, or ambitions that then govern what we can afford to notice. A person narrating themselves as perpetually wronged cannot attend neutrally to a neutral act; the act must be recruited into the grievance story or dismissed. Robinson's point is not therapeutic but epistemological: a contracted narrative self contracts the field of perception. The antidote she describes is not the absence of story but a more spacious one — a narrative large enough to accommodate surprise, contradiction, and grace.",
+  "question": "What does Robinson identify as the epistemological consequence of a contracted narrative self?",
+  "options": [
+    { "text": "It generates compulsive self-criticism and reduces motivation", "correct": false },
+    { "text": "It prevents the formation of new long-term memories", "correct": false },
+    { "text": "It contracts the field of perception, forcing all input to fit the existing story", "correct": true },
+    { "text": "It causes the brain to suppress the default mode network during social interaction", "correct": false }
+  ]
+}

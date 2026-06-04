@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Mind-wandering is not a failure of the brain — it is a default mode. In a landmark 2010 study, Matthew Killingsworth and Daniel Gilbert used an iPhone app to ping thousands of people at random intervals, asking what they were doing and whether their mind was on that activity. Forty-seven percent of the time, people's minds were elsewhere. Crucially, mind-wandering predicted unhappiness regardless of the activity — people were less happy while mind-wandering even during pleasant tasks. Killingsworth and Gilbert concluded that a wandering mind is an unhappy mind, suggesting that presence itself, independent of circumstance, is a significant driver of wellbeing.",
+  "question": "What percentage of the time did Killingsworth and Gilbert find people's minds were wandering?",
+  "options": [
+    { "text": "Twenty-three percent", "correct": false },
+    { "text": "Sixty-two percent", "correct": false },
+    { "text": "Thirty-one percent", "correct": false },
+    { "text": "Forty-seven percent", "correct": true }
+  ]
+}

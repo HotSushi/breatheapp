@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 1973, anthropologist Robin Dunbar calculated that the size of the human neocortex limits our capacity for stable social relationships to roughly 150 people — a figure now called Dunbar's number. The inner layers of that network are even smaller: about five intimate bonds and fifteen close friends. These numbers have not changed. What has changed is the illusion created by follower counts that suggest social capacity can be scaled like server infrastructure. The attention required to maintain a genuine bond cannot be outsourced, automated, or compressed. Every hour spent broadcasting is an hour not spent listening to the five.",
+  "question": "What does the passage suggest about the relationship between Dunbar's number and digital follower counts?",
+  "options": [
+    { "text": "Follower counts accurately reflect how many meaningful relationships a person maintains.", "correct": false },
+    { "text": "Dunbar's number has gradually increased as humans adapt to digital environments.", "correct": false },
+    { "text": "Follower counts create the illusion that social capacity can scale, but Dunbar's cognitive limits remain fixed.", "correct": true },
+    { "text": "Dunbar's number applies only to in-person relationships, not to digital ones.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Stoic philosopher Seneca, writing to his friend Lucilius around 65 CE, described a man who could not bear his own company: 'He rushes from one thing to another, always in motion, never resting — not because he desires what he seeks, but because he fears what he leaves behind.' Seneca diagnosed this as a failure of philosophy: the untrained mind has never learned to inhabit itself. For the Stoics, focus was not a productivity strategy but a form of courage — the willingness to remain present with one's own thoughts rather than outsourcing awareness to spectacle.",
+  "question": "According to Seneca, what drives the person who rushes constantly from one thing to another?",
+  "options": [
+    { "text": "Fear of what he leaves behind, not genuine desire for what he seeks", "correct": true },
+    { "text": "A philosophical curiosity about the world and its many experiences", "correct": false },
+    { "text": "An ambition to accomplish as much as possible before death", "correct": false },
+    { "text": "A temperamental excess of energy that philosophy cannot cure", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Stephen Porges's Polyvagal Theory proposes that the human nervous system has not two but three hierarchical states. The most evolutionarily ancient is the dorsal vagal state: immobilization, shutdown, the freeze response seen in prey animals feigning death. Above it sits the sympathetic fight-or-flight state. The newest circuit, unique to mammals, is the ventral vagal state \u2014 social engagement, facial expressiveness, prosodic speech, and genuine rest. Porges argues that safety, not calm, is the prerequisite for recovery: without perceived social safety, the nervous system cannot fully enter the ventral vagal state. This reframes rest as fundamentally relational \u2014 something that occurs between organisms, not merely inside one.",
+  "question": "According to Polyvagal Theory as described in the passage, what is the prerequisite for the nervous system to enter the ventral vagal state?",
+  "options": [
+    {
+      "text": "Low blood cortisol levels maintained over several hours",
+      "correct": false
+    },
+    {
+      "text": "Activation of the sympathetic system to clear residual adrenaline",
+      "correct": false
+    },
+    {
+      "text": "Suppression of the dorsal vagal freeze response through conscious effort",
+      "correct": false
+    },
+    {
+      "text": "Perceived social safety",
+      "correct": true
+    }
+  ]
+}

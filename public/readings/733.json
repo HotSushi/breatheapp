@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The autonomic nervous system operates as two interlocking governors: the sympathetic branch accelerates the body toward action, while the parasympathetic branch — mediated largely by the vagus nerve — applies the brake. Under sustained stress, the sympathetic branch dominates, keeping the body in a low-grade state of readiness that physiologists call hyperarousal. Stephen Porges' Polyvagal Theory describes a more nuanced hierarchy: only when the ventral vagal system is active do we access the calm, socially connected state that supports deep focus. Chronic distraction is not merely a habit failure — it is often a sign that the nervous system never fully disengaged from its threat-scanning posture.",
+  "question": "According to Polyvagal Theory, what condition is necessary for deep focus?",
+  "options": [
+    { "text": "Dominant activity in the sympathetic nervous system", "correct": false },
+    { "text": "Suppression of all vagal nerve activity", "correct": false },
+    { "text": "Activation of the dorsal vagal shutdown response", "correct": false },
+    { "text": "Active engagement of the ventral vagal system", "correct": true }
+  ]
+}

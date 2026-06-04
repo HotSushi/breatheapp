@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 2017, a leaked internal Facebook document revealed that the platform had offered advertisers the ability to target teenagers in moments of emotional vulnerability — sadness, insecurity, the need for confidence. This was not a rogue experiment but the logical endpoint of behavioral targeting: if attention is currency, then attention seized from a person at their weakest moment is simply the highest-yield transaction. The document exposed what the attention economy requires but rarely states plainly — that profit maximization and user wellbeing are not complementary goals but structurally competing ones.",
+  "question": "What did the leaked Facebook document reveal about the logic of behavioral targeting?",
+  "options": [
+    { "text": "Targeting teenagers in vulnerable moments was an accidental feature of the algorithm", "correct": false },
+    { "text": "Profit maximization and user wellbeing are complementary when advertising is personalized", "correct": false },
+    { "text": "Advertising worked best when shown to users who were emotionally resilient", "correct": false },
+    { "text": "Attention seized during moments of vulnerability represented the highest-yield transactions", "correct": true }
+  ]
+}

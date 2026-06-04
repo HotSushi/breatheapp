@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius returned obsessively in the Meditations to a single diagnostic question: is this thought mine, or has it been lent to me by rumor, fear, or habit? He described the untrained mind as a crowded forum — every voice competing, none examined. The practice he prescribed was not silence but interrogation: take each impression and ask whether it corresponds to something real, something in your control, something worth the attention you are about to give it. Most impressions, he concluded, fail this test immediately. The noise of daily life, he wrote, is largely the sound of the unexamined.",
+  "question": "What practice did Marcus Aurelius prescribe for dealing with the crowded mind?",
+  "options": [
+    { "text": "Cultivating silence through daily withdrawal from public life", "correct": false },
+    { "text": "Journaling every thought to identify recurring fears", "correct": false },
+    { "text": "Replacing false impressions with Stoic maxims learned by memory", "correct": false },
+    { "text": "Interrogating each impression to test whether it is real, controllable, and worth attention", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The brain's default mode network (DMN) — active during rest and mind-wandering — does not simply switch off when a task begins. Researchers have found that residual DMN activity during goal-directed work predicts mind-wandering and task errors. When switching costs are high, the DMN fails to fully suppress, and task-positive networks never reach full engagement. This is why a distracted start to a task produces disproportionately poor output: the brain is caught between two states, neither fully resting nor fully focused. Reaching deep work requires not just choosing a task but allowing the neural state transition to complete.",
+  "question": "According to the passage, what does residual default mode network activity during a task predict?",
+  "options": [
+    { "text": "Stronger long-term memory consolidation for task-relevant material", "correct": false },
+    { "text": "Enhanced creative problem-solving through background processing", "correct": false },
+    { "text": "Mind-wandering and task errors", "correct": true },
+    { "text": "Faster recovery of attention after distraction", "correct": false }
+  ]
+}

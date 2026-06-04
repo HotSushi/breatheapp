@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Pali word anicca — impermanence — is one of the three marks of existence in Theravada Buddhism, alongside dukkha and anatta. The Buddha's teaching at Benares framed anicca not as philosophical abstraction but as direct observation: all conditioned phenomena arise through causes and pass when those causes cease. A wandering thought is conditioned by a trigger — a sound, a memory, a fear — and when that condition is no longer fed, the thought dissolves. Recognizing this, meditators are instructed not to suppress distraction but to observe its natural trajectory: arising, persisting briefly, and vanishing on its own.",
+  "question": "According to the passage, what happens to a distraction when its conditioning cause is no longer fed?",
+  "options": [
+    { "text": "It intensifies before eventually fading.", "correct": false },
+    { "text": "It must be actively suppressed to disappear.", "correct": false },
+    { "text": "It merges with the meditator's awareness.", "correct": false },
+    { "text": "It dissolves on its own.", "correct": true }
+  ]
+}

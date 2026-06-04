@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Cal Newport introduced a stark economic distinction between deep work and shallow work. Deep work — cognitively demanding tasks performed in a state of distraction-free concentration — produces the kind of output that advances careers, solves difficult problems, and creates genuine value. Shallow work — logistical tasks performed while distracted — is easily replicated and produces little lasting impact. Newport argues that as automation claims routine cognitive labor, the ability to perform deep work is becoming rare precisely as it becomes more economically valuable, creating an asymmetric advantage for those who cultivate it.",
+  "question": "What economic dynamic does Newport identify regarding deep work?",
+  "options": [
+    { "text": "Deep work is declining in value as AI automates complex reasoning", "correct": false },
+    { "text": "Shallow work generates more revenue because it scales more easily", "correct": false },
+    { "text": "Deep work is becoming rare and more economically valuable simultaneously", "correct": true },
+    { "text": "The distinction between deep and shallow work has collapsed in remote settings", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Pascal called the compulsive filling of time 'divertissement' — diversion. But he meant something more precise than mere entertainment. Divertissement is the act of throwing oneself into motion so completely that the question of one's own existence cannot arise. A king who stops hunting must sit with the knowledge that he will die, that his kingdom is temporary, that no victory is permanent. The motion of the chase, Pascal argued, matters more than the quarry. We do not want the hare; we want the hunt — the blessed noise of it that drowns out thought.",
+  "question": "In Pascal's concept of divertissement, what does the hunter actually want, according to the passage?",
+  "options": [
+    { "text": "The hare itself, as a symbol of conquest and mastery", "correct": false },
+    { "text": "The hunt — the noise and motion that drowns out thought", "correct": true },
+    { "text": "Social recognition from peers who witness the chase", "correct": false },
+    { "text": "Physical exertion that brings the body into balance with the mind", "correct": false }
+  ]
+}

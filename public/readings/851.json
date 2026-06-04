@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James argued in 1890 that the faculty of voluntarily bringing back a wandering attention is the very root of judgment, character, and will. Yet neuroscience now complicates his optimism. The prefrontal cortex, which governs deliberate attention, operates on a slower timescale than the subcortical salience network, which hijacks focus toward novelty and threat within milliseconds. By the time conscious intention mobilizes, the redirect has already occurred. Free will in attention may therefore be less about initiating focus and more about the slower practice of noticing where attention has gone and choosing not to follow every pull.",
+  "question": "According to the passage, why does conscious intention struggle to prevent attentional hijacking?",
+  "options": [
+    { "text": "The prefrontal cortex lacks enough neural connections to the salience network", "correct": false },
+    { "text": "The salience network redirects focus within milliseconds, before conscious intention can mobilize", "correct": true },
+    { "text": "William James overestimated the role of judgment in directing attention", "correct": false },
+    { "text": "Novelty and threat are processed by the same brain region as voluntary focus", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "William James wrote in 1890 that 'everyone knows what attention is' — yet the science of attention has spent more than a century complicating that confidence. James distinguished between voluntary attention, directed by will, and involuntary attention, captured by salience. What he could not have anticipated is how radically digital environments would tilt the balance between the two. Notifications, alerts, and autoplay content are engineered to hijack involuntary attention repeatedly, each interruption resetting the cognitive process that had been underway. Research by Gloria Mark at UC Irvine found that after a digital interruption, it takes an average of twenty-three minutes to fully re-engage with the original task.",
+  "question": "According to the passage, how long does it take to re-engage with a task after a digital interruption, per Gloria Mark's research?",
+  "options": [
+    { "text": "About five minutes, depending on task complexity", "correct": false },
+    { "text": "An average of twenty-three minutes", "correct": true },
+    { "text": "Approximately ten to fifteen minutes for most knowledge workers", "correct": false },
+    { "text": "The time varies too much to generalize across individuals", "correct": false }
+  ]
+}

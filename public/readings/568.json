@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The philosopher Théodule Ribot, whose work James read closely, proposed a developmental account of attention: early in life, attention is purely involuntary, shaped by reflex and sensation. Voluntary attention emerges later, as the mind learns to inhibit competing impulses and redirect itself. This sequence mirrors the evolution of civilizations: primitive cultures, Ribot argued, were dominated by involuntary attention, while advanced cultures cultivated the voluntary through philosophy, education, and discipline. James found this framework compelling and extended it to individual development. The growth of a person, on this view, is partly measured by the progressive shift from attention that is seized to attention that is chosen.",
+  "question": "According to Ribot's framework as described in the passage, what marks the growth of an individual or civilization?",
+  "options": [
+    { "text": "Increasing sensitivity to environmental stimuli", "correct": false },
+    { "text": "A progressive shift from seized attention to chosen attention", "correct": true },
+    { "text": "The development of derived interest over immediate interest", "correct": false },
+    { "text": "The capacity to sustain focus for longer unbroken periods", "correct": false }
+  ]
+}

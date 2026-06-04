@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Zen master Dogen, writing in thirteenth-century Japan, reframed Right Mindfulness through his concept of shoshin — beginner's mind. Where the Theravada tradition frames sati as remembering to return attention to the present object, Dogen insisted that authentic mindfulness requires approaching each moment as if for the first time, unburdened by accumulated interpretation. In his essay Genjokoan, he wrote: 'To study the self is to forget the self.' Neuroscientist Judson Brewer's research on self-referential thought supports Dogen's insight: the default mode network, active during mind-wandering and self-narrative, quiets measurably in experienced practitioners during open awareness practice.",
+  "question": "According to the passage, what does Dogen's concept of shoshin require of the practitioner?",
+  "options": [
+    { "text": "Continuous return of attention to a fixed meditation object", "correct": false },
+    { "text": "Approaching each moment unburdened by accumulated interpretation", "correct": true },
+    { "text": "Suppressing activity in the default mode network through focused breathing", "correct": false },
+    { "text": "Studying the self intensively until its patterns become fully transparent", "correct": false }
+  ]
+}

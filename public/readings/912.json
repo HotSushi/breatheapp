@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "When CBS sold advertising time in the 1950s, network executives described their product with unusual candor: they were not selling entertainment to audiences but audiences to advertisers. The commodity was human attention, rented by the half-hour. This logic, which media critic Dallas Smythe called the audience commodity, turned viewers into labor. Watching commercials was unpaid work that delivered purchasing-ready minds to corporations. The transaction was invisible because the audience believed it was a recipient of content, not the product being sold.",
+  "question": "What did Dallas Smythe mean by calling television viewers an 'audience commodity'?",
+  "options": [
+    { "text": "Viewers paid a subscription that made them valuable customers", "correct": false },
+    { "text": "Networks sold viewers' attention to advertisers, making audiences the product", "correct": true },
+    { "text": "Audiences were compensated for watching commercials in the form of free content", "correct": false },
+    { "text": "Television sets were commodities distributed by corporate sponsors", "correct": false }
+  ]
+}

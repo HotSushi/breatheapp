@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Digital notifications trigger the stress response in ways that are physiologically indistinguishable from ancestral threats. Each alert activates the orienting response — a reflex arc through the superior colliculus that compels the eyes to shift toward novel stimuli — and simultaneously nudges cortisol upward. In a landmark 2016 study, researchers Gloria Mark, Daniela Gudith, and Ulrich Klocke measured cortisol levels in office workers before and after a period of email deprivation. Workers cut off from email showed markedly lower cortisol and were rated by observers as more focused and less harried. The nervous system, it turns out, cannot distinguish between a tiger in the grass and a message badge on a screen.",
+  "question": "What happened to cortisol levels in workers who were deprived of email access, according to the study cited?",
+  "options": [
+    { "text": "Cortisol rose sharply as uncertainty about missed messages increased", "correct": false },
+    { "text": "Cortisol levels were unchanged, suggesting email is not a stress trigger", "correct": false },
+    { "text": "Cortisol dropped, and workers appeared more focused to observers", "correct": true },
+    { "text": "Cortisol fluctuated unpredictably, disrupting the diurnal rhythm", "correct": false }
+  ]
+}

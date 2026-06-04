@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Rest-and-digest is not simply the absence of stress but an active biological program. When the parasympathetic state is engaged, the enteric nervous system — sometimes called the 'second brain' — coordinates a complex digestive sequence: gastric acid flows, peristaltic waves move food forward, and nutrients are absorbed into the bloodstream. Neuroscientist Michael Gershon documented that the gut contains roughly 100 million neurons, more than the spinal cord. None of this work proceeds efficiently under sympathetic dominance, when blood is routed to muscles instead of organs. Chronic stress therefore does not merely exhaust the mind; it starves the cells of the fuel that only a calm body can extract.",
+  "question": "What does the passage say happens to digestion under sympathetic dominance?",
+  "options": [
+    { "text": "Digestion accelerates because the gut receives extra blood flow", "correct": false },
+    { "text": "The enteric nervous system shuts down entirely, causing permanent damage", "correct": false },
+    { "text": "Digestion proceeds efficiently because the second brain operates independently of stress", "correct": false },
+    { "text": "Digestion cannot proceed efficiently because blood is routed to muscles rather than organs", "correct": true }
+  ]
+}

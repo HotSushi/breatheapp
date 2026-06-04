@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Hemingway ended each writing session mid-sentence — deliberately, never at a natural stopping point. The technique was practical psychology: a sentence already begun is far easier to resume than a blank page. He worked from dawn until around noon at a standing desk in Havana, tracking his daily word count on a chart tacked to the wall. This external record served as both accountability and momentum. The ritual was non-negotiable: same hour, same posture, same physical record-keeping. What looked like habit was actually a precision instrument for bypassing the resistance that accumulates when creative work is treated as optional.",
+  "question": "What was Hemingway's reason for stopping a writing session mid-sentence?",
+  "options": [
+    { "text": "To signal his editor that a chapter was unfinished and needed review", "correct": false },
+    { "text": "To preserve narrative tension so readers would keep turning pages", "correct": false },
+    { "text": "To make it easier to resume the next session without facing a blank page", "correct": true },
+    { "text": "To force himself to reconsider word choices before committing to them", "correct": false }
+  ]
+}

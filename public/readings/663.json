@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "In 1993, researcher K. Anders Ericsson published a landmark study of violin students at Berlin's elite music academy. The best performers practiced deliberately for no more than four hours a day — not because they lacked motivation, but because their teachers enforced it. Ericsson found that expert-level skill accrues through intense, focused effort followed by genuine recovery, not through marathon endurance. Spreading ten hours of weak attention across a day produces less learning than concentrating four hours of deep engagement. This finding reframes the relationship between rest and output: strategic rest is not laziness but the metabolic prerequisite of the next sprint.",
+  "question": "What did Ericsson's 1993 study reveal about the practice habits of elite violin students?",
+  "options": [
+    { "text": "They practiced at least eight hours daily to outperform peers", "correct": false },
+    { "text": "They relied on social accountability rather than intrinsic motivation", "correct": false },
+    { "text": "They deliberately limited deep practice to no more than four hours per day", "correct": true },
+    { "text": "They used timed intervals to structure each individual practice session", "correct": false }
+  ]
+}

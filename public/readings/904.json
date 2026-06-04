@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Before Simon, economists treated information as costless to receive. The dominant model assumed that more information always improved decision-making, because rational agents could simply process it and extract value. Simon demolished this assumption by introducing the concept of 'bounded rationality' — the idea that human minds operate under real cognitive limits. Information has a processing cost, and that cost is paid in attention. A perfectly rational agent with infinite attention could benefit from infinite information. But humans are not infinite processors. Every additional message, notification, or feed competes for a resource that does not grow with supply.",
+  "question": "What earlier economic assumption did Simon's concept of bounded rationality challenge?",
+  "options": [
+    { "text": "That markets always reach equilibrium without intervention", "correct": false },
+    { "text": "That information is costless to receive and always improves decisions", "correct": true },
+    { "text": "That attention is distributed equally across social classes", "correct": false },
+    { "text": "That cognitive limits can be overcome with sufficient training", "correct": false }
+  ]
+}

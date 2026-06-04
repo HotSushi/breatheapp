@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "John Ratey, a Harvard psychiatrist and author of 'Spark: The Revolutionary New Science of Exercise and the Brain,' documented a landmark experiment at Naperville Central High School in Illinois. Students who exercised vigorously before first period outperformed their peers in reading comprehension and concentration tests. Ratey argues that exercise primes the neural circuits involved in attention and learning before any academic content arrives. The effect works through multiple pathways: BDNF consolidates new memories, dopamine sharpens focus, and serotonin regulates mood. Movement, Ratey concludes, is not supplementary to learning — it is biologically preparatory for it.",
+  "question": "According to the passage, what did Ratey conclude about the relationship between exercise and learning?",
+  "options": [
+    { "text": "Exercise is most effective when done after academic study", "correct": false },
+    { "text": "Dopamine alone accounts for the cognitive benefits of movement", "correct": false },
+    { "text": "Movement is biologically preparatory for learning, not supplementary to it", "correct": true },
+    { "text": "The Naperville experiment focused primarily on long-term memory retention", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The attentional blink is not universal. In a landmark 2005 study, Slagter and colleagues found that experienced meditators blinked far less than novices \u2014 and some did not blink at all. The meditators seemed to allocate fewer resources to the first target, leaving capacity available for the second. This finding upended the assumption that the blink is a fixed architectural constraint of human cognition. Instead, it appears to reflect a habit of grasping: the trained mind grips the first stimulus less tightly, releasing attention more quickly and catching what would otherwise slip through the narrow window of perception.",
+  "question": "What did the 2005 Slagter study suggest about the attentional blink in experienced meditators?",
+  "options": [
+    {
+      "text": "Meditators blinked less, suggesting the blink reflects a habit of grasping rather than a fixed limit",
+      "correct": true
+    },
+    {
+      "text": "Meditators blinked more because their attention was sharper",
+      "correct": false
+    },
+    {
+      "text": "Meditators showed no change, confirming the blink is a fixed constraint",
+      "correct": false
+    },
+    {
+      "text": "Meditators allocated more resources to the first target, improving its recall",
+      "correct": false
+    }
+  ]
+}

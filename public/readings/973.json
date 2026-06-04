@@ -1,0 +1,23 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The advertising industry has long understood what neuroscience now confirms: attention is rivalrous. Unlike money, which can be held by multiple parties, a moment of attention given to one stimulus is permanently unavailable for another. Tim Wu, in 'The Attention Merchants,' traces how this scarcity made human attention the raw material of an industrial chain \u2014 captured cheaply by media, refined through content, then sold to advertisers at a premium. What began with 19th-century penny newspapers has become the operating logic of most digital platforms, where user time is the product and engagement metrics are the measure of extraction efficiency.",
+  "question": "How does Tim Wu describe the economic chain built around human attention?",
+  "options": [
+    {
+      "text": "Attention is captured cheaply by media, then sold to advertisers at a premium",
+      "correct": true
+    },
+    {
+      "text": "Attention is captured by users, refined by advertisers, and sold to platforms",
+      "correct": false
+    },
+    {
+      "text": "Attention is rivalrous only in digital contexts, not in print media",
+      "correct": false
+    },
+    {
+      "text": "Penny newspapers failed because they misunderstood attention scarcity",
+      "correct": false
+    }
+  ]
+}

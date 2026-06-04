@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Resting in open presence is not, in the dzogchen view, a technique one applies — it is a release from technique. The Tibetan phrase 'lhundrub,' often translated as 'spontaneous accomplishment,' names this quality: the natural unfolding of rigpa's inherent capacities when nothing is forced upon it. Sogyal Rinpoche's widely-read 'The Tibetan Book of Living and Dying' returns repeatedly to this point: the meditator's main obstacle is not insufficient effort but habitual over-doing, the compulsive tendency to manage, improve, or manipulate one's own experience rather than allowing awareness to simply be what it already is.",
+  "question": "According to the passage, what does Sogyal Rinpoche identify as the meditator's main obstacle in resting in open presence?",
+  "options": [
+    {
+      "text": "Insufficient discipline in maintaining a regular meditation schedule",
+      "correct": false
+    },
+    {
+      "text": "The difficulty of suppressing discursive thought during formal practice sessions",
+      "correct": false
+    },
+    {
+      "text": "Lack of proper instruction from a lineage-holding teacher",
+      "correct": false
+    },
+    {
+      "text": "The habitual tendency to manage or manipulate experience rather than letting awareness be",
+      "correct": true
+    }
+  ]
+}

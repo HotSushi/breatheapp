@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus disagreed sharply with Plato's picture of the soul as a charioteer struggling against unruly horses. For Plato, reason and desire were separate agencies at war. For Chrysippus, there is only one agency: logos. Passions are not irrational beasts but mistaken judgments — erroneous beliefs about what is good or harmful. Grief is not a force overwhelming reason; it is the reasoned verdict, however wrong, that something truly bad has happened. This reframing carries enormous practical weight. You cannot reason with a wild horse, but you can argue with a bad belief. The remedy for passion, on this account, is not suppression but correction.",
+  "question": "Why did Chrysippus reject Plato's charioteer metaphor for the soul?",
+  "options": [
+    { "text": "He believed desires were too powerful for reason to influence", "correct": false },
+    { "text": "He thought passions were mistaken judgments, not separate irrational forces", "correct": true },
+    { "text": "He considered Plato's model too focused on philosophical argument rather than practice", "correct": false },
+    { "text": "He preferred to describe the soul using physical rather than mythological metaphors", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Merlin Donald proposed that human cognitive evolution proceeded through three stages: episodic, mimetic, and mythic — culminating in what he called 'external symbolic storage.' Writing, he argued, did not merely record thought; it restructured it. Once ideas could be frozen outside the skull, they became available for inspection, revision, and comparison in ways biological memory forbids. The mind could now think against its own prior outputs. This feedback loop between internal cognition and external symbol systems, Donald claimed, is the engine behind science, law, and mathematics — none of which, he insisted, could exist inside a single biological brain working alone.",
+  "question": "According to Merlin Donald, what cognitive capability does external symbolic storage enable that biological memory alone cannot?",
+  "options": [
+    { "text": "The ability to transmit emotions across generations", "correct": false },
+    { "text": "The ability to perform arithmetic without counting on fingers", "correct": false },
+    { "text": "The ability to inspect, revise, and compare ideas frozen outside the skull", "correct": true },
+    { "text": "The ability to store more than seven chunks of information at once", "correct": false }
+  ]
+}

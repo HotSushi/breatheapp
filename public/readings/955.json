@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Philosopher Harry Frankfurt's distinction between \"bullshit\" and lying clarifies something about short-form culture. A liar cares about the truth — enough to work around it. The bullshitter, Frankfurt argued, is indifferent to truth altogether, concerned only with effect. The economics of viral short-form content reward effect over accuracy: a compelling, shareable distortion of a study outperforms a careful summary of it. As formats shrink, the institutional pressure to strip nuance — the conditions, the sample sizes, the rival interpretations — intensifies, and Frankfurt's bullshitter becomes the rational actor in the information marketplace.",
+  "question": "According to Frankfurt's distinction described in the passage, how does a bullshitter differ from a liar?",
+  "options": [
+    { "text": "A bullshitter is more calculating and deliberate in deception", "correct": false },
+    { "text": "A bullshitter is indifferent to truth, while a liar cares about truth enough to work around it", "correct": true },
+    { "text": "A bullshitter operates only in public discourse, while a liar deceives individuals", "correct": false },
+    { "text": "A bullshitter spreads misinformation unintentionally, while a liar acts with intent", "correct": false }
+  ]
+}

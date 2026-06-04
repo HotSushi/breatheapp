@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 2005, psychologist Glenn Wilson found that workers who felt compelled to monitor email during a cognitive task showed a ten-point drop in measured IQ — greater than the impairment caused by smoking cannabis. Yet the harm was not the checking itself but the anticipation: the brain consumed attentional resources simply by holding open the possibility of interruption. Neuroscientist Earl Miller calls this the 'switching cost,' a metabolic debt paid each time the prefrontal cortex abandons one task to audit the inbox. The cost accumulates invisibly, leaving workers convinced they are productive while their capacity for deep reasoning quietly drains.",
+  "question": "According to the passage, what specifically caused the IQ drop Wilson observed — not checking email itself, but what?",
+  "options": [
+    { "text": "The volume of unread messages waiting in the inbox", "correct": false },
+    { "text": "The time it took to compose replies during work", "correct": false },
+    { "text": "The anticipation of a potential interruption held open in working memory", "correct": true },
+    { "text": "The cognitive load of deciding which emails to prioritize", "correct": false }
+  ]
+}

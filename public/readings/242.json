@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In \"The Miracle of Mindfulness,\" Thich Nhat Hanh describes washing dishes as a complete meditative act — not a chore to be finished so that tea can begin, but a moment deserving full presence in itself. If you wash dishes while thinking of tea, he warns, you are equally incapable of drinking tea mindfully; you will think of the next thing. This is the structure of distraction: each moment treated as a corridor to somewhere else. Dishwashing, precisely because it is humble, serves as the ideal test of whether we can inhabit experience directly rather than perpetually deferring arrival.",
+  "question": "According to Thich Nhat Hanh, what happens if you wash dishes while thinking about tea?",
+  "options": [
+    { "text": "You will enjoy the tea more after completing the task", "correct": false },
+    { "text": "You will be equally incapable of being present when drinking tea", "correct": true },
+    { "text": "You develop a habit of treating chores as meditation", "correct": false },
+    { "text": "You miss the spiritual lesson embedded in routine work", "correct": false }
+  ]
+}

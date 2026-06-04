@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucius insisted that the superior person must examine the quality of their attention as well as its object: \"When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it — this is knowledge.\" This epistemic discipline — refusing false certainty — is identical to what psychologist David Dunning calls metacognitive accuracy. Overconfident learners stop paying attention because they believe they have already mastered material; accurate self-assessment keeps the mind open and searching. For Confucius, intellectual humility was not modesty but precision: the condition that allows learning to continue.",
+  "question": "According to the passage, why does Confucius value admitting what you do not know?",
+  "options": [
+    {
+      "text": "It demonstrates deference to more experienced teachers",
+      "correct": false
+    },
+    {
+      "text": "It maintains the open, searching attention that allows learning to continue",
+      "correct": true
+    },
+    {
+      "text": "It prevents social embarrassment in scholarly debate",
+      "correct": false
+    },
+    {
+      "text": "It fulfills the ritual requirement of humility before elders",
+      "correct": false
+    }
+  ]
+}

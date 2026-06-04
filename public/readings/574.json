@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "For Weil, the religious dimension of attention was inseparable from its ethical dimension. Drawing on Platonic and Christian mystical traditions, she argued that God is found not through ecstatic effort but through patient waiting — an emptying of the self so that something greater may enter. This is what she called 'decreation': the voluntary withdrawal of the ego from the center of experience. The same movement, she insisted, appears in genuine love, genuine prayer, and genuine intellectual inquiry. All three require what she called 'negative effort' — the refusal to impose one's own desires, interpretations, or anxieties onto what is before you.",
+  "question": "What term did Weil use to describe the voluntary withdrawal of the ego from the center of experience?",
+  "options": [
+    { "text": "Self-negation", "correct": false },
+    { "text": "Kenosis", "correct": false },
+    { "text": "Decreation", "correct": true },
+    { "text": "Contemplation", "correct": false }
+  ]
+}

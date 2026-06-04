@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh's concept of 'interbeing' reframes continuous recollection as relational rather than solitary. For Hanh, sati is not solely an inner event but a mode of presence extended toward others: truly remembering that another person is here, is suffering, is real. His 'bell of mindfulness' practice — pausing when a bell rings to breathe and return — encodes the structure of sati into shared ritual: the bell is the moment of notice, the pause is the return, and the community is the sustaining condition. Without the community holding the practice, individual recollection tends to erode; sangha is, in this sense, institutionalized sati.",
+  "question": "According to Thich Nhat Hanh's framework, what role does the sangha (community) play in maintaining sati?",
+  "options": [
+    { "text": "It provides teachers who can correct practitioners when their technique becomes imprecise", "correct": false },
+    { "text": "It amplifies collective energy so that individual meditators can access deeper concentration states", "correct": false },
+    { "text": "It serves as institutionalized sati — the sustaining condition that prevents individual recollection from eroding", "correct": true },
+    { "text": "It ritualizes the moment of returning through the bell practice, replacing the need for personal effort", "correct": false }
+  ]
+}

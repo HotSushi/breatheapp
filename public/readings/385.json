@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Interleaving — alternating between different topics or problem types within a single study session — appears at first to be a sabotage of learning. Students solve fewer problems correctly, feel more confused, and rate the experience as harder than blocked practice. Yet on tests given days later, interleaved learners outperform blocked learners substantially. The reason, as Doug Rohrer and Kelli Taylor demonstrated with math students, is that interleaving forces learners to discriminate between problem types, not just execute a routine. Blocked practice produces fluency with procedures; interleaved practice builds judgment about which procedure applies.",
+  "question": "According to Rohrer and Taylor's research, what specific cognitive skill does interleaved practice build that blocked practice does not?",
+  "options": [
+    { "text": "The ability to execute mathematical procedures more quickly under time pressure", "correct": false },
+    { "text": "Judgment about which procedure applies to a given problem type", "correct": true },
+    { "text": "Stronger working memory capacity for holding multiple steps in mind", "correct": false },
+    { "text": "The confidence to attempt unfamiliar problems without prior instruction", "correct": false }
+  ]
+}

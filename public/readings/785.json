@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Sprint methodology in software development borrowed an insight from exercise physiology: performance improves not during exertion but during recovery. Exercise scientist Vladimir Zatsiorsky observed that elite athletes who trained without adequate recovery plateaued or regressed — a phenomenon he called supercompensation failure. The same logic applies to cognitive work. The NASA Fatigue Countermeasures program found that a 26-minute nap improved pilot performance by 34 percent and alertness by 100 percent. These numbers suggest recovery is not a pause in productive work — it is the mechanism by which productive work becomes possible at all.",
+  "question": "According to the NASA Fatigue Countermeasures program cited in the passage, how much did a 26-minute nap improve pilot alertness?",
+  "options": [
+    { "text": "34 percent", "correct": false },
+    { "text": "26 percent", "correct": false },
+    { "text": "60 percent", "correct": false },
+    { "text": "100 percent", "correct": true }
+  ]
+}

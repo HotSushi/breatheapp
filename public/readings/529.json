@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The allegory of the cave has a structural feature that is easy to overlook: the prisoners are not simply ignorant — they are chained. Their orientation is constrained by something external before any internal failure occurs. This detail matters philosophically. Plato is acknowledging that attention is not purely a matter of individual will; it is shaped by the architecture of one's environment. The designers of the cave — those who carry objects before the fire — are not named or blamed, but they are present. To turn toward the light requires not only inner resolve but, in many cases, a change in external conditions that makes turning possible.",
+  "question": "What structural detail of the cave allegory does the passage argue is easy to overlook?",
+  "options": [
+    { "text": "That the fire is positioned behind the prisoners rather than in front", "correct": false },
+    { "text": "That the shadows on the wall are cast by specific objects", "correct": false },
+    { "text": "That the prisoners are chained — their orientation is externally constrained before any internal failure", "correct": true },
+    { "text": "That only one prisoner is ever freed, not all of them", "correct": false }
+  ]
+}

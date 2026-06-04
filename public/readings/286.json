@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Taoism diagnoses distraction as a product of wei — forced, willful action — rather than of insufficient effort. The person who cannot focus is not failing to try hard enough; they are trying in the wrong register entirely. This inversion challenges the dominant Western model of attention as a resource to be hoarded and deployed through willpower. Psychologist Roy Baumeister's ego-depletion framework, which held that self-control draws from a finite reserve, has faced significant replication challenges — suggesting that the effort-based model of attention may itself be culturally contingent rather than neurologically inevitable.",
+  "question": "What challenge to the effort-based model of attention does the passage describe?",
+  "options": [
+    { "text": "Neuroscientists have identified unlimited attentional reserves in long-term meditators", "correct": false },
+    { "text": "Eastern traditions consider effort irrelevant to attentional training", "correct": false },
+    { "text": "Roy Baumeister's ego-depletion framework has faced significant replication challenges", "correct": true },
+    { "text": "Digital distraction has made willpower-based models obsolete in modern settings", "correct": false }
+  ]
+}

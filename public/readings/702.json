@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The default mode network has a troubling vulnerability: smartphones exploit it. When the network runs its natural program — weaving autobiographical memory, imagining others' mental states, planning — it requires uninterrupted time. Psychologist Mary Helen Immordino-Yang found that adolescents who rarely experienced quiet, inward-facing downtime showed stunted development in the DMN's social-cognition functions. The network needs the same conditions that seem boring to us: no notifications, no scrolling, no ambient input. Silence is not emptiness for the brain. It is the operating condition under which the most distinctly human cognitive work gets done.",
+  "question": "What did Mary Helen Immordino-Yang find in adolescents who rarely experienced quiet downtime?",
+  "options": [
+    { "text": "They performed better on standardized tests but worse on social tasks.", "correct": false },
+    { "text": "They showed stunted development in the DMN's social-cognition functions.", "correct": true },
+    { "text": "Their default mode networks became overactive and caused anxiety.", "correct": false },
+    { "text": "They developed stronger task-positive networks to compensate.", "correct": false }
+  ]
+}

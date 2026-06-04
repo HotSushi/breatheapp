@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh's concept of interbeing has a direct ethical implication: if the self is not separate from the world, then harming the world is self-harm. His Fourteen Mindfulness Trainings, developed for the Order of Interbeing in 1966 during the Vietnam War, translate this metaphysics into conduct — including the injunction not to avoid suffering but to remain present with it, both in oneself and in others. The trainings reframe ethics from rule-following to perceptual accuracy: violence arises from the illusion of separation. Right action, in this framework, follows naturally from clear seeing.",
+  "question": "According to the passage, why did Thich Nhat Hanh develop the Fourteen Mindfulness Trainings?",
+  "options": [
+    { "text": "To systematize Buddhist philosophy for Western academic audiences", "correct": false },
+    { "text": "To translate the metaphysics of interbeing into practical ethical conduct", "correct": true },
+    { "text": "To help monks cope with the psychological stress of monastic life", "correct": false },
+    { "text": "To replace traditional precepts with a more modern ethical framework", "correct": false }
+  ]
+}

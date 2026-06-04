@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Neuroscientist Benjamin Libet's 1983 experiments found that a readiness potential in the motor cortex preceded conscious awareness of the intention to move by roughly 350 milliseconds. Some took this as evidence that free will is an illusion — the brain decides before 'we' do. Libet himself disagreed: he noted that subjects could still veto the movement in the final 150 milliseconds. This 'free won't' — the power to inhibit rather than initiate — may be the more accurate model of attentional freedom. We do not summon focus from nothing; we intercept and redirect pulls that arise unbidden.",
+  "question": "What did Libet call the attentional freedom he believed survived his experimental findings?",
+  "options": [
+    { "text": "The readiness potential", "correct": false },
+    { "text": "Free won't", "correct": true },
+    { "text": "Conscious initiation", "correct": false },
+    { "text": "Volitional override", "correct": false }
+  ]
+}

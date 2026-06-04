@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In the Satipatthana Sutta, the Buddha describes sati operating through four foundations: body, feelings, mental states, and phenomena. What distinguishes this practice from simple observation is the instruction to remain 'ardent, clearly comprehending, and mindful' — three qualities that must be simultaneously present. The Pali term sampajanna, often paired with sati, denotes clear comprehension of purpose: knowing not just what is arising, but whether the present action serves one's larger aim. Without sampajanna, sati becomes mere noticing; with it, recollection acquires direction and ethical weight.",
+  "question": "According to the passage, what does sampajanna add to the practice of sati?",
+  "options": [
+    { "text": "Greater concentration and the ability to sustain focus for longer periods", "correct": false },
+    { "text": "Clear comprehension of purpose — knowing whether the present action serves one's larger aim", "correct": true },
+    { "text": "Awareness of bodily sensations that might otherwise be overlooked", "correct": false },
+    { "text": "The capacity to observe feelings without being swayed by them", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Zuboff's deepest concern is not privacy but autonomy. Surveillance capitalism does not merely observe the self — it aims to preempt it. When platforms can predict your next click, your next purchase, your next political turn with greater accuracy than you can, they have colonized the future tense of your personality. Philosopher Hannah Arendt wrote that freedom is the capacity to begin: to act in ways that cannot be predicted from prior causes. A behavioral prediction market, by definition, works by closing down that unpredictability. Every improvement in prediction accuracy is, philosophically, a reduction in the human capacity to surprise — and therefore to be free.",
+  "question": "How does the passage use Hannah Arendt's concept of freedom to critique behavioral prediction markets?",
+  "options": [
+    { "text": "Arendt argued that freedom requires private property, which surveillance capitalism violates", "correct": false },
+    { "text": "Arendt's view that freedom means obeying rational laws makes prediction markets ethically neutral", "correct": false },
+    { "text": "Arendt defined freedom as the capacity to begin unpredictably, which prediction accuracy directly diminishes", "correct": true },
+    { "text": "Arendt believed behavioral data collection was a necessary feature of democratic participation", "correct": false }
+  ]
+}

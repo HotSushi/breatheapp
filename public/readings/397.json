@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Ancient Stoic philosophy offered a proto-metacognitive practice it called the \"view from above\" — periodically stepping back to observe one's thoughts as objects in a larger landscape rather than as the landscape itself. Marcus Aurelius practiced this daily, recording in his Meditations the discipline of watching his own reactions before endorsing them. Modern cognitive therapy has independently arrived at a nearly identical technique. Adrian Wells's metacognitive therapy distinguishes between object-level thinking (believing a worry) and metacognitive mode (observing that you are worrying). The therapeutic intervention is not to challenge the content of thoughts but to shift the relationship to them: from immersion to observation.",
+  "question": "In Adrian Wells's metacognitive therapy, what is the key therapeutic intervention?",
+  "options": [
+    { "text": "Challenging the logical content of anxious thoughts", "correct": false },
+    { "text": "Shifting from immersion in thoughts to observing them", "correct": true },
+    { "text": "Replacing negative thoughts with positive affirmations", "correct": false },
+    { "text": "Reducing the frequency of worrying through scheduled worry time", "correct": false }
+  ]
+}

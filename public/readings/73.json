@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Philosopher William James wrote in 1890 that attention is 'the taking possession by the mind of one out of several simultaneously possible objects.' What James could not have known is that the body itself competes to be that object. Contemporary neuroscientist Catherine Kerr used magnetoencephalography to show that mindfulness practitioners can voluntarily modulate sensory gating in the somatosensory cortex \u2014 essentially turning down the gain on body noise or turning it up at will. The body is not a passive substrate for attention but an active channel that can be tuned. James's 'taking possession' turns out to be a bidirectional act.",
+  "question": "What did Catherine Kerr's magnetoencephalography research demonstrate about mindfulness practitioners?",
+  "options": [
+    {
+      "text": "They show reduced amygdala reactivity during distraction tasks",
+      "correct": false
+    },
+    {
+      "text": "Their prefrontal cortex exhibits thicker gray matter than non-meditators",
+      "correct": false
+    },
+    {
+      "text": "They synchronize alpha waves with external rhythmic stimuli more readily",
+      "correct": false
+    },
+    {
+      "text": "They can voluntarily modulate sensory gating in the somatosensory cortex",
+      "correct": true
+    }
+  ]
+}

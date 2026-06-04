@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Tides are governed by the moon, but they also interact with the coastline's local geography — the same gravitational pull produces very different rhythms in the Bay of Fundy versus the Mediterranean. Ultradian rhythms work similarly: the underlying 90-minute pulse is universal, but its expression varies by individual chronotype, recent sleep history, stress load, and light exposure. This is why rigid prescriptions — 'always rest at 90 minutes exactly' — miss the point. The practice is learning to read your own coastline: noticing when attention begins to shallow, when words lose their meaning, when the eyes defocus. These are the tide going out, and the moment to stop rowing.",
+  "question": "According to the passage, what does individual variation in ultradian rhythms suggest about rigid rest prescriptions?",
+  "options": [
+    { "text": "They work best when calibrated to a person's specific chronotype data", "correct": false },
+    { "text": "They are unnecessary because the 90-minute cycle is perfectly uniform", "correct": false },
+    { "text": "They miss the point because the rhythm's expression varies by individual and context", "correct": true },
+    { "text": "They should be replaced with circadian-based schedules instead", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cal Newport draws a sharp distinction between busyness and depth: busyness optimizes for visible effort, while depth optimizes for cognitive output. A day spent in shallow tasks — meetings, email, quick responses — can feel productive because it is full of activity, yet leaves almost nothing of lasting value. Flow states are the engine of depth because they are the only condition under which the brain produces its highest-quality output: novel connections, rigorous analysis, creative synthesis. Newport argues that the capacity to enter flow on demand is not a personality trait but a trainable skill, one that atrophies with distraction and strengthens with deliberate practice.",
+  "question": "According to the passage, how does Cal Newport characterize the capacity to enter flow on demand?",
+  "options": [
+    { "text": "As an innate personality trait that some people possess and others lack.", "correct": false },
+    { "text": "As a byproduct of reducing meetings and simplifying daily schedules.", "correct": false },
+    { "text": "As irrelevant to productivity compared to managing shallow work efficiently.", "correct": false },
+    { "text": "As a trainable skill that weakens with distraction and strengthens with deliberate practice.", "correct": true }
+  ]
+}

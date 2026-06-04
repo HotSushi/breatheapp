@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Edmund Husserl coined the term 'intentionality' not to describe purposeful action but to name what he saw as the most fundamental feature of consciousness: that every mental act is directed toward an object. You cannot simply see — you must see something. You cannot merely think — you must think about something. This directedness is not a relation between two pre-existing things but is built into the structure of the mental act itself. Husserl borrowed the concept from his teacher Franz Brentano, who had revived it from medieval scholastic philosophy, but Husserl radicalized it into the cornerstone of an entire science of consciousness he called phenomenology.",
+  "question": "According to the passage, from whom did Husserl inherit the concept of intentionality?",
+  "options": [
+    { "text": "René Descartes", "correct": false },
+    { "text": "Immanuel Kant", "correct": false },
+    { "text": "Franz Brentano", "correct": true },
+    { "text": "Martin Heidegger", "correct": false }
+  ]
+}

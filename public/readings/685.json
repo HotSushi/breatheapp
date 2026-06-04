@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The philosopher William James argued that habit frees the mind from routine decisions, reserving deliberate attention for what genuinely requires it. A structured end-of-day routine operates on exactly this principle: when the sequence of closing actions — reviewing tomorrow's calendar, processing the inbox to zero, noting the day's key accomplishments — becomes automatic, the transition from work to rest requires no willpower. Roy Baumeister's ego depletion research reinforces the point: decision fatigue accumulates across a day, and an automatic shutdown ritual sidesteps the need for yet another decision. The ritual governs the boundary so the mind does not have to.",
+  "question": "According to the passage, how does Roy Baumeister's ego depletion research support the case for shutdown rituals?",
+  "options": [
+    {
+      "text": "It shows that willpower can be strengthened by practicing difficult decisions at day's end",
+      "correct": false
+    },
+    {
+      "text": "It proves that habits formed in the morning are more durable than those formed at night",
+      "correct": false
+    },
+    {
+      "text": "It links inbox management to reduced cortisol levels in the evening hours",
+      "correct": false
+    },
+    {
+      "text": "It demonstrates that decision fatigue accumulates, so an automatic ritual avoids requiring another decision",
+      "correct": true
+    }
+  ]
+}

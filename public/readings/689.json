@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Csikszentmihalyi's research on flow states identified a paradox: the most productive and satisfying periods of work are also the hardest to enter. The transition into flow requires clearing attentional residue — the lingering cognitive traces left by prior tasks. Sophie Leroy's 2009 study coined the term \"attention residue\" to describe this: when you switch tasks before fully completing the first, part of your attention remains anchored to what you left behind. The shutdown ritual is, in this light, not merely a hygiene practice but a technical prerequisite for deep work the following morning. A clean cognitive slate at day's end is the prerequisite for a clean entry into flow.",
+  "question": "According to the passage, what did Sophie Leroy's 2009 study call the cognitive traces left by incomplete tasks?",
+  "options": [
+    { "text": "Zeigarnik residue", "correct": false },
+    { "text": "Attentional debt", "correct": false },
+    { "text": "Cognitive interference", "correct": false },
+    { "text": "Attention residue", "correct": true }
+  ]
+}

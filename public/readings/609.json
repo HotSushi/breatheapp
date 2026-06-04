@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Attention researcher Gloria Mark at UC Irvine documented that after a digital interruption, it takes an average of twenty-three minutes for a worker to return to the original task at full cognitive engagement. More troubling, workers interrupt themselves roughly as often as they are interrupted by others, having internalized the rhythms of reactive work. Newport notes that this is not a character flaw but a trained response: organizations that reward responsiveness over output have conditioned workers to conflate busyness with value. Reclaiming depth requires deliberately re-training this conditioned reflex, not simply installing website blockers.",
+  "question": "According to Mark's research cited in the passage, how long does it take to return to full cognitive engagement after a digital interruption?",
+  "options": [
+    { "text": "Approximately five to seven minutes for routine tasks, longer for complex ones", "correct": false },
+    { "text": "An average of twenty-three minutes", "correct": true },
+    { "text": "The remainder of the current work session, making recovery impossible that day", "correct": false },
+    { "text": "Between thirty and forty-five minutes, depending on the depth of prior focus", "correct": false }
+  ]
+}

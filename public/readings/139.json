@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus, the third head of the Stoic school, argued that emotions are not feelings that happen to us but judgments we make. Fear, for instance, is not a sensation but the judgment that something bad is about to occur. This cognitive theory of emotion has a direct implication for attention: if emotions are judgments, then catching the moment of judgment — before it consolidates — is enough to interrupt the emotion. Prosoche becomes not merely a contemplative exercise but a form of real-time cognitive intervention. You do not wait until anger has flared; you notice the micro-judgment that would produce anger and examine whether it is warranted before granting it authority.",
+  "question": "What implication does Chrysippus's cognitive theory of emotion have for prosoche?",
+  "options": [
+    { "text": "It means emotions must be suppressed through rational willpower before they are felt", "correct": false },
+    { "text": "It makes prosoche a form of real-time cognitive intervention by catching judgments before they consolidate into emotion", "correct": true },
+    { "text": "It shifts attention away from impressions toward the physical sensations that accompany judgment", "correct": false },
+    { "text": "It implies that emotions are outside the domain of rational control entirely", "correct": false }
+  ]
+}

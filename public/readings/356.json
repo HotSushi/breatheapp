@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Conscious perception is not a stream — it is a series of snapshots. Research on temporal integration suggests the brain stitches together perception in discrete cycles of roughly 100 to 200 milliseconds, a rhythm tied to neural oscillations, particularly in the theta band. Between those windows, stimuli can arrive and go unregistered not because attention wandered but because the sampling cycle was in its trough. This model, advanced by researchers like Rufin VanRullen, reframes the attentional blink and the refractory period as expressions of the same underlying architecture: a brain that samples the world periodically, not continuously, and must queue incoming information accordingly.",
+  "question": "According to VanRullen's model, what causes phenomena like the attentional blink and refractory period?",
+  "options": [
+    { "text": "An overflow of working memory during periods of high cognitive load", "correct": false },
+    { "text": "A brain that samples the world in discrete periodic cycles rather than continuously", "correct": true },
+    { "text": "Interference between competing neural pathways in the visual cortex", "correct": false },
+    { "text": "A deliberate filtering mechanism that suppresses redundant stimuli", "correct": false }
+  ]
+}

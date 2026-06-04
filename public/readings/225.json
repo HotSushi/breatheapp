@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Tibetan Buddhism's Dzogchen tradition teaches rigpa — the recognition of the mind's primordial awareness — and frames distraction through the metaphor of waves on the ocean. Longchenpa, the fourteenth-century master, wrote that thoughts are the energy of rigpa, not its opponent. A distracting wave is still ocean. This non-dualistic reading of anicca diverges from the effort-based models of some Theravada schools: the practitioner does not need to halt the wave or wait for it to pass, but to recognize that wave and ocean were never separate. Distraction becomes, paradoxically, a doorway to recognition rather than an obstacle blocking it.",
+  "question": "How does Longchenpa's Dzogchen view of distraction differ from effort-based meditation models?",
+  "options": [
+    { "text": "It teaches that distraction must be suppressed before rigpa can arise.", "correct": false },
+    { "text": "It frames distraction as an obstacle that only advanced practitioners can overcome.", "correct": false },
+    { "text": "It holds that distraction is the energy of awareness itself, not its opponent.", "correct": true },
+    { "text": "It recommends increasing the duration of sessions to outlast distraction.", "correct": false }
+  ]
+}

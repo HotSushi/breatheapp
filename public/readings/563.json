@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James drew a sharp line between two kinds of interest that drive attention. Immediate interest — the pull of the exciting, the loud, the novel — requires no effort. Derived interest is different: it is attention paid to something not intrinsically compelling because the mind has learned to see it as connected to something it cares about deeply. A tax form is dull; a tax form connected to your family's financial security is not. James argued that the skill of voluntary attention is largely the skill of constructing derived interest — training the mind to build chains of association that make the worthy feel important enough to attend to.",
+  "question": "According to James, what is 'derived interest'?",
+  "options": [
+    { "text": "Attention drawn to objects that are inherently exciting or novel", "correct": false },
+    { "text": "Interest generated through past conditioning and habit", "correct": false },
+    { "text": "Attention paid to something by connecting it to a deeper concern", "correct": true },
+    { "text": "A secondary form of curiosity triggered by boredom", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Samatha practice produces a spectrum of states the Pali texts call jhana — meditative absorptions of increasing depth. The first jhana still contains directed thought and evaluation; by the fourth, both cease entirely, leaving what the Majjhima Nikaya describes as 'pure equanimity and mindfulness.' Psychologist Willoughby Britton at Brown University has studied jhana practitioners extensively, finding that time perception distorts significantly in deeper absorptions: subjects consistently underestimate session lengths. Britton interprets this as evidence that the jhanas involve genuine alterations in the brain's default timekeeping — not relaxation, but a reorganization of how the mind processes continuity.",
+  "question": "According to the passage, what did Willoughby Britton find about time perception in deeper jhana absorptions?",
+  "options": [
+    { "text": "Practitioners overestimated session lengths due to heightened moment-to-moment awareness", "correct": false },
+    { "text": "Time perception remained unchanged, confirming the jhanas are a form of deep relaxation", "correct": false },
+    { "text": "Practitioners consistently underestimated how long their sessions lasted", "correct": true },
+    { "text": "Time appeared to accelerate during the first jhana and slow during the fourth", "correct": false }
+  ]
+}

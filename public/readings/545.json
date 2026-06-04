@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Roman philosopher Boethius, writing in prison awaiting execution, argued that Fortune's crowd — admirers, flatterers, noise-makers — is itself a form of captivity. In the 'Consolation of Philosophy,' Lady Philosophy appears only after the Muses of poetry have been dismissed. Their verse was beautiful but addictive, arousing grief rather than clarifying it. Boethius's insight is structural: certain stimuli feel like comfort while actually amplifying disturbance. Withdrawal from the crowd is, in this reading, less about silence than about replacing stimuli that inflame with those that orient.",
+  "question": "Why does Lady Philosophy in Boethius dismiss the Muses of poetry before speaking?",
+  "options": [
+    { "text": "Poetry is considered inferior to philosophical prose", "correct": false },
+    { "text": "Their verse aroused grief rather than clarifying it", "correct": true },
+    { "text": "They distracted Boethius from his legal defense", "correct": false },
+    { "text": "Philosophy and poetry cannot coexist in the same work", "correct": false }
+  ]
+}

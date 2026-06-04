@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Hemingway's morning routine in Cuba began before sunrise: he rose at first light, stood at a bookcase-top desk, and worked standing until his legs tired or the day's quota was met. The standing position was functional, not aesthetic — it kept him alert and prevented the drowsiness that accompanies sedentary work. His word counts, logged daily, rarely exceeded 500 words. He was not racing toward volume; he was protecting quality by stopping before exhaustion degraded judgment. The ritual imposed limits as deliberately as it imposed effort, because Hemingway understood that overworking a session poisons the next one.",
+  "question": "According to the passage, why did Hemingway log his daily word counts?",
+  "options": [
+    { "text": "To compete against his own previous records and build momentum", "correct": false },
+    { "text": "To track productivity for his publisher's contractual requirements", "correct": false },
+    { "text": "As part of a ritual that served both accountability and momentum", "correct": true },
+    { "text": "To prove to critics that disciplined output was possible without an outline", "correct": false }
+  ]
+}

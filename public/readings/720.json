@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Long before ultradian research gave it a name, composer Frédéric Chopin organized his creative work around what he called 'active waiting' — periods of apparent idleness between intense compositional bursts that he considered as essential as the work itself. Modern neuroscience has validated the instinct: the default mode network, most active during rest and mind-wandering, is where the brain consolidates recent learning, draws analogies across distant memories, and generates the novel connections that feel like inspiration. What Chopin experienced as receptive silence was the brain doing a different and equally necessary kind of work — the kind that cannot begin until effortful focus has stopped.",
+  "question": "According to the passage, what cognitive function does the default mode network primarily perform during rest?",
+  "options": [
+    { "text": "Clearing adenosine and restoring prefrontal cortex sensitivity", "correct": false },
+    { "text": "Consolidating learning, drawing analogies, and generating novel connections", "correct": true },
+    { "text": "Regulating cortisol levels in preparation for the next focus session", "correct": false },
+    { "text": "Cycling between left- and right-hemisphere dominance to balance cognition", "correct": false }
+  ]
+}

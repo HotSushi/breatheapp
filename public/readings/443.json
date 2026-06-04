@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The term FOMO entered academic literature in a 2013 paper by Andrew Przybylski and colleagues at Oxford, who defined it as 'a pervasive apprehension that others might be having rewarding experiences from which one is absent.' Their data showed FOMO was highest not among people with the fewest social connections, but among those whose need for relatedness, competence, and autonomy went unmet. In other words, FOMO is not primarily about missing parties — it is a signal that foundational psychological needs are unfulfilled. The scroll is a symptom. The deficit is elsewhere.",
+  "question": "According to Przybylski's research cited in the passage, who experiences FOMO most intensely?",
+  "options": [
+    { "text": "People who have the fewest social connections online.", "correct": false },
+    { "text": "Teenagers who spend more than four hours daily on social media.", "correct": false },
+    { "text": "People whose core needs for relatedness, competence, and autonomy are unmet.", "correct": true },
+    { "text": "Individuals who attend fewer in-person social events each month.", "correct": false }
+  ]
+}

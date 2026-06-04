@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle, Plato's student, offered a different account of focused attention. Where Plato located the failure of attention in the soul's direction, Aristotle located it in habit — hexis — the settled disposition cultivated through repeated action. For Aristotle, you do not reason your way to attentiveness; you practice it until it becomes character. In the Nicomachean Ethics, he argues that virtues are acquired like skills: the musician becomes musical by playing music, and the attentive person becomes attentive by practicing attention. The direction matters less than the repetition; character is the residue of chosen action accumulated over time.",
+  "question": "According to the passage, how does Aristotle say attentiveness is acquired?",
+  "options": [
+    { "text": "By reasoning carefully about what deserves one's attention", "correct": false },
+    { "text": "By turning the soul away from appearances toward the Forms", "correct": false },
+    { "text": "By practicing attention repeatedly until it becomes settled character", "correct": true },
+    { "text": "By studying the Nicomachean Ethics under a skilled teacher", "correct": false }
+  ]
+}

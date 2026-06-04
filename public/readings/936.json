@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The phrase 'attention economy' was coined by psychologist and Nobel laureate Herbert Simon, but it was economist Michael Goldhaber who, in a 1997 essay, predicted its full social consequences. Goldhaber argued that attention, not money, would become the fundamental currency of the coming age. In an economy of attention, he wrote, those who attract the most attention accrue the most power. Fame replaces wealth as the primary status good. Goldhaber's forecast proved startlingly accurate: the influencer, the viral post, the follower count — all are denominations in the currency he described before broadband internet existed.",
+  "question": "According to Michael Goldhaber's 1997 prediction, what would replace wealth as the primary status good in an attention economy?",
+  "options": [
+    { "text": "Fame and the ability to attract large audiences", "correct": true },
+    { "text": "Data ownership and algorithmic influence", "correct": false },
+    { "text": "Creative content and intellectual property", "correct": false },
+    { "text": "Emotional intelligence and interpersonal trust", "correct": false }
+  ]
+}

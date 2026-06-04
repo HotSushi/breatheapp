@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When Arjuna tells Krishna that the mind is 'as difficult to control as the wind,' Krishna agrees — but does not concede that control is impossible. He offers two disciplines: abhyasa (repeated practice) and vairagya (dispassion). Together they form a two-part method strikingly similar to what modern behavioral science calls 'implementation intentions' combined with 'reward devaluation.' Abhyasa trains the attention through consistent return to the object of focus; vairagya weakens the pull of competing stimuli by reducing their emotional charge. Neither alone is sufficient. Without practice, dispassion becomes inertia; without dispassion, practice becomes compulsive. The two must work in tandem.",
+  "question": "According to the passage, what happens when abhyasa is practiced without vairagya?",
+  "options": [
+    { "text": "The practitioner achieves focus but loses motivation to act", "correct": false },
+    { "text": "Dispassion collapses into inertia and the mind ceases to engage", "correct": false },
+    { "text": "Practice becomes compulsive rather than a balanced discipline", "correct": true },
+    { "text": "The competing stimuli grow stronger and more emotionally charged", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius did not write the Meditations for publication. He wrote them as private exercises — what the Stoics called the hupomnemata, a personal notebook of principles to be rehearsed until they became instinct. Each entry begins mid-thought, addressed to himself in the second person: 'You have power over your mind, not outside events.' Modern researchers in cognitive behavioral therapy recognize this self-directed writing as a form of cognitive restructuring, deliberately interrupting automatic negative patterns. For Marcus, the journal was not a record of the day but a workshop for the self — a place to hammer beliefs into shape before the day demanded them.",
+  "question": "According to the passage, what did the Stoics call the personal notebook of principles that Marcus Aurelius kept?",
+  "options": [
+    { "text": "Hupomnemata", "correct": true },
+    { "text": "Enkrateia", "correct": false },
+    { "text": "Prohairesis", "correct": false },
+    { "text": "Eudaimonia", "correct": false }
+  ]
+}

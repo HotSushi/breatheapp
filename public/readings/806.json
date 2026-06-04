@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The cocktail party effect — the ability to detect your own name in a noisy room even when you are not consciously monitoring it — reveals that the brain is performing far more attentional work below conscious awareness than we realize. Colin Cherry's 1953 experiments demonstrated that we can shadow one channel of speech while completely suppressing another, yet meaningful information in the unattended channel occasionally breaks through. This 'breakthrough' is not random: the brain seems to run a coarse semantic analysis on everything, routing only the personally significant to consciousness. What we experience as focused attention is the top of a much deeper iceberg of pre-conscious selection.",
+  "question": "What did Colin Cherry's 1953 experiments demonstrate about the unattended channel in dichotic listening?",
+  "options": [
+    { "text": "It is completely blocked from all processing", "correct": false },
+    { "text": "It is processed semantically, with significant content occasionally reaching consciousness", "correct": true },
+    { "text": "It is stored in working memory for later review", "correct": false },
+    { "text": "It competes equally with the attended channel", "correct": false }
+  ]
+}

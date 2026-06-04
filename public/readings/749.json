@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Rest-and-digest has a spatial architecture inside the brain. The prefrontal cortex, responsible for deliberate reasoning, is metabolically expensive and depends on stable blood flow from vessels that dilate under parasympathetic control. When the sympathetic system redirects circulation to large muscle groups, prefrontal function degrades — response inhibition weakens, impulsivity rises, and the working-memory buffer narrows. Neuroscientist Amy Arnsten documented that even mild, uncontrollable stress rapidly impairs prefrontal networks in ways that are reversed by restoring calm. The practical implication is precise: a mind that cannot rest is not merely tired; it is structurally less capable of the judgment, nuance, and attention that define careful thought.",
+  "question": "According to the passage, what happens to prefrontal function when the sympathetic system redirects circulation?",
+  "options": [
+    { "text": "Prefrontal function increases temporarily as glucose is prioritized for cognitive work", "correct": false },
+    { "text": "Prefrontal function is unaffected unless stress continues for more than several hours", "correct": false },
+    { "text": "Response inhibition weakens, impulsivity rises, and the working-memory buffer narrows", "correct": true },
+    { "text": "The prefrontal cortex shifts processing to the amygdala to maintain emotional regulation", "correct": false }
+  ]
+}

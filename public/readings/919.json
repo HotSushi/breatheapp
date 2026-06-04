@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Eli Pariser's 2011 concept of the filter bubble describes how algorithmic personalization isolates users inside information environments shaped entirely by their prior clicks. The mechanism is economic: engagement generates data, data trains algorithms, algorithms amplify whatever previously held attention. Outrage and confirmation are extremely efficient at holding attention; therefore, algorithms systematically surface outrage and confirmation. The result is not a propaganda ministry imposing a single view but something more insidious — millions of individually tailored realities, each optimized not for truth or civic health but for the conversion of attention into advertising revenue.",
+  "question": "According to Pariser's filter bubble concept, why do algorithms systematically surface outrage and confirmation?",
+  "options": [
+    { "text": "Platforms deliberately want to radicalize users for political influence", "correct": false },
+    { "text": "These emotions are extremely efficient at holding attention, which generates the data that trains the algorithm", "correct": true },
+    { "text": "Users explicitly request more emotionally intense content in their preferences", "correct": false },
+    { "text": "Advertisers pay premiums to appear alongside high-emotion content", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Intentional technology use requires more than willpower; it requires architecture. Willpower is a depleting resource — psychologist Roy Baumeister's research on ego depletion showed that repeated acts of self-control draw from the same limited pool. Relying on it to resist a phone designed by hundreds of engineers to be irresistible is a structural mismatch. Digital minimalists instead design their environment: removing apps from the home screen, using website blockers during deep work, and scheduling specific times for communication. The friction added by these choices does not constrain freedom — it creates the conditions in which genuine choice becomes possible.",
+  "question": "According to the passage, why is willpower alone insufficient for intentional technology use?",
+  "options": [
+    { "text": "Willpower requires conscious effort, whereas technology use has become automatic behavior", "correct": false },
+    { "text": "Willpower is a depleting resource that cannot match the scale of engineering behind addictive design", "correct": true },
+    { "text": "Willpower works only for short-term goals and fails when applied to habitual patterns", "correct": false },
+    { "text": "Willpower is culturally conditioned and therefore unreliable across different users", "correct": false }
+  ]
+}

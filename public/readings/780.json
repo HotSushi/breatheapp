@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Choline is the dietary precursor to acetylcholine, the neurotransmitter most associated with attention and sustained focus. Despite its importance, surveys consistently show that the majority of adults in Western countries consume less choline than recommended. The brain cannot synthesize sufficient acetylcholine without an adequate choline supply, and deficits manifest as difficulty concentrating, memory lapses, and mental fatigue — symptoms often misattributed to stress or poor sleep. Eggs, liver, and soy lecithin are among the densest dietary sources. Nutritional psychiatrist Georgia Ede has noted that the decline in organ meat consumption over the twentieth century may partly explain rising complaints of cognitive fog across the general population.",
+  "question": "According to the passage, what neurotransmitter does choline serve as a precursor to?",
+  "options": [
+    { "text": "Dopamine", "correct": false },
+    { "text": "Serotonin", "correct": false },
+    { "text": "Acetylcholine", "correct": true },
+    { "text": "GABA", "correct": false }
+  ]
+}

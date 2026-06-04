@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Mental time travel — the capacity to project oneself mentally into the past or future — is considered by many researchers to be uniquely human. Endel Tulving, who coined the term, argued it depends on episodic memory: the autobiographical record of personal experience. To imagine doing something tomorrow, you must draw on memories of doing similar things yesterday, constructing a plausible simulation of a future self. This is why patients with dense amnesia cannot form vivid future scenarios — they lack the experiential raw material. Tulving called the mental faculty responsible 'autonoetic consciousness': the sense of a continuous, time-traveling self who existed, exists, and will exist.",
+  "question": "Why, according to the passage, can patients with dense amnesia not form vivid future scenarios?",
+  "options": [
+    { "text": "They lack autonoetic consciousness entirely.", "correct": false },
+    { "text": "Their prefrontal cortex cannot simulate novel events.", "correct": false },
+    { "text": "They lack the episodic memory that future simulation draws upon.", "correct": true },
+    { "text": "They are unable to distinguish past events from imagined ones.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Henry David Thoreau's experiment at Walden Pond — stripping life to its essentials to discover what was truly necessary — is the spiritual ancestor Newport invokes for digital minimalism. Thoreau was not romanticizing poverty; he was testing the difference between what a culture tells you that you need and what deliberate experience reveals you actually need. Newport applies this empirical method to technology: declare a temporary fast from optional digital tools, observe what you genuinely miss versus what you only thought you would miss, then rebuild from that honest inventory rather than from social pressure or platform defaults.",
+  "question": "According to the passage, what is the purpose of a temporary digital fast in Newport's approach?",
+  "options": [
+    { "text": "To prove that most technology is unnecessary and should be abandoned permanently", "correct": false },
+    { "text": "To reduce screen time in line with clinical recommendations for mental health", "correct": false },
+    { "text": "To discover what you genuinely miss versus what you only thought you would miss, then rebuild honestly", "correct": true },
+    { "text": "To emulate Thoreau's philosophy of voluntary poverty and self-sufficiency", "correct": false }
+  ]
+}

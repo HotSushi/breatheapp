@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "During deep sleep, the brain selectively weakens synaptic connections formed during waking hours. This process, called synaptic homeostasis, was formalized by neuroscientists Giulio Tononi and Chiara Cirelli in their Synaptic Homeostasis Hypothesis. Their core insight is that learning saturates the brain — every new experience strengthens synapses, consuming energy and space. Sleep resets this system by pruning weak or redundant connections, preserving the signal-to-noise ratio that clear thinking requires. Without this nightly downscaling, the neural circuitry would become too dense to function, like a library where every shelf is overcrowded and nothing can be found.",
+  "question": "According to Tononi and Cirelli's Synaptic Homeostasis Hypothesis, what specific problem does synaptic pruning during sleep solve?",
+  "options": [
+    { "text": "It removes memories that are emotionally distressing or traumatic", "correct": false },
+    { "text": "It restores the brain's energy by converting glucose into neural fuel", "correct": false },
+    { "text": "It downscales synaptic strength to prevent saturation and preserve signal-to-noise ratio", "correct": true },
+    { "text": "It accelerates the formation of long-term memories by consolidating short-term ones", "correct": false }
+  ]
+}

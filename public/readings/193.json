@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus taught that the unexamined impression — the automatic judgment that attaches to raw experience — is the source of all suffering. His term was prohairesis, the faculty of moral choice, and cultivating it required daily review of how one had responded to circumstances. Did you call something 'shameful' that was outside your control? Did you desire an outcome that depended on others? The evening, he suggested to his students at Nicopolis, is when the day's impressions cool enough to be inspected. Reaction reviewed becomes reaction reformed — but only if the review is honest rather than self-congratulatory.",
+  "question": "According to Epictetus, what is the source of all suffering?",
+  "options": [
+    { "text": "The absence of virtue in daily life", "correct": false },
+    { "text": "External events beyond one's control", "correct": false },
+    { "text": "Desire for outcomes that depend on Fortune", "correct": false },
+    { "text": "The unexamined impression — the automatic judgment that attaches to raw experience", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "When Charles Darwin worked at Down House in Kent, he maintained a strict schedule of three 45-minute walks per day, interrupted by rest. He kept a thinking path — a gravel track he called the sandwalk — and would count circuits by kicking stones. Darwin's creative output during these walks was not incidental; he credited them as essential to his reasoning. Modern research on locomotion and cognition offers a partial explanation: walking at a self-selected pace increases divergent thinking by 81 percent, according to a 2014 Stanford study by Marily Oppezzo and Daniel Schwartz. The moving body appears to loosen associative constraints the seated mind imposes on itself.",
+  "question": "By what percentage did the 2014 Stanford study by Oppezzo and Schwartz find that self-paced walking increases divergent thinking?",
+  "options": [
+    { "text": "45 percent", "correct": false },
+    { "text": "62 percent", "correct": false },
+    { "text": "81 percent", "correct": true },
+    { "text": "93 percent", "correct": false }
+  ]
+}

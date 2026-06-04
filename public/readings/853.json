@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The Stoics practiced prosoche — careful self-attention, a continuous watchfulness over the mind's movements. Epictetus taught that while we cannot control what appears before us, we govern entirely how we characterize it. A notification is not intrinsically urgent; we lend it urgency by the way we direct assent. This distinction between impressions and assent is ancient but remarkably precise: modern cognitive science calls the same gap 'attentional control' — the window between stimulus and response in which a practiced mind can choose what to amplify and what to let pass.",
+  "question": "What term did Epictetus use for the gap between an impression and the mind's response to it?",
+  "options": [
+    { "text": "Prosoche", "correct": false },
+    { "text": "Logos", "correct": false },
+    { "text": "Assent", "correct": true },
+    { "text": "Ataraxia", "correct": false }
+  ]
+}

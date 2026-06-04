@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Psychologist Kenneth Gergen described the modern self as 'saturated': bombarded by voices, perspectives, and demands from an expanding network of relationships, the individual loses a stable interior from which to act. In the age of constant connectivity, this saturation is no longer metaphorical. Research by Microsoft's Human Factors Lab found that remote workers who keep collaboration apps open all day show sustained cortisol elevation comparable to the stress of a public-speaking event — not because the messages are threatening, but because the open channel itself signals unresolved social obligations that the body treats as a standing threat.",
+  "question": "What does the Microsoft Human Factors Lab research show about keeping collaboration apps open all day?",
+  "options": [
+    { "text": "Workers process messages faster when apps stay open, but make more errors", "correct": false },
+    { "text": "It reduces cortisol because workers feel less isolated from their teams", "correct": false },
+    { "text": "It produces sustained cortisol elevation similar to the stress of public speaking", "correct": true },
+    { "text": "It increases dopamine release, creating a mild dependency on social feedback", "correct": false }
+  ]
+}

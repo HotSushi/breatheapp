@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The respiratory system offers an unusually accessible interoceptive anchor because breath is the only autonomic function voluntarily controllable. Neuroscientist Jack Feldman's discovery of the pre-Bötzinger complex — a brainstem nucleus that generates the breathing rhythm — revealed that respiratory patterning is tightly coupled to arousal and cognitive state. Slow, diaphragmatic breathing entrains limbic and cortical oscillations, creating conditions for attentional stability. Unlike heart rate, breath can be deliberately slowed within seconds. This is why breath anchors dominate contemplative traditions across cultures: not as metaphor, but because breath is the only lever the conscious mind has on its own arousal system.",
+  "question": "According to the passage, what makes breath a uniquely accessible attentional anchor compared to other autonomic functions?",
+  "options": [
+    { "text": "Breath is regulated by the cortex rather than the brainstem, making it easier to monitor", "correct": false },
+    { "text": "Breath produces more consistent neural signals than heartbeat, reducing interoceptive noise", "correct": false },
+    { "text": "Breath is the only autonomic function that can be voluntarily controlled", "correct": true },
+    { "text": "Breath activates the insula more strongly than any other body-based signal", "correct": false }
+  ]
+}

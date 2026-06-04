@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tibetan term dran pa, cognate with sati, literally translates as 'recollection' and is central to Dzogchen teaching. Tenzin Wangyal Rinpoche describes dran pa not as a mental technique but as the natural luminosity of awareness recognizing itself — a spontaneous knowing that precedes effort. Where Theravada sati is cultivated through sustained practice, Dzogchen frames dran pa as already present but obscured by conceptual elaboration. The task, then, is not to build recollection from scratch but to stop the forgetting: to cease the proliferation of thought that covers over what is already awake.",
+  "question": "According to Tenzin Wangyal Rinpoche's Dzogchen framework, what is the primary task of dran pa practice?",
+  "options": [
+    { "text": "Building recollection gradually through sustained meditation sessions", "correct": false },
+    { "text": "Recognizing awareness as luminous by applying precise Tibetan visualization techniques", "correct": false },
+    { "text": "Ceasing the proliferation of thought that covers over awareness that is already present", "correct": true },
+    { "text": "Cultivating equanimity so that emotions no longer obscure the practitioner's field of attention", "correct": false }
+  ]
+}

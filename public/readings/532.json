@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Gita's concept of svadharma — one's own duty — demands a precision of attention that generic effort cannot supply. Krishna warns Arjuna that performing another's duty, however nobly, is more dangerous than imperfectly performing one's own. This is not merely a social prescription; it is a cognitive one. When a person acts against their nature or role, a persistent inner conflict arises, dividing attention between the task at hand and the question of whether the task is even the right one. Svadharma eliminates that second-guessing by making the present obligation unambiguous. Clarity of role is a prerequisite for depth of focus.",
+  "question": "What cognitive consequence does the passage describe when someone acts against their svadharma?",
+  "options": [
+    { "text": "They perform tasks more carefully because they are unfamiliar with them", "correct": false },
+    { "text": "They lose the ability to interpret Krishna's teachings correctly", "correct": false },
+    { "text": "A persistent inner conflict divides attention between the task and whether it is the right one", "correct": true },
+    { "text": "They develop excessive attachment to the fruits of their labor", "correct": false }
+  ]
+}

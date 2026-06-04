@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Interruption is not neutral. When a task is cut short, the brain does not simply pause it; it marks it with a kind of urgency tag that elevates its priority in memory retrieval. Cognitive neuroscientist Kalina Christoff has linked this to the default mode network — the brain's self-referential processing hub, which activates during rest and mind-wandering. Incomplete tasks hijack the default mode network's cycles, converting what should be restorative mental downtime into low-grade rehearsal of unfinished work. This is why rest rarely feels restful when a deadline looms: the mind continues auditing its open loops even when you have stepped away from the desk.",
+  "question": "According to the passage, how do incomplete tasks affect the default mode network?",
+  "options": [
+    { "text": "They hijack its cycles, turning rest into rehearsal of unfinished work", "correct": true },
+    { "text": "They suppress it, preventing the mind from wandering productively", "correct": false },
+    { "text": "They strengthen it by giving it more material to process during rest", "correct": false },
+    { "text": "They redirect it toward creative problem-solving for the incomplete task", "correct": false }
+  ]
+}

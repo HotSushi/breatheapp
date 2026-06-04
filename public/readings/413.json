@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Attention residue operates through a mechanism psychologists call the Zeigarnik effect: the mind clings to incomplete tasks more tenaciously than completed ones. When you glance at an email and don't reply, your brain registers an open loop. That loop doesn't sit quietly — it repeatedly surfaces in working memory, consuming cognitive bandwidth that would otherwise support the task at hand. Bluma Zeigarnik, a Soviet psychologist who first documented this in the 1920s, observed it in waitstaff who remembered unpaid orders with uncanny precision but forgot them instantly after settlement. Email has weaponized this ancient mechanism, filling the day with dozens of suspended obligations.",
+  "question": "According to the passage, why does the Zeigarnik effect make email especially cognitively costly?",
+  "options": [
+    {
+      "text": "Because email requires more complex language processing than other digital tasks",
+      "correct": false
+    },
+    {
+      "text": "Because unread emails trigger visual stress responses in the optic cortex",
+      "correct": true
+    },
+    {
+      "text": "Because each unread or unanswered email creates an open loop that repeatedly surfaces in working memory",
+      "correct": false
+    },
+    {
+      "text": "Because email inboxes are designed to maximize time-on-platform through algorithmic sorting",
+      "correct": false
+    }
+  ]
+}

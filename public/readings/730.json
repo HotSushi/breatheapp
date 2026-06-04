@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The ancient Stoics prescribed a nightly review: before sleep, examine the day's actions and thoughts to achieve a kind of moral hygiene. Marcus Aurelius practiced it. What they could not have known is that this ritual aligns with the brain's own temporal logic. The hours before sleep are when the hippocampus is most receptive to emotional reprocessing — a window identified by psychologist Matthew Walker as critical for emotional memory integration during subsequent REM sleep. Entering sleep in a state of unresolved agitation has been shown to amplify the emotional valence of memories, consolidating distress rather than neutralizing it. The Stoics' nightly accounting was, in neurological terms, a form of pre-sleep emotional regulation.",
+  "question": "According to the passage, what neurological risk is associated with entering sleep in a state of unresolved agitation?",
+  "options": [
+    { "text": "The hippocampus bypasses slow-wave sleep and moves directly into REM, disrupting pruning", "correct": false },
+    { "text": "Cortisol levels remain elevated, preventing glymphatic clearance of amyloid-beta", "correct": false },
+    { "text": "Emotional memories are consolidated with amplified distress rather than being neutralized", "correct": true },
+    { "text": "The prefrontal cortex inhibits memory replay to protect against traumatic consolidation", "correct": false }
+  ]
+}

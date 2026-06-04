@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Before the industrial era, humans typically walked between five and nine miles each day as a baseline condition of existence. Anthropologist Daniel Lieberman of Harvard calls this 'the exercise paradox': our bodies evolved requiring physical effort not as medicine or enhancement, but as the ordinary metabolic baseline from which cognitive function was calibrated. BDNF production, hippocampal neurogenesis, and prefrontal blood flow all appear tuned to a moving body. The modern knowledge worker who sits for ten hours, Lieberman argues, is not merely inactive — they are operating the brain at a fraction of its evolved throughput, as if running sophisticated software on chronically underpowered hardware.",
+  "question": "According to the passage, how did Daniel Lieberman characterize physical activity in the evolutionary context?",
+  "options": [
+    { "text": "Physical activity was a luxury behavior for pre-industrial humans", "correct": false },
+    { "text": "Physical activity evolved as a medical response to cognitive decline", "correct": false },
+    { "text": "Physical activity was the ordinary metabolic baseline from which cognitive function was calibrated", "correct": true },
+    { "text": "Pre-industrial humans walked primarily to stimulate BDNF production", "correct": false }
+  ]
+}

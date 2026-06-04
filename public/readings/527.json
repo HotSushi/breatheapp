@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Stoic philosopher Epictetus, writing in the first century CE, reduced all of philosophy to a single discipline: the correct use of impressions — what he called prosoche, or attention to the self. For Epictetus, every distraction begins as an unchecked impression: something appears urgent, pleasurable, or threatening, and the undisciplined mind assents to that appearance without examination. The practice of prosoche meant pausing before assent — asking whether an impression was truly about what lay in one's own power. This moment of delay between stimulus and response was, for Epictetus, the entire field of human freedom.",
+  "question": "According to the passage, what did Epictetus call the practice of pausing to examine impressions before responding?",
+  "options": [
+    { "text": "Periagoge", "correct": false },
+    { "text": "Hexis", "correct": false },
+    { "text": "Prosoche", "correct": true },
+    { "text": "Peripatesis", "correct": false }
+  ]
+}

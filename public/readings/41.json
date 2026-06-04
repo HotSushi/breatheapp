@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In the 1990s, neuroscientist Michael Merzenich demonstrated that the adult brain rewires itself in response to repeated experience — a discovery that overturned decades of scientific consensus. His experiments with monkeys showed that when a finger was used intensively, the corresponding cortical map expanded, encroaching on neighboring regions. The implication for attention is profound: every time you sustain focus on a difficult task, you are physically enlarging the neural territory devoted to that capacity. Attention is not a fixed endowment distributed at birth but a skill carved into cortex through accumulated practice, reshaping itself with each deliberate act of concentration.",
+  "question": "What did Merzenich's monkey experiments demonstrate about cortical maps?",
+  "options": [
+    { "text": "Cortical maps are fixed at birth and cannot be altered by experience", "correct": false },
+    { "text": "Intensive use of a finger caused its corresponding cortical map to expand into neighboring regions", "correct": true },
+    { "text": "Attention is located in a single, stable region of the cortex", "correct": false },
+    { "text": "The brain redistributes cortical space evenly across all sensory inputs", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Google's IPO filing in 2004 contained a sentence that revealed the company's self-understanding: 'We do not intend to become an advertising company.' Within three years, advertising accounted for ninety-nine percent of its revenue. The shift was not hypocrisy but logic. Once Google could measure which links users clicked, it possessed something unprecedented: a direct readout of human curiosity. Advertisers had always wanted to know what people were thinking; Google could now sell them the answer, one auction at a time, through what economist Shoshana Zuboff would later call behavioral surplus.",
+  "question": "What did Shoshana Zuboff call the data Google harvested from users' click behavior?",
+  "options": [
+    { "text": "Attention capital", "correct": false },
+    { "text": "Audience commodity", "correct": false },
+    { "text": "Behavioral surplus", "correct": true },
+    { "text": "Curiosity revenue", "correct": false }
+  ]
+}

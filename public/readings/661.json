@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Francesco Cirillo invented the Pomodoro Technique in the late 1980s as a university student, naming it after the tomato-shaped kitchen timer he used to track work intervals. The method is deceptively simple: work for twenty-five minutes with full concentration, then take a five-minute break. What Cirillo discovered \u2014 and what neuroscience later confirmed \u2014 is that the brain resists open-ended effort but accepts bounded challenges. The ticking timer transforms an amorphous task into a finite contest. Urgency is manufactured on demand. Four pomodoros constitute one session, after which a longer rest of fifteen to thirty minutes allows the hippocampus to consolidate what was processed.",
+  "question": "According to the passage, what psychological shift does the timer create that makes focused work easier?",
+  "options": [
+    {
+      "text": "It transforms an open-ended task into a finite, bounded challenge",
+      "correct": true
+    },
+    {
+      "text": "It eliminates the urge to check notifications during work",
+      "correct": false
+    },
+    {
+      "text": "It trains the hippocampus to form memories more quickly",
+      "correct": false
+    },
+    {
+      "text": "It replicates the social urgency of a deadline set by others",
+      "correct": false
+    }
+  ]
+}

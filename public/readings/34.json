@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Working memory and long-term memory are not separate silos but partners in an ongoing negotiation. When you read a sentence, you hold its early clauses in working memory while parsing its end — but only because decades of language exposure have compiled grammatical structures into automatic patterns. Alan Baddeley's influential model describes a 'central executive' that coordinates this traffic, delegating routine processing to specialized subsystems so that conscious attention remains free for novelty. The implication is counterintuitive: the more you automate the familiar, the more cognitive space you preserve for genuine understanding.",
+  "question": "According to Baddeley's model described in the passage, what role does the central executive play?",
+  "options": [
+    { "text": "It stores linguistic rules so that grammar does not have to be learned", "correct": false },
+    { "text": "It directly processes all incoming sensory information before routing it", "correct": false },
+    { "text": "It compresses familiar patterns into long-term memory over time", "correct": false },
+    { "text": "It coordinates cognitive traffic, delegating routine tasks so attention stays free for novelty", "correct": true }
+  ]
+}

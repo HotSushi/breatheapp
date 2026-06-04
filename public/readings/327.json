@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The prefrontal cortex, seat of executive function, is among the brain regions most sensitive to depletion. It governs inhibition, planning, and the suppression of impulse — precisely the capacities that falter when willpower is exhausted. Neuroimaging research has shown that sustained self-regulatory effort reduces activation in the lateral prefrontal cortex over time, while activity in the amygdala — associated with reactive, emotional responding — remains comparatively unchanged. The result is a shift in the balance of control: not a failure of intelligence, but an erosion of the neural architecture that keeps impulse subordinate to intention. Fatigue tilts the playing field toward the older, faster brain.",
+  "question": "According to the passage, what neural shift occurs when the prefrontal cortex is depleted by sustained self-regulatory effort?",
+  "options": [
+    { "text": "The amygdala's activity also decreases, leading to emotional numbness.", "correct": false },
+    { "text": "Lateral prefrontal cortex activation rises as the brain compensates for fatigue.", "correct": false },
+    { "text": "The hippocampus takes over executive planning functions.", "correct": false },
+    { "text": "Prefrontal activation declines while amygdala activity remains unchanged, shifting control toward impulse.", "correct": true }
+  ]
+}

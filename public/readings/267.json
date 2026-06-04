@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Right Effort intersects with modern theories of motivation in revealing ways. The Buddha's teaching that unwholesome mental states should be 'abandoned' mirrors what psychologist Carol Dweck calls the shift from a fixed to a growth mindset — a recognition that mental habits are cultivable, not fixed. But the Buddhist framing goes further: rather than striving toward a better self-image, Right Effort targets the root of craving itself. The Sutta Pitaka warns against 'spiritual bypassing' avant la lettre — using meditation as a performance of virtue rather than genuine investigation. The Pali term for this trap, silabbataparamasa, means clinging to mere rites and rituals.",
+  "question": "According to the passage, what does the Pali term silabbataparamasa refer to?",
+  "options": [
+    { "text": "The Buddha's warning against excessive self-criticism during practice", "correct": false },
+    { "text": "The fourth component of Right Effort — maintaining wholesome states already established", "correct": false },
+    { "text": "Using meditation as a performance of virtue rather than genuine investigation", "correct": true },
+    { "text": "The fixed mindset that prevents practitioners from cultivating mental habits", "correct": false }
+  ]
+}

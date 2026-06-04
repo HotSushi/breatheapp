@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Phenomenologists call it the 'lived body' — the body as experienced from within, not as observed from without. Edmund Husserl distinguished between the Körper, the physical body as an object in space, and the Leib, the felt body through which we inhabit the world. When you are fully present, you feel your breath as Leib: a living tide rather than a mechanical pump. Nagel's argument about subjective experience echoes this: the first-person body is not reducible to its third-person anatomy. The spine you feel when you sit in meditation is not the spine the radiologist reads on an X-ray.",
+  "question": "In Husserl's phenomenology, what is the Leib?",
+  "options": [
+    { "text": "The physical body as an object measurable by science", "correct": false },
+    { "text": "The concept of the body as studied in radiology", "correct": false },
+    { "text": "The felt body through which we inhabit the world from within", "correct": true },
+    { "text": "The unconscious bodily processes that run without awareness", "correct": false }
+  ]
+}

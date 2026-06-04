@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The economist Tyler Cowen, writing about the age of intelligent machines, argues that the future belongs to workers who can race with technology rather than against it — those who use tools to amplify rare judgment, not those who compete with tools on raw execution. The skills that remain rare and valuable share a common structure: they require integrating deep domain knowledge with contextual judgment in ways that defy standardization. Newport extends this: the person who trains their attention to hold a problem in mind long enough for novel synthesis to occur is doing something genuinely scarce. Speed is automatable; depth, for now, is not.",
+  "question": "What does Cowen argue distinguishes workers who will thrive alongside intelligent machines?",
+  "options": [
+    { "text": "They have formal credentials that legally restrict access to their professional domain", "correct": false },
+    { "text": "They produce output faster than machine systems through optimized workflows", "correct": false },
+    { "text": "They focus on acquiring broad, generalist knowledge to remain adaptable", "correct": false },
+    { "text": "They use tools to amplify rare judgment rather than competing on raw execution", "correct": true }
+  ]
+}

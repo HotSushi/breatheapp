@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "When the default mode network is active, it is not passive. Neuroimaging studies show it coordinates the hippocampus and the medial temporal lobe in a process researchers call \"memory consolidation by replay.\" During wakeful rest, the hippocampus re-activates recent experiences in compressed, accelerated form — sometimes hundreds of times per minute — forwarding them to cortical storage. This is why a student who rests after studying retains significantly more than one who immediately encounters new material. Cognitive psychologist Lila Davachi at NYU calls this \"awake replay\" the brain's filing process: it is not wasted time, it is the sorting of everything time contains.",
+  "question": "According to the passage, what does the hippocampus do during wakeful rest?",
+  "options": [
+    { "text": "It suppresses recent memories to prevent interference with future learning.", "correct": false },
+    { "text": "It re-activates recent experiences in compressed form and forwards them to cortical storage.", "correct": true },
+    { "text": "It generates novel connections between unrelated memories.", "correct": false },
+    { "text": "It synchronizes with the prefrontal cortex to evaluate emotional significance.", "correct": false }
+  ]
+}

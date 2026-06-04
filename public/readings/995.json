@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Tristan Harris, a former design ethicist at Google, described the smartphone as 'a slot machine in your pocket.' The comparison is technically precise: variable reward schedules — the same mechanism that makes gambling addictive — underpin every pull-to-refresh gesture, every like notification, every algorithmic feed. B.F. Skinner demonstrated in the 1950s that unpredictable rewards produce far more compulsive behavior than consistent ones. The platforms did not invent this vulnerability; they industrialized it. Recognizing the mechanism is the first act of sovereignty: you cannot resist a trap you cannot see.",
+  "question": "According to the passage, why do variable reward schedules produce more compulsive behavior than consistent rewards?",
+  "options": [
+    { "text": "The passage does not explain why — it only states that they do, citing Skinner", "correct": true },
+    { "text": "Because consistent rewards are boring and fail to trigger dopamine release", "correct": false },
+    { "text": "Because unpredictability activates the prefrontal cortex more strongly", "correct": false },
+    { "text": "Because variable schedules are harder to ignore than predictable ones", "correct": false }
+  ]
+}

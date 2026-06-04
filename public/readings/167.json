@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "When Marcus Aurelius wrote 'Confine yourself to the present,' he was not counseling passivity. He was identifying a structural defect in distracted thinking: the mind that is perpetually elsewhere — replaying the past, rehearsing anxieties about the future — cannot perceive the situation in front of it clearly enough to act virtuously within it. The Stoic term for this clear perception was phantasia kataleptike: a 'graspable impression,' an accurate mental representation of what is actually present. Virtue requires accurate perception first. Distraction, by flooding the mind with irrelevant content, makes katalepsis — genuine comprehension — impossible.",
+  "question": "What is phantasia kataleptike as described in the passage?",
+  "options": [
+    { "text": "A meditative technique for calming the distracted mind", "correct": false },
+    { "text": "The Stoic practice of reviewing the day's events each evening", "correct": false },
+    { "text": "An accurate mental representation of what is actually present", "correct": true },
+    { "text": "A philosophical argument proving the unity of the virtues", "correct": false }
+  ]
+}

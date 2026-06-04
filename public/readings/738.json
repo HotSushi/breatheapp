@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In the 1990s, psychologist Mihaly Csikszentmihalyi mapped a mental state he called 'flow' — complete absorption in a demanding task, accompanied by effortless attention and time distortion. What his phenomenological data described, neuroscience later confirmed through neuroimaging: flow involves a transient suppression of the default mode network, the brain's self-referential rumination circuit. Crucially, flow is incompatible with elevated cortisol. The stress response keeps the default mode active — scanning inward for threat, rehearsing anxieties — precisely when sustained focus requires it to quiet. Rest and recovery are not the opposite of productive attention; they are its biological precondition.",
+  "question": "Why does elevated cortisol prevent the state of flow, according to the passage?",
+  "options": [
+    { "text": "It suppresses the default mode network before the task begins", "correct": false },
+    { "text": "It keeps the default mode network active, sustaining rumination and threat-scanning", "correct": true },
+    { "text": "It accelerates time perception, disrupting Csikszentmihalyi's time distortion effect", "correct": false },
+    { "text": "It reduces dopamine in reward circuits, lowering task motivation", "correct": false }
+  ]
+}

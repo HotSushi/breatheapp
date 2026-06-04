@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Kelly McGonigal, in her Stanford course on the science of willpower, reframes the resource model in terms of stress physiology. When people are chronically stressed, the body prioritizes immediate survival over long-term planning — a shift that impairs the prefrontal cortex and erodes self-regulatory capacity. Ego depletion, on this reading, is not merely about cognitive fuel but about the physiological state the organism is in. Stress hormones like cortisol suppress prefrontal function; relaxation and recovery restore it. McGonigal's intervention is accordingly not to ration willpower but to manage the stress response — to treat rest not as indulgence but as the biological foundation of self-control.",
+  "question": "According to McGonigal's framework described in the passage, what undermines self-regulatory capacity at a physiological level?",
+  "options": [
+    { "text": "Excess glucose suppressing prefrontal cortex activity.", "correct": false },
+    { "text": "Insufficient sleep reducing amygdala responsiveness.", "correct": false },
+    { "text": "Chronic stress and cortisol suppressing prefrontal function.", "correct": true },
+    { "text": "Over-reliance on habitual behavior reducing neural plasticity.", "correct": false }
+  ]
+}

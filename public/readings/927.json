@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The most precise metaphor for surveillance capitalism's relationship to users may not be the factory but the trap. Economist Michael Goldhaber observed in 1997 that attention, not money, was becoming the true scarce resource of the network economy. What he did not anticipate was that platforms would engineer scarcity artificially — manufacturing anxiety, social comparison, and fear of missing out to ensure that attention keeps returning. The trap works because it mimics the shape of genuine social connection. Every notification that arrives carries a faint promise of belonging, making it nearly impossible to distinguish the lure from the real thing.",
+  "question": "What did economist Michael Goldhaber identify in 1997 that the passage builds upon?",
+  "options": [
+    { "text": "The mechanism by which notifications exploit social anxiety and fear of missing out", "correct": false },
+    { "text": "The use of variable reward schedules to manufacture compulsive checking behaviors", "correct": false },
+    { "text": "The concept of behavioral prediction markets as the engine of platform economics", "correct": false },
+    { "text": "Attention, not money, as the true scarce resource of the network economy", "correct": true }
+  ]
+}

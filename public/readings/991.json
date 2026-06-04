@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Herbert Simon first articulated the paradox in 1971: a wealth of information creates a poverty of attention. What he called 'attention economics' has since become the organizing logic of the digital economy. Every notification, every infinite scroll, every algorithmically optimized feed is designed to extract what economists now treat as a scarce resource: your focused awareness. Reclaiming mental sovereignty begins with recognizing that the battle is not with your willpower. It is structural. The platforms are not neutral tools — they are architectures engineered by teams of psychologists to maximize time-on-site at the direct expense of your cognitive autonomy.",
+  "question": "According to the passage, what does reclaiming mental sovereignty first require?",
+  "options": [
+    { "text": "Developing stronger willpower through daily discipline", "correct": false },
+    { "text": "Deleting social media accounts and avoiding screens", "correct": false },
+    { "text": "Recognizing that the struggle is structural, not a personal failing", "correct": true },
+    { "text": "Understanding how algorithms select content for your feed", "correct": false }
+  ]
+}

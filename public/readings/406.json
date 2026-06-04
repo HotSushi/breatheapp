@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Variable reward schedules do not operate uniformly across all content types. Psychologist B.J. Fogg distinguishes between rewards of the self (personal achievement), rewards of the tribe (social validation), and rewards of the hunt (information and resources). Social media platforms layer all three simultaneously: a post might yield likes (tribe), personal follower growth (self), and an unexpected link to fascinating content (hunt). This stacking makes the variability harder to predict and therefore more compelling. Any single reward type is escapable; the combination — where you never know which variety will arrive — produces a form of engagement that resists saturation.",
+  "question": "According to the passage, why is stacking multiple reward types more compelling than any single type alone?",
+  "options": [
+    { "text": "Stacked rewards deliver larger quantities of dopamine than single rewards", "correct": false },
+    { "text": "Users cannot predict which reward variety will arrive, making the pattern harder to escape", "correct": true },
+    { "text": "Social and personal rewards reinforce each other to create stronger memory traces", "correct": false },
+    { "text": "Information rewards (the hunt) are inherently more addictive than social ones", "correct": false }
+  ]
+}

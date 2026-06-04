@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucius drew a sharp distinction between learning and thinking: \"Learning without thought is labor lost; thought without learning is perilous.\" The warning against thought without learning is easily understood — speculation untethered from evidence produces confident error. But the warning against learning without thought is subtler: accumulation of information without reflective integration produces a kind of cognitive clutter, a warehouse of facts that cannot be retrieved or applied. Psychologist Robert Bjork calls the reflective phase desirable difficulty — the effortful processing that converts information into transferable understanding. Confucius demanded both halves of this cycle as the minimum condition for genuine cultivation.",
+  "question": "Why does Confucius warn against learning without thought?",
+  "options": [
+    {
+      "text": "It produces cognitive clutter — accumulated facts that cannot be applied",
+      "correct": true
+    },
+    {
+      "text": "It leads to overconfidence in one's scholarly credentials",
+      "correct": false
+    },
+    {
+      "text": "It substitutes memory for the deeper wisdom of elders",
+      "correct": false
+    },
+    {
+      "text": "It ignores the moral dimension of education",
+      "correct": false
+    }
+  ]
+}

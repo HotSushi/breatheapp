@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Elite musicians studied by psychologist K. Anders Ericsson at the Berlin Academy practiced in sessions of no more than 90 minutes, with full breaks between, and rarely exceeded four hours of deliberate practice per day. This was not modesty — it was the architecture of their nervous system expressing itself. Ericsson found that the best performers in every domain he studied shared this constraint. The limiting factor was not motivation or talent but the depth of focused attention the brain could sustain before recovery became mandatory. More hours produced diminishing returns; more rest produced better hours.",
+  "question": "According to the passage, what did Ericsson identify as the limiting factor on practice among elite performers?",
+  "options": [
+    { "text": "Lack of motivation during the afternoon energy dip", "correct": false },
+    { "text": "The depth of focused attention the brain could sustain before requiring recovery", "correct": true },
+    { "text": "The quality of sleep the performers got the night before each session", "correct": false },
+    { "text": "Individual variation in talent and working memory capacity", "correct": false }
+  ]
+}

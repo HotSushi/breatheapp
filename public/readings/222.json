@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Ajahn Chah, the Thai forest monk who taught thousands of Western students at Wat Nong Pah Pong, used a simple metaphor for impermanent thoughts: still forest water. When a leaf falls onto a still pond, ripples spread, then subside. The pond does not chase the ripples or beg them to return. Chah taught that distraction works the same way — the mind's surface is naturally still, and distracting thoughts are the ripples. Trying to flatten them by force only creates more agitation. The practice is to stop throwing additional leaves: stop fueling the thought with judgment, narrative, or resistance, and stillness returns of its own accord.",
+  "question": "In Ajahn Chah's metaphor, what role does 'throwing additional leaves' represent in meditation?",
+  "options": [
+    { "text": "Returning attention to the breath.", "correct": false },
+    { "text": "Fueling distraction with judgment, narrative, or resistance.", "correct": true },
+    { "text": "Observing thoughts without reacting.", "correct": false },
+    { "text": "The natural arising of new thoughts.", "correct": false }
+  ]
+}

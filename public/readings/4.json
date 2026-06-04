@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The task-positive network — a loosely allied set of regions including the dorsolateral prefrontal cortex, anterior insula, and intraparietal sulcus — activates when we engage in goal-directed cognition. What makes it remarkable is its relationship to the default mode network: the two systems are anti-correlated. As one rises, the other falls. This competitive dynamic means that focus is not just the activation of attention circuits but the suppression of the self-referential ones. Distraction, in this light, is not merely the presence of interference — it is the failure of the task-positive network to dominate its rival, allowing the interior monologue to flood back in.",
+  "question": "What does the anti-correlation between the task-positive and default mode networks mean for distraction?",
+  "options": [
+    { "text": "Distraction is caused by insufficient oxygen to the prefrontal cortex", "correct": false },
+    { "text": "Distraction occurs when both networks activate simultaneously", "correct": false },
+    { "text": "Distraction is the failure of the task-positive network to suppress the default mode network", "correct": true },
+    { "text": "Distraction results from overstimulation of the anterior insula", "correct": false }
+  ]
+}

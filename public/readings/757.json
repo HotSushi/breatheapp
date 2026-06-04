@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The Japanese practice of shinrin-yoku — forest bathing — entered public health policy in 1982 when the Japanese Forestry Agency promoted woodland walks as preventive medicine. Subsequent research by immunologist Qing Li demonstrated a specific mechanism: phytoncides, volatile organic compounds released by trees, increase natural killer cell activity in the immune system. Participants who spent three days in a cedar forest showed NK cell counts elevated for more than thirty days afterward. Li's work reframes nature exposure as an immunological event, not merely a psychological one. The forest communicates with the body's immune surveillance system through chemistry, at concentrations far below conscious smell.",
+  "question": "What mechanism did Qing Li identify for the immune benefits of forest bathing?",
+  "options": [
+    { "text": "Reduced cortisol allows natural killer cells to recover their depleted function", "correct": false },
+    { "text": "Negative air ions in forests directly stimulate lymphocyte production", "correct": false },
+    { "text": "Phytoncides — volatile compounds released by trees — increase natural killer cell activity", "correct": true },
+    { "text": "Physical activity in forest terrain produces anti-inflammatory cytokines", "correct": false }
+  ]
+}

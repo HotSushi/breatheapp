@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Dzogchen stands in contrast to the gradual-path model that dominates most Buddhist schools. In the gradual path, the practitioner moves through stages: purifying obscurations, accumulating merit, stabilizing samadhi, developing insight. Each stage prepares the ground for the next. Dzogchen teaching, by contrast, holds that the ground is already perfect and that all gradual practices, while useful for clearing the way, cannot themselves produce the recognition of rigpa — they can only remove what was obscuring what was already there. The Tibetan master Mipham Rinpoche compared this to polishing a mirror: the polishing is necessary, but what shines is not the polishing.",
+  "question": "According to the passage, what is the dzogchen view of gradual practices such as purification and samadhi?",
+  "options": [
+    { "text": "They are the primary means by which rigpa is cultivated and stabilized", "correct": false },
+    { "text": "They are incompatible with dzogchen and should be abandoned at the outset", "correct": false },
+    { "text": "They are useful for clearing the way but cannot themselves produce recognition of rigpa", "correct": true },
+    { "text": "They must be completed before pointing-out instruction can be given", "correct": false }
+  ]
+}

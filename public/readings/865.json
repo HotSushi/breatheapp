@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Researcher Dan McAdams has shown that people construct a \"personal myth\" — an internalized, evolving narrative of the self that integrates past, present, and anticipated future into a meaningful whole. Critically, McAdams found that the themes dominating this myth predict what people notice in ambiguous social situations. A person whose myth centers on agency attends to opportunities for control; one whose myth centers on communion attends to signs of belonging or rejection. The personal myth is not a description of reality — it is a filter that determines which slice of reality reaches awareness.",
+  "question": "According to McAdams, how do the themes in a person's personal myth affect them?",
+  "options": [
+    { "text": "They determine what the person notices in ambiguous social situations", "correct": true },
+    { "text": "They predict how quickly a person can shift between narrative and logical modes", "correct": false },
+    { "text": "They influence the vividness of episodic memories from childhood", "correct": false },
+    { "text": "They reduce the brain's predictive error signals in familiar environments", "correct": false }
+  ]
+}

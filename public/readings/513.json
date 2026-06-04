@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The junzi — the superior person in Confucian thought — was not born but made. Confucius described this figure through a series of contrasts with the petty person, xiao ren: the superior person thinks of virtue; the petty person thinks of comfort. The superior person thinks of the law; the petty person thinks of favor. What made someone superior was not talent but the consistent direction of mental energy toward what was lasting rather than immediate. In modern terms, this maps onto the capacity for deferred gratification — the ability to hold a larger goal in working memory long enough for it to govern action.",
+  "question": "What distinguishes the junzi from the xiao ren, according to the passage?",
+  "options": [
+    { "text": "Superior birth and social standing", "correct": false },
+    { "text": "Greater intelligence and scholarly knowledge", "correct": false },
+    { "text": "Consistent direction of mental energy toward what is lasting", "correct": true },
+    { "text": "Mastery of ritual and ceremonial conduct", "correct": false }
+  ]
+}

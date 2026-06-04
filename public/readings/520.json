@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Late in life, Confucius described his own developmental arc: at fifteen he set his heart on learning; at thirty he stood firm; at forty he had no doubts; at fifty he knew the decrees of heaven; at sixty his ear was attuned; at seventy he could follow his heart without transgressing. This autobiography is a phenomenology of attention — each decade marked not by achievement but by the quality of inner experience. Neuroscientist Michael Posner distinguishes three attentional networks: alerting, orienting, and executive control. Confucius's arc suggests that executive control — the capacity to act from values without friction — is not a gift of youth but the culminating attainment of a well-directed life.",
+  "question": "What does Confucius's self-described developmental arc mark at each decade, according to the passage?",
+  "options": [
+    { "text": "External achievements and social recognition", "correct": false },
+    { "text": "Mastery of a new classical text or ritual domain", "correct": false },
+    { "text": "The quality of inner attentional experience", "correct": true },
+    { "text": "The number of disciples accepted into study", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Neuroscientist Anil Seth proposes that conscious experience is not a window onto the world but a 'controlled hallucination' — the brain's best prediction of the causes of its sensory input. Perception, on this view, is inference: the visual system does not passively register red but actively predicts it, and the experience of redness is the prediction itself, not a raw report. This framework, built on the earlier work of Hermann von Helmholtz and developed through Karl Friston's predictive processing, reframes the hard problem: the question is not why neural activity feels like something but why certain predictions are experienced as vivid and present while others remain unconscious hypotheses.",
+  "question": "According to Seth's 'controlled hallucination' framework, what is the experience of perception?",
+  "options": [
+    { "text": "A passive registration of sensory data that the brain faithfully transmits to awareness", "correct": false },
+    { "text": "A hallucination generated when sensory signals are too degraded to form reliable predictions", "correct": false },
+    { "text": "The brain's active prediction of the causes of its sensory input, experienced as vivid and present", "correct": true },
+    { "text": "A post-hoc narrative constructed by the default mode network after sensory processing completes", "correct": false }
+  ]
+}

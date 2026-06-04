@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucian thought distinguished between two modes of learning: bo, broad acquisition of knowledge, and yue, focused reflection that extracts meaning from what is already known. The Master warned his students against bo without yue: 'Learning without thought is labor lost; thought without learning is perilous.' This tension maps precisely onto what cognitive scientist Daniel Levitin calls the two enemies of deep work — not too little input, but too much, so that reflection never consolidates. Thoreau at Walden was practicing yue on two years of accumulated reading and city life. Simplicity was not the absence of stimulus but the creation of space in which prior experience could become wisdom.",
+  "question": "According to the passage, what Confucian concept describes focused reflection that extracts meaning from what is already known?",
+  "options": [
+    { "text": "Bo", "correct": false },
+    { "text": "Prosoche", "correct": false },
+    { "text": "Shoshin", "correct": false },
+    { "text": "Yue", "correct": true }
+  ]
+}

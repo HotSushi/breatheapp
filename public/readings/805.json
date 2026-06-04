@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The philosopher and neuroscientist Francisco Varela introduced the concept of 'enaction' — the idea that cognition is not the recovery of a pre-given world but the enactment of a world through the activity of a living being. On this view, what an organism attends to literally constitutes its experienced reality; there is no neutral backdrop waiting to be perceived. A honeybee and a human standing in the same meadow inhabit entirely different experiential worlds not because they have different opinions about the meadow, but because their attentional systems evolved to enact entirely different aspects of it. Attention is not a window — it is a world-making act.",
+  "question": "According to Varela's concept of enaction, what does attention do to the experienced world?",
+  "options": [
+    { "text": "It filters a neutral pre-given reality", "correct": false },
+    { "text": "It stores representations of the external world", "correct": false },
+    { "text": "It recovers hidden features of the environment", "correct": false },
+    { "text": "It constitutes and enacts the world rather than merely revealing it", "correct": true }
+  ]
+}

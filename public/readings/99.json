@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Targeted memory reactivation (TMR) is a research technique in which specific sounds or odors associated with learned material are re-presented during slow-wave sleep. Studies by Ken Paller at Northwestern show that this selectively strengthens the associated memories without waking participants. The hippocampus, still receptive to cues during sleep, replays the tagged content with greater frequency. What this reveals is that sleep consolidation is not passive or random — it is biased toward what the brain considers salient. Attention, in a literal sense, shapes what gets archived: what we focus on waking determines what we remember sleeping.",
+  "question": "What does targeted memory reactivation research reveal about sleep consolidation?",
+  "options": [
+    { "text": "It is a passive process that stores memories in the order they were formed", "correct": false },
+    { "text": "It depends entirely on the duration of REM rather than slow-wave sleep", "correct": false },
+    { "text": "It is biased toward salient content and shaped by waking attention", "correct": true },
+    { "text": "It requires conscious recall to activate hippocampal replay", "correct": false }
+  ]
+}

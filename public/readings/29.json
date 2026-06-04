@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Dopamine depletion does not feel like calm; it feels like dread. Researcher Anna Lembke, in her clinical work with addiction, describes the opponent-process model: every dopamine surge is followed by a compensatory dip below baseline, a neurological deficit the brain experiences as restlessness, boredom, or anxiety. The brain then seeks the stimulus not to feel good but to feel normal. This is why heavy social media users report discomfort in the absence of their phones — not from missing content but from the withdrawal signature of a system recalibrating toward homeostasis. The discomfort is not psychological weakness; it is predictable neurochemistry.",
+  "question": "According to Anna Lembke's opponent-process model, why do heavy social media users feel discomfort without their phones?",
+  "options": [
+    { "text": "Their attentional capacity has been permanently shortened by overuse", "correct": false },
+    { "text": "Each dopamine surge is followed by a compensatory dip below baseline that the brain seeks to relieve", "correct": true },
+    { "text": "Social anxiety is triggered when users are disconnected from their peer networks", "correct": false },
+    { "text": "The prefrontal cortex loses regulatory function after extended periods of stimulus exposure", "correct": false }
+  ]
+}

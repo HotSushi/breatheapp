@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Pali term upekkha — equanimity — is routinely mistranslated as indifference, a confusion with real consequences. Indifference is the withdrawal of care; equanimity is the steadiness that allows care to function without being destabilized. In vipassana practice, equanimity develops as the meditator repeatedly resists the urge to amplify pleasant sensation or escape unpleasant ones. The result is not flatness but a kind of metabolic efficiency: the practitioner can remain fully present with difficulty without the second-order suffering of wishing it were otherwise. Neuroscientist Richard Davidson's work at Wisconsin identifies this capacity as correlated with thicker gray matter in the prefrontal cortex among long-term meditators.",
+  "question": "According to the passage, how does the passage distinguish equanimity from indifference?",
+  "options": [
+    { "text": "Equanimity is achieved through years of practice, while indifference arises spontaneously", "correct": false },
+    { "text": "Equanimity belongs to vipassana traditions, while indifference is found in Zen", "correct": false },
+    { "text": "Equanimity is a quality cultivated through the prefrontal cortex, while indifference is emotional", "correct": false },
+    { "text": "Indifference withdraws care, while equanimity is the steadiness that allows care to function without destabilization", "correct": true }
+  ]
+}

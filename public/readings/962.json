@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Philosopher Martin Buber distinguished two modes of relating: I-Thou, in which we encounter another person as a full, irreducible subject, and I-It, in which we treat them as an object to be used or categorized. Digital platforms structurally favor I-It relations. A profile is a curated object; a follower count is a metric; a reaction is a sorted signal. When every exchange passes through such machinery, Buber's warning takes on fresh urgency: a life composed entirely of I-It encounters is a life of mounting alienation, however densely it is populated with names and faces.",
+  "question": "How does the passage characterize the relational mode that digital platforms structurally favor?",
+  "options": [
+    { "text": "I-Thou, in which others are treated as full, irreducible subjects.", "correct": false },
+    { "text": "A hybrid mode that blends subjective encounter with objective analysis.", "correct": false },
+    { "text": "I-It, in which others are treated as objects to be used or categorized.", "correct": true },
+    { "text": "A neutral mode that depends entirely on the user's intentions.", "correct": false }
+  ]
+}

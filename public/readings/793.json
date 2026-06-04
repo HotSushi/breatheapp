@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Chronotype — your genetically influenced tendency toward morningness or eveningness — is not a character trait but a biological reality. Researchers led by Till Roenneberg at Ludwig Maximilian University have documented that chronotype is distributed across a six-hour range in the population, driven largely by variants in clock genes such as PER3. Forcing late chronotypes into early schedules creates what Roenneberg termed \"social jetlag\" — a chronic misalignment between the internal clock and social demands. Studies associate social jetlag with elevated cortisol, increased obesity risk, and impaired cognition even among people who report getting adequate total sleep hours.",
+  "question": "What term did Roenneberg use to describe the misalignment between an internal clock and social schedules?",
+  "options": [
+    { "text": "Circadian drift", "correct": false },
+    { "text": "Chronotype lag", "correct": false },
+    { "text": "Social jetlag", "correct": true },
+    { "text": "PER3 misalignment", "correct": false }
+  ]
+}

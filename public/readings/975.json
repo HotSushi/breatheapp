@@ -1,0 +1,23 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 2016, researchers Gloria Mark, Daniela Gudith, and Ulrich Klocke published findings that quantified the cost of digital interruption with unusual precision. After an interruption, they found, it takes an average of 23 minutes and 15 seconds to fully return to a task. This is not merely a recovery period \u2014 it reflects the metabolic cost of reconstructing the mental context that focused work requires. The prefrontal cortex must reload the relevant constraints, sub-goals, and partial conclusions that constitute the cognitive scaffolding of a problem. Each notification, therefore, does not steal seconds \u2014 it steals the architecture of thought.",
+  "question": "What does the 23-minute recovery period after an interruption actually reflect, according to the passage?",
+  "options": [
+    {
+      "text": "The metabolic cost of reconstructing the mental context of focused work",
+      "correct": true
+    },
+    {
+      "text": "The time required for the brain to lower cortisol levels after distraction",
+      "correct": false
+    },
+    {
+      "text": "The average length of a social media session triggered by a notification",
+      "correct": false
+    },
+    {
+      "text": "The delay before the prefrontal cortex re-engages executive function",
+      "correct": false
+    }
+  ]
+}

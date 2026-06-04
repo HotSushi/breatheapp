@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 1971, Herbert Simon identified a paradox at the heart of the information age: wealth of information creates poverty of something else. That something else is attention. Simon, a Nobel laureate in economics, observed that information consumes the attention of its recipients — and therefore abundance of information necessarily means scarcity of attention. This insight arrived decades before the internet, yet it anticipated every conflict we now experience with our phones. Simon was not making a complaint about technology; he was stating a structural law. Resources are always scarce relative to demand, and attention is no exception.",
+  "question": "According to the passage, what did Herbert Simon identify as the necessary consequence of information abundance?",
+  "options": [
+    { "text": "A decline in the quality of information produced", "correct": false },
+    { "text": "An increase in the speed of communication", "correct": false },
+    { "text": "A scarcity of attention among recipients", "correct": true },
+    { "text": "A reduction in economic productivity", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Carol Dweck's research on growth versus fixed mindsets has a quiet analogue in Zen: the fixed-mind practitioner, like the fixed-mindset learner, stops being curious. But Zen pushes further than Dweck. Where growth mindset asks 'What can I still learn?' beginner's mind asks a more radical question: 'What am I assuming right now?' The shift is from improvement to perception. Zen master Dogen, writing in thirteenth-century Japan, described this as 'casting off body and mind' — not a mystical dissolution but a practical release of the conceptual scaffolding that we mistake for reality. Beginner's mind is not optimism about growth; it is vigilance against premature closure.",
+  "question": "According to the passage, how does beginner's mind differ from Dweck's growth mindset?",
+  "options": [
+    { "text": "Beginner's mind focuses on perception and questioning assumptions, while growth mindset focuses on learning and improvement.", "correct": true },
+    { "text": "Growth mindset is derived from Dogen's teachings, while beginner's mind is a Western psychological concept.", "correct": false },
+    { "text": "Beginner's mind is about accepting failure, while growth mindset is about avoiding fixed conclusions.", "correct": false },
+    { "text": "Both concepts are essentially the same, originating in Buddhist and cognitive psychology traditions.", "correct": false }
+  ]
+}

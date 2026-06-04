@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The omega-3 to omega-6 ratio in the modern diet has shifted dramatically over the past century. In ancestral diets, the ratio hovered near 1:1; today it sits closer to 1:20 in industrialized nations, driven by seed oils and processed foods rich in linoleic acid. This imbalance matters because omega-6s are precursors to pro-inflammatory signaling molecules, while omega-3s generate anti-inflammatory resolvins and protectins. Anthropologist Loren Cordain, whose work on ancestral nutrition influenced modern dietary science, argued that this ratio shift — not saturated fat — may be among the most consequential nutritional changes affecting contemporary brain health and mood stability.",
+  "question": "According to the passage, what ratio of omega-3 to omega-6 did ancestral diets maintain?",
+  "options": [
+    { "text": "1:10", "correct": false },
+    { "text": "1:5", "correct": false },
+    { "text": "1:20", "correct": false },
+    { "text": "1:1", "correct": true }
+  ]
+}

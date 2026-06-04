@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "'Open presence' in dzogchen is technically distinguished from both focused attention and diffuse mind-wandering. When attention is focused, it has an object; when the mind wanders, it follows objects without choosing them. Open presence involves neither — awareness remains alert and panoramic without landing on anything in particular. Researchers at the Max Planck Institute for Human Cognitive and Brain Sciences found that this description maps reasonably onto what they call 'open monitoring' in meditation science: a mode characterized by reduced activity in default-mode narrative circuits and increased metacognitive sensitivity, without the elevated anterior-cingulate activity typical of focused attention tasks.",
+  "question": "According to the passage, what distinguishes open presence from both focused attention and mind-wandering?",
+  "options": [
+    { "text": "Open presence requires the practitioner to visualize an empty expanse without any sensory input", "correct": false },
+    { "text": "Open presence eliminates metacognitive sensitivity in favor of pure non-conceptual rest", "correct": false },
+    { "text": "Open presence uses focused attention as a starting point and gradually widens it", "correct": false },
+    { "text": "Awareness remains alert and panoramic without landing on any particular object", "correct": true }
+  ]
+}

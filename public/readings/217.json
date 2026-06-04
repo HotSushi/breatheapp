@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tibetan concept of rigpa — pure, unobstructed awareness — stands at the center of Dzogchen practice. Unlike vipassana's graduated investigation, Dzogchen invites the practitioner to recognize awareness itself as already complete and untainted. The teacher Tsoknyi Rinpoche describes thoughts as 'ornaments of rigpa': they decorate but do not define it. This reframe is therapeutically significant. Cognitive defusion, a technique in Acceptance and Commitment Therapy developed by Steven Hayes, rests on remarkably similar logic: a thought is not a fact, not a command, not the self. By observing the thought as an event rather than a truth, the practitioner breaks its capacity to govern behavior.",
+  "question": "According to the passage, how does Tsoknyi Rinpoche describe the relationship between thoughts and rigpa?",
+  "options": [
+    {
+      "text": "Thoughts are ornaments of rigpa — they decorate but do not define it",
+      "correct": true
+    },
+    {
+      "text": "Thoughts are obstacles that must be eliminated before rigpa can be recognized",
+      "correct": false
+    },
+    {
+      "text": "Thoughts are the primary means through which rigpa expresses itself",
+      "correct": false
+    },
+    {
+      "text": "Thoughts and rigpa are essentially the same phenomenon at different intensities",
+      "correct": false
+    }
+  ]
+}

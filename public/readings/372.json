@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "When a strong intention is formed, the brain does something remarkable: it begins pre-activating the neural patterns associated with the intended action, making them easier to trigger when the right moment arrives. Researcher Walter Mischel described this as a kind of mental readiness — the mind 'leaning toward' a future state. But this pre-activation is costly. Holding an active intention in working memory competes with current tasks, producing the paradoxical experience of being distracted by something you haven't done yet. The more personally important an unfulfilled intention, the more it intrudes on unrelated thought — a phenomenon Baumeister and colleagues later formalized as the Zeigarnik-like effect of open intentions.",
+  "question": "What did Baumeister and colleagues formalize regarding unfulfilled intentions?",
+  "options": [
+    { "text": "That time-based intentions are harder to keep than event-based ones.", "correct": false },
+    { "text": "That important unfulfilled intentions intrude on unrelated thought.", "correct": true },
+    { "text": "That pre-activation of neural patterns prevents cognitive fatigue.", "correct": false },
+    { "text": "That working memory can hold at most three active intentions simultaneously.", "correct": false }
+  ]
+}

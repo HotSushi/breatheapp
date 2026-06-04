@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Neuroscientist Wolfram Schultz discovered in the 1990s that dopamine neurons fire not when a reward is received, but when it is anticipated. More precisely, they fire in response to the cue that predicts a reward — and if the reward fails to materialize, dopamine activity drops below baseline. This dip feels like craving. Social platforms exploit this mechanism precisely: the red notification badge is a cue, not a reward. It promises something pleasurable without delivering it, generating a dopaminergic pull toward the phone that is neurologically distinct from satisfaction. The badge is bait; the anticipation is the hook.",
+  "question": "According to the passage, when do dopamine neurons fire in Schultz's model?",
+  "options": [
+    { "text": "When a reward is received and processed", "correct": false },
+    { "text": "In response to the cue that predicts a reward", "correct": true },
+    { "text": "After repeated exposure to the same stimulus", "correct": false },
+    { "text": "When below-baseline dopamine dips are detected", "correct": false }
+  ]
+}

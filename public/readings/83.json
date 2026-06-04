@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Divided attention — attempting to process two demanding tasks simultaneously — exacts a measurable neural cost. The anterior cingulate cortex (ACC) acts as a conflict monitor, detecting when two task-sets compete for the same prefrontal resources. Psychologist Harold Pashler called this bottleneck the \"central processing limit,\" showing that reaction times for a second task increase steeply when it begins within 300 milliseconds of the first. What feels like multitasking is almost always rapid task-switching, each switch incurring a small but real cognitive switching cost. The brain is a single-lane bridge, not a highway; it queues, it does not parallel-process.",
+  "question": "What does Harold Pashler's research show happens when a second task begins within 300 milliseconds of the first?",
+  "options": [
+    { "text": "The anterior cingulate cortex shuts down to conserve energy.", "correct": false },
+    { "text": "The brain successfully parallelizes both tasks using separate hemispheres.", "correct": false },
+    { "text": "Divided attention becomes possible after 500 milliseconds of practice.", "correct": false },
+    { "text": "Reaction times for the second task increase steeply.", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Thoreau left Walden after two years and two months, explaining that he had 'several more lives to live.' The experiment was never meant to be permanent but to be generative — a proof that depth of attention was possible, that simplicity was not privation but technology. What he carried back to Concord was not a set of facts about ponds but a calibrated instrument: a self trained to notice. Attention, he had learned, is not a finite resource depleted by use but a capacity enlarged by practice. The tragedy he identified in modern life was not busyness itself but busyness that leaves no room for the kind of concentrated experience that turns living into understanding.",
+  "question": "Why did Thoreau say he left Walden after two years and two months?",
+  "options": [
+    { "text": "He had exhausted the natural resources available on his plot", "correct": false },
+    { "text": "He had proven his experiment a failure and wanted to return to society", "correct": false },
+    { "text": "He had several more lives to live", "correct": true },
+    { "text": "The pond's isolation had damaged his capacity for social thought", "correct": false }
+  ]
+}

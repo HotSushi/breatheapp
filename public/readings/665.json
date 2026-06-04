@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The ultradian rhythm is a ninety-to-one-hundred-twenty-minute biological cycle that governs alertness throughout the waking day. Sleep researcher Nathaniel Kleitman, who first mapped REM sleep, identified the same pulse in daytime performance: peaks of heightened focus alternate with troughs where the brain demands rest \u2014 signaled by yawning, fidgeting, and loss of concentration. Most knowledge workers override these signals with caffeine or willpower, compressing what should be a natural pause. Peretz Lavie's later studies of these 'ultradian performance gates' suggest that scheduling focused sprints to align with alertness peaks, and rest to coincide with troughs, can nearly double productive output without increasing total hours worked.",
+  "question": "According to the passage, what does Peretz Lavie's research suggest about ultradian performance gates?",
+  "options": [
+    {
+      "text": "Scheduling sprints at alertness peaks and rest at troughs can nearly double productive output",
+      "correct": true
+    },
+    {
+      "text": "Caffeine can reliably extend the peak phase of the ultradian cycle by sixty minutes",
+      "correct": false
+    },
+    {
+      "text": "The ultradian cycle shortens progressively over the course of a working week",
+      "correct": false
+    },
+    {
+      "text": "Deep work is only possible during the first ultradian peak of the morning",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The competition for attention operates asymmetrically. A single engineer at a large platform, armed with behavioral data from billions of users and A/B testing infrastructure, can redesign an interface feature that shifts the attention of hundreds of millions of people within days. An individual user resisting that feature has no equivalent leverage — only willpower, which is finite and depletes. Tristan Harris, a former design ethicist at Google, described this as a race between a thousand engineers on one side and a single human brain on the other. The contest is not close, and calling the outcome a personal failure misunderstands the scale of the asymmetry.",
+  "question": "How does Tristan Harris characterize the contest between platform design and individual user resistance?",
+  "options": [
+    { "text": "As a fair competition that most disciplined users can win with the right habits", "correct": false },
+    { "text": "As a problem caused primarily by users who lack digital literacy", "correct": false },
+    { "text": "As a race between a thousand engineers and a single human brain — a contest that is not close", "correct": true },
+    { "text": "As an asymmetry that regulation alone can fully correct", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Marcel Proust, in his 1905 essay \"On Reading,\" argued that books do not communicate ideas directly but create a solitude in which the reader is free to discover ideas in themselves. The text, he wrote, is not the destination but the occasion. What the reader brings to the page — memory, grief, anticipation — becomes amplified by the concentrated stillness that reading enforces. Modern attention research supports this: a 2013 study by Keith Oatley found that reading literary fiction measurably increases Theory of Mind scores, a proxy for empathy, more than reading nonfiction on social behavior.",
+  "question": "What did Proust argue that books primarily do for the reader?",
+  "options": [
+    { "text": "They transmit the author's ideas directly into the reader's mind.", "correct": false },
+    { "text": "They create a solitude in which the reader discovers ideas in themselves.", "correct": true },
+    { "text": "They train the prefrontal cortex to filter emotional noise.", "correct": false },
+    { "text": "They increase empathy by modeling social behavior explicitly.", "correct": false }
+  ]
+}

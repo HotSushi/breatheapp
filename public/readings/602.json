@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Mihaly Csikszentmihalyi spent decades interviewing surgeons, chess grandmasters, rock climbers, and composers, searching for a common denominator in their most rewarding moments. The answer was not leisure or relaxation but complete absorption in a task pitched at the outer edge of one's ability. He called this state flow: a condition where self-consciousness dissolves, time dilates, and performance peaks. Crucially, flow requires a challenge-to-skill ratio near equilibrium — too easy, and boredom kills engagement; too hard, and anxiety does. The implication is that deep work must be calibrated, not simply prolonged.",
+  "question": "According to Csikszentmihalyi's research, what condition is necessary to reach a flow state?",
+  "options": [
+    { "text": "The task must be performed in complete silence without any external stimuli", "correct": false },
+    { "text": "The worker must have a minimum of four hours of uninterrupted time", "correct": false },
+    { "text": "The challenge level must be closely matched to the performer's current skill level", "correct": true },
+    { "text": "The work must generate immediate financial reward to sustain motivation", "correct": false }
+  ]
+}

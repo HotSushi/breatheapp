@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Children and adults exhibit inattentional blindness differently, and developmental research illuminates why. Young children, whose attentional control systems are still maturing in the prefrontal cortex, tend to have broader, less directed attention. Paradoxically, this sometimes means they notice unexpected stimuli that task-focused adults miss. As executive function develops through adolescence, the brain becomes more efficient at excluding irrelevant information — a genuine cognitive gain that carries an unavoidable cost. The very neural machinery that lets adults sustain focus and resist distraction is the same machinery that filters out the unexpected gorilla. Maturity, in this narrow sense, makes us simultaneously better at attending and worse at noticing.",
+  "question": "According to the passage, why might children sometimes notice unexpected stimuli that adults miss?",
+  "options": [
+    { "text": "Children have sharper visual acuity and scan scenes more thoroughly", "correct": false },
+    { "text": "Children's less mature prefrontal attention systems produce broader, less directed attention", "correct": true },
+    { "text": "Adults prioritize speed over accuracy in attention tasks, unlike children", "correct": false },
+    { "text": "Children are trained in school to monitor their surroundings more carefully", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Arien Mack and Irvin Rock formalized the concept of inattentional blindness in their 1998 book of the same name, drawing on decades of threshold experiments. Their central finding was stark: without focused attention, there is no conscious perception. They called this 'attention as the gateway to consciousness' — the claim that attention is not merely helpful for noticing things but is the necessary condition for noticing anything at all. This overturned the intuitive view that perception is passive reception, like light falling on a photographic plate. Instead, consciousness resembles a customs office: items not inspected do not enter. The unstaffed hours are longer than most people suppose.",
+  "question": "According to the passage, what did Mack and Rock mean by 'attention as the gateway to consciousness'?",
+  "options": [
+    { "text": "Attention improves the clarity of perceptions that would occur anyway", "correct": false },
+    { "text": "Attention is one of several routes through which stimuli can reach consciousness", "correct": false },
+    { "text": "Attention is the necessary condition for conscious perception — without it, no perception occurs", "correct": true },
+    { "text": "Consciousness can receive stimuli passively but attention is needed to retain them", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Slow reading movements, popularized by scholars like John Miedema and David Mikics, argue that the value of a book is inseparable from the time it demands. Mikics distinguishes between \"reading fast to know\" and \"reading slow to understand\" — the first extracts propositions, the second rewires the reader. When a reader pauses over a difficult sentence, the pause is not failure; it is the moment of contact between the text and the self. Great literature is deliberately resistant, and that resistance is the workout. Difficulty, in this view, is not an obstacle to meaning but its delivery mechanism.",
+  "question": "According to Mikics, what is the purpose of pausing over a difficult sentence while reading?",
+  "options": [
+    { "text": "To extract propositions more efficiently.", "correct": false },
+    { "text": "To signal that the text is poorly written.", "correct": false },
+    { "text": "To allow the reader to skim the remaining passage.", "correct": false },
+    { "text": "It is the moment of contact between the text and the self.", "correct": true }
+  ]
+}

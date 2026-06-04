@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Not all social media mob dynamics are morally equivalent. Sociologist Ruha Benjamin distinguishes between digital pile-ons that target the powerful — executives, institutions, policy makers — and those that target private individuals or marginalized groups. The former can function as distributed accountability in the absence of formal institutional recourse; the latter amplify existing power asymmetries and cause disproportionate harm. Treating all collective online pressure as equivalent 'mob behavior' performs its own political work: it discredits legitimate forms of distributed public accountability by associating them with harassment. The mechanism is identical; the ethics are not.",
+  "question": "What political function does the passage claim is performed by treating all collective online pressure as equivalent 'mob behavior'?",
+  "options": [
+    { "text": "It protects private individuals from disproportionate scrutiny", "correct": false },
+    { "text": "It discredits legitimate distributed accountability by associating it with harassment", "correct": true },
+    { "text": "It equalizes the power dynamics between institutions and individuals", "correct": false },
+    { "text": "It highlights the shared mechanism underlying all forms of collective pressure", "correct": false }
+  ]
+}

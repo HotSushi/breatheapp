@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Water is the dominant metaphor in Taoist writing on effortless attention — not because water is weak, but because it yields without surrendering direction. The Tao Te Ching notes that water benefits all things without striving and dwells in places people disdain. This maps precisely onto what neuroscientist Judson Brewer calls 'disengaged attention': the mind that rests lightly on experience rather than grasping at it retains the flexibility to notice more. Brewer's fMRI studies found that non-striving meditators showed reduced activity in the posterior cingulate cortex, the neural hub most associated with self-referential clinging.",
+  "question": "According to Judson Brewer's fMRI studies described in the passage, what brain region showed reduced activity in non-striving meditators?",
+  "options": [
+    { "text": "The anterior cingulate cortex", "correct": false },
+    { "text": "The prefrontal cortex", "correct": false },
+    { "text": "The posterior cingulate cortex", "correct": true },
+    { "text": "The hippocampus", "correct": false }
+  ]
+}

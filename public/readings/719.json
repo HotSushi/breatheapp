@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In a 2002 study, NASA researcher Mark Rosekind found that a 26-minute nap improved pilot performance by 34 percent and alertness by 100 percent compared to a no-nap control group. The mechanism is largely adenosine clearance: adenosine, the sleepiness molecule that accumulates in the brain with every waking hour, is metabolized during sleep. Even a brief nap reduces its concentration enough to restore synaptic sensitivity in the prefrontal cortex. Caffeine does not clear adenosine — it merely blocks its receptors, deferring the fatigue signal rather than resolving it. Sleep is the only true repayment; everything else is a loan.",
+  "question": "According to the passage, why does caffeine not provide the same restoration as a nap?",
+  "options": [
+    { "text": "Caffeine increases adenosine production, compounding fatigue over time", "correct": false },
+    { "text": "Caffeine only works during the cortisol awakening response window", "correct": false },
+    { "text": "Caffeine blocks adenosine receptors but does not clear adenosine from the brain", "correct": true },
+    { "text": "Caffeine suppresses prefrontal cortex activity rather than restoring it", "correct": false }
+  ]
+}

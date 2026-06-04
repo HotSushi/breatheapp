@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's essay 'On the Shortness of Life' contains a passage that reads almost as a diagnosis of the digital era: 'It is not that we have a short time to live, but that we waste a great deal of it.' He catalogued the wasters of his age — the ambitious, the pleasure-seeking, the drunkard — but reserved particular contempt for the 'busy man,' who confuses perpetual motion with purpose. The busy man never pauses to ask whether his activity is directed toward anything he has chosen. He merely responds to whatever is most immediately demanding. Seneca called this 'living according to the model of others' — the ancient version of the infinite scroll.",
+  "question": "What specific behavior does Seneca describe when he criticizes the 'busy man'?",
+  "options": [
+    { "text": "Pursuing pleasure and drink at the expense of philosophical study", "correct": false },
+    { "text": "Responding to whatever is most immediately demanding without choosing one's direction", "correct": true },
+    { "text": "Working excessively in order to accumulate wealth and status", "correct": false },
+    { "text": "Wasting time on sleep and idleness rather than meaningful action", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Research on fractal geometry has added a surprising dimension to the science of natural environments and attention. Physicist Richard Taylor found that Jackson Pollock's drip paintings contain fractal patterns at a dimension of roughly 1.3 — a value that also appears in natural scenes like coastlines and tree canopies. When subjects viewed images with this fractal dimension, skin conductance measures indicated a 60 percent reduction in stress compared to non-fractal images. Taylor proposed that the human visual system, having evolved to process natural fractal scenes efficiently, finds them uniquely low-cost to process. The eye moves through them fluently, without the micro-effort required to parse visual environments that lack this statistical structure.",
+  "question": "According to Taylor, why does the human visual system process natural fractal scenes with lower effort?",
+  "options": [
+    { "text": "It evolved to process fractal patterns efficiently over hundreds of thousands of years of natural experience", "correct": true },
+    { "text": "Fractal patterns suppress the sympathetic nervous system through a direct retinal pathway", "correct": false },
+    { "text": "The visual cortex has dedicated modules for processing recursive self-similar structures", "correct": false },
+    { "text": "Natural fractals contain fewer distinct colors, reducing the chromatic processing load", "correct": false }
+  ]
+}

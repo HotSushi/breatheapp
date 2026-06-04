@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1927, Bluma Zeigarnik, a Soviet psychologist studying under Kurt Lewin in Berlin, noticed that waiters remembered unpaid tabs with remarkable precision but forgot settled ones almost immediately. She formalized this into an experiment: participants interrupted mid-task recalled those tasks nearly twice as well as completed ones. Lewin's field theory offered an explanation — an incomplete task creates a persistent cognitive tension, a kind of psychological charge that keeps the task active in working memory. Completion, by contrast, discharges that tension and releases the mental representation. The Zeigarnik effect was born: the unfinished holds us more tightly than the finished.",
+  "question": "According to the passage, what happens to a task's mental representation once it is completed?",
+  "options": [
+    { "text": "The cognitive tension discharges and the representation is released", "correct": true },
+    { "text": "It becomes encoded in long-term memory more deeply", "correct": false },
+    { "text": "It shifts from working memory into episodic storage", "correct": false },
+    { "text": "It is reinforced by the satisfaction of closure", "correct": false }
+  ]
+}

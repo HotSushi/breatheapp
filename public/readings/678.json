@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The open-plan office was designed to accelerate information flow, and it succeeds at exactly that — at the cost of everything else. A 2014 study by Ethan Bernstein and Stephen Turban at Harvard found that open offices paradoxically reduced face-to-face interaction by 70%, as workers compensated with headphones and strategic avoidance. But the deeper damage is subtler: the mere presence of potential interruption — a colleague who might speak — triggers anticipatory vigilance that degrades concentration even when no one says a word. For knowledge workers on a maker's schedule, ambient interruptibility is not background noise; it is a structural ceiling on the quality of thought.",
+  "question": "What did Bernstein and Turban's 2014 study find about open offices?",
+  "options": [
+    { "text": "They increased face-to-face interaction by encouraging spontaneous collaboration.", "correct": false },
+    { "text": "They reduced productivity mainly by increasing noise levels above comfortable thresholds.", "correct": false },
+    { "text": "They paradoxically reduced face-to-face interaction by about 70% as workers compensated with avoidance.", "correct": true },
+    { "text": "They benefited managers but had no measurable effect on makers' output.", "correct": false }
+  ]
+}

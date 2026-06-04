@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Discovered by Maiken Nedergaard at the University of Rochester in 2013, the glymphatic system is the brain's overnight waste-clearance network. During sleep, cerebrospinal fluid pulses through channels formed by astrocyte cells, flushing out metabolic byproducts — most critically, amyloid-beta and tau proteins associated with Alzheimer's disease. This system operates almost exclusively during sleep, when the brain's interstitial space expands by roughly 60 percent. Chronic sleep restriction is now understood not just as a cognitive impairment but as a failure to take out the neural trash, with accumulating toxins that directly compromise sustained attention.",
+  "question": "What structural change enables the glymphatic system to flush waste during sleep?",
+  "options": [
+    { "text": "Astrocyte cells produce additional cerebrospinal fluid", "correct": false },
+    { "text": "The brain's interstitial space expands by roughly 60 percent", "correct": true },
+    { "text": "Amyloid-beta proteins are converted into tau proteins", "correct": false },
+    { "text": "Adenosine signals slow the rate of neural firing", "correct": false }
+  ]
+}

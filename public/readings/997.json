@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Political theorist Byung-Chul Han argues that we have entered a 'burnout society' — not because external authority oppresses us, but because we have internalized the imperative to optimize and produce. The disciplinary society of Foucault's prisons and factories has been replaced by an achievement society where the cage is invisible and the jailer is the self. Distraction, in this framework, is not merely an inconvenience — it is the symptom of a subject who cannot stop performing. True resistance, Han writes, requires what he calls 'the vita contemplativa': a politics of stillness that refuses the achievement imperative at the root.",
+  "question": "What does Byung-Chul Han identify as the key difference between the disciplinary society and the achievement society?",
+  "options": [
+    { "text": "The disciplinary society relied on distraction while the achievement society relies on surveillance", "correct": false },
+    { "text": "In the achievement society, the coercive force is internalized rather than imposed by external authority", "correct": true },
+    { "text": "The achievement society produces less burnout because workers have more autonomy", "correct": false },
+    { "text": "Foucault's prisons were more oppressive than the digital systems Han describes", "correct": false }
+  ]
+}

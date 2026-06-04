@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The filter bubble is not merely a political problem — it is an architectural one. Sociologist Zeynep Tufekci argues that personalization algorithms optimize for engagement, not truth. A video about running shoes, she notes, can lead within a few recommendations to extremist content, because outrage and novelty drive more clicks than measured information does. The algorithm has no interest in your worldview's coherence; it is a prediction engine rewarded only for keeping you on the platform. The result is an information environment that can radicalize without any deliberate intent, simply by following the gradient of what keeps eyes on screens.",
+  "question": "According to Tufekci's analysis, why can recommendation algorithms radicalize users without deliberate intent?",
+  "options": [
+    { "text": "Platform owners secretly program extremist content into the recommendation queue", "correct": false },
+    { "text": "Algorithms follow the gradient of maximum engagement, which outrage and novelty drive", "correct": true },
+    { "text": "Users actively seek more extreme content after their initial searches", "correct": false },
+    { "text": "Personalization reduces the diversity of topics a user encounters", "correct": false }
+  ]
+}

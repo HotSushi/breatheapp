@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh coined the term \"interbeing\" to describe what Buddhist philosophy calls dependent origination — the truth that nothing exists independently of everything else. A sheet of paper, he wrote, contains the cloud that watered the tree, the logger who felled it, the logger's parents, and the wheat that fed them. This is not poetry but ontology: entities have no fixed, separate self. When we perceive ourselves as isolated individuals, we generate the anxiety of defending a boundary that does not, ultimately, exist. Interbeing suggests that compassion is not charity extended outward but recognition of what we already are.",
+  "question": "According to Thich Nhat Hanh, what does a sheet of paper illustrate about interbeing?",
+  "options": [
+    { "text": "That paper is a symbol of impermanence in Buddhist thought", "correct": false },
+    { "text": "That material objects carry spiritual energy from their creators", "correct": false },
+    { "text": "That every object contains the conditions and beings that made its existence possible", "correct": true },
+    { "text": "That manufacturing processes disconnect us from nature", "correct": false }
+  ]
+}

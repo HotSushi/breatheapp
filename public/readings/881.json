@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Maurice Merleau-Ponty argued in his 1945 Phenomenology of Perception that the body is not merely an object we inhabit but the very medium through which we understand space. He called this the 'body schema' — a pre-reflective, lived map of our capacities and orientations that operates below conscious awareness. Unlike a cognitive map stored in the brain, the body schema is dynamic and action-oriented: it tells us not where our limbs are, but what we can reach, grasp, and do. Attention, on this view, is not a spotlight the mind shines outward; it is a posture the whole body assumes toward the world.",
+  "question": "According to Merleau-Ponty, what does the body schema tell us — and what does it not tell us?",
+  "options": [
+    { "text": "It tells us where our limbs are located but not what emotions they express", "correct": false },
+    { "text": "It tells us what we can reach and do, not where our limbs are positioned", "correct": true },
+    { "text": "It tells us stored memories of past actions but not immediate sensation", "correct": false },
+    { "text": "It tells us conscious intentions but not pre-reflective habits", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Focused repetition at the edge of skill does something specific to the brain: it triggers myelination. Myelin is a fatty sheath that wraps neural circuits with each accurate, effortful repetition, increasing signal speed and precision along those pathways. Neuroscientist George Bartzokis called myelin 'the white matter of greatness.' A skilled violinist's motor circuits are literally faster and more precise than a beginner's — not because of different neurons, but because of thicker myelin insulation. This means skill is physically encoded in tissue. Coyle, writing in The Talent Code, concluded that deep practice ignites myelin while shallow repetition does not, because myelination responds to error-correction under attentional demand, not to effortless execution.",
+  "question": "According to the passage, what condition triggers myelination and makes repetition skill-building rather than merely routine?",
+  "options": [
+    { "text": "High volume of repetitions regardless of attentional state", "correct": false },
+    { "text": "Error-correction under attentional demand, not effortless execution", "correct": true },
+    { "text": "Rest periods between sessions that allow neural consolidation", "correct": false },
+    { "text": "Emotional engagement with the material being practiced", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Nagel argued that an objective account of the world — the view from nowhere — would, paradoxically, leave out the most fundamental feature of reality: that there is something it is like to be here. This suggests that presence is not a psychological trick but a philosophical commitment. To be present is to affirm that subjective experience has weight, that it is not merely a representation of something more real happening 'underneath' in neurons. The meditator who attends fully to a breath is not evading reality; she is inhabiting the layer of reality that no physical description can substitute for.",
+  "question": "What does the passage identify as the 'most fundamental feature of reality' that a purely objective account leaves out?",
+  "options": [
+    { "text": "The neural mechanisms underlying conscious experience", "correct": false },
+    { "text": "The historical context of subjective philosophical traditions", "correct": false },
+    { "text": "That there is something it is like to be here — the fact of subjective experience", "correct": true },
+    { "text": "The gap between philosophical theory and meditative practice", "correct": false }
+  ]
+}

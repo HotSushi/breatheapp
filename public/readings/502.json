@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In the Nicomachean Ethics, Aristotle places theoria — contemplative thinking — at the summit of human life. He reasons that the gods, having no bodily needs, live in a state of pure contemplation, and insofar as humans do the same they touch what is most divine in themselves. But theoria is not passive daydreaming; it demands sustained, undistracted engagement with difficult problems. Aristotle's insight anticipates modern findings on deep work: the prefrontal cortex reaches its highest integrative function only when freed from the constant interruption of novel stimuli competing for attentional resources.",
+  "question": "According to the passage, what condition is required for theoria to reach its highest integrative function?",
+  "options": [
+    { "text": "The practitioner must follow a structured schedule of alternating rest and concentration.", "correct": false },
+    { "text": "The mind must be freed from the constant interruption of novel stimuli competing for attention.", "correct": true },
+    { "text": "Theoria requires physical stillness and the absence of all sensory input.", "correct": false },
+    { "text": "The practitioner must imitate the gods by abandoning all bodily needs for a period.", "correct": false }
+  ]
+}

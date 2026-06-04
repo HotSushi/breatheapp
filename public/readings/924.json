@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The history of industrial capitalism is marked by what Karl Polanyi called 'fictitious commodities': land, labor, and money were not originally produced for sale but were eventually treated as market goods, with profound social consequences. Zuboff extends this analysis to a fourth fictitious commodity: human experience itself. When the texture of a private moment — a glance at a phone at 3 a.m., a pause before a purchase — becomes a data point priced and traded, something previously outside the market has been enclosed within it. The enclosure of attention is the defining dispossession of the digital age.",
+  "question": "How does the passage extend Polanyi's concept of 'fictitious commodities' into the digital era?",
+  "options": [
+    { "text": "By arguing that money and labor are now fully digitized and therefore no longer fictitious", "correct": false },
+    { "text": "By identifying human experience as a fourth fictitious commodity enclosed within the market", "correct": true },
+    { "text": "By claiming that Polanyi's framework applies only to land and not to digital platforms", "correct": false },
+    { "text": "By showing that Polanyi predicted the rise of behavioral prediction markets", "correct": false }
+  ]
+}

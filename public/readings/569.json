@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James observed that voluntary attention is energetically expensive in a way passive attention is not. The mind resists sustaining it; fatigue accumulates faster; performance degrades more steeply with time. This is why distraction offers genuine relief — it is metabolically cheaper. James understood this not as weakness but as constraint: the organism conserving resources. From this, he derived a practical rule: voluntary attention works best in short, intense intervals rather than long, grinding sessions. Rest is not the enemy of focused work but its complement. The alternation between effort and recovery is the rhythm the mind was built for — a finding that modern cognitive neuroscience has since formalized as attentional load theory.",
+  "question": "Why did James argue that distraction offers genuine relief during focused work?",
+  "options": [
+    { "text": "It allows the mind to build derived interest in the original task", "correct": false },
+    { "text": "It activates the default mode network and promotes insight", "correct": false },
+    { "text": "It is metabolically cheaper than sustaining voluntary attention", "correct": true },
+    { "text": "It resets the rapid cycle of departures and returns", "correct": false }
+  ]
+}

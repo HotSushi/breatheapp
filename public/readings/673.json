@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "When Mihaly Csikszentmihalyi mapped the conditions for flow, he found that the state demands a specific ratio between challenge and skill: too easy, and attention drifts; too hard, and anxiety blocks entry. But there is a third, structural prerequisite that rarely appears in popular summaries — unbroken time. Flow is not a switch that flips; it is a ramp that takes roughly fifteen minutes to climb. Every interruption, even a small one, sends the climber back to the base. Organizations that fragment their makers' days into fifty-minute windows are not merely inefficient; they are architecturally incapable of producing flow.",
+  "question": "According to the passage, approximately how long does it take to climb the ramp into a flow state?",
+  "options": [
+    { "text": "Five minutes of focused breathing and intention-setting.", "correct": false },
+    { "text": "Roughly fifteen minutes of uninterrupted engagement.", "correct": true },
+    { "text": "About fifty minutes, matching a standard meeting block.", "correct": false },
+    { "text": "The duration varies and cannot be predicted in advance.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Simone Weil wrote that 'attention is the rarest and purest form of generosity.' She meant something precise: genuine attention requires suspending your own agenda, your frameworks for what the other person or thing should mean to you. This is phenomenologically costly. The brain's default mode network — active during mind-wandering and self-referential thought — must yield to task-positive networks. Neuroscientist Mary Helen Immordino-Yang has shown that deep social and aesthetic engagement require the default mode and task networks to integrate, not compete. Weil's generosity of attention is not quietism; it is a demanding coordination of neural systems most people never deliberately practice.",
+  "question": "What has Mary Helen Immordino-Yang shown about deep social and aesthetic engagement?",
+  "options": [
+    { "text": "It requires the default mode network to shut down completely", "correct": false },
+    { "text": "It can proceed only when the prefrontal cortex is in a hypofrontal state", "correct": false },
+    { "text": "It demands integration of the default mode and task networks rather than competition between them", "correct": true },
+    { "text": "It activates only the task-positive network while suppressing all self-referential thought", "correct": false }
+  ]
+}

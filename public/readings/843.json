@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Long before Clark and Chalmers formalized their thesis, humans were offloading cognition onto the environment. Ancient Peruvian quipus — knotted cords encoding numerical records — allowed administrators to manage an empire without written script. Polynesian navigators memorized star charts in their bodies but encoded tidal patterns in stick charts they could hold and feel. The cognitive scientist Edwin Hutchins argued in 'Cognition in the Wild' that navigation aboard a naval vessel is a distributed process: no single sailor holds the whole computation; the ship's instruments, crew, and physical layout form a single extended cognitive system performing feats no individual brain could accomplish alone.",
+  "question": "What argument does Edwin Hutchins make in 'Cognition in the Wild'?",
+  "options": [
+    { "text": "That ship navigation is a distributed cognitive process spread across crew, instruments, and layout", "correct": true },
+    { "text": "That sailors develop superhuman memory through years of training at sea", "correct": false },
+    { "text": "That traditional navigation tools are inferior to modern GPS technology", "correct": false },
+    { "text": "That the human brain is uniquely suited to spatial reasoning", "correct": false }
+  ]
+}

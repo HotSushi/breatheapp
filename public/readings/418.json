@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher William James wrote in 1890 that 'the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will.' He could not have foreseen the inbox, but his framework predicts its danger precisely. Attention is not a passive receptor but a disciplined act — one that requires repeated, effortful return to the chosen object. Every email check that interrupts that return is not merely a distraction; it is a small exercise in the opposite direction, training the mind to flee its task rather than hold it. The inbox is, in this sense, an engine for the dissolution of will.",
+  "question": "How does the passage use William James's framework to characterize repeated email checking?",
+  "options": [
+    {
+      "text": "As a necessary form of task management that James would have approved of if he understood digital work",
+      "correct": false
+    },
+    {
+      "text": "As a passive habit that bypasses the prefrontal cortex's executive functions",
+      "correct": true
+    },
+    {
+      "text": "As small exercises in the opposite direction from attention, training the mind to flee its task",
+      "correct": false
+    },
+    {
+      "text": "As a modern replacement for the social interruptions James studied in nineteenth-century workplaces",
+      "correct": false
+    }
+  ]
+}

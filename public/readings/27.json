@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The infinite scroll, introduced by Aza Raskin in 2006, removed the single most effective natural stopping cue in digital reading: the bottom of the page. Pagination forced a micro-decision — do I want more? — that gave the prefrontal cortex a moment to intervene. Infinite scroll eliminates that pause entirely. Raskin himself later called it one of his biggest regrets, estimating the feature consumes roughly 200,000 collective human hours per day. What looks like a convenience is a deliberate friction-removal that disables the stopping signal. Without an endpoint, the dopaminergic wanting loop has no natural off-ramp.",
+  "question": "According to the passage, why did pagination provide a stopping cue that infinite scroll removed?",
+  "options": [
+    { "text": "Pagination loaded content more slowly, giving users time to reconsider", "correct": false },
+    { "text": "Pagination forced a micro-decision that gave the prefrontal cortex a moment to intervene", "correct": true },
+    { "text": "Pagination displayed a counter showing total time spent, triggering self-regulation", "correct": false },
+    { "text": "Pagination required users to scroll back to the top before loading new content", "correct": false }
+  ]
+}

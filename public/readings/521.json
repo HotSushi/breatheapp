@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Plato's allegory of the cave, set in Book VII of the Republic, describes prisoners chained since birth in an underground chamber. They face a blank wall and can only see shadows cast by objects passing before a fire behind them. For these prisoners, the shadows are reality — they have no frame of reference for anything more. When one prisoner is freed and forced to turn toward the fire, the light is painful; he wants to look away. Plato uses this not merely as metaphor but as a theory of knowledge: our habitual objects of attention shape what we take to be real.",
+  "question": "According to the passage, why do the chained prisoners mistake shadows for reality?",
+  "options": [
+    { "text": "They are too fearful to turn toward the fire", "correct": false },
+    { "text": "They have been deceived by the people carrying objects", "correct": false },
+    { "text": "They have no frame of reference for anything beyond what they habitually see", "correct": true },
+    { "text": "The fire is too dim to illuminate the cave walls properly", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Psychologist Timothy Wilson's 'Just Think' studies found that most people preferred to receive a mild electric shock rather than sit alone with their thoughts for fifteen minutes. The discomfort of an unoccupied mind is not a modern invention — but smartphones have provided a frictionless escape from it. Social comparison on feeds may be less about genuinely wanting what others have and more about tolerating the discomfort of stillness. FOMO, in this light, reframes itself as FOF: fear of feeling — specifically, the low-grade anxiety that surfaces when external stimulation is withdrawn and the mind is left to inhabit itself.",
+  "question": "How does Timothy Wilson's research reframe FOMO according to the passage?",
+  "options": [
+    { "text": "It suggests FOMO is caused by genuine social deprivation rather than digital habits.", "correct": false },
+    { "text": "It shows that FOMO is strongest among people with the most active social lives.", "correct": false },
+    { "text": "It indicates that social comparison is driven less by desire for others' lives than by difficulty tolerating stillness.", "correct": true },
+    { "text": "Wilson found that electric shocks activate the same neural pathways as social exclusion.", "correct": false }
+  ]
+}

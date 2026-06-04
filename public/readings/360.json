@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The limits of conscious perception are not failures of evolution — they are features. Temporal masking, the attentional blink, the refractory period: each reflects a design in which consolidation takes priority over throughput. A system that tried to consciously register every stimulus would be overwhelmed; better to process one thing deeply than two things poorly. Anne Treisman's feature integration theory showed that conscious perception requires binding — assembling separate features like color, shape, and motion into a unified object — and binding demands focused attention. The bottleneck is the price of coherence. What we call the limits of mind are, in another light, the conditions that make a unified experience of the world possible.",
+  "question": "According to Treisman's feature integration theory, why does conscious perception require focused attention?",
+  "options": [
+    { "text": "To suppress irrelevant stimuli that compete for the same sensory channel", "correct": false },
+    { "text": "To increase the speed at which the brain samples the visual field", "correct": false },
+    { "text": "To perform binding — assembling separate features into a unified object", "correct": true },
+    { "text": "To transfer information from working memory into long-term storage", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Contemporary philosophy of mind has largely replaced Husserl's vocabulary, but intentionality remains central under different names. Jerry Fodor's representational theory of mind holds that mental states have 'content' — they are about things — because they are computational symbols that stand in causal-historical relations to features of the environment. Daniel Dennett speaks of the 'intentional stance': treating a system as if it had beliefs and desires because doing so lets us predict its behavior. Both approaches acknowledge what Husserl diagnosed, yet neither requires subjective experience. Husserl's distinct contribution was insisting that directedness is not just a useful interpretive stance but an ineliminable feature of lived, first-person experience.",
+  "question": "According to the passage, what was Husserl's distinct contribution compared to accounts like Fodor's or Dennett's?",
+  "options": [
+    { "text": "He argued that intentionality is explained by causal-historical relations to the environment", "correct": false },
+    { "text": "He claimed treating systems intentionally is merely a useful predictive stance", "correct": false },
+    { "text": "He insisted directedness is an ineliminable feature of lived first-person experience", "correct": true },
+    { "text": "He reduced intentionality to computational symbol manipulation", "correct": false }
+  ]
+}

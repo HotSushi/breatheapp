@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Impulse, in Stoic psychology, is not a brute biological force. Chrysippus defined horme — the impulse toward action — as itself a form of judgment: a logos that says 'this is appropriate to pursue.' This makes impulse radically different from hunger in an animal. An animal simply moves; a rational being assents to the proposition that moving is good, and that assent generates the movement. The disturbing implication is that every hasty act is also a hasty thought. When you lunge for your phone mid-conversation, Chrysippus would say you have silently agreed to a claim — that the phone matters more right now. The bad habit is first a bad belief.",
+  "question": "According to Chrysippus, what generates human impulse toward action?",
+  "options": [
+    { "text": "Assenting to a judgment that the action is appropriate to pursue", "correct": true },
+    { "text": "A biological drive that bypasses rational evaluation", "correct": false },
+    { "text": "Repeated exposure to a desired object until the urge becomes automatic", "correct": false },
+    { "text": "A memory of past pleasure associated with a similar action", "correct": false }
+  ]
+}

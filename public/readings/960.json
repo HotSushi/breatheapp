@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Sociologist Hartmut Rosa describes modernity's deepest pathology as \"social acceleration\" — the structural speeding-up of technology, social change, and the pace of life itself. Rosa argues that acceleration is not merely inconvenient but alienating: when the world changes faster than one can form stable relationships with it, persons, places, and ideas slip into what he calls \"mute\" objects — present but not resonant. Long-form thinking is precisely the practice of making the world resonate: of dwelling in an idea long enough for it to form connections, generate questions, and alter one's relationship to what was already known. Speed forecloses this process categorically.",
+  "question": "According to Rosa's theory described in the passage, what happens to persons, places, and ideas when the world changes faster than stable relationships can form?",
+  "options": [
+    { "text": "They become sources of anxiety and psychological distress", "correct": false },
+    { "text": "They are replaced by digital substitutes that simulate connection", "correct": false },
+    { "text": "They are forgotten rapidly as working memory is overwhelmed", "correct": false },
+    { "text": "They slip into what Rosa calls 'mute' objects — present but not resonant", "correct": true }
+  ]
+}

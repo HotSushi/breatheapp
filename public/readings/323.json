@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Decision fatigue is ego depletion's cousin, observed not in laboratories but in courtrooms and parole boards. A landmark 2011 study by Shai Danziger examined over a thousand rulings by Israeli judges across a single day. Early in each session, judges granted parole roughly 65 percent of the time. As the session progressed — and as the mental labor of deliberating accumulated — the approval rate fell toward zero. After a food break, it rebounded to the morning baseline. The judges were not growing cruel; they were growing depleted. When the mind tires, it defaults to the safest, least effortful choice: denial.",
+  "question": "In Danziger's study of Israeli judges, what happened to parole approval rates as the day progressed?",
+  "options": [
+    { "text": "Approval rates remained stable throughout the session.", "correct": false },
+    { "text": "Approval rates rose steadily as judges became more experienced with the day's cases.", "correct": false },
+    { "text": "Approval rates fell toward zero before rebounding after a food break.", "correct": true },
+    { "text": "Approval rates were highest in the middle of the session.", "correct": false }
+  ]
+}

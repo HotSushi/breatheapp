@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "A persistent misconception treats Attention Restoration Theory as arguing that nature is passively restful — that the absence of stimulation heals the fatigued mind. The Kaplans explicitly rejected this reading. Directed attention fails not from too much input but from too much inhibitory demand: constantly suppressing irrelevant information wears out the inhibitory mechanism. What natural environments provide is not silence but the right kind of signal — one whose moderate unpredictability rewards attention without demanding that alternatives be suppressed. A bird's irregular call doesn't require you to ignore a competing bird's call. The ecology manages salience so the brain doesn't have to.",
+  "question": "According to Attention Restoration Theory, what actually causes directed attention to fatigue?",
+  "options": [
+    { "text": "Overload of sensory input overwhelming the brain's processing capacity", "correct": false },
+    { "text": "Excessive inhibitory demand from constantly suppressing irrelevant information", "correct": true },
+    { "text": "Absence of novel stimulation causing the attention system to idle and weaken", "correct": false },
+    { "text": "High emotional arousal that prevents the prefrontal cortex from sustaining focus", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Vipassana, the Pali word for 'clear seeing,' is not relaxation practice — it is systematic investigation. The meditator sweeps attention through the body in precise layers, cataloguing sensation as it arises: pressure, heat, pulsing, dissolution. S.N. Goenka, who transmitted this Burmese lineage globally, insisted that intellectual understanding of impermanence is worthless without felt evidence. When a meditator notices tingling in the arm and watches it fade without grasping, she has not read about anicca — she has verified it. The insight arrives as a kind of shock: this apparently solid body is a flux of events, none lasting longer than it takes to name them.",
+  "question": "According to the passage, what distinguishes vipassana insight from intellectual understanding of impermanence?",
+  "options": [
+    { "text": "Intellectual understanding requires years of study, while vipassana can be learned quickly", "correct": false },
+    { "text": "Vipassana produces relaxation that intellectual study cannot achieve", "correct": false },
+    { "text": "Vipassana provides felt, bodily verification of impermanence rather than conceptual knowledge", "correct": true },
+    { "text": "Intellectual understanding focuses on the mind while vipassana focuses on emotions", "correct": false }
+  ]
+}

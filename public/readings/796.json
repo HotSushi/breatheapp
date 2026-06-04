@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Before artificial lighting industrialized the night, most humans slept in two distinct bouts separated by an hour or two of quiet wakefulness. Historian A. Roger Ekirch documented this pattern across pre-industrial diaries, court records, and literature in his 2001 paper and subsequent book At Day's Close. This \"first sleep\" and \"second sleep\" structure aligns with natural melatonin rhythms and may represent the default human architecture. Psychiatrist Thomas Wehr confirmed a biphasic pattern in subjects shielded from artificial light for several weeks, suggesting that consolidated eight-hour sleep may be a modern imposition rather than a biological norm.",
+  "question": "What did psychiatrist Thomas Wehr's research on subjects shielded from artificial light reveal?",
+  "options": [
+    { "text": "That humans sleep more deeply without artificial light", "correct": false },
+    { "text": "That melatonin production doubles in natural darkness", "correct": false },
+    { "text": "That a biphasic sleep pattern emerged, suggesting it may be the biological default", "correct": true },
+    { "text": "That total sleep duration increased by two or more hours", "correct": false }
+  ]
+}

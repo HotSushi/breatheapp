@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The hormone cortisol follows a diurnal rhythm, peaking sharply within thirty minutes of waking — a phenomenon known as the Cortisol Awakening Response — and then declining through the day toward a nighttime trough. This architecture is not arbitrary; the morning surge primes the immune system and prepares cognition for the demands ahead. Researchers like Angela Clow at the University of Westminster have shown that people with flattened or blunted Cortisol Awakening Responses report greater fatigue, poorer concentration, and slower processing speed throughout the day. The biological machinery of attention is not always-on; it is calibrated by hormonal rhythms that a life of artificial light, irregular sleep, and chronic stress can quietly dismantle.",
+  "question": "What did researchers find in people with a flattened Cortisol Awakening Response?",
+  "options": [
+    { "text": "Greater resilience to afternoon stress and distraction", "correct": false },
+    { "text": "Faster cognitive processing due to lower cortisol interference", "correct": false },
+    { "text": "Greater fatigue, poorer concentration, and slower processing speed", "correct": true },
+    { "text": "Stronger immune responses compensating for the hormonal deficit", "correct": false }
+  ]
+}

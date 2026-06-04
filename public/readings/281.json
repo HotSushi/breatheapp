@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Taoist concept of wu wei is frequently mistranslated as 'doing nothing,' but Laozi intended something far more precise: action that arises without forcing, like water carving stone not through assault but through patient persistence. The Tao Te Ching describes the sage who 'acts without acting' — not passive, but free from the compulsive effort that distorts natural response. Modern attention researchers echo this in findings on 'attentional forcing': when people try too hard to concentrate, the anterior cingulate cortex generates interference signals that paradoxically degrade the very focus they are chasing.",
+  "question": "According to the passage, what does attentional forcing produce in the brain?",
+  "options": [
+    { "text": "Stronger activation of the prefrontal cortex", "correct": false },
+    { "text": "Interference signals from the anterior cingulate cortex that degrade focus", "correct": true },
+    { "text": "Reduced activity in the default mode network", "correct": false },
+    { "text": "Heightened sensory awareness across all modalities", "correct": false }
+  ]
+}

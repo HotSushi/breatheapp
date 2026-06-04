@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The phrase 'office hours' originated in universities for a precise reason: it concentrated social access into a bounded window so that the rest of the day could remain sovereign. Paul Graham explicitly borrowed this model for his essay on the maker's schedule, suggesting that makers can serve managerial demands without surrendering their creative blocks — but only if they batch those interactions deliberately. The solution is not to refuse coordination but to relocate it. An hour of concentrated availability at the day's boundary costs far less than the same hour scattered as three interruptions across a working afternoon. Concentration applies not only to work but to the very act of being available.",
+  "question": "According to the passage, what is the key principle behind the 'office hours' model for makers?",
+  "options": [
+    { "text": "Makers should refuse all managerial requests during creative work periods.", "correct": false },
+    { "text": "Batching social interactions into a bounded window preserves the rest of the day as sovereign time.", "correct": true },
+    { "text": "Universities invented office hours to give professors rest breaks between lectures.", "correct": false },
+    { "text": "Concentration on a single task is only possible for people with advanced training.", "correct": false }
+  ]
+}

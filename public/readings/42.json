@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Sara Lazar at Harvard Medical School scanned the brains of long-term meditators and found that the prefrontal cortex — the region governing sustained attention and executive control — was measurably thicker in experienced practitioners than in age-matched controls. More striking still: the degree of thickening correlated with the number of years spent meditating. The cortex typically thins with age, yet Lazar's meditators in their fifties had prefrontal tissue comparable to people twenty years younger. Deliberate attention practice appeared to be slowing, or partially reversing, one of the brain's most reliable signatures of aging.",
+  "question": "What correlation did Sara Lazar find in meditators' brains?",
+  "options": [
+    { "text": "Meditators had thinner prefrontal cortices due to reduced cognitive load", "correct": false },
+    { "text": "The degree of cortical thickening correlated with years of meditation practice", "correct": true },
+    { "text": "Cortical thickness was uniform regardless of meditation experience", "correct": false },
+    { "text": "Long-term meditators showed thickening only in sensory, not prefrontal, regions", "correct": false }
+  ]
+}

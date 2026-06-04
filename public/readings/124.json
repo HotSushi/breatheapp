@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca distinguishes three times in Letter I: the past, which is fixed and therefore safe; the present, which is ours if we seize it; and the future, which is uncertain and not yet ours to spend. His advice is counterintuitive — look back often. The past is the only time we cannot lose, because it is already secured. A life well examined accumulates what he calls a 'treasury of memory,' and reviewing it is not nostalgia but inventory. The person who cannot recall what they did last Tuesday has functionally lost that day twice: once in living it poorly, once in failing to reclaim it through reflection.",
+  "question": "Why does Seneca call the past the only time we cannot lose?",
+  "options": [
+    { "text": "Because memory of suffering prevents repeating the same mistakes", "correct": false },
+    { "text": "Because it is already fixed and secured beyond anyone's reach", "correct": true },
+    { "text": "Because the future is too uncertain to spend any thought on", "correct": false },
+    { "text": "Because Stoics valued tradition more than present experience", "correct": false }
+  ]
+}

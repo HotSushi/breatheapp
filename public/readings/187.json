@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Musonius Rufus, the Roman Stoic teacher who influenced Epictetus, insisted that philosophy was not an intellectual exercise but a practice of living — and that anything interrupting rational self-governance was genuinely unnatural for a human being. He applied this with unusual consistency: indulgence in entertainment, luxury in food, avoidance of physical discomfort — all were, in his view, forms of allowing appetite to displace reason as the governing principle of life. Musonius was not an ascetic in the religious sense; he was a naturalist, arguing that the human animal's characteristic excellence was rational agency, and anything that routinely subordinated that agency to pleasure was a kind of species betrayal.",
+  "question": "According to the passage, how did Musonius Rufus view indulgence in luxury and entertainment?",
+  "options": [
+    { "text": "As morally sinful in a religious sense requiring penance", "correct": false },
+    { "text": "As allowing appetite to displace reason as the governing principle of life", "correct": true },
+    { "text": "As harmful to physical health and therefore contrary to nature", "correct": false },
+    { "text": "As acceptable when practiced in moderation alongside philosophy", "correct": false }
+  ]
+}

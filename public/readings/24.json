@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Slot machines are the most profitable devices in casino history, and their architecture is a near-perfect implementation of Skinnerian variable-ratio schedules. The near-miss — two cherries and a lemon — is engineered into the software. Research by neuroscientist Luke Clark at the University of Cambridge found that near-misses activate the same reward circuitry as wins, even though they yield nothing. The brain interprets 'almost' as meaningful information, as evidence that the system is warm, that the next pull might land. Scroll feeds apply the same principle spatially: each swipe down is a lever pull, and the occasional interesting post is the pellet that keeps the hand moving.",
+  "question": "What did Luke Clark's research reveal about the near-miss in slot machines?",
+  "options": [
+    { "text": "It triggers a mild aversion response that paradoxically increases play", "correct": false },
+    { "text": "It is processed differently from wins because it involves no dopamine release", "correct": false },
+    { "text": "It activates the same reward circuitry as an actual win", "correct": true },
+    { "text": "It causes players to consciously recalibrate their expectations downward", "correct": false }
+  ]
+}

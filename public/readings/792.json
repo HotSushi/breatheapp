@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Melatonin is often called the darkness hormone, not the sleep hormone — a distinction that matters enormously. The pineal gland begins releasing melatonin roughly two hours after sunset, signaling the body to prepare for sleep rather than inducing sleep itself. Artificial light at night, particularly the short-wavelength blue light emitted by screens, suppresses melatonin production by activating melanopsin-containing retinal ganglion cells — a photoreceptor class discovered only in 2002. These cells are maximally sensitive at 480 nanometers, roughly the wavelength of a clear sky at noon. Evening screen use does not merely delay sleep; it convinces the body it is still midday.",
+  "question": "According to the passage, why is melatonin called the 'darkness hormone' rather than the 'sleep hormone'?",
+  "options": [
+    { "text": "It is produced in total darkness but not in dim light", "correct": false },
+    { "text": "It signals preparation for sleep rather than inducing sleep directly", "correct": true },
+    { "text": "It activates melanopsin cells that suppress wakefulness", "correct": false },
+    { "text": "It is released during non-REM sleep rather than at bedtime", "correct": false }
+  ]
+}

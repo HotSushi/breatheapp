@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The spotlight metaphor suggests attention is something we move. But neuroscientist Earl Miller's work on neural oscillations offers a complementary frame: attention is something we tune. Using multi-electrode recordings in macaque cortex, Miller's lab showed that selective attention increases gamma-band oscillations (30–80 Hz) in neurons coding the attended stimulus while increasing alpha-band oscillations (8–12 Hz) in neurons coding ignored stimuli. Alpha waves act as a cortical gate — high alpha means a neural population is effectively offline. Attention is thus less like pointing a flashlight and more like conducting an orchestra: selectively raising and lowering the amplitude of competing neural ensembles.",
+  "question": "According to Earl Miller's research, what is the role of alpha-band oscillations in selective attention?",
+  "options": [
+    { "text": "They enhance signal transmission to the attended stimulus.", "correct": false },
+    { "text": "They synchronize prefrontal and parietal regions to coordinate the spotlight.", "correct": false },
+    { "text": "They gate ignored neurons offline, suppressing unattended stimuli.", "correct": true },
+    { "text": "They increase metabolic activity in the locus coeruleus during focus.", "correct": false }
+  ]
+}

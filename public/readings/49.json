@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "One of the most counterintuitive findings in attention research concerns the role of failure. Every time the mind wanders during focused practice and you notice it has wandered, that moment of noticing is itself the training stimulus — not an interruption of the training. Neuroscientists compare it to the eccentric phase of a muscle contraction: the controlled return from distraction is where the neural remodeling occurs. This reframes the experience of a scattered practice session. A practitioner who wanders and returns fifty times has performed fifty repetitions of the critical exercise. The quality of attention is built precisely in the recovery from its loss.",
+  "question": "According to the passage, when does neural remodeling during attention practice most directly occur?",
+  "options": [
+    { "text": "During sustained, uninterrupted periods of focus when the mind does not wander", "correct": false },
+    { "text": "Only in the initial moments of settling attention before distractions arise", "correct": false },
+    { "text": "During the controlled return of attention after noticing the mind has wandered", "correct": true },
+    { "text": "During sleep, when the brain consolidates the day's attentional experiences", "correct": false }
+  ]
+}

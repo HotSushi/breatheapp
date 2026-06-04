@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Embodied cognition researchers Rolf Zwaan and Lawrence Barsalou have shown that understanding language activates the same motor and sensory systems involved in performing the described actions. Reading the word 'kick' subtly excites leg motor cortex; reading 'pick up' primes hand-grasping circuits. This grounding of meaning in bodily simulation supports Merleau-Ponty's claim that the mind is not a disembodied reasoner but a creature whose concepts are shaped by what its body can do. Attention to language is therefore never purely cognitive: it is an embodied rehearsal. The quality of reading depends partly on the readiness of the body to simulate the actions described.",
+  "question": "What do Zwaan and Barsalou's findings about reading language suggest about the nature of attention?",
+  "options": [
+    { "text": "Attention to language is a purely symbolic process independent of motor systems", "correct": false },
+    { "text": "Reading speed increases when motor areas are suppressed during comprehension", "correct": false },
+    { "text": "Language attention is an embodied rehearsal, activating motor and sensory systems", "correct": true },
+    { "text": "Attention is grounded in emotional memory rather than sensorimotor simulation", "correct": false }
+  ]
+}

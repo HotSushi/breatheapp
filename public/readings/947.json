@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Hannah Arendt, writing after the Nuremberg trials, observed that totalitarian movements required not just the suppression of opposition but the construction of an alternative reality so internally coherent that citizens could inhabit it without cognitive friction. The goal was not to make people believe lies but to make them indifferent to the distinction between truth and falsehood — what she called destroying the \"common world\" of shared facts. Contemporary researchers studying information disorder describe a parallel dynamic: when attention is fragmented across incompatible media ecosystems, the shared factual substrate necessary for democratic deliberation erodes, not because citizens are deceived but because they inhabit genuinely different informational worlds.",
+  "question": "According to Arendt, what was the primary aim of totalitarian manipulation of reality?",
+  "options": [
+    { "text": "To implant specific false beliefs in the minds of the population", "correct": false },
+    { "text": "To make citizens indifferent to the distinction between truth and falsehood", "correct": true },
+    { "text": "To suppress all political opposition through censorship and surveillance", "correct": false },
+    { "text": "To concentrate media ownership in state-aligned institutions", "correct": false }
+  ]
+}

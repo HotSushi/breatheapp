@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The concept of 'attention as muscle' is more than metaphor. Neuroscientist Michael Posner identified three distinct attentional networks in the brain: an alerting network that maintains vigilance, an orienting network that selects among sensory inputs, and an executive network that resolves conflict and overrides impulse. Each network can be selectively trained. Posner's Attention Network Test revealed that these systems develop on different timelines, respond to different training protocols, and can be impaired or strengthened independently. When you practice returning attention to a chosen object, you are primarily strengthening the executive network — the one most depleted by distraction and most critical for sustained thought.",
+  "question": "According to Posner's model, which attentional network is most directly strengthened by practicing the return of wandering attention?",
+  "options": [
+    { "text": "The alerting network, which maintains general vigilance", "correct": false },
+    { "text": "The orienting network, which selects among competing sensory inputs", "correct": false },
+    { "text": "The executive network, which resolves conflict and overrides impulse", "correct": true },
+    { "text": "All three networks are strengthened equally by attention-return practice", "correct": false }
+  ]
+}

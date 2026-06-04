@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Art teachers have long noticed that students who paint ten portraits in a row improve less than those who alternate between portrait, landscape, and still life. This anecdotal observation matches the interleaving research precisely. When a painter works in a single genre, each session reinforces existing habits; when genres alternate, the painter must reconsider fundamental choices — light, composition, depth — fresh each time. The same logic applies to language learning: students who drill one grammatical structure in isolation master its form; students who mix structures must identify which applies, building the syntactic judgment that actual communication demands.",
+  "question": "According to the passage, what skill do language learners develop through mixing grammatical structures that drilling a single structure in isolation does not provide?",
+  "options": [
+    { "text": "Automaticity with the forms of each individual grammatical structure", "correct": false },
+    { "text": "The ability to memorize irregular forms by connecting them to related patterns", "correct": false },
+    { "text": "Syntactic judgment — the ability to identify which structure a given situation requires", "correct": true },
+    { "text": "Deeper understanding of the rules underlying any single grammatical form", "correct": false }
+  ]
+}

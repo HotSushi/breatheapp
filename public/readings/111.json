@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus opens the Enchiridion with a division that restructures everything: some things are up to us, and some things are not. Up to us are opinion, impulse, desire, and aversion — the movements of our own mind. Not up to us are body, reputation, political office, and property. The slave-philosopher who wrote these words from firsthand experience knew that masters could break his leg but not his judgment. To mistake the second category for the first is the root of all frustration. To mistake the first for the second — to surrender your will to external approval — is the deeper slavery.",
+  "question": "According to Epictetus, which of the following belongs to the category of things 'up to us'?",
+  "options": [
+    { "text": "Reputation and political office", "correct": false },
+    { "text": "The health and strength of the body", "correct": false },
+    { "text": "Desire, aversion, and judgment", "correct": true },
+    { "text": "Property and material possessions", "correct": false }
+  ]
+}

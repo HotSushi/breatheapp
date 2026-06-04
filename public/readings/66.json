@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Harold Pashler's \"psychological refractory period\" (PRP) research in the 1990s established a hard architectural limit on human parallel processing. When two stimuli requiring responses are presented in rapid succession, the second response is delayed — not because the brain is slow, but because a central decision-making bottleneck can only process one response-selection at a time. Even highly practiced individuals showed the PRP effect; it could not be trained away. Pashler concluded that the serial nature of this bottleneck is not a learned habit but a fundamental constraint of how the brain's executive system is wired.",
+  "question": "What did Harold Pashler conclude about the psychological refractory period?",
+  "options": [
+    { "text": "It is a learned habit that can be eliminated with sufficient practice", "correct": false },
+    { "text": "It affects only unpracticed individuals unfamiliar with dual-task demands", "correct": false },
+    { "text": "It results from slow neural transmission between the cerebellum and cortex", "correct": false },
+    { "text": "It reflects a fundamental wiring constraint in the brain's executive system", "correct": true }
+  ]
+}

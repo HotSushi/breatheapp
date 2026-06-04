@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The title 'The Shallows' alludes to the experience of reading on the web: a vast, glittering surface that can be skimmed at speed but rarely plumbed. Carr contrasted this with the metaphor of deep reading as diving — leaving the surface world behind, descending into a text, losing track of time and surroundings. This absorption is not merely pleasurable; it is cognitively productive. Research by psychologist Mihaly Csikszentmihalyi on 'flow states' suggests that the deepest intellectual work occurs precisely when external interruptions cease and the mind is fully committed to a single, demanding task. The shallow web, by design, forecloses this state — not through malice, but through an architecture built to maximize time on site.",
+  "question": "According to the passage, what does Csikszentmihalyi's research on 'flow states' suggest about deep intellectual work?",
+  "options": [
+    { "text": "It is most productive when multiple sources are consulted simultaneously", "correct": false },
+    { "text": "It requires a high-stimulus environment to sustain motivation", "correct": false },
+    { "text": "It occurs when external interruptions cease and the mind is fully committed to a single demanding task", "correct": true },
+    { "text": "It depends on social reinforcement and collaborative feedback loops", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Attention, for William James, was the hinge on which the whole of mental life swings. 'The faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will,' he wrote. He distinguished voluntary attention — effortful, directed by intention — from involuntary attention, which is seized by novelty or intensity without our choosing. James suspected that the capacity for sustained voluntary attention was finite and exhaustible, a suspicion confirmed a century later when psychologists documented what they called 'ego depletion' — the measurable decline in self-control following prolonged cognitive effort.",
+  "question": "What did James call the faculty he described as 'the very root of judgment, character, and will'?",
+  "options": [
+    { "text": "Voluntary attention", "correct": true },
+    { "text": "Involuntary attention", "correct": false },
+    { "text": "Sustained focus", "correct": false },
+    { "text": "Ego depletion", "correct": false }
+  ]
+}

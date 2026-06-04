@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James noticed something counterintuitive about voluntary attention: it cannot be held continuously on a fixed object. The apparent steadiness of focus is actually a rapid series of departures and returns. You do not stare at a problem — you repeatedly redirect toward it after countless micro-drifts. This understanding reframes the experience of distraction entirely. The student who finds their mind wandering during study is not failing; they are encountering the normal rhythm of voluntary attention. Failure is not the drift itself but the failure to notice the drift and return. James's insight aligns precisely with what meditation traditions have taught for millennia: the practice is the returning.",
+  "question": "According to the passage, what does James say constitutes the failure of voluntary attention?",
+  "options": [
+    { "text": "Allowing the mind to drift away from the task", "correct": false },
+    { "text": "Becoming absorbed in immediate rather than derived interest", "correct": false },
+    { "text": "Failing to notice the drift and return attention", "correct": true },
+    { "text": "Spending too long on any single object of focus", "correct": false }
+  ]
+}

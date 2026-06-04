@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Zen's approach to the wandering mind differs sharply from Theravada's methodical noting. Rather than cataloguing distractions, the Rinzai tradition confronts the monkey mind with a koan — a paradoxical question designed to exhaust conceptual thinking entirely. Hakuin Ekaku, the eighteenth-century Japanese master credited with reviving Rinzai Zen, described the koan as a 'great ball of doubt' that occupies the mind so completely that ordinary agitation has nowhere to land. The objective is not calm through reduction but calm through saturation: the restless mind is given a problem it cannot think its way out of, and in the resulting stillness, insight arises.",
+  "question": "According to the passage, how does the Rinzai koan produce calm?",
+  "options": [
+    { "text": "By gradually reducing the number of thoughts through systematic observation", "correct": false },
+    { "text": "By synchronizing the koan with the rhythm of the breath", "correct": false },
+    { "text": "Through saturation — giving the restless mind a problem it cannot think its way out of", "correct": true },
+    { "text": "By focusing attention on the teacher's voice rather than internal experience", "correct": false }
+  ]
+}

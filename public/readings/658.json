@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Light is among the most underrated variables in workspace design. Exposure to natural light during cognitive work has been linked in multiple studies to better sleep quality, lower cortisol levels, and higher scores on sustained attention tasks. A 2014 study published in the Journal of Clinical Sleep Medicine found that office workers with windows slept an average of 46 more minutes per night than those without — a recovery gap that compounds across a workweek. But the mechanism is circadian, not aesthetic: blue-spectrum daylight suppresses melatonin and synchronizes the brain's alertness clock, making midday natural light a direct lever on afternoon concentration.",
+  "question": "What biological mechanism explains why natural light improves afternoon concentration, according to the passage?",
+  "options": [
+    { "text": "It activates the prefrontal cortex through photoreceptors in the retina", "correct": false },
+    { "text": "It raises serotonin levels that counteract the post-lunch dip in energy", "correct": false },
+    { "text": "Blue-spectrum daylight suppresses melatonin and synchronizes the brain's alertness clock", "correct": true },
+    { "text": "It lowers ambient cortisol by triggering the parasympathetic nervous system", "correct": false }
+  ]
+}

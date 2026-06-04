@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The battlefield of Kurukshetra, where the Gita is set, is also a psychological battlefield. Arjuna's paralysis at the story's opening is not cowardice — it is the paralysis of a man overwhelmed by competing claims on his attention and loyalty. Krishna's entire teaching can be read as a method for resolving attentional ambiguity: clarify your duty, release attachment to outcomes, still the reactive mind, and act with complete presence. This is not a prescription for detachment from life, but for full engagement with it — the paradox being that caring less about consequences is precisely what allows one to act with the greatest skill and concentration.",
+  "question": "According to the passage, how does the Gita resolve Arjuna's paralysis?",
+  "options": [
+    { "text": "By convincing Arjuna that physical battle is an illusion and the true self cannot be harmed", "correct": false },
+    { "text": "By clarifying duty, releasing attachment to outcomes, and stilling the reactive mind to enable full presence", "correct": true },
+    { "text": "By teaching Arjuna to prioritize loyalty to his teacher over loyalty to his family", "correct": false },
+    { "text": "By showing that inaction on the battlefield is itself a form of sacred duty", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Dzogchen teachers consistently warn against two errors that masquerade as rigpa. The first is 'sinking,' where the meditator mistakes a dull, featureless blankness for open awareness. The second is 'scattering,' where ordinary conceptual bustle is mistaken for luminous presence. The Tibetan term for the genuine article, 'shiny nyam,' points to a quality often translated as 'naked awareness' — experience stripped of the commentary that normally coats it, vivid but not agitated. Chogyal Namkhai Norbu, who brought dzogchen to Western audiences in the 1970s, spent considerable time correcting students who believed that achieving relaxed distraction was the same as resting in open presence.",
+  "question": "According to the passage, what are the two errors dzogchen teachers warn against as false substitutes for rigpa?",
+  "options": [
+    {
+      "text": "Grasping and aversion",
+      "correct": false
+    },
+    {
+      "text": "Excessive visualization and premature verbal analysis",
+      "correct": false
+    },
+    {
+      "text": "Overconfidence in one's realization and fear of emptiness",
+      "correct": false
+    },
+    {
+      "text": "Sinking into dull blankness and scattering into ordinary conceptual bustle",
+      "correct": true
+    }
+  ]
+}

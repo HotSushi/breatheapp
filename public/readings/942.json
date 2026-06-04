@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Noam Chomsky and Edward Herman's 1988 book \"Manufacturing Consent\" described a \"propaganda model\" with five filters through which news must pass before reaching the public: ownership, advertising revenue, official sourcing, flak from powerful interests, and anti-communist ideology. Each filter quietly discards stories that threaten dominant institutions. The result is not crude censorship but structural self-censorship — journalists internalize acceptable limits before they write a word. Chomsky observed that the most effective propaganda doesn't need to announce itself. It works by narrowing the range of thinkable opinion while loudly debating within that narrowed range, creating an illusion of open discourse.",
+  "question": "According to Chomsky and Herman, how does the most effective propaganda operate?",
+  "options": [
+    { "text": "By broadcasting explicit falsehoods that citizens gradually accept as true", "correct": false },
+    { "text": "By narrowing the range of thinkable opinion while simulating open debate within it", "correct": true },
+    { "text": "By bribing journalists to suppress unfavorable stories", "correct": false },
+    { "text": "By flooding media channels with so much information that citizens disengage", "correct": false }
+  ]
+}

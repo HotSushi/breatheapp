@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The prefrontal cortex — the region governing judgment, impulse control, and strategic thinking — is exquisitely sensitive to circadian misalignment. Neuroimaging studies have shown that even modest circadian disruption reduces prefrontal metabolic activity and weakens its connectivity to the amygdala, releasing the emotional brain from executive oversight. This pattern mirrors what occurs during acute sleep deprivation, though it unfolds more slowly and is therefore harder to perceive. People chronically misaligned with their biology tend to make poorer decisions not because they are tired but because they have silently lost the neural architecture that makes careful deliberation possible.",
+  "question": "According to the passage, why is chronically misaligned circadian biology difficult to recognize as a cognitive problem?",
+  "options": [
+    { "text": "It only affects emotional processing, not reasoning ability", "correct": false },
+    { "text": "The prefrontal cortex compensates by increasing amygdala connectivity", "correct": false },
+    { "text": "It unfolds gradually, making the cognitive loss harder to perceive than acute sleep deprivation", "correct": true },
+    { "text": "It primarily disrupts memory consolidation rather than decision-making", "correct": false }
+  ]
+}

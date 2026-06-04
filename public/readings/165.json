@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus, the third head of the Stoa and the philosopher most responsible for systematizing Stoic doctrine, described passion (pathos) as a false judgment — not a force that overwhelms reason, but a mistaken belief about value. When we are distracted by novelty or excitement, we are not being overpowered; we are agreeing, however briefly, that the distraction matters more than what we were doing. This makes distraction a philosophical error, not merely a neurological one. The remedy Chrysippus prescribed was not willpower but clarity: correct the underlying belief, and the pull of the distraction dissolves.",
+  "question": "How did Chrysippus define passion (pathos)?",
+  "options": [
+    { "text": "A force that overwhelms reason and demands to be released", "correct": false },
+    { "text": "A false judgment — a mistaken belief about value", "correct": true },
+    { "text": "A natural appetite that must be balanced, not eliminated", "correct": false },
+    { "text": "An imbalance of the four bodily humors", "correct": false }
+  ]
+}

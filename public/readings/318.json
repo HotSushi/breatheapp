@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The philosopher Alasdair MacIntyre, writing about practices in After Virtue, described something structurally identical to flow without using the term. A practice, for MacIntyre, is a coherent and complex cooperative activity with internal standards of excellence — standards you can only grasp by submitting to the tradition. Mastery of a practice transforms the practitioner. The goods internal to chess cannot be obtained by bribery or shortcut; they can only be won by actually playing better chess. MacIntyre's insight complements Csikszentmihalyi's: flow is more available in genuine practices than in arbitrary tasks because practices provide the escalating challenge, clear standards, and internal reward that flow requires as structural conditions.",
+  "question": "What does MacIntyre mean by 'goods internal to a practice' as described in the passage?",
+  "options": [
+    { "text": "The financial rewards that skilled practitioners eventually earn", "correct": false },
+    { "text": "Rewards that can only be obtained by genuinely mastering the practice, not by shortcuts", "correct": true },
+    { "text": "The social recognition granted by a community of fellow practitioners", "correct": false },
+    { "text": "Psychological benefits unique to cooperative rather than solitary activities", "correct": false }
+  ]
+}

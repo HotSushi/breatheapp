@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Henry David Thoreau's two years at Walden Pond were, among other things, an experiment in radical monotasking. He went to the woods, he wrote, 'to live deliberately, to front only the essential facts of life.' This framing is not romantic escapism — it is epistemological. Thoreau understood that the mind cannot see clearly what it must simultaneously manage. By reducing his obligations to shelter, food, and writing, he created the conditions under which a single line of thought could be followed to its conclusion. Walden is the record not of a hermit's isolation but of what sustained single-tasking produces.",
+  "question": "According to the passage, how does the author characterize Thoreau's reduction of obligations at Walden?",
+  "options": [
+    { "text": "As romantic escapism from industrial society", "correct": false },
+    { "text": "As an epistemological act creating conditions for following thought to its conclusion", "correct": true },
+    { "text": "As a spiritual retreat modeled on Eastern monastic practice", "correct": false },
+    { "text": "As a protest against the economic systems of his era", "correct": false }
+  ]
+}

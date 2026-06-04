@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Cultural ADD — the collective shortening of public patience for extended argument — is not merely an individual failure of discipline. Media theorist Neil Postman argued in \"Amusing Ourselves to Death\" that every medium carries an implicit epistemology: television privileged the entertaining over the coherent; its successor platforms intensify this logic. When a political debate must fit a thirty-second clip, when a scientific finding must resolve into a tweet, the very syntax of public reasoning is reshaped. Ideas that require qualifications, exceptions, or extended chains of evidence become structurally disadvantaged in a format-constrained information ecosystem.",
+  "question": "According to the passage, what did Neil Postman argue every medium carries?",
+  "options": [
+    { "text": "An implicit epistemology", "correct": true },
+    { "text": "A hidden commercial agenda", "correct": false },
+    { "text": "A preference for visual over verbal content", "correct": false },
+    { "text": "A bias toward political messaging", "correct": false }
+  ]
+}

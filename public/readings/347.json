@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Psychologist Phillippa Lally's 2010 study at University College London found that habit formation — defined as the point where a behavior becomes automatic — takes, on average, 66 days, with a range from 18 to 254 days depending on the behavior and the individual. The popular claim that habits form in 21 days traces to a misreading of plastic surgeon Maxwell Maltz's 1960 observation that patients took 'at least 21 days' to adjust to physical changes. Lally's data also revealed that missing a single day had no statistically significant effect on eventual automaticity — a finding that directly contradicts the all-or-nothing thinking that causes most habit-change attempts to collapse.",
+  "question": "What did Lally's research find about missing a single day during habit formation?",
+  "options": [
+    { "text": "Missing one day resets the automaticity timeline to zero", "correct": false },
+    { "text": "Missing one day extends formation time by an average of two weeks", "correct": false },
+    { "text": "Missing one day had no statistically significant effect on eventual automaticity", "correct": true },
+    { "text": "Missing one day was only inconsequential if it occurred after day 40", "correct": false }
+  ]
+}

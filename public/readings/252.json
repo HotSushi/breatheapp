@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The classical metta meditation begins with the easiest target: oneself. Teachers in the Theravada tradition, including Ayya Khema, explain that you cannot genuinely extend goodwill toward others from a reservoir of self-contempt. The phrase 'May I be happy, may I be free from suffering' is not narcissism — it is establishing the baseline tone of warmth. Neuroscientist Richard Davidson at the Wisconsin Center for Healthy Minds found that experienced metta practitioners show markedly elevated activity in the left prefrontal cortex, a region associated with approach motivation and positive affect, suggesting the practice literally reshapes the brain's affective architecture.",
+  "question": "Why do Theravada teachers say metta meditation begins with oneself?",
+  "options": [
+    { "text": "Because self-directed love is considered more powerful than love for others.", "correct": false },
+    { "text": "Because you cannot genuinely extend goodwill from a foundation of self-contempt.", "correct": true },
+    { "text": "Because beginners find it easier to focus on abstract concepts than real people.", "correct": false },
+    { "text": "Because the left prefrontal cortex activates more strongly for self-referential thought.", "correct": false }
+  ]
+}

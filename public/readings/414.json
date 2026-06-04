@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In her book Attention Span, Gloria Mark describes how the average length of time a person spends on a single screen before switching has collapsed from about two and a half minutes in 2004 to just 47 seconds by 2020. This isn't simply a story of worsening willpower — it reflects an arms race between human attentional limits and technology designed to exploit them. Platforms are optimized not for user wellbeing but for engagement metrics, deploying variable-ratio reinforcement schedules borrowed from behavioral psychology. The result is an environment that systematically degrades the capacity it depends on: a mind too fragmented to appreciate the very content designed to capture it.",
+  "question": "How had the average time spent on a single screen before switching changed between 2004 and 2020, according to the passage?",
+  "options": [
+    {
+      "text": "It remained roughly stable at around two minutes throughout the period",
+      "correct": true
+    },
+    {
+      "text": "It increased as users became more proficient at multitasking",
+      "correct": false
+    },
+    {
+      "text": "It declined sharply, from about two and a half minutes to just 47 seconds",
+      "correct": false
+    },
+    {
+      "text": "It halved once smartphones became the primary device for content consumption",
+      "correct": false
+    }
+  ]
+}

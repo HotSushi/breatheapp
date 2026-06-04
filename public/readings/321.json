@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1998, Roy Baumeister and colleagues published a study that would reshape how psychologists think about self-control. Participants who resisted eating fresh-baked cookies — forcing themselves to eat radishes instead — subsequently gave up faster on an unsolvable puzzle than those who had eaten freely. Baumeister called this effect ego depletion: acts of self-regulation draw on a shared, finite resource, and each act of resistance leaves less available for the next. The radish-and-cookie experiment suggested that willpower is not a skill or attitude but something closer to a fuel — one that runs low with use.",
+  "question": "What did Baumeister's radish-and-cookie experiment demonstrate about self-control?",
+  "options": [
+    { "text": "People who eat unhealthy food perform worse on puzzles.", "correct": false },
+    { "text": "Self-control draws on a finite shared resource that depletes with use.", "correct": true },
+    { "text": "Resisting temptation improves concentration on difficult tasks.", "correct": false },
+    { "text": "Willpower is primarily a learned skill that strengthens with practice.", "correct": false }
+  ]
+}

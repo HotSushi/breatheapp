@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Keystone habits, as Duhigg describes them, are habits whose adoption triggers cascading changes in other areas of behavior. Exercise is a canonical example: people who begin a regular workout routine report eating better, sleeping more consistently, and feeling more productive at work — none of which were explicitly targeted. The mechanism appears to be the internalization of a new self-concept: 'I am someone who takes care of myself.' This identity shift then acts as a meta-cue that reorients dozens of smaller decisions. Paul O'Neill's transformation of Alcoa by targeting worker safety habits is Duhigg's most dramatic organizational example of this cascading effect.",
+  "question": "According to the passage, what mechanism explains why keystone habits trigger changes in unrelated behaviors?",
+  "options": [
+    { "text": "Keystone habits directly rewire the basal ganglia for multiple routines simultaneously", "correct": false },
+    { "text": "The dopamine system generalizes rewards from one habit to adjacent behaviors", "correct": false },
+    { "text": "Adopting a new identity or self-concept acts as a meta-cue reorienting many smaller decisions", "correct": true },
+    { "text": "Cognitive load freed by one habit provides mental resources for forming others", "correct": false }
+  ]
+}

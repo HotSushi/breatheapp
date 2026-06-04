@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Charles Darwin walked the same gravel path — the Sandwalk — at his estate in Kent, every day for decades. He used the walk structurally: he would set a number of flint stones equal to the laps he needed for a problem, kicking one aside per circuit. The physical rhythm was not incidental to the thinking; it was integral. Stanford researchers later confirmed that walking increases divergent thinking — the capacity to generate multiple solutions — by an average of 81 percent compared to sitting. The body in motion appears to loosen the mind's grip on fixed interpretations, allowing new framings to surface.",
+  "question": "By how much did Stanford researchers find that walking increases divergent thinking compared to sitting?",
+  "options": [
+    { "text": "Approximately 40 percent", "correct": false },
+    { "text": "Approximately 81 percent", "correct": true },
+    { "text": "Approximately 60 percent", "correct": false },
+    { "text": "Approximately 95 percent", "correct": false }
+  ]
+}

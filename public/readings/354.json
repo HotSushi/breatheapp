@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "William James wrote in 1890 that everyone knows what attention is. He was wrong about the knowing, but right that the phenomenon feels intimate and obvious. What James could not have predicted is how experimentally strange attention turns out to be. Inattentional blindness — the failure to notice a fully visible object when attention is elsewhere — shows that consciousness is not a camera passively recording the scene. It is an editor, and an aggressive one. Daniel Simons and Christopher Chabris made this visceral in their 1999 gorilla experiment: observers tracking basketball passes missed a person in a gorilla suit walking through the scene. The limits of conscious perception are not at the periphery — they are at the center.",
+  "question": "What does the gorilla experiment by Simons and Chabris illustrate about consciousness?",
+  "options": [
+    { "text": "That peripheral vision is less reliable than central vision", "correct": false },
+    { "text": "That consciousness acts as an aggressive editor, not a passive recorder", "correct": true },
+    { "text": "That visual attention is primarily driven by emotional salience", "correct": false },
+    { "text": "That observers can track multiple objects simultaneously without loss", "correct": false }
+  ]
+}

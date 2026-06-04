@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The philosopher Gilbert Ryle drew a famous distinction between \"knowing that\" and \"knowing how\" — propositional knowledge versus embodied skill. Metacognition lives awkwardly between these two categories. You can know that your focus is fragile, but developing reliable self-monitoring requires something closer to a trained skill: the capacity to briefly step outside ongoing cognition and observe it. Neuroscientist Antoine Lutz showed that long-term meditators demonstrate stronger activation in the anterior insula during attentional lapses, suggesting that repeated metacognitive practice physically reshapes the neural substrate of self-observation. Awareness is not a switch; it is a muscle.",
+  "question": "What did Antoine Lutz's research reveal about long-term meditators?",
+  "options": [
+    { "text": "They showed reduced activation in the prefrontal cortex during focus tasks", "correct": false },
+    { "text": "They reported fewer attentional lapses than novices on behavioral measures", "correct": false },
+    { "text": "They demonstrated stronger activation in the anterior insula during attentional lapses", "correct": true },
+    { "text": "They had thicker gray matter in the hippocampus compared to non-meditators", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Zen teacher Shunryu Suzuki famously said, 'In the beginner's mind there are many possibilities; in the expert's mind there are few.' This is not false modesty — it is a precise description of how fixed views calcify perception. When we observe thoughts without attachment, we practice what Zen calls 'don't-know mind': holding each arising thought as provisional, not as evidence about the world. Cognitive science echoes this: research by Alia Crum at Stanford shows that the mental frame we bring to an experience shapes its physiological outcome. The thought is not neutral data; it is an active intervention. Watching it without belief loosens its grip before it acts.",
+  "question": "According to the passage, what does Zen call the mental stance of holding each arising thought as provisional?",
+  "options": [
+    { "text": "Beginner's mind", "correct": false },
+    { "text": "Don't-know mind", "correct": true },
+    { "text": "Empty awareness", "correct": false },
+    { "text": "Non-attachment", "correct": false }
+  ]
+}

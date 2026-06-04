@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "William James, writing in 1890, observed that \"the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will.\" He recognized what modern neuroimaging would later confirm: sustained attention is not passive but an active, effortful process requiring continual re-engagement. The default mode network, the brain system active during mind-wandering, does not switch off automatically when a task demands focus — it must be actively suppressed by the dorsolateral prefrontal cortex. Digital environments that reward novelty-seeking actively strengthen mind-wandering pathways at the expense of this suppression mechanism.",
+  "question": "What must the dorsolateral prefrontal cortex do to enable focused attention?",
+  "options": [
+    { "text": "Activate the default mode network to generate task-relevant associations", "correct": false },
+    { "text": "Increase glucose supply to sensory processing regions", "correct": false },
+    { "text": "Actively suppress the default mode network's mind-wandering activity", "correct": true },
+    { "text": "Synchronize firing patterns with the hippocampus to consolidate task rules", "correct": false }
+  ]
+}

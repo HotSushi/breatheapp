@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The neurologist Oliver Sacks described Ian Waterman, who lost all proprioception below the neck after a viral illness yet relearned to walk — not through restored sensation, but through visual monitoring of every movement. Waterman's case illuminates what Merleau-Ponty called the 'intentional arc': the continuous loop between body and world that normally runs without supervision. Sacks observed that Waterman had to consciously direct each action ordinary people perform automatically. His body schema had been severed, forcing deliberate attention to substitute for functions the living body usually handles invisibly. Attention, these cases suggest, expands precisely when embodied automaticity fails.",
+  "question": "What did Ian Waterman use to compensate for his loss of proprioception?",
+  "options": [
+    { "text": "Conscious reliance on auditory feedback to sense balance", "correct": false },
+    { "text": "Visual monitoring of every movement in place of restored sensation", "correct": true },
+    { "text": "Tactile signals from the hands to guide lower-body movement", "correct": false },
+    { "text": "Rhythmic verbal cues that substituted for the intentional arc", "correct": false }
+  ]
+}

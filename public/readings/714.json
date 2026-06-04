@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Most productivity frameworks treat time as uniform — one hour equals any other. But cortisol, the body's primary alertness hormone, follows a steep morning curve, peaking roughly 30 to 45 minutes after waking in what endocrinologists call the cortisol awakening response. This surge primes the prefrontal cortex for high-demand cognitive work: sustained reasoning, novel problem-solving, decisions requiring inhibition of impulse. By early afternoon, cortisol has declined significantly, making that window poorly suited for the same tasks. Working against this gradient is not mere inefficiency — it is a form of biological debt that accumulates across the day.",
+  "question": "According to the passage, what is the cortisol awakening response?",
+  "options": [
+    { "text": "A gradual rise in cortisol that peaks in the early afternoon", "correct": false },
+    { "text": "A steep cortisol surge peaking 30 to 45 minutes after waking", "correct": true },
+    { "text": "A nightly cortisol reset that prepares the body for morning focus", "correct": false },
+    { "text": "The prefrontal cortex's sensitivity to stress hormones during sleep", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The novel's capacity for immersive time distortion is one of its least examined features. When a reader is absorbed in narrative, subjective time contracts — hours pass as minutes. Cognitive scientist Richard Gerrig coined the term \"narrative transportation\" to describe this state: the reader's attention is entirely relocated into the story world, with the real environment temporarily suspended from awareness. Gerrig found that transported readers are more persuaded by claims made within the narrative and less able to counter-argue them. Immersive fiction is not merely entertaining; it is epistemically powerful, reshaping belief through the back door of absorbed attention.",
+  "question": "What did Richard Gerrig find about readers in a state of narrative transportation?",
+  "options": [
+    { "text": "They process information faster than non-transported readers.", "correct": false },
+    { "text": "They are less persuaded by claims made within the narrative.", "correct": false },
+    { "text": "They are more persuaded by narrative claims and less able to counter-argue them.", "correct": true },
+    { "text": "They experience time as passing more slowly than normal.", "correct": false }
+  ]
+}

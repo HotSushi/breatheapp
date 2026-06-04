@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Ajahn Chah, the Thai forest monk, used the image of a still forest pool to explain sati's function. Disturbances come — animals drink, wind moves the surface — but the pool does not chase the ripples or resist them. What keeps the pool 'knowing' is not the absence of movement but the depth underneath: a ground that does not move even when the surface does. Sati, in Chah's account, is not suppression of mental events but the stable knowing underneath them. This metaphor resists the common misconception that recollection means keeping the mind from wandering; it means keeping the knowing from being swept away.",
+  "question": "According to Ajahn Chah's pool metaphor, what does sati represent?",
+  "options": [
+    { "text": "The smooth, undisturbed surface of a mind that has overcome distracting thoughts", "correct": false },
+    { "text": "The ripples caused by mental events, which practice aims to gradually calm", "correct": false },
+    { "text": "The stable knowing underneath mental events that is not swept away by disturbances", "correct": true },
+    { "text": "The stillness achieved when external distractions are removed from one's environment", "correct": false }
+  ]
+}

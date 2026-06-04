@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Selective attention is the brain's editorial function: the capacity to amplify one stream of information while suppressing competing signals. William James described it in 1890 as \"taking possession of the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought.\" Modern imaging confirms his intuition. When you focus on a face in a crowd, neurons in the fusiform face area fire more vigorously, while neurons tuned to non-attended stimuli are actively inhibited — not merely ignored. Attention, neuroscientists now say, is not passive reception; it is a form of neural amplification paired with deliberate suppression.",
+  "question": "How does the passage characterize the role of suppression in selective attention?",
+  "options": [
+    { "text": "Suppression is a byproduct of fatigue, not an active neural process.", "correct": false },
+    { "text": "Suppression occurs only when distractors are in the visual periphery.", "correct": false },
+    { "text": "Non-attended stimuli are actively inhibited, not merely ignored.", "correct": true },
+    { "text": "William James argued suppression was impossible without prior learning.", "correct": false }
+  ]
+}

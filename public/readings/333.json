@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The Zeigarnik effect operates through what psychologists call a 'task-specific activation loop' — a recurring check that the cognitive system performs to determine whether an open goal has been resolved. This loop does not require conscious intention; it runs in the background like a process in an operating system, periodically surfacing reminders regardless of whether the moment is appropriate. William James observed this more than a century before Zeigarnik's experiments, noting that the mind 'drifts back' to unresolved concerns with almost mechanical regularity. The loop only terminates with either genuine completion or a convincing substitute: a commitment, a handoff, or a deliberate deferral.",
+  "question": "According to the passage, what does the cognitive 'task-specific activation loop' do?",
+  "options": [
+    { "text": "It encodes completed tasks into long-term memory during sleep", "correct": false },
+    { "text": "It prioritizes the most urgent incomplete tasks for conscious attention", "correct": false },
+    { "text": "It suppresses competing goals so the current task can be finished", "correct": false },
+    { "text": "It recurs in the background to check whether an open goal has been resolved", "correct": true }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Cal Newport distinguishes between 'solitude' and 'isolation,' a clarification often missed in debates about disconnection. Solitude, he argues following the psychologist Ester Buchholz, is not the absence of people but the absence of other people's minds \u2014 the state in which you are alone with your own thoughts rather than processing the thoughts of others. Scrolling social media in a room alone is not solitude; it is communal mental life without physical presence. Newport's research on high performers found that those who protected regular periods of true solitude maintained clearer thinking and more coherent long-term goals than those who substituted digital connection for it.",
+  "question": "How does Newport define solitude, drawing on Ester Buchholz?",
+  "options": [
+    {
+      "text": "Solitude is physical isolation from other people, regardless of what media one consumes.",
+      "correct": false
+    },
+    {
+      "text": "Solitude is the temporary suspension of goal-directed thinking to allow passive mental recovery.",
+      "correct": false
+    },
+    {
+      "text": "Solitude is a meditative state achieved through deliberate breathing and body-scan techniques.",
+      "correct": false
+    },
+    {
+      "text": "Solitude is the absence of other people's minds \u2014 being alone with your own thoughts rather than processing others'.",
+      "correct": true
+    }
+  ]
+}

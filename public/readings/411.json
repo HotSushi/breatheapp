@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "When you check your email mid-task, the interruption doesn't end when you close the inbox. Cognitive scientist Gloria Mark calls what follows 'attention residue' — a mental echo that lingers in working memory long after the original distraction has passed. Fragments of unread messages, unresolved subjects, and pending replies compete with whatever you return to. Mark's studies at UC Irvine found that it takes an average of 23 minutes and 15 seconds to fully regain the depth of focus interrupted by a single digital notification. The cost isn't the seconds lost reading the email; it's the recovery time that bleeds invisibly into the hours that follow.",
+  "question": "According to the passage, what is the primary cost of checking email mid-task?",
+  "options": [
+    {
+      "text": "The time spent reading and composing replies",
+      "correct": false
+    },
+    {
+      "text": "The distraction caused by notification sounds",
+      "correct": false
+    },
+    {
+      "text": "The 23-plus minutes needed to regain full focus afterward",
+      "correct": false
+    },
+    {
+      "text": "The mental fatigue from switching between applications",
+      "correct": true
+    }
+  ]
+}

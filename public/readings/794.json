@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The discovery of the molecular clock mechanism earned Jeffrey Hall, Michael Rosbash, and Michael Young the 2017 Nobel Prize in Physiology. Working in fruit flies, they identified the period gene and its protein product PER, which accumulates at night and inhibits its own production — a negative feedback loop that cycles with approximately 24-hour precision. The same core mechanism, with variations, runs in nearly every cell of the human body: liver cells, immune cells, even skin cells maintain autonomous oscillations. This means circadian disruption is not merely a brain problem; it reverberates through every tissue simultaneously.",
+  "question": "According to the passage, where in the human body do circadian oscillations occur?",
+  "options": [
+    { "text": "Primarily in the brain's suprachiasmatic nucleus", "correct": false },
+    { "text": "Only in tissues directly exposed to light signals", "correct": false },
+    { "text": "In nearly every cell, including liver, immune, and skin cells", "correct": true },
+    { "text": "In cells that contain the PER gene exclusively", "correct": false }
+  ]
+}

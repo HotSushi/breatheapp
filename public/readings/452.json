@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Carr borrowed a powerful metaphor from Marshall McLuhan: the medium is the message. Every communication technology, McLuhan argued, reshapes human perception independently of the content it carries. The clock did not merely tell time — it taught people to think of the day as a sequence of discrete, measurable units. The map did not merely show geography — it trained the eye to see landscape as abstract, bird's-eye space. By this logic, the internet does something far more consequential than deliver information: it trains the mind to process the world in the internet's own image — fragmented, hyperlinked, ceaselessly interrupted, optimized for speed over depth.",
+  "question": "What example does the passage use to illustrate McLuhan's claim that the clock reshaped human perception?",
+  "options": [
+    { "text": "It made people more punctual and socially coordinated", "correct": false },
+    { "text": "It encouraged people to value efficiency over creativity", "correct": false },
+    { "text": "It taught people to think of the day as discrete, measurable units", "correct": true },
+    { "text": "It replaced natural rhythms with artificial scheduling", "correct": false }
+  ]
+}

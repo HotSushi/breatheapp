@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In the 1980s, psychologist Ann Brown developed \"reciprocal teaching,\" a classroom method built on the insight that reading comprehension fails not because students lack decoding skills but because they lack metacognitive oversight of their own understanding. Her approach trained students to monitor comprehension actively by asking four questions while reading: What is the main idea? What do I not understand? What might come next? What questions could be asked? Each question functions as a probe for the monitoring system, forcing a brief shift from absorbing content to evaluating one's own absorption. Gains in reading achievement were substantial and durable, particularly for struggling students.",
+  "question": "According to Ann Brown, why does reading comprehension most commonly fail?",
+  "options": [
+    { "text": "Students read too quickly and skip unfamiliar vocabulary", "correct": false },
+    { "text": "Students lack adequate background knowledge about the text's subject", "correct": false },
+    { "text": "Students lack metacognitive oversight of their own understanding", "correct": true },
+    { "text": "Students struggle to decode complex sentence structures", "correct": false }
+  ]
+}

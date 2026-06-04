@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The term \"multitasking\" was coined in 1965 to describe a computer processor handling multiple programs by rapidly switching between them. When applied to humans, the word became a flattering lie. Neuroscientist Earl Miller at MIT has shown through electroencephalography that the human brain cannot process two streams of conscious information simultaneously. What we call multitasking is serial attention — rapid toggling between tasks — with each switch carrying a measurable cognitive cost. The prefrontal cortex must discharge the rules of one task and load the rules of another, a process that takes time and consumes glucose, the brain's primary fuel.",
+  "question": "According to the passage, what happens in the prefrontal cortex during each task switch?",
+  "options": [
+    { "text": "It enters a rest state that allows fresh attention to accumulate", "correct": false },
+    { "text": "It processes both tasks simultaneously by splitting available glucose", "correct": false },
+    { "text": "It discharges one task's rules and loads another's, consuming time and glucose", "correct": true },
+    { "text": "It suppresses emotional signals so cognition can continue uninterrupted", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The smartphone's most disruptive feature is not any single app but the elimination of boredom. Psychologists call the low-grade restlessness that arises without stimulation \"the default mode\" — a mental state now known to be essential for consolidating memory, generating creative insight, and maintaining a stable sense of self. When every idle moment is filled with a scroll, the brain loses the fallow periods it needs to process experience. Digital minimalism, at its core, reclaims boredom as a productive resource rather than a problem to be solved by a notification.",
+  "question": "According to the passage, what does psychology call the mental state that arises without external stimulation?",
+  "options": [
+    { "text": "Attentional residue", "correct": false },
+    { "text": "Cognitive load", "correct": false },
+    { "text": "Flow state", "correct": false },
+    { "text": "The default mode", "correct": true }
+  ]
+}

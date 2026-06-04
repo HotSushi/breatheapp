@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Taoist concept of wu wei — effortless action, or non-forcing — offers a distinct solution to the monkey mind that does not resemble Buddhist concentration at all. Zhuangzi, the fourth-century BCE philosopher, used the image of Cook Ding butchering an ox: the knife never dulls because the cook follows the natural cavities of the animal rather than cutting against grain or bone. Applied to attention, wu wei suggests that the problem is not insufficient effort but misdirected effort. The mind wanders not because it lacks discipline but because it is being pushed. Release the pushing, Zhuangzi implies, and the mind settles the way silt settles when a river slows.",
+  "question": "According to the passage, what does Zhuangzi's Cook Ding metaphor suggest about calming the wandering mind?",
+  "options": [
+    { "text": "Greater concentration requires cutting through mental resistance with more effort", "correct": false },
+    { "text": "The mind settles when the pushing stops, not when effort increases", "correct": true },
+    { "text": "The practitioner must follow a structured sequence, as the cook follows each cut", "correct": false },
+    { "text": "Natural objects like rivers and animals are better anchors than the breath", "correct": false }
+  ]
+}

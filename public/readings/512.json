@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Each evening Confucius recommended that his students ask three questions of themselves: Have I been faithful in my dealings? Have I been sincere with friends? Have I mastered what I was taught? This ritual — called ri san xing wu shen, daily triple self-examination — was not moral bookkeeping but attentional training. By naming each domain explicitly, the practitioner directed focused review rather than vague rumination. Psychologists now call this implementation intention: specific, pre-committed mental acts that make desired behaviors far more likely to occur. The Confucian evening audit anticipated this mechanism by two and a half millennia.",
+  "question": "According to the passage, what did Confucius's daily three-question practice primarily train?",
+  "options": [
+    { "text": "Moral virtue through ethical accounting", "correct": false },
+    { "text": "Attention through directed, specific review", "correct": true },
+    { "text": "Friendship through social reflection", "correct": false },
+    { "text": "Memory through repetition of the day's events", "correct": false }
+  ]
+}

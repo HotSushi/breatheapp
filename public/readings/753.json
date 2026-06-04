@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The concept of soft fascination is the quiet engine behind attention restoration. The Kaplans defined it as interest that holds attention without demanding it — the flicker of leaves, the drift of clouds, the pattern of water over stones. Hard fascination, by contrast, grips: a thriller, a deadline, an argument. Both capture attention, but only soft fascination leaves cognitive room for reflection. This margin of unoccupied processing is where the brain performs what researchers call restorative rumination — the kind of wandering thought that consolidates experience, solves problems obliquely, and gives the directed attention system time to recover its inhibitory strength.",
+  "question": "What makes soft fascination restorative in a way that hard fascination is not?",
+  "options": [
+    { "text": "Soft fascination stimulates more neural circuits simultaneously than hard fascination", "correct": false },
+    { "text": "Soft fascination holds attention without demanding it, leaving room for reflective thought", "correct": true },
+    { "text": "Soft fascination is restorative because it produces no emotional arousal", "correct": false },
+    { "text": "Hard fascination depletes working memory while soft fascination bypasses it entirely", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Psychologist Dan Ariely's research on anticipated regret helps explain why FOMO is so difficult to resist. We are poor judges of how much we will actually enjoy an event, but we are convinced we will regret missing it. This asymmetry is exploited by social media platforms: feeds show only curated highlights, not the boredom, the friction, or the disappointed expectations that accompany most gatherings. The viewer compares their unedited interior life — their fatigue, their ambivalence — against someone else's highlight reel. FOMO is partly a comparison error, and the feed is specifically engineered to prevent correction of that error.",
+  "question": "What asymmetry does the passage identify as central to FOMO on social media?",
+  "options": [
+    { "text": "People overestimate how enjoyable their current activity is compared to alternatives.", "correct": false },
+    { "text": "Users compare their unedited inner experience against others' curated highlights.", "correct": true },
+    { "text": "Social platforms show boring content to make users feel better about staying home.", "correct": false },
+    { "text": "Dan Ariely found that anticipated regret is stronger for introverts than extroverts.", "correct": false }
+  ]
+}

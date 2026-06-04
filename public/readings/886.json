@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Merleau-Ponty analyzed the experience of a blind man using a cane and found something philosophically striking: after practice, the man does not feel the cane; he feels through it to the texture of the pavement. The cane has been absorbed into the body schema and extended its reach. This assimilation demonstrates what Merleau-Ponty called 'motor intentionality' — the body's capacity to incorporate instruments into its pre-reflective directedness toward the world. The same principle applies to digital devices: smartphones begin as tools held at arm's length but, through habitual use, become prosthetic extensions of attention itself, redirecting intentionality before conscious choice intervenes.",
+  "question": "What does the blind man's experience with a cane illustrate, according to Merleau-Ponty?",
+  "options": [
+    { "text": "That tactile perception is more reliable than visual perception for navigation", "correct": false },
+    { "text": "That tools must remain at arm's length to preserve conscious intentionality", "correct": false },
+    { "text": "That practiced instruments are absorbed into the body schema, extending its reach", "correct": true },
+    { "text": "That motor intentionality depends on reflective awareness of the instrument's weight", "correct": false }
+  ]
+}

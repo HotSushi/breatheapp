@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The digital environment presents a particular challenge to attention restoration because it is engineered to produce hard fascination without the restorative properties of soft fascination. Infinite scroll, variable-reward notifications, and algorithmically curated feeds capture involuntary attention continuously — but they do so through urgency and novelty rather than the gentle, patterned engagement of natural settings. The result is a form of consumption that mimics rest without providing it: the mind is occupied, never taxed by directed effort, yet also never allowed the reflective slack that soft fascination creates. Attention Restoration Theory, formulated before smartphones existed, describes with uncanny precision why screens leave so many people feeling simultaneously overstimulated and cognitively depleted.",
+  "question": "According to the passage, why does digital media fail to produce the restorative effect of natural soft fascination?",
+  "options": [
+    { "text": "Digital media requires directed attention, which compounds existing cognitive fatigue", "correct": false },
+    { "text": "Screens emit blue light that suppresses the parasympathetic nervous system response needed for restoration", "correct": false },
+    { "text": "Digital environments capture involuntary attention through urgency and novelty rather than gentle, patterned engagement, denying the reflective slack restoration requires", "correct": true },
+    { "text": "Digital media is processed by different neural pathways than natural scenes, bypassing restorative mechanisms entirely", "correct": false }
+  ]
+}

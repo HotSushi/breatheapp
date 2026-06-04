@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Desirable difficulty is not the same as arbitrary difficulty. Elizabeth Bjork and Robert Bjork emphasize that not all struggle enhances learning: difficulty is desirable only when it engages the retrieval and generative processes that build durable memory. Difficulty that exceeds a learner's current knowledge — presenting material before any foundation exists — produces undesirable difficulty, frustration without encoding. The distinction matters in practice: a student who cannot yet recognize a problem type will not benefit from interleaving, because discrimination requires something to discriminate. The difficulty must be at the right edge of current competence to produce the generative struggle that pays off.",
+  "question": "According to the Bjorks, when does difficulty become 'undesirable' rather than 'desirable'?",
+  "options": [
+    { "text": "When the learner is fatigued and cannot sustain retrieval effort across a long session", "correct": false },
+    { "text": "When the testing format does not match the format used during original study", "correct": false },
+    { "text": "When difficulty is introduced too gradually to challenge the learner's existing schemas", "correct": false },
+    { "text": "When material is presented before any foundation exists for the learner to engage with it", "correct": true }
+  ]
+}

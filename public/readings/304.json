@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Cognitive ease is the felt sense that thinking is going smoothly — and System 1 uses it as a proxy for truth. When a statement is printed in clear font, repeated multiple times, or rhymes with another phrase, it feels more credible, not because of its content but because processing it requires less effort. Kahneman calls this the fluency heuristic. Advertisers and propagandists exploit it routinely: a slogan repeated often enough begins to feel like established fact. The implication is disturbing. Our sense of certainty is partly a measure of processing comfort, not logical validity. Familiarity masquerades as truth.",
+  "question": "What does Kahneman call the tendency to judge easily processed information as more credible?",
+  "options": [
+    { "text": "The availability heuristic", "correct": false },
+    { "text": "The fluency heuristic", "correct": true },
+    { "text": "Cognitive dissonance", "correct": false },
+    { "text": "Confirmation bias", "correct": false }
+  ]
+}

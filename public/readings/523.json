@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The shadows on Plato's cave wall are not random noise — they are compelling, patterned, and internally consistent. The prisoners become expert shadow-readers, skilled at predicting which shape follows which. This is why liberation is unwelcome: the prisoner's competence is real, even if its object is illusory. Modern attention researchers echo this insight. Nir Eyal, in his analysis of distraction, notes that the pull of low-value stimuli is often not weakness but misapplied skill — a highly trained responsiveness firing at the wrong targets. The cave's lesson is that fluency in distraction is still distraction.",
+  "question": "According to the passage, why is liberation from the cave unwelcome to the prisoners?",
+  "options": [
+    { "text": "They fear the unknown world outside the cave", "correct": false },
+    { "text": "Their competence at reading shadows is real, even if its object is illusory", "correct": true },
+    { "text": "The sun outside is too bright for their eyes to adjust", "correct": false },
+    { "text": "They have formed social bonds with the other prisoners", "correct": false }
+  ]
+}

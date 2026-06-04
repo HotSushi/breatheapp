@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 1841, Charles Mackay documented how entire populations could be seized by shared delusion in 'Extraordinary Popular Delusions and the Madness of Crowds.' He observed that people think in herds, go mad in herds, and only recover their senses slowly — one by one. What Mackay lacked was a mechanism. Today we have one: social media algorithms that detect nascent emotional contagion and amplify it, compressing what once took months into hours. The crowd's madness no longer spreads by proximity; it spreads by engagement metrics, rewarding the most arousing content with the widest distribution.",
+  "question": "According to the passage, what does Mackay's 1841 account lack that modern analysis can now provide?",
+  "options": [
+    { "text": "Historical examples of crowd behavior", "correct": false },
+    { "text": "A mechanism explaining how collective madness spreads", "correct": true },
+    { "text": "Evidence that crowds eventually recover from delusion", "correct": false },
+    { "text": "A theory of individual psychological breakdown", "correct": false }
+  ]
+}

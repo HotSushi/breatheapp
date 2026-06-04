@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Psychologist Mihaly Csikszentmihalyi spent decades studying why people find solitude uncomfortable and discovered something that would have surprised Pascal: the problem is not existential dread but cognitive mismatch. His research showed that unstructured time produces more negative affect than almost any other condition — including work. The mind, when given no task, defaults to rumination. Csikszentmihalyi called this 'psychic entropy': the tendency of awareness to slide toward anxiety and self-criticism unless actively organized. The quiet room is not peaceful by default. It must be made so — and that making is the practice.",
+  "question": "What did Csikszentmihalyi's research identify as the default state of the mind during unstructured time?",
+  "options": [
+    { "text": "A gentle drift toward creative insight and spontaneous problem-solving", "correct": false },
+    { "text": "Psychic entropy — a slide toward anxiety and self-criticism", "correct": true },
+    { "text": "A neutral baseline of low arousal that is neither pleasant nor unpleasant", "correct": false },
+    { "text": "Existential dread rooted in awareness of one's own mortality", "correct": false }
+  ]
+}

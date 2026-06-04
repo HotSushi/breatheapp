@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Abhidhamma — Theravada Buddhism's scholastic psychology — classifies mental events into 89 types of consciousness, each arising and passing within a fraction of a second. Vipassana meditation trains the practitioner to catch this granularity directly. Mahasi Sayadaw, the twentieth-century Burmese master, taught a noting technique: silently label each arising phenomenon — 'rising,' 'falling,' 'thinking,' 'itching' — to interrupt the automatic momentum that strings moments into a seamless self. The label is not analysis; it is a brief, light touch that prevents the mind from spinning narrative from raw sensation. What remains after the note falls away is bare experience, stripped of commentary.",
+  "question": "According to the passage, what is the purpose of Mahasi Sayadaw's noting technique?",
+  "options": [
+    { "text": "To classify mental events into the 89 categories described in the Abhidhamma", "correct": false },
+    { "text": "To interrupt the automatic momentum that strings moments into a seamless self", "correct": true },
+    { "text": "To produce deep relaxation by quieting the analytical mind", "correct": false },
+    { "text": "To strengthen concentration by repeating a single word as a mantra", "correct": false }
+  ]
+}

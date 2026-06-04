@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Marcus Aurelius returned obsessively in his private journals to a single practice: retreat into oneself. 'Nowhere can man find a quieter or more untroubled retreat than in his own soul,' he wrote. Yet Marcus was emperor of Rome — perpetually surrounded by petitioners, wars, and spectacle. His Meditations were not philosophy for leisure. They were written as resistance, line by line, against the centrifugal pull of imperial life. What Marcus understood, and Pascal later confirmed, is that solitude is not a condition of geography. A quiet room without a trained mind is still a place of flight.",
+  "question": "What does the passage say Marcus Aurelius wrote his Meditations as?",
+  "options": [
+    { "text": "Philosophical reflections composed during periods of deliberate retreat from Rome", "correct": false },
+    { "text": "A guide for training future emperors in the discipline of governance", "correct": false },
+    { "text": "A record of Stoic debates he conducted with advisors and courtiers", "correct": false },
+    { "text": "Resistance, written line by line, against the centrifugal pull of imperial life", "correct": true }
+  ]
+}

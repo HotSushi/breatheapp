@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Thoreau's economy at Walden was, at its core, an economy of attention. He calculated that a laborer working for wages spent more of his life earning the money to pay for his house than a man who built a simple shelter with his own hands in a few weeks. The same logic applied to the mind: every possession beyond necessity required mental maintenance — insurance, storage, repair, worry. Philosophers since Diogenes had warned that objects possess their owners as surely as owners possess objects. Thoreau made this insight operational, reducing his possessions to a few tools so that his hours could be spent noticing rather than managing.",
+  "question": "What conclusion did Thoreau draw about possessions and mental attention?",
+  "options": [
+    { "text": "Owning tools is the only ethical form of property", "correct": false },
+    { "text": "Every possession beyond necessity requires mental maintenance", "correct": true },
+    { "text": "Physical labor frees the mind from abstract distraction", "correct": false },
+    { "text": "Diogenes rejected all tools, not only luxuries", "correct": false }
+  ]
+}

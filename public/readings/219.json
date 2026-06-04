@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Huangbo Xiyun, the ninth-century Chan master, warned his students against what he called 'the sickness of conceptual elaboration' — the mind's tendency to build a story around every experience. A sensation of cold is noted; immediately the mind appends past winters, self-pity, plans for warmth. Observation has become narration. The instruction in Chan, as in vipassana, is to stop one thought-length earlier: see the cold, do not become the memoir. Psychologist Ethan Kross at Michigan calls this habit 'chatter' — the self-referential loop that transforms experience into self-story. His research shows that brief linguistic distance — referring to oneself by name rather than 'I' — interrupts the loop with measurable speed.",
+  "question": "According to the passage, what does Huangbo Xiyun call the mind's tendency to build a story around every experience?",
+  "options": [
+    {
+      "text": "Chatter",
+      "correct": false
+    },
+    {
+      "text": "Narrative attachment",
+      "correct": false
+    },
+    {
+      "text": "Conceptual elaboration",
+      "correct": true
+    },
+    {
+      "text": "Self-referential looping",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Buddha's Eightfold Path is not a linear progression but a wheel — the Pali term is atthangika magga, meaning eight-limbed, not eight-stepped. Each limb supports the others simultaneously. Right View, the first limb, does not precede Right Mindfulness; rather, they co-arise. Theravada commentator Buddhaghosa, writing in fifth-century Sri Lanka, compared the path to a spinning chariot wheel: no single spoke can turn the wheel alone. Modern scholar Bhikkhu Bodhi notes that the path clusters into three trainings — sila (ethics), samadhi (concentration), and panna (wisdom) — with mindfulness bridging concentration and wisdom.",
+  "question": "According to the passage, how did Buddhaghosa characterize the relationship between the path's components?",
+  "options": [
+    { "text": "Each limb must be mastered sequentially before the next can begin", "correct": false },
+    { "text": "The first limb, Right View, is the foundation from which all others grow", "correct": false },
+    { "text": "The limbs co-arise and support each other like spokes of a turning wheel", "correct": true },
+    { "text": "Ethics must be perfected before concentration or wisdom can develop", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics called it logos — the rational principle threading through all things, the cosmic grammar that makes the universe intelligible rather than chaotic. Marcus Aurelius wrote that a human being is a fragment of logos made conscious, capable of perceiving the same rational order that governs the stars. This was not mysticism but epistemology: because our reason shares the same nature as the world's reason, we can, in principle, understand anything we encounter. The implication was demanding. To fail to think clearly was not merely an intellectual error; it was a betrayal of what was most essentially human.",
+  "question": "According to the passage, why did the Stoics believe humans could understand the world?",
+  "options": [
+    { "text": "Because the gods granted humans special divine insight", "correct": false },
+    { "text": "Because Marcus Aurelius trained himself through years of meditation", "correct": false },
+    { "text": "Because the universe operates according to simple, observable rules", "correct": false },
+    { "text": "Because human reason shares the same nature as the logos that governs the world", "correct": true }
+  ]
+}

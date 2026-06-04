@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Right Effort, the sixth limb of the Eightfold Path, is divided into four distinct intentions: preventing unwholesome states from arising, abandoning those already present, cultivating wholesome states not yet arisen, and maintaining those already established. The Pali Canon names this framework the four right strivings (sammappadhana). Crucially, Right Effort is not sheer willpower — the Pali term samma vayama implies balance, the middle path between straining and laxity. The Buddha illustrated this with a lute metaphor: a string too tight snaps; too loose, it produces no music. Effort calibrated to the moment is the instrument of awakening.",
+  "question": "According to the passage, what does the Buddha's lute metaphor illustrate about Right Effort?",
+  "options": [
+    { "text": "That musical practice is an ideal form of meditation", "correct": false },
+    { "text": "That effort must be precisely calibrated — neither too tense nor too slack", "correct": true },
+    { "text": "That the six limbs of the path must be practiced in harmonious sequence", "correct": false },
+    { "text": "That willpower alone is the most reliable driver of awakening", "correct": false }
+  ]
+}

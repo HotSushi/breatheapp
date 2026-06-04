@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In the Satipatthana Sutta, the Buddha outlines a four-fold foundation of mindfulness, one of which is 'mind objects' — mental phenomena arising and passing. The instruction is precise: the practitioner notes 'a thought has arisen,' then 'a thought has passed,' without identification. Modern neuroscientific framing aligns here: research by Matthew Killingsworth and Daniel Gilbert found that minds wander roughly 47 percent of waking hours, and that this wandering — not the content of the distraction — predicts unhappiness. The suttas anticipated this link: the suffering is not the thought itself but the clinging to it, the belief that an impermanent event is a permanent self.",
+  "question": "According to the passage, what did Killingsworth and Gilbert's research identify as the predictor of unhappiness — not just the distraction itself?",
+  "options": [
+    { "text": "The act of mind-wandering itself, regardless of content.", "correct": true },
+    { "text": "The specific content of the distracting thought.", "correct": false },
+    { "text": "The frequency of distraction above a threshold of 50 percent.", "correct": false },
+    { "text": "The inability to return to breath after distraction.", "correct": false }
+  ]
+}

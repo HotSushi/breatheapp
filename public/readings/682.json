@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Bluma Zeigarnik discovered in 1927 that waiters remembered uncompleted orders with far greater accuracy than finished ones — yet forgot the finished orders almost immediately after payment. Her experiments revealed that the brain allocates a persistent low-level process to any unresolved task, keeping it in an active holding state. This \"open loop\" consumes working memory bandwidth whether the task is urgent or trivial. The practical implication is stark: a list of ten unstarted tasks exacts nearly the same cognitive toll as ten tasks in mid-execution. Closing a loop doesn't require finishing the task — it requires giving the brain a trusted plan for when you will return to it.",
+  "question": "According to the passage, what does Zeigarnik's research suggest about the cognitive cost of unstarted versus in-progress tasks?",
+  "options": [
+    {
+      "text": "Ten unstarted tasks exact nearly the same cognitive toll as ten tasks in mid-execution",
+      "correct": true
+    },
+    {
+      "text": "Unstarted tasks consume more working memory than tasks in mid-execution",
+      "correct": false
+    },
+    {
+      "text": "In-progress tasks are more stressful than unstarted tasks because they demand immediate action",
+      "correct": false
+    },
+    {
+      "text": "Working memory is only taxed by tasks that are past their deadline",
+      "correct": false
+    }
+  ]
+}

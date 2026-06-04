@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Ericsson's research revealed something troubling about how professionals practice: most don't. They perform. A surgeon who has conducted three thousand procedures has not necessarily practiced surgery for three thousand hours — she has performed it, relying on established habits. Deliberate practice requires isolating specific weaknesses and targeting them with designed exercises, as a concert pianist might spend an hour on a single difficult bar rather than running through the whole sonata. Ericsson observed that true deliberate practice rarely exceeds four hours per day because the mental resources it demands are finite. The constraint is not time but the intensity of focused attention that genuine improvement requires.",
+  "question": "Why does Ericsson argue that deliberate practice rarely exceeds four hours per day?",
+  "options": [
+    { "text": "Physical fatigue limits how long musicians and athletes can train safely", "correct": false },
+    { "text": "Research institutions impose ethical caps on study participants' practice time", "correct": false },
+    { "text": "It demands a finite intensity of focused attention that cannot be sustained indefinitely", "correct": true },
+    { "text": "Practicing longer leads to diminishing returns after the first four hours", "correct": false }
+  ]
+}

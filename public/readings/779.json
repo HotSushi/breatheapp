@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Magnesium is among the most overlooked cognitive minerals. It acts as a gatekeeper for NMDA receptors — the ion channels that regulate glutamate signaling and are essential for synaptic plasticity and memory formation. When magnesium levels are adequate, it blocks the NMDA receptor at rest, preventing the runaway excitation that leads to neural fatigue and cognitive noise. Neuroscientist Guosong Liu at MIT demonstrated that raising magnesium levels specifically in the brain — using a compound called magnesium-L-threonate, which crosses the blood-brain barrier — measurably improved working memory and long-term potentiation in aging rats. The brain's signal clarity depends partly on what keeps its receptors quiet.",
+  "question": "According to the passage, what specific function does magnesium perform at NMDA receptors?",
+  "options": [
+    { "text": "It activates glutamate release to enhance learning", "correct": false },
+    { "text": "It blocks the receptor at rest, preventing runaway excitation", "correct": true },
+    { "text": "It increases receptor density in the hippocampus during sleep", "correct": false },
+    { "text": "It regulates glucose transport across the blood-brain barrier", "correct": false }
+  ]
+}

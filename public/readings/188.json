@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics distinguished between two uses of attention: prosoche, mindful watchfulness of one's own impressions, and phantasia, the raw stream of appearances presenting themselves to consciousness. Phantasia was morally neutral — appearances arrived unbidden, shaped by memory, habit, and desire. Prosoche was the distinctly human act: the pause between appearance and assent in which reason examined whether an impression corresponded to reality. Pierre Hadot, the twentieth-century scholar who recovered these practices for modern readers, called prosoche 'the fundamental Stoic spiritual exercise.' To live naturally, he argued, was to sustain this watchfulness habitually — not as a technique but as the basic posture of a mind functioning as it was designed to function.",
+  "question": "According to the passage, what did Pierre Hadot call prosoche?",
+  "options": [
+    { "text": "The raw stream of appearances presenting themselves to consciousness", "correct": false },
+    { "text": "The pause between sensation and rational judgment", "correct": false },
+    { "text": "The fundamental Stoic spiritual exercise", "correct": true },
+    { "text": "The Stoic method for extinguishing unwanted desires", "correct": false }
+  ]
+}

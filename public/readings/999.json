@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The writer Jenny Odell's concept of 'doing nothing' is deliberately provocative. It does not mean passivity. It means withdrawing productive attention from the market — refusing to convert every moment of awareness into content, data, or output. Odell draws on the bioregionalist tradition to argue that re-inhabiting a specific place, paying close attention to its birds, its light, its seasonal rhythms, is a counter-practice to the placeless, timeless, frictionless world the platforms manufacture. Sovereignty over attention, in this reading, is inseparable from belonging somewhere — from the kind of slow, particular noticing that cannot be monetized because it refuses to generalize.",
+  "question": "According to the passage, what does Jenny Odell mean by 'doing nothing'?",
+  "options": [
+    { "text": "Practicing stillness and meditation to reduce anxiety", "correct": false },
+    { "text": "Withdrawing productive attention from the market and refusing to convert awareness into output", "correct": true },
+    { "text": "Avoiding digital devices entirely in favor of outdoor activity", "correct": false },
+    { "text": "Slowing down productivity to prevent burnout and recover creative capacity", "correct": false }
+  ]
+}

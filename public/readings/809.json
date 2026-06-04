@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The Buddhist philosopher Vasubandhu, writing in the fourth century, argued that what we take to be a continuous stream of experience is actually a rapid succession of discrete mind-moments, each arising and passing away so quickly that they create the illusion of flow — much as individual film frames create the illusion of motion. This view, called 'momentariness,' has unexpected resonance with modern neuroscience. Researchers including Wolf Singer have identified gamma-wave oscillations (30–80 Hz) that may bind disparate neural processes into unified moments of experience. The stream, it seems, is stitched together from discrete flickers at the edge of measurable time.",
+  "question": "What did Vasubandhu call the view that experience is composed of discrete rapidly-passing mind-moments?",
+  "options": [
+    { "text": "Momentariness", "correct": true },
+    { "text": "Dependent origination", "correct": false },
+    { "text": "Impermanence binding", "correct": false },
+    { "text": "Gamma coherence", "correct": false }
+  ]
+}

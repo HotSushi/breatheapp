@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Spaced repetition software like Anki operationalizes the spacing effect through an algorithm first formalized by Piotr Wozniak in 1987. His SM-2 algorithm schedules each card for review at the precise interval when forgetting becomes likely, adapting to individual performance. What makes this approach powerful is not merely the intervals themselves but their cumulative compounding: each successful review extends the next interval exponentially. A fact reviewed five times using spaced repetition requires less total study time than the same fact reviewed fifteen times in a single session — a counterintuitive finding that still surprises most students trained in block-study habits.",
+  "question": "According to the passage, what makes spaced repetition more efficient than massed practice in terms of total study time?",
+  "options": [
+    { "text": "The algorithm personalizes content difficulty based on a learner's background knowledge", "correct": false },
+    { "text": "Each successful review exponentially extends the next interval, compounding over time", "correct": true },
+    { "text": "Reviewing material just before sleep activates memory consolidation processes", "correct": false },
+    { "text": "The software removes low-priority items to focus effort on the most important facts", "correct": false }
+  ]
+}

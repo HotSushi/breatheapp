@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1990s studies on habit formation, researchers at MIT found that a 'habit loop' requires a psychological component Duhigg later called 'craving': the anticipation of the reward, not merely the reward itself, drives the loop. Wolfram Schultz's work on dopamine neurons showed that dopamine releases shifted, over time, from the reward moment backward to the cue moment — the brain begins firing in anticipation. This anticipatory dopamine is what produces craving. When the expected reward is absent, a sharp dopamine dip signals error, motivating corrective behavior. The loop, in short, is powered by prediction, not pleasure.",
+  "question": "According to the passage, what does Wolfram Schultz's dopamine research reveal about how habits are powered?",
+  "options": [
+    { "text": "Dopamine is released most strongly during the routine phase of the habit loop", "correct": false },
+    { "text": "Pleasure from the reward is the primary driver of habit repetition", "correct": false },
+    { "text": "Dopamine release shifts from the reward moment to the cue, powering anticipation rather than pleasure", "correct": true },
+    { "text": "The basal ganglia blocks dopamine until the full loop is completed", "correct": false }
+  ]
+}

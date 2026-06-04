@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius practiced a meditation he called ekpyrosis — imagining the periodic Stoic conflagration in which the cosmos collapses and renews. He applied this not to cultivate despair but to test the weight of his concerns: would this controversy survive the fire? The technique asks you to project forward to a moment when your current distraction will be utterly gone, then work backward. In that light, the notification, the slight, the argument about credit — they fail the test immediately. Only work that adds to virtue or serves others survives the ekpyrosis thought experiment with any dignity.",
+  "question": "What is the purpose of Marcus Aurelius's ekpyrosis meditation as described in the passage?",
+  "options": [
+    { "text": "To prepare emotionally for inevitable personal loss and grief", "correct": false },
+    { "text": "To test the weight of concerns by projecting to a moment when they will be completely gone", "correct": true },
+    { "text": "To achieve a trance state that suppresses the default mode network", "correct": false },
+    { "text": "To rehearse Stoic cosmology as a form of intellectual discipline", "correct": false }
+  ]
+}

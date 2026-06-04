@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus, the third head of the Stoa, argued that logos was not merely a cosmic principle but the active ingredient in every human judgment. When we reason well, he wrote, we are participating in the same intelligence that arranges the planets and governs the seasons. The Stoics distinguished this from mere cleverness: a sharp rhetorician might win arguments while remaining entirely estranged from logos. True rationality, Chrysippus insisted, required alignment between one's inner discourse and the objective structure of reality — a standard few minds ever fully meet.",
+  "question": "How did Chrysippus distinguish logos-guided reasoning from mere cleverness?",
+  "options": [
+    { "text": "Cleverness wins arguments but logos requires alignment with the objective structure of reality", "correct": true },
+    { "text": "Clever minds argue quickly; logos requires slow, deliberate thought", "correct": false },
+    { "text": "Cleverness relies on memory; logos relies on intuition", "correct": false },
+    { "text": "Logos is accessible only to philosophers trained in formal logic", "correct": false }
+  ]
+}

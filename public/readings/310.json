@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Kahneman's most personal insight in Thinking Fast and Slow concerns the experiencing self and the remembering self — a distinction that cuts across both Systems. The experiencing self lives moment to moment, registering pain or pleasure in real time. The remembering self constructs a narrative afterward, weighting the peak and the ending heavily while ignoring duration entirely. This peak-end rule means a colonoscopy that ends on a less painful note is remembered as better than a shorter but more abruptly ending one, even if total discomfort was greater. We do not choose between experiences; we choose between memories of them.",
+  "question": "What does the peak-end rule state about how the remembering self evaluates an experience?",
+  "options": [
+    { "text": "It averages discomfort uniformly across the entire duration", "correct": false },
+    { "text": "It weights the peak and the ending heavily while largely ignoring duration", "correct": true },
+    { "text": "It prioritizes the beginning and the end of an experience equally", "correct": false },
+    { "text": "It relies on System 2 to reconstruct a full timeline of events", "correct": false }
+  ]
+}

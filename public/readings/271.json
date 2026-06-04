@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Dzogchen, the 'Great Perfection' teaching at the apex of Tibetan Buddhist practice, holds that the mind's natural state is already awake — not something to be constructed through effort but recognized as it always was. The Nyingma master Longchenpa, writing in fourteenth-century Tibet, described this recognition as discovering that one has been wearing a jewel around one's neck while searching for it everywhere else. The Tibetan term 'rigpa' names this intrinsic wakefulness: a luminous, spacious awareness prior to thought, neither blank nor distracted, that underlies every mental event without being altered by any of them.",
+  "question": "According to the passage, what does the Tibetan term 'rigpa' refer to?",
+  "options": [
+    { "text": "A meditative state achieved after years of concentrated practice", "correct": false },
+    { "text": "The compassion cultivated by following the Bodhisattva vow", "correct": false },
+    { "text": "An intrinsic wakefulness that underlies every mental event without being altered by them", "correct": true },
+    { "text": "The visualization techniques taught in Nyingma tantric ritual", "correct": false }
+  ]
+}

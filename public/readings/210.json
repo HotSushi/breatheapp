@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The breath as anchor works through a mechanism Zen teacher Shunryu Suzuki called 'returning home': each time awareness drifts and comes back, the return itself is the practice, not a failure of it. This reframing matters because most beginners treat distraction as evidence of incompetence. Neuroscientist Amishi Jha's research at the University of Miami demonstrates that the moment of noticing a wandered mind and redirecting it activates the same attentional circuitry as voluntary focus — the return is not a reset but a repetition, strengthening exactly the capacity the practice intends to build. The breath does not hold the mind; it gives the mind a place to keep coming back to.",
+  "question": "According to the passage, what does Amishi Jha's research reveal about the moment of noticing a wandered mind?",
+  "options": [
+    { "text": "It triggers a stress response that paradoxically strengthens the practitioner's resolve", "correct": false },
+    { "text": "It deactivates the default mode network more effectively than sustained focus does", "correct": false },
+    { "text": "It is neurologically identical to voluntary focus, strengthening attentional capacity", "correct": false },
+    { "text": "It activates the same attentional circuitry as voluntary focus, making it a repetition not a reset", "correct": true }
+  ]
+}

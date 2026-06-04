@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Cognitive switching costs are asymmetric: switching from a demanding task to a simpler one is cheaper than the reverse. Researchers call this the \"task-difficulty asymmetry.\" When you transition into a more complex task, the brain must not only load new rules but also suppress the easier schema still active from the previous task. This inhibitory effort consumes prefrontal resources before any real work begins. The implication is counterintuitive: starting with hard work and moving to easier tasks is neurologically more efficient than warming up with simple tasks first, because each escalation carries its own suppression cost.",
+  "question": "Why is switching from a simpler to a more demanding task more costly than the reverse?",
+  "options": [
+    { "text": "Complex tasks require more oxygen and blood flow to the brain", "correct": false },
+    { "text": "Simple tasks are processed by different brain regions that take longer to deactivate", "correct": false },
+    { "text": "The brain must also suppress the easier schema still active from the previous task", "correct": true },
+    { "text": "Working memory capacity shrinks when switching upward in task difficulty", "correct": false }
+  ]
+}

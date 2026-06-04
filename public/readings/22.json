@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The nucleus accumbens — a small cluster of neurons deep in the forebrain — sits at the intersection of motivation, memory, and movement. It receives dopamine from the ventral tegmental area and uses that signal to assign motivational salience: how much should I pursue this? When social media platforms surface a like, a comment, or an unexpected message, the nucleus accumbens lights up in neuroimaging studies much as it does with food or sex. The brain does not distinguish between biological imperatives and engineered ones. It simply asks whether the signal was unexpected, and if so, flags it as worth pursuing — regardless of whether any real value follows.",
+  "question": "What does the nucleus accumbens use dopamine signals to determine?",
+  "options": [
+    { "text": "How much motivational salience to assign to a stimulus", "correct": true },
+    { "text": "Whether a memory should be stored in long-term storage", "correct": false },
+    { "text": "The physical intensity of a pleasurable experience", "correct": false },
+    { "text": "How quickly the prefrontal cortex should evaluate a decision", "correct": false }
+  ]
+}

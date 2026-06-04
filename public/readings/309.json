@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Thinking Fast and Slow is not merely a catalog of biases — it is an argument about overconfidence. Kahneman reserves his sharpest skepticism for experts who mistake the fluency of their intuitions for validity. A chess grandmaster's pattern recognition is earned through thousands of hours in structured, feedback-rich environments. But a stock analyst predicting markets, or a CEO trusting gut instinct in novel situations, operates without the feedback loops that would have corrected bad intuitions. The illusion of understanding, Kahneman argues, is most dangerous in high-stakes domains where feedback is delayed, ambiguous, or absent.",
+  "question": "According to the passage, under what conditions does expert intuition earn its validity?",
+  "options": [
+    { "text": "When the expert has accumulated more than twenty years of experience", "correct": false },
+    { "text": "When the domain involves high financial stakes", "correct": false },
+    { "text": "When the environment provides structured, feedback-rich practice conditions", "correct": true },
+    { "text": "When System 2 has been deliberately trained to defer to System 1", "correct": false }
+  ]
+}

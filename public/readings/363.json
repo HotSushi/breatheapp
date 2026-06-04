@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Change blindness and inattentional blindness are related but distinct failures. Change blindness occurs when a scene changes and observers miss it due to a visual disruption — a blink, a cut, a flicker. Inattentional blindness requires no disruption at all: the unexpected object is simply never processed because attention is elsewhere. Ronald Rensink's work on change blindness in the 1990s showed that people fail to notice even dramatic alterations to images when a brief flicker separates the original from the changed version. Together, these phenomena reveal that the brain is not recording a continuous film of the world. It is sketching, interpolating, and perpetually guessing — with confidence that wildly exceeds its accuracy.",
+  "question": "According to the passage, what distinguishes inattentional blindness from change blindness?",
+  "options": [
+    { "text": "Inattentional blindness involves missing changes during a visual disruption like a blink", "correct": false },
+    { "text": "Change blindness affects older observers more than younger ones", "correct": false },
+    { "text": "Change blindness requires a disruption to occur, while inattentional blindness does not", "correct": true },
+    { "text": "Inattentional blindness was discovered later and is considered less significant", "correct": false }
+  ]
+}

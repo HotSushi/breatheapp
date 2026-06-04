@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The Japanese concept of dokusho-ryoho — reading as therapy — treats the sustained encounter with a text as a practice of focused solitude. Unlike the ambient stimulation of scrolling, reading a physical book requires the reader to generate mental imagery, supply emotional context, and tolerate ambiguity without immediate resolution. Psychologist Victor Nell called this state \"ludic reading\": a trance-like absorption in which heart rate slows and peripheral awareness fades. Nell's experiments found that skilled readers could enter this state within minutes, achieving measurable physiological calm comparable to guided meditation.",
+  "question": "What term did psychologist Victor Nell use to describe the trance-like state of deep reading?",
+  "options": [
+    { "text": "Dokusho-ryoho", "correct": false },
+    { "text": "Ludic reading", "correct": true },
+    { "text": "Focused solitude", "correct": false },
+    { "text": "Narrative absorption", "correct": false }
+  ]
+}

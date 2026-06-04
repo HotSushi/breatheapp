@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Herbert Simon was the first economist to frame the problem precisely. In 1971 he wrote that a wealth of information creates a poverty of attention. He observed that information consumes the attention of its recipients, so an abundance of information necessarily means a scarcity of whatever attention can absorb it. Decades before the web, Simon identified the structural paradox at the heart of the information age: every new source of knowledge also makes a competing claim on the finite resource of human concentration. The supply of messages has grown exponentially; the hours in a human day have not.",
+  "question": "What paradox did Herbert Simon identify about the relationship between information and attention?",
+  "options": [
+    { "text": "More information makes it easier to find what is relevant", "correct": false },
+    { "text": "The wealth of information is only a problem for people in rich countries", "correct": false },
+    { "text": "Information overload can be solved by better search algorithms", "correct": false },
+    { "text": "An abundance of information creates a scarcity of attention to absorb it", "correct": true }
+  ]
+}

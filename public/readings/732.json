@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Cortisol is not the enemy of thought — in brief, timed doses it actually sharpens attention. The problem is duration. Neuroscientist Bruce McEwen coined the term 'allostatic load' to describe the cumulative cost of chronic stress on neural tissue. When cortisol remains elevated for days or weeks, it begins to prune dendritic branches in the hippocampus, the region responsible for encoding new memories. Simultaneously, it thickens the dendritic trees of the amygdala, making threat-detection circuits more sensitive and harder to quiet. The brain, in effect, remodels itself for a world of persistent danger — at the expense of the calm, spacious attention that learning requires.",
+  "question": "What does Bruce McEwen's term 'allostatic load' describe?",
+  "options": [
+    { "text": "The brain's capacity to adapt positively to short-term stress", "correct": false },
+    { "text": "The cumulative cost of chronic stress on neural tissue", "correct": true },
+    { "text": "The threshold at which cortisol stops sharpening attention", "correct": false },
+    { "text": "A measure of hippocampal volume in healthy adults", "correct": false }
+  ]
+}

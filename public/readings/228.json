@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Contemporary cognitive neuroscience offers an unlikely corroboration of anicca. Research by Judson Brewer at Brown University's Mindfulness Center found that distracting urges — including craving-driven thoughts — follow a predictable arc: they rise, peak, and subside within roughly 90 seconds if not reinforced. Brewer calls this 'urge surfing,' a term borrowed from Alan Marlatt's addiction therapy but grounded in the same insight the Abhidhamma categorizes as momentary arising and passing. What prolongs distraction is not the thought itself but the secondary process of wanting it gone, judging it as failure, or spinning narrative around it — each of which re-triggers the original impulse.",
+  "question": "According to Judson Brewer's research cited in the passage, what most prolongs a distracting thought?",
+  "options": [
+    { "text": "The intensity of the original craving or stimulus.", "correct": false },
+    { "text": "Secondary reactions such as wanting the thought gone or judging it as failure.", "correct": true },
+    { "text": "Insufficient breath-awareness during the thought's peak.", "correct": false },
+    { "text": "The 90-second neurological window being exceeded.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "In Book IV of the Meditations, Aurelius writes: \"Confine yourself to the present.\" This is not an instruction to ignore planning or consequence, but a precise diagnosis of where suffering originates. The Stoics identified two directions in which attention reliably produces misery: toward a past that cannot be changed, and toward a future that cannot be controlled. The present moment, by contrast, is the only location where judgment and action are actually possible. For Aurelius, narrowing attention to now was not a spiritual luxury but the fundamental precondition for rational agency.",
+  "question": "According to the passage, why did Aurelius consider confinement to the present moment a precondition for rational agency?",
+  "options": [
+    { "text": "Because the present moment produces the greatest sensory pleasure", "correct": false },
+    { "text": "Because past and future are illusions constructed by the mind", "correct": false },
+    { "text": "Because the present is the only location where judgment and action are actually possible", "correct": true },
+    { "text": "Because Stoics believed time moved in cycles and only the present was real", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Mindful dishwashing is not primarily about the dishes. It is a laboratory for noticing resistance — the subtle irritation that arises when doing something regarded as beneath us or merely instrumental. That irritation is informative. It reveals a hierarchy of experience in which certain moments are granted full presence while others are endured. Thich Nhat Hanh argued that this hierarchy is the source of chronic dissatisfaction: we are always waiting for the important moment, which never arrives, because we have practiced dismissing the present one. Treating the dishpan as a meditation cushion is less about the sink than about dismantling that dismissiveness at its root.",
+  "question": "According to the passage, what does irritation during dishwashing actually reveal?",
+  "options": [
+    { "text": "That the person has an aversion to domestic labor rooted in cultural conditioning", "correct": false },
+    { "text": "That the mind needs longer periods of formal meditation to develop patience", "correct": false },
+    { "text": "That we have constructed a hierarchy where certain moments deserve presence and others do not", "correct": true },
+    { "text": "That the task is genuinely incompatible with meditative states of mind", "correct": false }
+  ]
+}

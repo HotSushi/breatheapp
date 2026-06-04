@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Gita identifies three gunas — qualities of nature — that shape the character of all action: tamas (inertia), rajas (restless striving), and sattva (clarity and balance). Rajasic action is driven by desire and anxiety about results; it is the state of the perpetually distracted, always reaching for the next thing. Sattvic action, by contrast, arises from duty and is performed with full presence and equanimity. Krishna presents the gunas not as fixed personality types but as dynamic states that respond to habit, diet, and deliberate practice. The attentive practitioner can cultivate sattva by repeatedly choosing focused, disinterested engagement over anxious, reward-seeking effort.",
+  "question": "How does the passage characterize rajasic action?",
+  "options": [
+    { "text": "Inert, slow-moving, and resistant to engagement with any task", "correct": false },
+    { "text": "Driven by desire and anxiety about results, always reaching for the next thing", "correct": true },
+    { "text": "Clear and balanced, arising from duty rather than personal ambition", "correct": false },
+    { "text": "A fixed personality trait that cannot be altered through practice", "correct": false }
+  ]
+}

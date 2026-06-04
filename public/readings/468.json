@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The philosopher Albert Borgmann's concept of \"device paradigm\" illuminates why digital minimalism is harder than mere deletion. Borgmann observed that modern devices hide their machinery to deliver a commodity effortlessly — a furnace delivers warmth without the effort of gathering wood — and that this ease displaces what he called \"focal practices\": activities that demand engagement and in doing so center a life with meaning. A smartphone offers connection as a commodity, displacing the richer focal practice of sustained, embodied relationship. Digital minimalism, properly understood, is the recovery of focal practices, not simply the reduction of screen time.",
+  "question": "According to the passage, what did Borgmann call activities that demand engagement and center a life with meaning?",
+  "options": [
+    { "text": "Deep practices", "correct": false },
+    { "text": "Focal practices", "correct": true },
+    { "text": "Device paradigms", "correct": false },
+    { "text": "Commodity rituals", "correct": false }
+  ]
+}

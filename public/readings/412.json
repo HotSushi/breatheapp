@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Gloria Mark, a professor of informatics at UC Irvine, has spent two decades shadowing knowledge workers in their offices, logging every interruption with a stopwatch. Her early fieldwork, published in 2004, revealed that office workers were interrupted or self-interrupted roughly every three minutes. What surprised her was that most interruptions were self-generated — people checking social media, refreshing inboxes, or switching tabs unprompted. Over time, she found that heavy digital multitaskers developed shorter and shorter voluntary attention spans. The environment hadn't just fractured their focus; it had recalibrated their internal threshold for boredom, making sustained attention feel increasingly unnatural.",
+  "question": "What did Gloria Mark find surprising about interruptions in knowledge workers?",
+  "options": [
+    { "text": "That notifications arrived more frequently on mobile devices than desktops", "correct": false },
+    { "text": "That managers were the most common source of disruption", "correct": false },
+    { "text": "That most interruptions were self-generated rather than externally imposed", "correct": true },
+    { "text": "That open-plan offices doubled the rate of distraction compared to private offices", "correct": false }
+  ]
+}

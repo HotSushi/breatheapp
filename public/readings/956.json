@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The collapse of long-form thinking is visible not only in what people read but in what they produce. Studies of student writing over the past two decades show a shift in essay structure: fewer subordinate clauses, shorter paragraphs, a declining ratio of evidence-to-assertion. Cognitive psychologist Jean Twenge links these trends to what she calls \"iGen\" habits — generations whose formative reading occurred predominantly on screens optimized for scanning rather than parsing. The sentence, not the paragraph, has become the unit of thought; the paragraph, not the essay, has become the unit of argument. Each compression forfeits a layer of reasoning.",
+  "question": "What shift in essay structure does the passage describe in student writing over recent decades?",
+  "options": [
+    { "text": "More creative vocabulary but less factual accuracy", "correct": false },
+    { "text": "A shift toward longer paragraphs but shorter overall essays", "correct": false },
+    { "text": "Fewer subordinate clauses, shorter paragraphs, and a declining ratio of evidence-to-assertion", "correct": true },
+    { "text": "Greater reliance on external sources but weaker original argumentation", "correct": false }
+  ]
+}

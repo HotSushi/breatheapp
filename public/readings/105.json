@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius repeatedly uses the image of the river to describe time. Everything flows past; nothing clings. He writes in Book IV that the whole of time is \"a river of vanishing moments,\" and that emperors, philosophers, and empires are equally carried off. This is not nihilism. The point is selective attention: if everything passes, then what deserves your attention right now? The river metaphor does not counsel despair but discrimination. Aurelius uses impermanence not to diminish present action but to strip it of the anxiety that comes from treating any given moment as though it will last forever.",
+  "question": "In the passage, what purpose does Aurelius's river metaphor serve according to the author?",
+  "options": [
+    { "text": "To argue that human achievements are ultimately meaningless", "correct": false },
+    { "text": "To counsel withdrawal from public life in favor of contemplation", "correct": false },
+    { "text": "To show that time is an illusion and only the soul is permanent", "correct": false },
+    { "text": "To strip present action of anxiety by removing the expectation that any moment will last", "correct": true }
+  ]
+}

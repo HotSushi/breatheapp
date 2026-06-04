@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca opens his first letter to Lucilius with a command that sounds almost rude: 'Ita fac, mi Lucili: vindica te tibi' — 'Do this, my Lucilius: claim yourself for yourself.' The verb vindica is a legal term meaning to assert ownership, to reclaim what has been wrongfully seized. Seneca's premise is that time is not lost through idleness alone but through surrender — we hand our hours to others without noticing, then wonder where the day went. His remedy is not a schedule but a posture: treat every hour as property worth actively defending.",
+  "question": "What legal concept does Seneca invoke with the Latin verb 'vindica'?",
+  "options": [
+    { "text": "The right to appeal a judgment before a magistrate", "correct": false },
+    { "text": "Asserting ownership over something wrongfully seized", "correct": true },
+    { "text": "A formal declaration of debt forgiveness", "correct": false },
+    { "text": "The transfer of guardianship to a new party", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In her notebooks, Weil extended the ethics of attention to justice itself. She wrote that the love of neighbor, properly understood, is the ability to ask 'What are you going through?' — and to actually wait for the answer. This makes attention a political as well as spiritual act. The socially powerful, she observed, are shielded from others' suffering not by cruelty but by inattention: they have cultivated the habit of not fully receiving the reality of those beneath them. Injustice, on this reading, is partly a failure of perception — a trained inability to see what is directly before one's eyes.",
+  "question": "According to Weil, what primarily shields the socially powerful from perceiving others' suffering?",
+  "options": [
+    { "text": "Deliberate cruelty and moral indifference", "correct": false },
+    { "text": "Geographic and social segregation from those who suffer", "correct": false },
+    { "text": "A cultivated habit of inattention", "correct": true },
+    { "text": "Ideological frameworks that rationalize inequality", "correct": false }
+  ]
+}

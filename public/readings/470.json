@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Intentional technology use is not an ascetic retreat but a form of value clarification. Newport's concept of a \"digital declutter\" — a thirty-day period of stepping away from optional technologies — is less about the absence of tools than about the presence of attention. During the declutter, practitioners are asked not to simply abstain but to fill reclaimed time with activities that are challenging, embodied, and social in an analog sense: craft, conversation, physical skill. The goal is to discover concretely which technologies, when reintroduced on the user's own terms, genuinely enrich the activities that already give life its texture.",
+  "question": "According to the passage, what are practitioners asked to do during a digital declutter besides abstaining from optional technologies?",
+  "options": [
+    { "text": "Keep a journal tracking which digital tools they miss most and why", "correct": false },
+    { "text": "Fill reclaimed time with challenging, embodied, and analog-social activities", "correct": true },
+    { "text": "Audit which apps consume the most screen time using tracking software", "correct": false },
+    { "text": "Gradually reintroduce tools one at a time to test their effect on mood", "correct": false }
+  ]
+}

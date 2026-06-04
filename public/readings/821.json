@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In 1995, philosopher David Chalmers drew a line that neuroscience has yet to cross. The 'easy problems' of consciousness — explaining how the brain integrates information, controls behavior, or responds to stimuli — are difficult scientifically but tractable in principle. The 'hard problem' is different: why does any of this processing feel like something? Why does neural activity corresponding to red not just represent red but produce the vivid, irreducible experience of redness? Chalmers argued that no functional explanation, however complete, bridges the gap between physical mechanism and subjective experience. The explanatory gap is not a gap in knowledge but in the logic of reduction itself.",
+  "question": "According to Chalmers, what makes the hard problem fundamentally different from the 'easy problems' of consciousness?",
+  "options": [
+    { "text": "The hard problem requires more advanced neuroscientific equipment to investigate", "correct": false },
+    { "text": "The easy problems involve subjective feeling while the hard problem concerns behavior only", "correct": false },
+    { "text": "No functional or physical explanation can logically account for why processing produces subjective experience", "correct": true },
+    { "text": "The hard problem is harder because consciousness cannot be studied empirically at all", "correct": false }
+  ]
+}

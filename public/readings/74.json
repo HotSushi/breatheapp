@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "During the 1990s, neurologist Antonio Damasio proposed the somatic marker hypothesis: bodily states \u2014 elevated heart rate, gut tension, muscular bracing \u2014 become tagged to prior experiences and resurface as emotional signals guiding future decisions. Crucially, these markers do not merely influence emotion; they compete with deliberate reasoning for attentional bandwidth. When the body is in high-arousal noise \u2014 shallow breath, elevated pulse, clenched posture \u2014 the insula floods the prefrontal cortex with competing signals. Attentional clarity is therefore partly a bodily hygiene problem. Damasio's patients with damaged insulas lost not just emotional nuance but the capacity to plan and concentrate.",
+  "question": "According to the passage, how do somatic markers impair attentional clarity?",
+  "options": [
+    {
+      "text": "By flooding the prefrontal cortex with competing signals from high-arousal body states",
+      "correct": true
+    },
+    {
+      "text": "By suppressing dopamine release in the reward pathways during cognitive tasks",
+      "correct": false
+    },
+    {
+      "text": "By diverting glucose away from the frontal lobes toward the motor cortex",
+      "correct": false
+    },
+    {
+      "text": "By activating the hippocampus and triggering involuntary memory retrieval",
+      "correct": false
+    }
+  ]
+}

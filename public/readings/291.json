@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Pali word sati is routinely translated as 'mindfulness,' but scholar Bhikkhu Bodhi argues this rendering misses a critical dimension. Sati derives from a root meaning 'to remember,' and in the Theravada tradition it primarily denotes the faculty of bearing things in mind — keeping the object of meditation present to awareness without letting it slip away. Where modern usage frames mindfulness as passive open attention, sati is an active, retentive function: the mind holding its ground. Forgetting is not a moral failure but simply the mind's default drift, and sati is what interrupts it.",
+  "question": "According to Bhikkhu Bodhi, what is the primary function of sati in Theravada tradition?",
+  "options": [
+    { "text": "Cultivating open, non-judgmental awareness of sensory experience", "correct": false },
+    { "text": "Bearing things in mind and keeping the meditation object present without letting it slip away", "correct": true },
+    { "text": "Suppressing discursive thought to achieve mental stillness", "correct": false },
+    { "text": "Recalling past teachings so they can be applied in the present moment", "correct": false }
+  ]
+}

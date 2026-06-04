@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Interoception — the brain's continuous sampling of the body's internal state — operates on a different timescale than conscious thought. Researcher Sahib Khalsa and colleagues have shown that interoceptive sensitivity varies widely between individuals, and that those with sharper interoception perform better on tasks requiring sustained attention. The mechanism appears to be synchronization: heartbeats generate rhythmic neural pulses that phase-lock with cortical oscillations, creating predictable windows for focused processing. Poor attenders are often not distracted by the world; they are simply out of phase with their own bodies. Retraining attention may begin less with the mind than with listening to the pulse.",
+  "question": "What mechanism does the passage describe to explain the link between interoception and sustained attention?",
+  "options": [
+    { "text": "Elevated cortisol suppressing prefrontal noise during heartbeat peaks", "correct": false },
+    { "text": "Conscious breathing techniques slowing default mode network activity", "correct": false },
+    { "text": "Heartbeats generating neural pulses that phase-lock with cortical oscillations", "correct": true },
+    { "text": "Interoceptive signals reducing activity in the amygdala during focus tasks", "correct": false }
+  ]
+}

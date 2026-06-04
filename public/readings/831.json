@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Edmund Husserl coined the term 'intentionality' to describe consciousness's fundamental structure: awareness is always awareness of something. But presence — genuine phenomenological presence — demands more than directedness. It requires what Husserl called 'retention and protention,' the mind's simultaneous grip on the just-past and the about-to-come. When you are fully in an experience, these temporal horizons collapse into a thick now. The moment expands. Husserl's student Martin Heidegger argued this expansion reveals our deepest mode of being, what he called 'authentic temporality' — a state most of us rarely inhabit because anxiety perpetually pulls us toward future or past.",
+  "question": "According to Husserl, what does genuine presence require beyond mere directedness of consciousness?",
+  "options": [
+    { "text": "Suppression of emotional responses to the present moment", "correct": false },
+    { "text": "A complete absence of any awareness of time passing", "correct": false },
+    { "text": "The mind simultaneously holding the just-past and the about-to-come", "correct": true },
+    { "text": "Deliberate attention to only a single sensory channel at a time", "correct": false }
+  ]
+}

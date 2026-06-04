@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The concept of 'preference falsification,' developed by economist Timur Kuran, explains how individuals publicly express opinions they privately reject to conform with perceived majority views — and how this distorts the information collective attention relies on. Everyone performs conformity; everyone privately suspects they are not alone in their dissent; no one defects because defection appears costlier than it is. When the preference cascade finally breaks — as when a single viral post reveals widespread private skepticism — the crowd can reverse direction with bewildering speed. What looked like consensus was always an equilibrium of mutual performance, held together by shared misperception of the crowd's true composition.",
+  "question": "According to Kuran's theory, what holds a false preference consensus together?",
+  "options": [
+    { "text": "Active enforcement by platform algorithms and moderators", "correct": false },
+    { "text": "Genuine agreement among most members of the crowd", "correct": false },
+    { "text": "Shared misperception of the crowd's true private composition", "correct": true },
+    { "text": "The high cost of producing viral content that challenges the consensus", "correct": false }
+  ]
+}

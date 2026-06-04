@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Babylonian Talmud records a debate between the schools of Shammai and Hillel about the minimum unit of Torah study sufficient to constitute genuine engagement. Shammai demanded mastery of complete sections; Hillel argued that even a single verse, absorbed with full attention, fulfilled the obligation. The disagreement was never purely academic. Hillel's position embedded a radical claim: that attention fully given to a fragment is more spiritually complete than distracted engagement with the whole. Depth of presence, not breadth of coverage, was the measure. The partial reading done with wholeness surpasses the complete reading done without it.",
+  "question": "According to the passage, what was the core of Hillel's position in the debate?",
+  "options": [
+    { "text": "That students should rotate between tractates to avoid fatigue", "correct": false },
+    { "text": "That mastery of complete sections is a prerequisite for deep understanding", "correct": false },
+    { "text": "That attention fully given to a fragment surpasses distracted engagement with the whole", "correct": true },
+    { "text": "That the oral tradition must be memorized before written study begins", "correct": false }
+  ]
+}

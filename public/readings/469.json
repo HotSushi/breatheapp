@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Researcher Gloria Mark at UC Irvine has documented that after a digital interruption, knowledge workers take an average of twenty-three minutes to return to the original task at full cognitive depth. This delay — what psychologist Sophie Leroy terms \"attentional residue\" — occurs because the interrupted task leaves an unresolved mental thread that competes for working memory. A workplace culture of instant messaging does not merely steal the minutes consumed by the interruption itself; it structurally prevents the kind of deep cognitive work that requires sustained, unbroken chains of thought.",
+  "question": "According to the passage, what does Sophie Leroy's term 'attentional residue' describe?",
+  "options": [
+    { "text": "The backlog of unread messages that accumulates during periods of focused work", "correct": false },
+    { "text": "The neurological fatigue caused by prolonged screen exposure", "correct": false },
+    { "text": "The 23-minute recovery period documented by Gloria Mark's research", "correct": false },
+    { "text": "The unresolved mental thread from an interrupted task that competes for working memory", "correct": true }
+  ]
+}

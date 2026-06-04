@@ -1,0 +1,23 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cal Newport draws a sharp distinction between 'deep work' \u2014 cognitively demanding tasks performed in distraction-free states \u2014 and 'shallow work,' the logistical busywork that fills most office hours. His research into knowledge workers suggests that the latter crowds out the former not by consuming time but by fragmenting attention. Even a brief interruption \u2014 a glanced email, a Slack ping \u2014 triggers what Newport calls 'attention residue': the mind remains partially snagged on the prior task for up to twenty minutes after returning to deep work. Timed focus sprints matter precisely because they create explicit permission structures: outside the sprint, distraction is allowed; inside it, it is not.",
+  "question": "According to Newport, what is 'attention residue' as described in the passage?",
+  "options": [
+    {
+      "text": "The cumulative mental fatigue caused by hours of unbroken concentration",
+      "correct": false
+    },
+    {
+      "text": "The shallow tasks that accumulate during periods of deep cognitive work",
+      "correct": false
+    },
+    {
+      "text": "A measurable decline in prefrontal cortex activity following distraction",
+      "correct": false
+    },
+    {
+      "text": "The portion of the mind that remains snagged on a prior task after an interruption",
+      "correct": true
+    }
+  ]
+}

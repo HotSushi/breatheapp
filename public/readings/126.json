@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca was fascinated — and troubled — by the Roman salutatio, the morning ritual in which clients lined up at a patron's door to pay respects. The great man would emerge, receive their greetings, and dispense small favors. Entire mornings dissolved in this theater of obligation. Seneca saw it as civilized robbery: both parties surrendered their best hours to a performance neither enjoyed. In Letter I he counsels Lucilius to shrink his obligations ruthlessly. The Stoic goal is not rudeness but what Seneca calls negotium sibi — business with oneself. Every hour given to hollow ceremony is an hour stolen from becoming who you could be.",
+  "question": "What does Seneca call the Stoic goal of reducing empty obligations?",
+  "options": [
+    { "text": "Mora deliberata — deliberate pausing", "correct": false },
+    { "text": "Ante nos — looking forward from life's end", "correct": false },
+    { "text": "Vindicatio temporis — legal reclamation of time", "correct": false },
+    { "text": "Negotium sibi — business with oneself", "correct": true }
+  ]
+}

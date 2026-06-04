@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Political scientist Murray Edelman distinguished between two kinds of politics: the politics of \"symbolic reassurance\" and the politics of concrete resource allocation. Most citizens, he argued, follow symbolic politics — the theater of speeches, crises, and rituals — while a small minority of organized interests quietly negotiate tangible outcomes. Attention is the mechanism that keeps this division in place. When headlines fill with spectacle, they draw attention away from the procedural, undramatic work of policy that actually redistributes power. The intensity of public attention, Edelman suggested, is often inversely correlated with the substantive importance of what is being attended to.",
+  "question": "What relationship did Edelman identify between the intensity of public attention and political substance?",
+  "options": [
+    { "text": "High public attention reliably signals that important policy decisions are being made", "correct": false },
+    { "text": "Public attention is irrelevant to how political outcomes are determined", "correct": false },
+    { "text": "The most intensely watched events tend to be least substantively important", "correct": true },
+    { "text": "Symbolic politics and resource allocation operate on parallel tracks of equal importance", "correct": false }
+  ]
+}

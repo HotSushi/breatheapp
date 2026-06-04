@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Sustained attention — holding focus on a single task over minutes or hours — is not a natural state for the human brain. Research by Matthew Killingsworth and Daniel Gilbert found that people's minds wander roughly 47 percent of the time, and that this wandering is associated with lower reported happiness regardless of the activity. The default mode network, a constellation of regions active during mind-wandering and self-referential thought, competes directly with the task-positive network anchored in the prefrontal cortex. The two networks are anti-correlated: as one activates, the other quiets. Sustained focus is therefore not attention held in place but a constant suppression of the default mode's pull toward narrative and self.",
+  "question": "According to the passage, what is the relationship between the default mode network and the task-positive network?",
+  "options": [
+    { "text": "They activate simultaneously during periods of deep creative focus", "correct": false },
+    { "text": "The default mode network is a subset of the task-positive network", "correct": false },
+    { "text": "They are anti-correlated: as one activates, the other quiets", "correct": true },
+    { "text": "The task-positive network suppresses the default mode only during sleep", "correct": false }
+  ]
+}

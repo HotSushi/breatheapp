@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Performance researcher Peretz Lavie mapped human alertness across the day and found it was not a smooth arc but a terrain riddled with 'sleep gates' — brief windows every 90 minutes or so when the brain strongly preferred to rest, and 'forbidden zones for sleep' where wakefulness was nearly impossible to disrupt. The gates open and close with remarkable precision regardless of how tired a person feels overall. This is why a missed nap opportunity can leave someone wired for another hour and a half: the gate closed, and the next one has not yet arrived. Fatigue accumulates, but the windows for recovery are scheduled.",
+  "question": "According to the passage, why might a person feel more alert after missing a nap opportunity?",
+  "options": [
+    { "text": "Their circadian rhythm reset to a later schedule", "correct": false },
+    { "text": "Caffeine from earlier in the day delayed the rest signal", "correct": false },
+    { "text": "The sleep gate closed, and the next one is roughly 90 minutes away", "correct": true },
+    { "text": "Peretz Lavie found that alertness peaks always follow periods of fatigue", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In 2011, a team led by Britta Hölzel at Massachusetts General Hospital scanned participants before and after an eight-week Mindfulness-Based Stress Reduction (MBSR) course. Post-program MRI images revealed increased gray matter density in the left hippocampus, the posterior cingulate cortex, and the temporo-parietal junction — regions involved in learning, self-referential processing, and perspective-taking. Notably, the amygdala shrank, and participants reported lower perceived stress. Eight weeks of structured attention practice had altered brain architecture in measurable ways. The cortex does not simply reflect a life of attention; it is sculpted by it, continuously and without exception.",
+  "question": "Which brain region shrank following the eight-week MBSR program in Hölzel's study?",
+  "options": [
+    { "text": "The hippocampus, which showed decreased gray matter density", "correct": false },
+    { "text": "The temporo-parietal junction, associated with perspective-taking", "correct": false },
+    { "text": "The posterior cingulate cortex, involved in self-referential processing", "correct": false },
+    { "text": "The amygdala, associated with stress reactivity", "correct": true }
+  ]
+}

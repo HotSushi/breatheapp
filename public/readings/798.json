@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Every cell's clock is a transcription-translation feedback loop, but that loop must be periodically reset or it drifts. In humans, the master clock in the suprachiasmatic nucleus resets peripheral clocks via neural signals, body temperature oscillations, and hormones — primarily cortisol and melatonin. When the master and peripheral clocks fall out of synchrony, the condition is called internal desynchrony. Shift workers and frequent transmeridian travelers experience chronic internal desynchrony, which studies associate with elevated cancer risk — particularly breast and colorectal cancer — leading the World Health Organization to classify shift work as a probable carcinogen in 2007.",
+  "question": "According to the passage, how did the WHO classify shift work in 2007?",
+  "options": [
+    { "text": "As a confirmed carcinogen requiring mandatory health monitoring", "correct": false },
+    { "text": "As an occupational hazard linked to cardiovascular disease", "correct": false },
+    { "text": "As a probable carcinogen, based on links to elevated cancer risk", "correct": true },
+    { "text": "As a metabolic disruptor affecting cortisol and melatonin pathways", "correct": false }
+  ]
+}

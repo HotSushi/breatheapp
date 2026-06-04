@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "One underappreciated consequence of universal distraction is its political dimension. Walter Lippmann observed in 1922 that citizens can only deliberate about what they can picture in their minds, and what they picture depends entirely on the information that reaches them. A media environment optimized for engagement rather than understanding systematically privileges the outrageous over the accurate, the vivid over the nuanced. When every mind is competing to be captured, deliberative democracy — which requires sustained collective attention to complex problems — becomes harder not because people have grown stupider, but because the infrastructure of attention has been redesigned around incompatible incentives.",
+  "question": "According to the passage, why does an engagement-optimized media environment threaten deliberative democracy?",
+  "options": [
+    { "text": "It privileges the outrageous and vivid over the accurate and nuanced, undermining sustained collective attention", "correct": true },
+    { "text": "Because citizens no longer have access to reliable news sources", "correct": false },
+    { "text": "Because political advertising has become too expensive for smaller parties", "correct": false },
+    { "text": "Because Walter Lippmann's model of public opinion formation is now obsolete", "correct": false }
+  ]
+}

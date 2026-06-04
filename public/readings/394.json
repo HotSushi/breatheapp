@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Dunning and Kruger's 1999 experiments revealed a cruel irony at the heart of metacognition: the skills required to perform a task well are largely the same skills required to evaluate one's performance on it. Participants who scored in the bottom quartile on logic and grammar tests consistently estimated their own scores as above average. They lacked not only competence but the metacognitive apparatus to recognize incompetence. Conversely, highly skilled participants often underestimated their performance, assuming tasks that felt easy to them would also feel easy to others. Accurate self-assessment, it turns out, is itself a sophisticated cognitive achievement — not a given.",
+  "question": "According to Dunning and Kruger, why do low-scoring participants overestimate their performance?",
+  "options": [
+    { "text": "They lack the metacognitive skills needed to recognize their own incompetence", "correct": true },
+    { "text": "They are more optimistic by disposition than high-scoring participants", "correct": false },
+    { "text": "They experience less test anxiety and therefore feel more confident", "correct": false },
+    { "text": "They misunderstand the scoring criteria rather than their own ability", "correct": false }
+  ]
+}

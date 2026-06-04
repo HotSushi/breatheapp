@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "One of Ericsson's most counterintuitive findings concerned feedback. Expert performers do not merely practice more — they practice with richer and more immediate feedback loops. A student playing piano alone can repeat a passage incorrectly for months without detecting the error. A master teacher hears it in seconds. This is why coaching accelerates development beyond what self-directed practice can achieve: it collapses the time between error and correction. In domains where feedback is naturally delayed — management, writing, research — practitioners must construct artificial feedback structures: submitting work for critique, reviewing recordings, tracking measurable outcomes. The principle is the same: without rapid, accurate feedback, effort does not translate into improvement.",
+  "question": "According to the passage, why does coaching accelerate skill development beyond what self-directed practice achieves?",
+  "options": [
+    { "text": "Coaches provide motivational accountability that keeps practitioners from quitting", "correct": false },
+    { "text": "Coaches design more systematic curricula than individuals can create for themselves", "correct": false },
+    { "text": "Coaching collapses the time between error and correction through immediate feedback", "correct": true },
+    { "text": "Coaches model expert performance that practitioners can directly imitate", "correct": false }
+  ]
+}

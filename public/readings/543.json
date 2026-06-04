@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Stoic concept of the hegemonikon — the ruling faculty of the mind — depended on solitude's role as a protective enclosure. Marcus Aurelius wrote that a man need not retreat to the mountains or the sea: 'Nowhere can man find a quieter or more untroubled retreat than in his own soul.' This is not mere consolation. Marcus meant it technically: the hegemonikon, when trained, can redirect attention inward faster than any external circumstance can disrupt it. The inner citadel is not a metaphor for patience but a cognitive practice of rapid reorientation.",
+  "question": "How does Marcus Aurelius describe the inner retreat from a Stoic perspective?",
+  "options": [
+    { "text": "As a metaphor for patience during hardship", "correct": false },
+    { "text": "As a cognitive practice of rapid reorientation toward one's own soul", "correct": true },
+    { "text": "As physical withdrawal to natural settings", "correct": false },
+    { "text": "As the suppression of emotional responses", "correct": false }
+  ]
+}

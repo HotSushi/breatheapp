@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The manager's schedule is optimized for coordination; the maker's schedule is optimized for creation. Paul Graham observed that most powerful people default to manager time — their days are pre-sliced into hour-long appointments, which suits supervision and decision-making. But when creative professionals are forced onto this same grid, something quietly breaks. A programmer mid-task, a writer in the middle of a paragraph — these people carry state in working memory that evaporates the moment their attention pivots to a status update. Graham noted that startups often fail not from bad ideas but from subjecting makers to a managerial calendar they were never designed to survive.",
+  "question": "What does Graham identify as the mechanism by which a maker's productivity breaks down on a manager's schedule?",
+  "options": [
+    { "text": "Makers lose confidence when required to attend frequent status meetings.", "correct": false },
+    { "text": "Working memory state evaporates when attention pivots away from the task.", "correct": true },
+    { "text": "Creative work requires social isolation that meetings structurally prevent.", "correct": false },
+    { "text": "Managers assign too many tasks per hour, overwhelming the maker's capacity.", "correct": false }
+  ]
+}

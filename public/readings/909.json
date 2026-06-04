@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon recognized that attention scarcity is asymmetric: the cost of producing information is falling, but the cost of receiving it remains constant. A tweet costs almost nothing to write and seconds to broadcast to millions. But reading it still costs the reader the same attentional unit it always has. This asymmetry explains the glut. When supply becomes cheap and demand is fixed, surplus is the inevitable outcome. The result is not just overload but a systematic devaluation of the communicator's incentive to produce carefully — why invest in depth when volume is cheaper and rewarded just as well?",
+  "question": "According to the passage, what asymmetry does Simon's framework reveal about information production and reception?",
+  "options": [
+    { "text": "Producers invest more in quality when distribution costs fall", "correct": false },
+    { "text": "The cost of producing information is falling while the cost of receiving it stays constant", "correct": true },
+    { "text": "Readers have developed faster reading skills to keep up with growing supply", "correct": false },
+    { "text": "The cost of receiving information falls in proportion to the cost of producing it", "correct": false }
+  ]
+}

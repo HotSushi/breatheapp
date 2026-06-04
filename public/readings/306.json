@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Attention is not simply allocated — it is consumed. Kahneman's early research on pupil dilation showed that the diameter of a person's pupil expands measurably as cognitive load increases, contracting the moment a problem is solved. This physiological signature revealed that System 2 draws on a limited pool of mental energy, not a switchable mode. Sustained engagement depletes this resource, producing decision fatigue: judges grant fewer paroles after lunch, doctors order more unnecessary tests late in a shift. The architecture of cognition is not neutral; it is shaped by hunger, depletion, and the hour of the day.",
+  "question": "What physiological measurement did Kahneman use in early research to track cognitive load?",
+  "options": [
+    { "text": "Heart rate variability", "correct": false },
+    { "text": "Pupil dilation", "correct": true },
+    { "text": "Cortisol levels in saliva", "correct": false },
+    { "text": "Skin conductance response", "correct": false }
+  ]
+}

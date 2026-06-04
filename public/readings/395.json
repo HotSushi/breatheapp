@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Cognitive psychologists use the term \"metacognitive illusion\" to describe the systematic gap between perceived and actual comprehension. In a classic demonstration, Reder and Ritter showed that people reliably predict they understand a text after reading it once, yet fail retrieval tests moments later. The illusion arises because fluency — the ease with which text is processed — is mistaken for depth of encoding. Familiar vocabulary and coherent prose feel like comprehension even when nothing durable is being retained. This is why re-reading produces far less learning than retrieval practice: passive re-exposure reinforces the feeling of knowing without building the structure of knowledge.",
+  "question": "According to the passage, what creates the metacognitive illusion of comprehension?",
+  "options": [
+    { "text": "Overconfidence in one's general intelligence", "correct": false },
+    { "text": "The tendency to skim rather than read carefully", "correct": false },
+    { "text": "Fluency being mistaken for depth of encoding", "correct": true },
+    { "text": "Forgetting that occurs between reading and testing", "correct": false }
+  ]
+}

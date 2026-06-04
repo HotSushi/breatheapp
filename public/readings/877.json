@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "What does it mean to be present to another person? Nagel's framework suggests something demanding: to treat someone else as a subject, not merely an object, requires imaginative entry into their first-person perspective. Martin Buber called this the I-Thou relation — a meeting of subjects — as opposed to I-It, in which the other is treated instrumentally. Genuine attention to another person is not data collection; it is allowing their subjectivity to affect yours. Distracted listening, by contrast, reduces the other to a source of auditory input while the mind pursues its own associations.",
+  "question": "In Buber's framework, what distinguishes the I-Thou relation from the I-It relation?",
+  "options": [
+    { "text": "I-Thou involves emotional attachment, while I-It is a neutral form of perception", "correct": false },
+    { "text": "I-Thou is a meeting of subjects, while I-It treats the other instrumentally", "correct": true },
+    { "text": "I-It describes deep listening, while I-Thou describes distracted interaction", "correct": false },
+    { "text": "I-Thou refers to interaction with objects, while I-It refers to interaction with persons", "correct": false }
+  ]
+}

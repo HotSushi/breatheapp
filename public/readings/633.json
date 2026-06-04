@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Henri Poincaré described his discovery of Fuchsian functions not as the product of sustained effort but of a fortuitous interruption. He had set aside a difficult problem to take a geological excursion. The moment he stepped onto a bus, the answer arrived fully formed. He argued that mathematical invention depends on an aesthetic sensibility — an intuition that filters which unconscious combinations are worth surfacing into consciousness. This pre-verbal sense of rightness is not mystical; it is the pattern-recognition machinery of a prepared mind operating below the threshold of deliberate thought. Preparation without rest, he concluded, produces accumulation without insight.",
+  "question": "According to the passage, what function does Poincaré attribute to aesthetic sensibility in mathematical invention?",
+  "options": [
+    { "text": "It replaces the need for rigorous verification.", "correct": false },
+    { "text": "It accelerates the incubation stage by narrowing the problem space.", "correct": false },
+    { "text": "It allows the prefrontal cortex to engage more deeply with abstract symbols.", "correct": false },
+    { "text": "It filters which unconscious combinations are worth surfacing into consciousness.", "correct": true }
+  ]
+}

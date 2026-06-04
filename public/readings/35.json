@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The phonological loop — one of Baddeley's working memory subsystems — stores verbal information through inner rehearsal, the silent repetition we perform when memorizing a phone number. Its capacity isn't measured in items but in time: roughly two seconds of speech. This explains why shorter words are remembered more easily than longer ones, a phenomenon called the word-length effect. It also explains why Chinese speakers outperform English speakers on digit span tasks — Mandarin number words are shorter and fit more easily within the loop's two-second window. Capacity, here, is not intelligence; it is phonology.",
+  "question": "What determines the capacity of the phonological loop, according to the passage?",
+  "options": [
+    { "text": "The number of syllables a person has been trained to recognize", "correct": false },
+    { "text": "The duration of speech that can be rehearsed in roughly two seconds", "correct": true },
+    { "text": "The number of items the central executive can allocate to rehearsal", "correct": false },
+    { "text": "The familiarity of the words being held in memory", "correct": false }
+  ]
+}

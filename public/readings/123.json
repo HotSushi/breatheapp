@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's Letters were written in the last two years of his life, after Nero forced him to retire from court. The man urging Lucilius to guard his hours was himself running out of them — he would be compelled to open his veins within two years. The letters are not academic philosophy but dispatches from someone who had squandered decades in imperial politics and was now doing arithmetic on what remained. When Seneca writes 'omnia, Lucili, aliena sunt, tempus tantum nostrum est' — 'everything belongs to others; time alone is ours' — the grief is personal, not rhetorical.",
+  "question": "What personal circumstance gave Seneca's letters their urgency about time?",
+  "options": [
+    { "text": "He had just recovered from a prolonged illness", "correct": false },
+    { "text": "Lucilius had written complaining of his own wasted youth", "correct": false },
+    { "text": "He was preparing a public lecture series on Stoic ethics", "correct": false },
+    { "text": "Forced into retirement by Nero, he had only years left to live", "correct": true }
+  ]
+}

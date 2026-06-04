@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Literary critic Alberto Manguel has observed that the history of silent reading is surprisingly short: for most of Western antiquity, reading was performed aloud, even when alone. The shift to silent reading, largely complete by the tenth century, was a cognitive revolution. It allowed readers to move at their own pace, pause without interrupting a performance, and re-read at will — transforming the text from a public event into a private experience of sustained interior thought. This privatization of reading created, for the first time, a portable space of contemplation that could be entered and exited by an individual at will.",
+  "question": "What cognitive change did the shift to silent reading enable, according to Manguel?",
+  "options": [
+    { "text": "It allowed the visual cortex to process language faster.", "correct": false },
+    { "text": "It created the first written grammars for vernacular languages.", "correct": false },
+    { "text": "It allowed readers to move at their own pace, pause, and re-read, turning text into private contemplation.", "correct": true },
+    { "text": "It reduced the social function of literature in favor of scholarly analysis.", "correct": false }
+  ]
+}

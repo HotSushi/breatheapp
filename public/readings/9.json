@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Philosopher Thomas Metzinger has proposed that the default mode network is the neural substrate of the ego — the continuous, low-level process of being a self. For Metzinger, the DMN's activity during rest is not idle chatter but the maintenance of what he calls the phenomenal self-model: the brain's simulation of 'I' as a persisting agent in the world. Focused attention, on this view, is a temporary dissolution of ego processing. The meditator who reports a sense of boundary-loss during deep concentration may be describing, in phenomenological terms, the suppression of exactly this network — the self going quiet so that the task can be fully inhabited.",
+  "question": "According to Metzinger, what does the default mode network maintain during rest?",
+  "options": [
+    { "text": "The phenomenal self-model — the brain's simulation of 'I' as a persisting agent", "correct": true },
+    { "text": "A log of recent episodic memories for later consolidation", "correct": false },
+    { "text": "Baseline arousal levels that regulate sleep-wake transitions", "correct": false },
+    { "text": "A predictive model of upcoming sensory inputs", "correct": false }
+  ]
+}

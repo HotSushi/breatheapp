@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Before Ericsson formalized deliberate practice, Benjamin Franklin had already intuited its logic. To improve his prose, young Franklin would read an essay he admired, set it aside, then reconstruct it from memory in his own words. He would then compare his version to the original, note each divergence, and return to the exercise. He was not passively absorbing good writing; he was actively reconstructing it, diagnosing gaps, and correcting them. This cycle of attempt, comparison, and adjustment is the engine of skill acquisition. Franklin understood that exposure to excellence produces admiration. Only the deliberate effort to reproduce excellence exposes the specific mechanisms you lack.",
+  "question": "What does the passage identify as Franklin's key insight about improving his prose?",
+  "options": [
+    { "text": "Reading widely across many genres was more effective than studying a single writer", "correct": false },
+    { "text": "Passive exposure to excellent writing gradually shaped his own style over time", "correct": false },
+    { "text": "Memorizing entire essays word-for-word built vocabulary and sentence structure simultaneously", "correct": false },
+    { "text": "Actively reconstructing admired work and diagnosing gaps exposed specific mechanisms he lacked", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Yogacara school of Buddhism, developed by Vasubandhu in the fourth century, introduced alaya-vijnana — the storehouse consciousness — to explain how latent impressions perpetuate distraction. Each thought leaves a seed; seeds ripen into future thoughts under the right conditions. Anicca is not denied here but refined: individual thoughts are impermanent, yet patterns of distraction persist because of these latent formations. This explains why practitioners who 'understand' impermanence intellectually still find the same distractions recurring. Transformation requires not just conceptual grasp of anicca but repeated experiential contact with each thought's arising and passing, gradually wearing down the seed's tendency to sprout.",
+  "question": "In Vasubandhu's Yogacara model, why does intellectual understanding of anicca fail to eliminate recurring distraction?",
+  "options": [
+    { "text": "Patterns persist because latent seeds keep ripening under the right conditions.", "correct": true },
+    { "text": "Intellectual understanding requires more advanced practices to activate.", "correct": false },
+    { "text": "The alaya-vijnana storehouse is inaccessible to conceptual thought.", "correct": false },
+    { "text": "Distraction is maintained by sensory input, not mental formations.", "correct": false }
+  ]
+}

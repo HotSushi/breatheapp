@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The concept of sleep pressure — the homeostatic drive to sleep — is governed by adenosine, a metabolic byproduct that accumulates with every waking hour. Caffeine works not by energizing neurons but by competitively blocking adenosine receptors, masking the pressure without clearing it. When caffeine clears, adenosine floods in and fatigue crashes down harder. More consequentially, artificially suppressed adenosine signals delay the onset of slow-wave sleep, shortening the window for memory consolidation and glymphatic cleaning. Caffeine's promise of cognitive recovery is, neurochemically speaking, a debt instrument.",
+  "question": "According to the passage, how does caffeine affect sleep consolidation?",
+  "options": [
+    { "text": "It accelerates adenosine clearance, extending slow-wave sleep duration", "correct": false },
+    { "text": "It blocks glymphatic flow by inhibiting aquaporin-4 channels", "correct": false },
+    { "text": "It delays the onset of slow-wave sleep, shortening consolidation and glymphatic cleaning", "correct": true },
+    { "text": "It suppresses REM sleep without affecting slow-wave sleep", "correct": false }
+  ]
+}

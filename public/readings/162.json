@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius ruled the Roman Empire while waging an inner campaign most of his subjects never knew existed. In the Meditations — written as private self-reminders, never meant for publication — he returns obsessively to a single question: am I acting in accordance with reason and virtue, or am I being swept along by appetite? He calls the undisciplined mind a 'puppet jerked by every desire.' Virtue, for Marcus, meant acting as the rational, social nature of a human being demands — not pursuing what feels good, but doing what is genuinely good, regardless of personal cost.",
+  "question": "What does Marcus Aurelius call the undisciplined mind in the Meditations?",
+  "options": [
+    { "text": "A torch without oil", "correct": false },
+    { "text": "A puppet jerked by every desire", "correct": true },
+    { "text": "A ship without a rudder", "correct": false },
+    { "text": "A soldier who has abandoned his post", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Roy Baumeister proposed that self-control draws on a limited metabolic resource he called 'ego depletion.' Laboratory studies showed that subjects who resisted eating cookies subsequently persisted less on unsolvable puzzles. If attention is a form of self-control, it should deplete across the day — which matches the experience of workers who find evening focus nearly impossible. Later replications challenged the glucose-depletion mechanism, but the pattern holds: high-stakes attentional choices early in the day reliably impair later ones. Moral responsibility for distraction may therefore depend partly on when in the day the lapse occurs.",
+  "question": "What does the passage suggest about the timing of attentional lapses and moral responsibility?",
+  "options": [
+    { "text": "Morning lapses are more forgivable because the brain is still waking up", "correct": false },
+    { "text": "Moral responsibility may depend partly on when in the day the lapse occurs", "correct": true },
+    { "text": "Evening focus is impossible because glucose is fully depleted by then", "correct": false },
+    { "text": "Baumeister proved that self-control and attention share no metabolic resources", "correct": false }
+  ]
+}

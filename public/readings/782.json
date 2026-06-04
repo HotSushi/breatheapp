@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The concept of ultradian rhythms, first mapped by sleep researcher Nathaniel Kleitman, suggests the brain cycles through peaks and troughs of alertness roughly every 90 to 120 minutes — not just during sleep, but throughout waking life. Kleitman called these Basic Rest-Activity Cycles. At the trough of each cycle, the body signals its need for recovery through yawning, mild disorientation, and wandering attention. Most people override these signals with caffeine or willpower. Sleep researcher Peretz Lavie described this as forcing the brain past a natural recovery gate — with compound interest paid later in error rates, irritability, and shallow processing.",
+  "question": "What did Peretz Lavie describe as the consequence of overriding the brain's natural recovery signals?",
+  "options": [
+    { "text": "Accelerated neurogenesis in the hippocampus", "correct": false },
+    { "text": "Increased ultradian amplitude in the next sleep cycle", "correct": false },
+    { "text": "Compound costs paid later in errors, irritability, and shallow processing", "correct": true },
+    { "text": "A permanent shortening of the 90-minute rest-activity cycle", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Carol Dweck, better known for her work on growth mindset, offered a striking intervention in the ego depletion debate. Her research suggested that beliefs about willpower mediate whether depletion occurs at all. Participants who held an implicit theory that willpower was unlimited — that effort does not tire the mind — showed no performance decline after a depleting task. Those who believed willpower was a limited resource conformed to Baumeister's pattern. The implication was unsettling: ego depletion might be partly self-fulfilling. The resource model may describe a real phenomenon, but one that expectation and culture amplify into something far more limiting than it needs to be.",
+  "question": "According to Dweck's research cited in the passage, what determines whether ego depletion occurs?",
+  "options": [
+    { "text": "The difficulty level of the initial depleting task.", "correct": false },
+    { "text": "A person's blood glucose level before the experiment.", "correct": false },
+    { "text": "Whether a person believes willpower is a limited or unlimited resource.", "correct": true },
+    { "text": "The time of day the experiment is conducted.", "correct": false }
+  ]
+}

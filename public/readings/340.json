@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "There is an irony at the heart of creative work that the Zeigarnik effect partly explains. Many writers, composers, and mathematicians deliberately stop working mid-sentence, mid-phrase, or mid-proof — leaving a thread they can pick up the next morning. Ernest Hemingway famously advised stopping when you know what comes next, not when you have exhausted a session. The unfinished state, far from being a failure of discipline, is a strategic deployment of Zeigarnik tension: the incomplete task keeps the creative problem active in background processing, so that returning to work feels less like beginning again and more like resuming something already underway in the mind.",
+  "question": "According to the passage, why did Hemingway advise stopping work when you know what comes next?",
+  "options": [
+    { "text": "To preserve mental energy for more demanding creative work later in the day", "correct": false },
+    { "text": "So the Zeigarnik tension keeps the problem active in background processing overnight", "correct": true },
+    { "text": "To avoid the frustration of ending a session at a point of uncertainty", "correct": false },
+    { "text": "Because completing a session fully makes it harder to re-enter the creative state", "correct": false }
+  ]
+}

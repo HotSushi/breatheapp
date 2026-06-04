@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "For Zhuangzi, the dream in which he became a butterfly and could not tell upon waking whether he was a man dreaming of being a butterfly or a butterfly dreaming of being a man was not a puzzle about identity — it was an invitation to loosen the grip of fixed perspective. This loosening is the attentional correlate of wu wei: not the abandonment of purpose but the suspension of the rigid self-concept that narrows what we can notice. Neuroscientist Lisa Feldman Barrett argues that the brain is fundamentally a prediction engine whose forecasts can trap perception in prior categories. Zhuangzi's butterfly dissolves the forecast, reopening the field.",
+  "question": "According to Lisa Feldman Barrett's argument described in the passage, what traps perception?",
+  "options": [
+    { "text": "The brain's tendency to prioritize threat-related stimuli over neutral ones", "correct": false },
+    { "text": "Sensory overload that prevents accurate categorization of new input", "correct": false },
+    { "text": "The brain's forecasts, which can lock perception into prior categories", "correct": true },
+    { "text": "Emotional arousal that bypasses rational processing in the prefrontal cortex", "correct": false }
+  ]
+}

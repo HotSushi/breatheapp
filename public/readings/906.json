@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon's attention scarcity model carries a specific implication for democracy. Political discourse depends on citizens allocating attention to public affairs — reading, deliberating, forming considered judgments. When attention is finite and competed for, civic attention is crowded out by entertainment, outrage, and novelty. Scholars James Hamilton and Shanto Iyengar have documented how news consumption migrates toward emotionally arousing content as media options multiply. Simon did not foresee social media, but his logic predicts it: when attention is a scarce resource, suppliers will compete by offering whatever triggers the fastest and most reliable allocation of it.",
+  "question": "According to the passage, what does Simon's attention scarcity model predict about how media suppliers will compete?",
+  "options": [
+    { "text": "They will invest in more rigorous fact-checking to build trust", "correct": false },
+    { "text": "They will offer content that triggers fast and reliable attention allocation", "correct": true },
+    { "text": "They will reduce the volume of content to respect cognitive limits", "correct": false },
+    { "text": "They will focus on civic topics to satisfy democratic demand", "correct": false }
+  ]
+}

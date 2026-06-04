@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The psychologist Ulric Neisser proposed in 1976 that perception is not passive reception but an active cycle: we anticipate what we will perceive, direct our senses accordingly, and update our anticipations based on what we find. This 'perceptual cycle' means attention is not a spotlight we shine on the world — it is a hypothesis we hold about what matters. The implications are startling: two people in the same room, sharing the same sensory inputs, can inhabit radically different perceptual worlds simply because they carry different anticipatory schemas. What we call 'reality' is partly a projection of what we expected to see.",
+  "question": "In Neisser's perceptual cycle, what role do anticipations play?",
+  "options": [
+    { "text": "They slow down sensory processing", "correct": false },
+    { "text": "They direct the senses and are updated by what we perceive", "correct": true },
+    { "text": "They suppress irrelevant sensory inputs permanently", "correct": false },
+    { "text": "They store sensory data for later processing", "correct": false }
+  ]
+}

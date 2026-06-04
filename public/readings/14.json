@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Working memory — the mental scratchpad on which we hold and manipulate information — is among the most capacity-limited systems in the human brain. George Miller famously estimated the limit at seven items, plus or minus two. Later work by Nelson Cowan revised this downward to roughly four chunks. The prefrontal cortex sustains working memory through persistent neural firing: neurons maintain their activity even after the triggering stimulus is gone, a phenomenon called 'delay period activity.' Every interruption resets this activity. This is why context-switching is cognitively expensive: you are not merely pausing a task but erasing the mental workspace it occupied.",
+  "question": "According to the passage, why is context-switching cognitively expensive?",
+  "options": [
+    { "text": "It forces the prefrontal cortex to generate new top-down predictions", "correct": false },
+    { "text": "Interruptions reset the persistent neural firing that sustains working memory", "correct": true },
+    { "text": "The anterior cingulate cortex must mediate between competing task sets", "correct": false },
+    { "text": "Working memory's four-chunk limit is exceeded during task transitions", "correct": false }
+  ]
+}

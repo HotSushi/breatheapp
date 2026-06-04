@@ -1,0 +1,23 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1992, Raymond and Shapiro demonstrated a startling gap in human perception: when two targets appear in rapid succession within about 500 milliseconds, observers reliably miss the second one. They named this the attentional blink \u2014 the brief window after detecting one stimulus during which the brain cannot register another. The effect is not a failure of the eyes or a lag in neural transmission; the second stimulus reaches the visual cortex intact. The blink occurs higher up, in the machinery of conscious awareness itself. Something about consolidating the first target into working memory temporarily locks out the second, as if attention can only close one deal at a time.",
+  "question": "According to the passage, where does the attentional blink occur in the perceptual process?",
+  "options": [
+    {
+      "text": "In the eyes, before the signal reaches the brain",
+      "correct": false
+    },
+    {
+      "text": "In the visual cortex, where signals are first received",
+      "correct": false
+    },
+    {
+      "text": "In the neural transmission pathway between eye and brain",
+      "correct": false
+    },
+    {
+      "text": "In the machinery of conscious awareness, above the visual cortex",
+      "correct": true
+    }
+  ]
+}

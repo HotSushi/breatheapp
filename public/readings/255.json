@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Compassion — karuna in Pali — is the specific response to suffering, distinct from metta's general goodwill. The Visuddhimagga, Buddhaghosa's fifth-century meditation manual, defines karuna as 'the wish that beings be free from pain' and warns against two failure modes: sentimental grief, which wallows in suffering without helping, and cruel indifference, which cannot see suffering at all. Social psychologist Kristin Neff's research on self-compassion shows that people who score high in self-compassion exhibit less rumination and lower cortisol reactivity to failure — suggesting the karuna orientation rewires not just behavior but the stress-response physiology itself.",
+  "question": "What two failure modes does Buddhaghosa's Visuddhimagga warn against when practicing karuna?",
+  "options": [
+    { "text": "Excessive solitude and excessive social engagement.", "correct": false },
+    { "text": "Pride and jealousy.", "correct": false },
+    { "text": "Sentimental grief that wallows in suffering, and cruel indifference that cannot see it.", "correct": true },
+    { "text": "Spiritual bypassing and materialist distraction.", "correct": false }
+  ]
+}

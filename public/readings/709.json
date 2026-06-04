@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The default mode network has a structural bias: it preferentially connects regions associated with self-referential thought, social cognition, and prospective memory — imagining the future. Neuroscientist Kalina Christoff has proposed that mind-wandering, the DMN's signature product, is not a cognitive failure but a form of \"meta-awareness\" training. When the mind wanders and the person catches it wandering, the anterior prefrontal cortex activates — the same region implicated in self-monitoring and metacognition. Each return from distraction is, in miniature, a bicep curl for attentional control. The wandering is not the problem; the noticing is the practice.",
+  "question": "According to Kalina Christoff's proposal, what happens when a person catches their mind wandering?",
+  "options": [
+    { "text": "The default mode network suppresses itself automatically.", "correct": false },
+    { "text": "The posterior cingulate cortex re-engages to restore focus.", "correct": false },
+    { "text": "The anterior prefrontal cortex activates, exercising self-monitoring.", "correct": true },
+    { "text": "The salience network hands control back to the task-positive network.", "correct": false }
+  ]
+}

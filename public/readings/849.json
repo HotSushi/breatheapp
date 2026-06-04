@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The philosopher Alva Noë, writing in 'Out of Our Heads,' takes the extended mind argument further than Clark and Chalmers intended. Where they located extension at the level of individual cognitive processes, Noë argues that consciousness itself is not generated inside the skull but enacted through the continuous coupling of brain, body, and world. A dancer's knowledge of how to dance is not stored in neural circuits waiting to be executed; it exists in the practiced relationship between body, music, and space. Strip away the environment and the knowledge does not move indoors — it ceases to exist in the form the dancer knows it.",
+  "question": "How does Noë's view of consciousness differ from Clark and Chalmers' extended mind thesis?",
+  "options": [
+    { "text": "Noë argues that consciousness itself is enacted through brain-body-world coupling, not merely extended at the process level", "correct": true },
+    { "text": "Noë restricts cognitive extension to language use, while Clark and Chalmers extend it to all tools", "correct": false },
+    { "text": "Noë rejects the idea that the environment influences cognition at all", "correct": false },
+    { "text": "Noë focuses on animal cognition, while Clark and Chalmers focus exclusively on human cognition", "correct": false }
+  ]
+}

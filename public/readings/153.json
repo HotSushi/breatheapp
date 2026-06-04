@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca wrote to his friend Lucilius: 'Omnia aliena sunt, tempus tantum nostrum est' — all things are alien to us; time alone is ours. He observed that people guard their money ferociously but surrender their hours to anyone who asks. A trivial argument can steal an afternoon; a buzzing phone can fracture a morning into useless fragments. Seneca's complaint is not about busyness but about unconscious surrender — giving away the one resource that, once spent, cannot be recovered, usually to distractions that would not survive a moment's scrutiny if we paused to examine them.",
+  "question": "According to Seneca as described in the passage, what makes distraction particularly costly?",
+  "options": [
+    { "text": "It prevents us from earning money and accumulating wealth", "correct": false },
+    { "text": "It damages our relationships with friends and colleagues", "correct": false },
+    { "text": "Time, once surrendered, cannot be recovered unlike other resources", "correct": true },
+    { "text": "It trains the mind toward shallow rather than deep thinking", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tao Te Ching's chapter 48 states: 'In pursuit of learning, every day something is acquired. In pursuit of Tao, every day something is dropped.' This dropping is not negligence but a deliberate release of mental friction — the opinions, urgencies, and self-monitoring that clog attention. Psychologist Ellen Langer's research on 'mindless striving' found that goal-fixated participants performed worse on creative tasks than those given conditional instructions that kept awareness open. The Taoist insight, arrived at millennia earlier, is that the release of grasping is itself a form of attentional hygiene.",
+  "question": "What did Ellen Langer's research find about goal-fixated participants?",
+  "options": [
+    { "text": "They showed improved focus on structured analytical tasks", "correct": false },
+    { "text": "They performed worse on creative tasks than those given open-awareness instructions", "correct": true },
+    { "text": "They completed tasks faster but with more errors", "correct": false },
+    { "text": "They reported higher satisfaction despite lower creativity scores", "correct": false }
+  ]
+}

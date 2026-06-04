@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Surveillance capitalism is structurally incapable of self-correction through individual consumer choice, because its product is not offered to consumers. When Zuboff writes that 'the game is not to give you things you want but to make you want the things that advance their interests,' she identifies a market failure that cannot be solved by better terms of service or user settings. The data extraction happens at a layer below conscious interaction. A user who deletes an app and feels liberated has merely removed one data ingestion point from a system that still receives signals from their credit card, their location, and every website that hosts a tracking pixel.",
+  "question": "Why does the passage argue that individual consumer choice cannot fix surveillance capitalism?",
+  "options": [
+    { "text": "Because most users prefer the convenience of personalized services to privacy", "correct": false },
+    { "text": "Because data extraction occurs below conscious interaction, persisting across many other channels", "correct": true },
+    { "text": "Because tracking pixels are too technically complex for regulators to monitor or restrict", "correct": false },
+    { "text": "Because the apps that collect data are legally classified as utilities, not consumer products", "correct": false }
+  ]
+}

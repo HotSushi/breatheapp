@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 1890, William James argued that the stream of consciousness has a natural ebb \u2014 moments of focus give way to drift, which gives way to renewed attention. He called these drifts 'free ideation,' and he believed they were essential to insight. The mind revisits unresolved problems obliquely, making connections that frontal, directed thinking cannot. Silicon Valley has engineered those drifts away. Every gap \u2014 the elevator ride, the waiting room, the pause between tasks \u2014 is now filled. We have removed the conditions James identified as necessary for the mind to work through what it cannot yet articulate directly.",
+  "question": "What did William James call the drifting phases of consciousness, and what did he believe they accomplished?",
+  "options": [
+    {
+      "text": "He called them 'mental fatigue' and believed they indicated the need for sleep.",
+      "correct": false
+    },
+    {
+      "text": "He called them 'passive cognition' and believed they were periods of diminished intellectual value.",
+      "correct": false
+    },
+    {
+      "text": "He called them 'selective attention' and believed they sharpened focus for subsequent tasks.",
+      "correct": false
+    },
+    {
+      "text": "He called them 'free ideation' and believed they enabled oblique connections that directed thinking cannot make.",
+      "correct": true
+    }
+  ]
+}

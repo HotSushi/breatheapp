@@ -1,0 +1,23 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The concept of flow, developed by psychologist Mihaly Csikszentmihalyi, describes a state of optimal experience in which a person is so absorbed in a challenging task that self-consciousness dissolves and time perception distorts. Csikszentmihalyi documented flow across domains \u2014 surgery, chess, rock climbing, writing \u2014 and found that it correlates with peak performance and reported wellbeing. What is rarely emphasized is the economic implication: flow states produce output that cannot be replicated in fragmented attention. The surgeon who achieves flow operates with a precision unavailable to the distracted one. Knowledge work is no different \u2014 its highest-value outputs are structurally inaccessible without sustained immersion.",
+  "question": "What economic implication of flow states does the passage highlight?",
+  "options": [
+    {
+      "text": "Flow states produce output that fragmented attention cannot replicate",
+      "correct": true
+    },
+    {
+      "text": "Workers in flow states demand higher compensation for their output",
+      "correct": false
+    },
+    {
+      "text": "Flow is most reliably achieved through external rewards rather than intrinsic challenge",
+      "correct": false
+    },
+    {
+      "text": "Flow is domain-specific and does not transfer to knowledge work settings",
+      "correct": false
+    }
+  ]
+}

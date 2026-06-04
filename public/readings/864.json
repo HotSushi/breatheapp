@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Buddhist philosopher Vasubandhu, writing in fifth-century India, described the mind as a \"storehouse consciousness\" that accumulates karmic seeds — tendencies laid down by repeated experience. Each habitual narrative we rehearse deepens a groove that makes that narrative more automatic and more attentionally dominant next time. This is remarkably close to what neuroscientists now call \"predictive processing\": the brain runs forward models derived from past experience, and deviation from the predicted story generates a surprise signal. Vasubandhu's insight was that freedom requires recognizing these grooves, not simply being carried along by them.",
+  "question": "What does Vasubandhu's \"storehouse consciousness\" have in common with the neuroscientific concept of predictive processing?",
+  "options": [
+    { "text": "Both locate conscious experience in a single unified brain region", "correct": false },
+    { "text": "Both describe how repeated experience creates grooves that shape future attention and expectation", "correct": true },
+    { "text": "Both argue that surprise signals are suppressed by habitual thinking", "correct": false },
+    { "text": "Both hold that freedom from narrative is achieved through sensory deprivation", "correct": false }
+  ]
+}

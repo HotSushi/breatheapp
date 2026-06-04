@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 2018, a team of researchers at Case Western Reserve University found that merely having a smartphone within eyesight — even face-down and silenced — measurably reduced available working-memory capacity. They called this 'brain drain': the device does not need to interrupt you to cost you cognitive resources. Its presence alone activates the habit of checking, drawing a thin but persistent thread of attention toward it. The effect was strongest in participants who reported the highest smartphone dependence, suggesting a feedback loop: the more tethered you feel, the more the device taxes you simply by existing nearby.",
+  "question": "What did the Case Western study find about silenced smartphones left in plain sight?",
+  "options": [
+    { "text": "They caused no measurable distraction when notifications were disabled", "correct": false },
+    { "text": "They reduced working-memory capacity through the habit of anticipatory checking", "correct": true },
+    { "text": "They increased anxiety primarily in users who also used social media frequently", "correct": false },
+    { "text": "They disrupted sleep quality but had no effect on daytime cognitive performance", "correct": false }
+  ]
+}

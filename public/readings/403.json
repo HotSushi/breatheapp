@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Nir Eyal's 2014 book Hooked outlines a four-stage cycle designed to manufacture habitual product use without advertising. The cycle begins with a trigger — external at first (a push notification), then internal once the habit forms (boredom, loneliness, anxiety). The trigger prompts an action, the simplest behavior possible given the motivation. A variable reward follows, and finally an investment: the user puts something in — data, content, followers — that makes leaving costly. Each investment loads the next trigger. Eyal intended this as a design framework, but critics noted that it is functionally a blueprint for engineering compulsion, not merely habit.",
+  "question": "In Eyal's Hooked model, what is the purpose of the 'investment' stage?",
+  "options": [
+    { "text": "To reward the user for completing the behavioral cycle", "correct": false },
+    { "text": "To make the user feel financially committed to the platform", "correct": false },
+    { "text": "To load the next trigger and increase the cost of leaving", "correct": true },
+    { "text": "To replace external triggers with internal motivations", "correct": false }
+  ]
+}

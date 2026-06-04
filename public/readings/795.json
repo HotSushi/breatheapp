@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Light is the most powerful zeitgeber — German for time-giver — but food timing runs a close second. Research from Satchidananda Panda's lab at the Salk Institute demonstrated that restricting feeding to a consistent eight-to-ten-hour window, without reducing calories, improved metabolic markers in both mice and humans. The liver's circadian clock is particularly sensitive to meal timing; eating at misaligned hours — late at night when the liver expects fasting — suppresses clock gene expression and increases lipid accumulation. Panda's work suggests that when you eat may matter as much as what you eat.",
+  "question": "According to the passage, what effect does eating at night have on the liver's circadian clock?",
+  "options": [
+    { "text": "It accelerates lipid clearance by activating clock genes", "correct": false },
+    { "text": "It suppresses clock gene expression and increases lipid accumulation", "correct": true },
+    { "text": "It shifts the liver's feeding window by approximately two hours", "correct": false },
+    { "text": "It triggers a cortisol response that disrupts overnight fasting", "correct": false }
+  ]
+}

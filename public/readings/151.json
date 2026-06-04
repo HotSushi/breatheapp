@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius called it the view from above — the practice of imagining yourself ascending until cities become dots, arguments become whispers, and the grievance consuming you dissolves in proportion. He wrote in the Meditations: 'How many a Chrysippus, how many a Socrates, how many an Epictetus, have time already swallowed up?' The technique is not nihilism but calibration. When you zoom out to geological time, the meeting that derailed your morning occupies less than a rounding error. Distance does not make things meaningless; it reveals which things were already thin.",
+  "question": "According to the passage, what is the purpose of Marcus Aurelius's 'view from above'?",
+  "options": [
+    { "text": "To cultivate indifference toward other people's suffering", "correct": false },
+    { "text": "To remind oneself that nothing in life has real value", "correct": false },
+    { "text": "To calibrate the true proportion of a disturbance rather than dismiss meaning entirely", "correct": true },
+    { "text": "To practice concentration by visualizing one's surroundings from memory", "correct": false }
+  ]
+}

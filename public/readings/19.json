@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The prefrontal cortex reaches full myelination — the fatty sheathing of axons that speeds neural transmission — later than any other brain region, typically not until the late twenties. Myelin is to neurons what insulation is to electrical wire: without it, signals degrade and slow. This protracted development is not inefficiency but evolution's wager on plasticity. A highly plastic PFC learns from its environment, but it is also vulnerable to it. Adolescents exposed to chronic stress, trauma, or excessive screen-based stimulation during this critical window show measurable reductions in PFC gray matter volume. The architecture of adult attention is being built right now, in every teenager's distracted afternoon.",
+  "question": "According to the passage, why does the PFC's late myelination represent 'evolution's wager on plasticity'?",
+  "options": [
+    { "text": "A late-myelinating PFC is protected from stress and trauma during adolescence", "correct": false },
+    { "text": "Delayed myelination allows the PFC to process faster signals from the brainstem", "correct": false },
+    { "text": "A highly plastic PFC can learn from its environment, but is also vulnerable to it", "correct": true },
+    { "text": "Full myelination prevents the PFC from forming new neural connections after the twenties", "correct": false }
+  ]
+}

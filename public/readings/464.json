@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Social media platforms are not neutral conduits for connection; they are engineered environments optimized for engagement. Variable reward schedules — the same mechanism underlying slot machine addiction — make the act of checking a feed neurologically compelling regardless of what it contains. The intermittent delivery of likes, replies, and new posts exploits the dopaminergic system's sensitivity to unpredictability. Newport argues that recognizing this design is the first step toward intentional use: you cannot choose freely inside a system you believe is neutral when it has, in fact, been architected to capture and hold your attention.",
+  "question": "According to the passage, what psychological mechanism makes checking a social media feed neurologically compelling?",
+  "options": [
+    { "text": "The fear of missing out on relevant information", "correct": false },
+    { "text": "Variable reward schedules that exploit sensitivity to unpredictability", "correct": true },
+    { "text": "Cognitive dissonance created by social comparison", "correct": false },
+    { "text": "The dopaminergic system's preference for familiar stimuli", "correct": false }
+  ]
+}

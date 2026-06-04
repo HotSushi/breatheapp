@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The philosopher-king in Plato's Republic is notable not for superior intelligence but for the willingness to return to the cave after seeing the light. Having glimpsed the Forms, the philosopher must descend again into the world of shadows to govern. This descent is described as a sacrifice — it is harder, and less pleasant, than remaining in contemplation. Plato insists on it nonetheless, because wisdom without application is incomplete. The movement of attention must be bidirectional: rising toward understanding and returning to act within the world of appearances, carrying clarity back into conditions of confusion.",
+  "question": "Why does Plato insist the philosopher-king must return to the cave, according to the passage?",
+  "options": [
+    { "text": "Because wisdom without application is incomplete", "correct": true },
+    { "text": "Because prolonged contemplation weakens the philosopher's vision", "correct": false },
+    { "text": "Because the Forms can only be seen clearly from within the cave", "correct": false },
+    { "text": "Because remaining in the sunlight causes the philosopher to forget ordinary life", "correct": false }
+  ]
+}

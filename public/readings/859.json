@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In Immanuel Kant's moral philosophy, an action has genuine worth only when it springs from rational autonomy rather than inclination or external pressure. Applied to attention, this suggests a demanding standard: scrolling that feels freely chosen but is driven by algorithmically exploited dopaminergic loops may not be autonomous in any morally meaningful sense. Kant's test would ask whether you could universalize the maxim of your attentional choice — whether a world in which everyone attended this way would remain coherent. A culture of perpetual distraction, on this view, undermines the very rational agency that makes moral responsibility possible.",
+  "question": "What Kantian test does the passage apply to attentional choices?",
+  "options": [
+    { "text": "Whether the choice produces more pleasure than pain for the greatest number", "correct": false },
+    { "text": "Whether the choice springs from rational autonomy rather than dopaminergic compulsion", "correct": false },
+    { "text": "Whether you could universalize the maxim of your attentional choice", "correct": true },
+    { "text": "Whether the action is performed out of duty rather than inclination", "correct": false }
+  ]
+}

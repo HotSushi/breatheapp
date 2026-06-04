@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "EPA — eicosapentaenoic acid — is the omega-3 most associated with mood regulation rather than structural brain architecture. Where DHA embeds itself in neuronal membranes, EPA works primarily through anti-inflammatory pathways. Chronic neuroinflammation, now linked to depression, anxiety, and cognitive fog, involves pro-inflammatory cytokines that disrupt neurotransmitter synthesis and impair the hypothalamic-pituitary axis. EPA's role is to compete with arachidonic acid for the enzymes that produce these cytokines, effectively dampening the inflammatory cascade. A 2022 meta-analysis in Translational Psychiatry confirmed that EPA-dominant formulas outperform DHA-dominant ones in clinical trials targeting depressive symptoms.",
+  "question": "According to the passage, how does EPA reduce neuroinflammation?",
+  "options": [
+    { "text": "By embedding in neuronal membranes to improve signal transmission", "correct": false },
+    { "text": "By stimulating BDNF production in the hippocampus", "correct": false },
+    { "text": "By competing with arachidonic acid for enzymes that produce pro-inflammatory cytokines", "correct": true },
+    { "text": "By increasing glucose uptake in the prefrontal cortex", "correct": false }
+  ]
+}

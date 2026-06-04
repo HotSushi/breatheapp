@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Walden Pond is small — roughly half a mile across — and Thoreau measured it obsessively, charting its contours until he could prove it was deepest at the intersection of its longest length and widest breadth. The measurement was not merely scientific; it was philosophical. He was testing a principle: that depth is a structural property, not a mystical one, and that it can be found by patient, systematic attention. 'It is remarkable how long men will believe in the bottomlessness of a pond,' he wrote. Unfounded beliefs about depth, he implied, persist only in the absence of careful looking. Simplicity was the methodology that made careful looking possible.",
+  "question": "What did Thoreau's measurements of Walden Pond reveal about where it was deepest?",
+  "options": [
+    { "text": "At the center of its widest breadth", "correct": false },
+    { "text": "At the point farthest from the shore", "correct": false },
+    { "text": "At the intersection of its longest length and widest breadth", "correct": true },
+    { "text": "Near the inlet where water flowed in from springs", "correct": false }
+  ]
+}

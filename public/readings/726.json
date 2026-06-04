@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Sleep deprivation does not merely reduce mental sharpness — it systematically degrades the brain's ability to judge its own impairment. Studies by David Dinges at the University of Pennsylvania found that subjects restricted to six hours of sleep for two weeks showed cognitive performance equivalent to subjects who had been awake for 24 hours straight. More troubling: the chronically sleep-deprived subjects consistently rated their own alertness as near-normal, a phenomenon called subjective adaptation. The brain's self-monitoring systems degrade alongside executive function, creating a situation where the person least capable of assessing their impairment is the one who needs to do so most urgently.",
+  "question": "According to Dinges's research cited in the passage, what makes chronic sleep deprivation particularly dangerous beyond raw cognitive decline?",
+  "options": [
+    { "text": "The immune system weakens, leaving the brain vulnerable to inflammatory damage", "correct": false },
+    { "text": "Six hours of sleep produces no REM cycles, eliminating emotional consolidation entirely", "correct": false },
+    { "text": "The hippocampus enters a protective shutdown that suppresses emotional responses", "correct": false },
+    { "text": "Subjects rate their own alertness as near-normal even as performance collapses", "correct": true }
+  ]
+}

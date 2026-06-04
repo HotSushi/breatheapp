@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The design of infinite scroll assumes that more is always better \u2014 more content, more time, more engagement. But cognitive scientists distinguish between appetitive desire (the wanting system) and consummatory satisfaction (the liking system), drawing on neuroscientist Kent Berridge's research in the 1990s. These are governed by separate neural circuits: dopamine drives wanting without requiring satisfaction to sustain it. Infinite scroll is optimized for the wanting system exclusively. The scroll continues not because users are being satisfied but because the dopaminergic wanting signal never receives the consummatory conclusion that would naturally terminate a session. The interface is designed to keep a loop open that the brain is wired to close.",
+  "question": "What is the key distinction from Berridge's research that the passage applies to infinite scroll?",
+  "options": [
+    {
+      "text": "The separation of appetitive wanting and consummatory satisfaction into distinct neural circuits",
+      "correct": true
+    },
+    {
+      "text": "The difference between short-term pleasure and long-term wellbeing in digital use",
+      "correct": false
+    },
+    {
+      "text": "The contrast between conscious attention and unconscious habit formation",
+      "correct": false
+    },
+    {
+      "text": "The gap between what users say they prefer and what engagement data actually shows",
+      "correct": false
+    }
+  ]
+}

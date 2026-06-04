@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Imagining a future action with sensory specificity — picturing where you will be, what you will see, how your hands will move — significantly increases the probability of carrying out that action. This is not merely motivational; it is structural. Detailed mental simulation appears to preactivate the same motor and perceptual circuits that will later execute the act, creating a grooved neural path. A study by Richard Wiseman found that people who imagined the route to a polling station, not just their intention to vote, showed markedly higher actual turnout. The simulation functions as a rehearsal, and rehearsal is one of memory's most reliable encoding strategies.",
+  "question": "According to the passage, why does sensory-specific mental simulation increase follow-through?",
+  "options": [
+    { "text": "It strengthens declarative memory for the goal itself.", "correct": false },
+    { "text": "It preactivates the motor and perceptual circuits that will execute the act.", "correct": true },
+    { "text": "It converts time-based intentions into event-based ones.", "correct": false },
+    { "text": "It reduces anxiety associated with the intended action.", "correct": false }
+  ]
+}

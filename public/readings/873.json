@@ -1,0 +1,23 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "To be present is not simply to be awake; it is to be the subject of one's own experience rather than a spectator of it. Nagel's framework illuminates why presence is hard: the mind naturally drifts toward abstraction, treating current sensations as data points rather than felt realities. A philosopher might say we oscillate between first-person immersion \u2014 the raw what-it-is-like \u2014 and third-person observation, in which we narrate our experience from a remove. Mindfulness traditions and analytic philosophy converge here: genuine presence means inhabiting the first-person perspective fully, without collapsing it into self-commentary.",
+  "question": "According to the passage, what distinguishes first-person immersion from third-person observation of one's experience?",
+  "options": [
+    {
+      "text": "First-person immersion involves raw felt experience, while third-person observation narrates experience from a remove",
+      "correct": true
+    },
+    {
+      "text": "First-person immersion uses more cognitive resources than third-person observation",
+      "correct": false
+    },
+    {
+      "text": "Third-person observation is associated with mindfulness, while first-person immersion leads to distraction",
+      "correct": false
+    },
+    {
+      "text": "First-person immersion is the goal of analytic philosophy, while third-person observation is the goal of mindfulness",
+      "correct": false
+    }
+  ]
+}

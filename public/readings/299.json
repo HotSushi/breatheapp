@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Vipassana teacher S.N. Goenka described the forgetting of meditation instructions mid-session as 'sankharic pull' — the accumulated momentum of habitual mental patterns dragging awareness toward pleasant or aversive objects. In his tradition, sati is explicitly trained as a counter-force to this pull: the meditator repeatedly redirects attention to the breath or body sensations not because wandering is shameful, but because each redirection weakens the groove. The metaphor is hydraulic: habitual channels run deep, but new channels can be cut. Sati is the act of cutting — not once, at the beginning of practice, but ten thousand times across a lifetime.",
+  "question": "In Goenka's teaching, why does the meditator repeatedly redirect attention rather than achieving a single permanent redirection?",
+  "options": [
+    { "text": "Because the breath changes from moment to moment and requires constant fresh observation", "correct": false },
+    { "text": "Because sati is not yet strong enough in beginning practitioners to hold focus without reinforcement", "correct": false },
+    { "text": "Because each redirection weakens the habitual groove, and cutting new channels requires repeated effort", "correct": true },
+    { "text": "Because sankharic pull is an external force that sati can only temporarily suppress", "correct": false }
+  ]
+}

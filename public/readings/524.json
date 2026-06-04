@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Plato's freed prisoner, after adjusting to sunlight, sees not only objects but finally the sun itself — the source that makes all seeing possible. In the allegory, the sun represents the Form of the Good: the principle that illuminates all other truths. What is philosophically significant here is the direction of causality. Ordinary attention moves from effect to cause — from shadow to object to light. The highest form of understanding requires reversing this movement, tracing phenomena back to their source. Sustained attention trained on causes rather than effects is, for Plato, the definition of philosophical thought.",
+  "question": "What does the sun represent in Plato's allegory, according to the passage?",
+  "options": [
+    { "text": "The physical world outside the cave", "correct": false },
+    { "text": "The difficulty of adjusting to truth after long darkness", "correct": false },
+    { "text": "The Form of the Good — the principle that illuminates all other truths", "correct": true },
+    { "text": "The reward that awaits those who endure philosophical training", "correct": false }
+  ]
+}

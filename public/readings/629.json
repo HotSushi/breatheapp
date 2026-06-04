@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Losing track of time in flow is not experienced as a loss. Afterward, people do not report confusion or disorientation — they report satisfaction, even elation. This is because subjective duration and experienced quality are dissociated in deep absorption. A two-hour session that feels like twenty minutes is remembered as rich and full, not empty. This contrasts sharply with boredom, where time seems to expand and each minute is felt in detail, yet the episode is recalled as thin and unmemorable. The philosopher Paul Fraisse called this the 'inverse relationship between temporal estimation and content richness': the more densely meaningful the experience, the shorter it feels.",
+  "question": "What does philosopher Paul Fraisse's 'inverse relationship between temporal estimation and content richness' mean, as explained in the passage?",
+  "options": [
+    { "text": "People consistently underestimate how much time passes when they are bored.", "correct": false },
+    { "text": "Time feels shorter during experiences that are more densely meaningful.", "correct": true },
+    { "text": "Rich content takes longer to process, which is why flow sessions feel extended.", "correct": false },
+    { "text": "Temporal distortion occurs only during peak physical performance, not cognitive work.", "correct": false }
+  ]
+}

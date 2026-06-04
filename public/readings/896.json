@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Mihaly Csikszentmihalyi's studies of optimal experience found that people report their highest levels of meaning and satisfaction not during leisure but during deep engagement with challenging tasks. He called this state 'flow' — characterized by loss of self-consciousness, distorted time perception, and effortless concentration. Crucially, flow requires a channel of attention that is both undivided and fully loaded. Multitasking is structurally incompatible with flow: the constant reorientation prevents the necessary immersion. The implication is that the fragmentation of attention does not just impair performance — it forecloses a category of human experience.",
+  "question": "According to the passage, why is multitasking structurally incompatible with flow?",
+  "options": [
+    { "text": "Flow requires complete mental silence, while multitasking generates internal noise.", "correct": false },
+    { "text": "Multitasking activates the default mode network, which suppresses dopamine.", "correct": false },
+    { "text": "Flow is a leisure state that only occurs when no tasks are being performed.", "correct": false },
+    { "text": "The constant reorientation of multitasking prevents the undivided immersion flow requires.", "correct": true }
+  ]
+}

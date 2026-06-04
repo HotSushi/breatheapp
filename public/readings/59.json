@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The restorative potential of nature does not require wilderness. Studies by Frances Kuo and William Sullivan in Chicago's Cabrini-Green housing projects revealed that residents whose apartments overlooked trees and grass reported significantly lower mental fatigue, greater self-discipline, and reduced aggressive behavior compared to those facing barren courtyards — same building, same socioeconomic stress, different view. The effect was dose-dependent: more greenery predicted stronger restoration. Kuo concluded that even modest natural elements — a few trees, a strip of grass — can sustain attentional capacity in people under chronic cognitive load, suggesting that access to nature is not a luxury amenity but a functional cognitive resource.",
+  "question": "What did Kuo and Sullivan's Cabrini-Green study find about the relationship between greenery and mental fatigue?",
+  "options": [
+    { "text": "Residents who exercised outdoors showed greater benefits than those who merely viewed greenery", "correct": false },
+    { "text": "Residents overlooking trees and grass reported lower mental fatigue, and the effect was dose-dependent on the amount of greenery", "correct": true },
+    { "text": "The benefit was only significant for residents on the upper floors with broader views", "correct": false },
+    { "text": "Greenery reduced stress but had no measurable effect on cognitive performance or self-discipline", "correct": false }
+  ]
+}

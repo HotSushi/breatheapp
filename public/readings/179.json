@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's letters to Lucilius are the most intimate record we have of Stoic practice under pressure, and assent appears in them as a daily skill rather than a philosophical thesis. Seneca describes sitting with a disagreeable impression — say, the perception that a friend has slighted him — and deliberately not completing the inference that anger demands. He does not deny the impression; he suspends its consequence. Scholars such as Brad Inwood have noted that Seneca transforms Chrysippean logic into something closer to what we might call cognitive restructuring: identify the automatic interpretation, question whether it is the only one, choose a reading consistent with virtue. Theory becomes technique.",
+  "question": "What technique does Brad Inwood suggest Seneca derived from Chrysippean logic?",
+  "options": [
+    { "text": "Memorizing philosophical maxims to recite when passions arise", "correct": false },
+    { "text": "Avoiding situations likely to produce disagreeable impressions", "correct": false },
+    { "text": "Cognitive restructuring: questioning automatic interpretations and choosing virtuous readings", "correct": true },
+    { "text": "Focusing attention on physical sensations rather than mental narratives", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Psychologists David Meyer and Joshua Rubinstein identified what they called \"switch costs\" — the time lost each time a person shifts attention from one task to another. Their studies found that even brief mental blocks created by task-switching can cost as much as 40 percent of productive time. The cost is highest when tasks are complex and unfamiliar; the brain must not only reorient itself but also suppress the residual activation of the previous task. This interference, which Meyer termed \"blocking,\" is not a character flaw but a structural feature of human cognition that no amount of practice fully eliminates.",
+  "question": "What did Meyer and Rubinstein find about how much productive time task-switching can cost?",
+  "options": [
+    { "text": "Up to 25 percent of productive time", "correct": false },
+    { "text": "Up to 40 percent of productive time", "correct": true },
+    { "text": "Up to 60 percent of productive time", "correct": false },
+    { "text": "Up to 15 percent of productive time", "correct": false }
+  ]
+}

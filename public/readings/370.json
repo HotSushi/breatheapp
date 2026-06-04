@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The practical antidote to inattentional blindness is not trying harder to see — it is deliberately restructuring when and how attention is directed. Atul Gawande's analysis of surgical checklists shows that structured pauses force practitioners to shift their attentional frame, making the invisible visible by design rather than by chance. The same principle appears in contemplative practice: mindfulness training has been shown to increase noticing of unexpected stimuli, likely by cultivating a mode of open monitoring rather than focused attention. Both approaches share a common insight: the gorilla problem is not solved by willpower. It is solved by architecture — by building the habit of periodically releasing the narrow beam and scanning the dark.",
+  "question": "According to the passage, what do surgical checklists and mindfulness training share as an approach to inattentional blindness?",
+  "options": [
+    { "text": "Both increase the speed at which practitioners process incoming visual information", "correct": false },
+    { "text": "Both train individuals to maintain wider peripheral vision during demanding tasks", "correct": false },
+    { "text": "Both rely on willpower and deliberate effort to overcome attentional failures", "correct": false },
+    { "text": "Both restructure attention by design, creating moments to release narrow focus and scan broadly", "correct": true }
+  ]
+}

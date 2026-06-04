@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The architecture of modern email is designed around the metaphor of a to-do list — every message is implicitly a request, carrying with it an expectation of action. What this means for attention residue is that even a single glance at an unread subject line can populate working memory with a competing agenda. Cal Newport argues that the inbox is the most sophisticated anti-productivity device ever created, not because individual emails are demanding, but because collectively they maintain a permanent background hum of undone things. Closing the application doesn't close the loops; only deliberate processing — reading, deciding, and filing — releases the cognitive hold each message exerts.",
+  "question": "What does Cal Newport identify as the key reason the inbox is an 'anti-productivity device'?",
+  "options": [
+    { "text": "Because email platforms are deliberately designed to maximize time spent composing replies", "correct": false },
+    { "text": "Because individual emails are often too complex and ambiguous to process quickly", "correct": false },
+    { "text": "Because collectively emails maintain a permanent background hum of undone things in working memory", "correct": true },
+    { "text": "Because the notification system is calibrated to interrupt workers at peak concentration moments", "correct": false }
+  ]
+}

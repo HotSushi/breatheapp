@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Implementation intentions — if-then plans of the form 'When X happens, I will do Y' — were shown by psychologist Peter Gollwitzer to dramatically increase follow-through on goals. Where a simple intention ('I will exercise more') leaves the cue unspecified, an implementation intention pre-commits the brain to a specific trigger and response. In studies on flu vaccination and cancer screening, patients who wrote down exactly when and where they would attend appointments were twice as likely to follow through. Gollwitzer's framework is, in effect, a method for manufacturing habit cues deliberately — encoding a prospective cue-routine link before the moment of decision arrives.",
+  "question": "How does an implementation intention differ from a simple intention, according to the passage?",
+  "options": [
+    { "text": "It focuses on the reward rather than the routine to strengthen motivation", "correct": false },
+    { "text": "It specifies a particular trigger and response, pre-committing the brain before the moment of decision", "correct": true },
+    { "text": "It relies on social accountability rather than internal cue-routine encoding", "correct": false },
+    { "text": "It replaces the basal ganglia's chunking process with prefrontal planning", "correct": false }
+  ]
+}

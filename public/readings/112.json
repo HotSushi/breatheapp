@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Enchiridion's title means 'handbook' — a weapon small enough to carry at all times. Arrian, a student of Epictetus, compiled it not as a philosophical treatise but as a daily armament. Each aphorism was meant to be rehearsed before encounters with the world, the way a soldier checks equipment before battle. Epictetus believed most suffering arose not from events but from the gap between expectation and reality — a gap we install ourselves. The handbook's function was to close that gap through repeated, deliberate practice, not inspired insight. Philosophy, for Epictetus, was always a discipline of the will, never merely an intellectual exercise.",
+  "question": "According to the passage, what was the primary function of the Enchiridion as Arrian compiled it?",
+  "options": [
+    { "text": "To be rehearsed daily as practical mental preparation for encounters with the world", "correct": true },
+    { "text": "To serve as a comprehensive philosophical treatise on Stoic metaphysics", "correct": false },
+    { "text": "To record Epictetus's lectures for future academic scholars", "correct": false },
+    { "text": "To outline the history of Stoic thought from Zeno forward", "correct": false }
+  ]
+}

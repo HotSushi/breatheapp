@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Husserl's analysis of time-consciousness reveals an overlooked dimension of intentionality. Every act of hearing a melody is directed not just at the note currently sounding but at what Husserl called 'retentions' — the just-elapsed notes that still resonate in awareness — and 'protentions' — the notes anticipated as about to arrive. Without this temporal arc, we would hear only a series of isolated tones, never a melody. Consciousness, Husserl argued, is structured like a comet: the bright head is the now-point, but the tail of retention and the leading edge of protention are both integral to any present experience. Intentionality, in other words, is inherently temporal.",
+  "question": "According to Husserl's analysis described in the passage, what are 'retentions'?",
+  "options": [
+    { "text": "Notes the listener anticipates as about to sound", "correct": false },
+    { "text": "Memories stored in long-term recall from past performances", "correct": false },
+    { "text": "Just-elapsed notes that still resonate in present awareness", "correct": true },
+    { "text": "The emotional associations triggered by a musical phrase", "correct": false }
+  ]
+}

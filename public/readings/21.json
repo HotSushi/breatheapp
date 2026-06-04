@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Dopamine is not, as popular culture insists, a pleasure chemical. It is a prediction-error signal. Neuroscientist Wolfram Schultz demonstrated this in the 1990s by recording dopamine neurons in macaques: the neurons fired not when the animal received a reward, but when the reward was unexpected. Once the reward became predictable, dopamine activity flatlined. What dopamine actually encodes is the gap between what you expected and what you got — a signal that drives learning by marking moments of surprise. This is why novelty feels so compelling: it reliably triggers prediction errors, flooding the brain with a chemical that says, in effect, pay attention here.",
+  "question": "According to Wolfram Schultz's research, when do dopamine neurons fire most strongly?",
+  "options": [
+    { "text": "When a familiar reward is delivered on schedule", "correct": false },
+    { "text": "When the animal anticipates a reward but does not yet receive it", "correct": false },
+    { "text": "When a reward arrives unexpectedly, producing a prediction error", "correct": true },
+    { "text": "When the animal is experiencing physical pleasure", "correct": false }
+  ]
+}

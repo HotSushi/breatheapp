@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "When Epictetus says 'seek not that the things which happen should happen as you wish,' he is inverting the ordinary strategy for happiness. Most people attempt to reshape the world to match their desires. Epictetus proposes reshaping desire to match the world. This is not passivity — it is a precise reallocation of effort. Effort spent trying to control what is not yours is wasted twice: once in the attempt, once in the frustration of failure. Effort redirected toward your own judgment, your own response, your own character yields returns that no external reversal can undo. The Stoic advantage is efficiency of will.",
+  "question": "The passage describes Epictetus's strategy as an 'inversion' of the ordinary approach. What specifically is inverted?",
+  "options": [
+    { "text": "Instead of enduring hardship, one seeks to avoid it entirely", "correct": false },
+    { "text": "Instead of pursuing virtue, one pursues pleasure with moderation", "correct": false },
+    { "text": "Instead of reshaping the world to match desire, one reshapes desire to match the world", "correct": true },
+    { "text": "Instead of cultivating reason, one relies on instinct and feeling", "correct": false }
+  ]
+}

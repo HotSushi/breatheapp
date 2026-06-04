@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Philosopher Simone Weil wrote that attention is the rarest and purest form of generosity. She did not mean attention as vigilance but as willing receptivity — the suspension of the self's noise in order to hear what another is actually saying. Reading long-form literature trains precisely this capacity. The reader who inhabits a character's interiority for three hundred pages practices what Weil called \"negative attention\": setting aside one's own preconceptions to make room for an alien consciousness. This is not passivity but a disciplined emptying — closer in structure to contemplative prayer than to information retrieval.",
+  "question": "What did Weil mean by \"negative attention\" in the context of reading?",
+  "options": [
+    { "text": "Resisting distraction by strengthening willpower over time.", "correct": false },
+    { "text": "Critiquing a text rather than accepting its claims uncritically.", "correct": false },
+    { "text": "Setting aside one's own preconceptions to make room for an alien consciousness.", "correct": true },
+    { "text": "Focusing on the negative emotional content of a narrative.", "correct": false }
+  ]
+}

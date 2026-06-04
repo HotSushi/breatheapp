@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "James made a claim that startled his contemporaries: the education of attention is the education of the whole person. He believed that a person who could voluntarily return their attention to a difficult subject, again and again, possessed the root of judgment, character, and willpower. This was not metaphor but mechanism. Voluntary attention, for James, was not a fixed capacity but a trainable faculty — one strengthened through regular exercise just as a muscle grows through resistance. The modern science of neuroplasticity would later confirm his intuition: deliberate attentional practice physically reshapes the brain circuits involved in self-regulation.",
+  "question": "What did James believe was the result of training voluntary attention?",
+  "options": [
+    { "text": "Improved short-term memory and reading speed", "correct": false },
+    { "text": "Resistance to sensory distraction", "correct": false },
+    { "text": "The root of judgment, character, and willpower", "correct": true },
+    { "text": "A quieter autonomic nervous system", "correct": false }
+  ]
+}

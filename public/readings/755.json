@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "E.O. Wilson's biophilia hypothesis, formalized in 1984, proposes that humans carry an evolved affinity for living systems — a deep attunement that shaped our perceptual and emotional architecture over millions of years in natural landscapes. This affinity is not cultural nostalgia; it is wired into the nervous system. Fractal patterns in natural scenery — the branching of trees, coastlines, clouds — fall in a mid-range complexity dimension (D between 1.3 and 1.5) that research by physicist Richard Taylor has linked to measurably reduced physiological stress. The brain may be tuned to exactly the statistical properties nature produces, finding in them neither boredom nor overwhelm.",
+  "question": "What specific property of natural fractal patterns has Richard Taylor linked to stress reduction?",
+  "options": [
+    { "text": "High fractal complexity (D above 1.8) which maximizes neural stimulation", "correct": false },
+    { "text": "Mid-range fractal complexity (D between 1.3 and 1.5) matching the brain's evolved tuning", "correct": true },
+    { "text": "Low fractal complexity (D below 1.0) which produces calming visual monotony", "correct": false },
+    { "text": "The symmetry of fractal patterns rather than their dimensional complexity", "correct": false }
+  ]
+}

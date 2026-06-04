@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "There is a telling difference between the calendars of prolific writers and those of busy executives: the writers' calendars are mostly empty. Annie Dillard, who wrote about the discipline of creative work in 'The Writing Life,' described her ideal day as a single long session in a bare room with no telephone. Not because she was antisocial, but because she understood that the self who walks into a rich social environment and the self who can sustain a 2,000-word argument are mutually exclusive on any given morning. Protecting a creative block is an act of identity management as much as time management — it is a decision about which self shows up to do the work.",
+  "question": "According to the passage, what does Annie Dillard's approach to a working day reveal about creative blocks?",
+  "options": [
+    { "text": "Long writing sessions require complete silence and the absence of all technology.", "correct": false },
+    { "text": "Prolific writers are fundamentally more introverted than executives.", "correct": false },
+    { "text": "Protecting creative blocks is an act of identity management, not just time management.", "correct": true },
+    { "text": "Writing 2,000 words per day requires at least eight hours of uninterrupted solitude.", "correct": false }
+  ]
+}

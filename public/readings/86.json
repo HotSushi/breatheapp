@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Selective attention operates through two competing systems: a top-down, goal-directed system rooted in the prefrontal and parietal cortices, and a bottom-up, stimulus-driven system anchored in the temporoparietal junction. Cognitive neuroscientists Corbetta and Shulman mapped this two-network architecture in a landmark 2002 review. The top-down network allows you to search deliberately for a friend's face in a crowd. The bottom-up network hijacks your gaze when something unexpected flashes in the corner of your visual field. Digital interfaces exploit the bottom-up circuit relentlessly: badges, banners, and notification sounds are engineered to be involuntary triggers, bypassing your prefrontal intentions entirely.",
+  "question": "Where is the bottom-up, stimulus-driven attention system primarily anchored, according to the passage?",
+  "options": [
+    { "text": "The locus coeruleus and basal ganglia.", "correct": false },
+    { "text": "The temporoparietal junction.", "correct": true },
+    { "text": "The prefrontal and parietal cortices.", "correct": false },
+    { "text": "The anterior cingulate and fusiform cortex.", "correct": false }
+  ]
+}

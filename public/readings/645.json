@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "In 2009, Stanford researchers Clifford Nass and Eyal Ophir studied self-described heavy multitaskers, expecting to find cognitive advantages that explained their habit. Instead, they found the opposite: heavy multitaskers were worse at filtering irrelevant information, worse at task-switching, and worse at holding information in working memory than people who rarely multitasked. The chronic multitaskers could not suppress attention to irrelevant stimuli even when they wanted to. The researchers concluded that multitasking does not train the brain for agility — it trains it for distraction.",
+  "question": "What did Nass and Ophir find about heavy multitaskers' ability to handle irrelevant information?",
+  "options": [
+    { "text": "They developed stronger working memory over time", "correct": false },
+    { "text": "They were better at filtering irrelevant stimuli than light multitaskers", "correct": false },
+    { "text": "They could not suppress attention to irrelevant stimuli even when they wanted to", "correct": true },
+    { "text": "They showed improved task-switching speed on timed tests", "correct": false }
+  ]
+}

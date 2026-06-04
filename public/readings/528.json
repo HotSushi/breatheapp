@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Neoplatonist philosopher Plotinus, writing in the third century CE, extended Plato's cave allegory inward. For Plotinus, the light we seek is not external but located at the deepest center of the self — what he called the One. Distraction, in his system, is not a failure to look outward at the right things but a failure to look inward at all. In the Enneads, he writes that the soul is perpetually in contact with the divine but rarely notices because its attention is scattered across the surface of experience. Recollecting attention is thus, for Plotinus, an act of self-recognition rather than discovery.",
+  "question": "According to the passage, how did Plotinus differ from Plato in locating the source of inner light?",
+  "options": [
+    { "text": "Plotinus believed the light came from the sun, while Plato located it in the Forms", "correct": false },
+    { "text": "Plotinus located the light at the deepest center of the self, rather than in an external realm", "correct": true },
+    { "text": "Plotinus rejected the cave allegory entirely in favor of his own metaphors", "correct": false },
+    { "text": "Plotinus argued the light was found through social dialogue, not solitary reflection", "correct": false }
+  ]
+}

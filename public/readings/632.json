@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Poets and mathematicians alike describe the same phenomenon: a solution surfaces during a walk, a shower, or the hypnagogic drift before sleep. Psychologist Ap Dijksterhuis calls this unconscious thought theory — the idea that complex, multi-attribute decisions are better handled by unconscious processing than by deliberate analysis. When conscious attention is occupied elsewhere, the brain continues weighing variables without the bottleneck of working memory. Dijksterhuis's studies found that participants who were distracted before deciding made choices they rated as more satisfying weeks later than those who deliberated. The implication is unsettling: for sufficiently complex problems, thinking harder may be thinking worse.",
+  "question": "What did Dijksterhuis's studies find about distracted participants compared to those who deliberated?",
+  "options": [
+    { "text": "They made faster decisions but later regretted them more.", "correct": false },
+    { "text": "They rated their choices as more satisfying weeks later.", "correct": true },
+    { "text": "They showed higher activity in the prefrontal cortex during recall.", "correct": false },
+    { "text": "They were more likely to change their decisions under pressure.", "correct": false }
+  ]
+}

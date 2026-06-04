@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Bodhisattva vow in Mahayana Buddhism — 'I will not enter final liberation until all beings are free' — is sometimes dismissed as hyperbole, but teacher Joanna Macy reads it as a functional psychological instruction. The vow deliberately suspends the ego's project of personal salvation, redirecting motivation from self-securing to world-serving. This reorientation, Macy argues, is itself the antidote to what she calls 'psychic numbing': the flatness and disconnection that sets in when we scroll through catastrophe without agency. Compassion becomes a practice not of feeling more pain but of restoring the sense that one's attention and action are causally connected to the world.",
+  "question": "According to Joanna Macy, what psychological problem does the Bodhisattva vow serve as an antidote to?",
+  "options": [
+    { "text": "Spiritual pride arising from advanced meditation practice.", "correct": false },
+    { "text": "The fear of death, which Macy sees as the root of all consumer behavior.", "correct": false },
+    { "text": "Attachment to personal liberation at the expense of community.", "correct": false },
+    { "text": "Psychic numbing — the flatness that arises when scrolling through catastrophe without agency.", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher Albert Borgmann distinguished between 'device paradigm' goods — things that deliver a commodity while hiding their workings — and 'focal practices' that engage us wholly. Social media is a device paradigm for belonging: it delivers the sensation of social connection while concealing the effort, vulnerability, and reciprocity that real connection requires. The anxiety this produces is not incidental. When a device substitutes for a focal practice, the deeper need is never fully satisfied, producing a compulsion to return and consume more. FOMO, on this reading, is what it feels like to be fed a simulacrum of the thing you actually need.",
+  "question": "How does Borgmann's distinction between 'device paradigm' and 'focal practices' explain the anxiety social media produces?",
+  "options": [
+    { "text": "Device paradigms are slower and less efficient than focal practices, causing frustration.", "correct": false },
+    { "text": "Social media delivers a sensation of connection while hiding the effort real connection requires, leaving the deeper need unsatisfied.", "correct": true },
+    { "text": "Focal practices are too demanding for most users, so they resort to device paradigms and feel guilty.", "correct": false },
+    { "text": "Borgmann argued that all technology produces anxiety because it separates humans from nature.", "correct": false }
+  ]
+}

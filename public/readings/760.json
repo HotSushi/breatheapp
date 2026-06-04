@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "One of the more counterintuitive findings in nature-and-attention research comes from work by Gregory Bratman at Stanford. Participants who walked ninety minutes in a natural setting showed decreased activity in the subgenual prefrontal cortex — a region associated with repetitive, self-referential negative thought, or rumination — compared to those who walked the same distance along a busy roadway. The urban walkers' rumination scores were unchanged. This finding reframes nature walks as a targeted intervention for a specific cognitive pathology: not general stress but the stuck-loop thinking that underlies much of contemporary anxiety. The landscape literally quiets a circuit that the urban environment leaves running.",
+  "question": "What specific brain region did Bratman find was quieted by a ninety-minute nature walk?",
+  "options": [
+    { "text": "The amygdala, responsible for threat detection and fear response", "correct": false },
+    { "text": "The subgenual prefrontal cortex, associated with repetitive self-referential negative thought", "correct": true },
+    { "text": "The anterior cingulate cortex, which mediates conflict monitoring", "correct": false },
+    { "text": "The hippocampus, which encodes stress-related memories during urban exposure", "correct": false }
+  ]
+}

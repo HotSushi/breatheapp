@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Acoustic design is often the last variable considered and the first to destroy concentration. Research by Ravi Mehta and colleagues found that moderate ambient noise — around 70 decibels, the level of a coffee shop — modestly enhances creative cognition by introducing just enough unpredictability to prevent the mind from locking onto a single narrow track. But louder noise, or noise with intelligible speech, produces the opposite effect: the cocktail party problem forces the auditory cortex to process language involuntarily, consuming working memory that should be available for the task at hand. Designing for focus means choosing your auditory environment as deliberately as your visual one.",
+  "question": "According to the passage, why does intelligible speech in the background harm concentration?",
+  "options": [
+    { "text": "It raises ambient noise above 70 decibels, exceeding the threshold for creative enhancement", "correct": false },
+    { "text": "It triggers the brain's social response, diverting attention toward interpersonal signals", "correct": false },
+    { "text": "It forces the auditory cortex to process language involuntarily, consuming working memory", "correct": true },
+    { "text": "It disrupts the rhythm of cognitive tasks by introducing unpredictable semantic content", "correct": false }
+  ]
+}

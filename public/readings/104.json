@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Stoic self-observation is not introspection in the modern therapeutic sense. Where contemporary reflection asks \"how do I feel?\", the Stoic asks \"what did I assent to?\" Aurelius inherited from Epictetus the concept of the hegemonikon — the ruling faculty of the mind — whose health depends on monitoring the quality of its own judgments, not its emotions. Emotions, for the Stoics, were consequences of prior assents: you did not simply feel anger; you first judged that an injury was real and significant. Self-observation, then, meant watching the moment of judgment before it calcified into reaction.",
+  "question": "According to the passage, what does Stoic self-observation focus on, as distinct from modern introspection?",
+  "options": [
+    { "text": "The emotional residue left after conflict", "correct": false },
+    { "text": "The quality of judgments made by the ruling faculty, not emotions themselves", "correct": true },
+    { "text": "The gap between social behavior and private feeling", "correct": false },
+    { "text": "The health of the body as a mirror of the mind's condition", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Philosophers have long debated how much of the world we consciously see at once. Cognitive science has quietly answered: surprisingly little. Change blindness experiments, pioneered by Ronald Rensink, show that large alterations to a scene go undetected when a brief disruption — a flicker, a cut, a blink — intervenes between views. Observers confidently report seeing the scene in full, but their change-detection failures reveal the opposite. The brain constructs an impression of a rich, complete visual world while holding far less in active representation than it seems. The experience of seeing is partly confabulation, a continuous plausible story told about a sparse sample.",
+  "question": "What do Ronald Rensink's change blindness experiments reveal about visual perception?",
+  "options": [
+    { "text": "The brain holds a complete and accurate representation of every visual scene", "correct": false },
+    { "text": "Large visual changes are easily noticed when attention is directed to the scene", "correct": false },
+    { "text": "The brain actively constructs a rich impression from a much sparser actual representation", "correct": true },
+    { "text": "Change detection failures occur only when the disruption lasts longer than one second", "correct": false }
+  ]
+}

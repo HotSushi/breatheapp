@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle distinguished between two kinds of pleasure: hedone, the fleeting satisfaction of appetite, and eudaimonia, the deep contentment that comes from exercising one's highest capacities over time. He argued that a person pursuing eudaimonia is not seeking comfort but rather what he called energeia — activity fully in act, complete in itself. Unlike a product you finish and set aside, energeia is its own reward at every moment. This distinction matters enormously for focus: attention given to something genuinely worth doing generates its own sustaining energy, while attention chased after pleasure alone exhausts itself quickly.",
+  "question": "According to the passage, how does Aristotle's concept of energeia differ from goal-directed work?",
+  "options": [
+    { "text": "Energeia requires more effort than goal-directed work because it demands continuous self-discipline.", "correct": false },
+    { "text": "Energeia is complete and rewarding at every moment, rather than finished and set aside like a product.", "correct": true },
+    { "text": "Energeia is a form of pleasure Aristotle associated with physical exercise and bodily health.", "correct": false },
+    { "text": "Energeia describes the pleasure of hedone when it is sustained over a long period of time.", "correct": false }
+  ]
+}

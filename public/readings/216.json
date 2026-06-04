@@ -1,0 +1,23 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Daniel Ingram, a physician and contemplative who documented his vipassana practice in 'Mastering the Core Teachings of the Buddha,' describes a stage called the 'arising and passing away' — a moment when the meditator perceives each sensation flickering in and out of existence at high speed. This is not metaphor but a perceptual shift: practitioners report seeing phenomena at what feels like strobe frequency. Ingram argues this stage is reliably reproducible across traditions and represents a genuine cognitive event rather than spiritual metaphysics. The experience tends to permanently alter one's intuitive sense of the solidity of the self, creating what he calls an 'attentional upgrade' that persists outside formal practice.",
+  "question": "According to the passage, what does Daniel Ingram call the lasting perceptual change produced by the 'arising and passing away' stage?",
+  "options": [
+    {
+      "text": "A strobe frequency shift",
+      "correct": false
+    },
+    {
+      "text": "A spiritual metaphysics event",
+      "correct": false
+    },
+    {
+      "text": "A dissolution of ego boundaries",
+      "correct": false
+    },
+    {
+      "text": "An attentional upgrade",
+      "correct": true
+    }
+  ]
+}

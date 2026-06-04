@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Chapter four of the Gita introduces jnana yoga — the path of knowledge — and describes the focused thinker as one who sees action in inaction and inaction in action. This cryptic statement points to something precise: the person who acts from clear discriminative intelligence appears outwardly engaged while remaining inwardly undisturbed; the person who refrains from acting out of fear or confusion is, paradoxically, in constant inner agitation. True rest, the Gita implies, is not the absence of activity but the absence of compulsive reaction. The most productive state is neither frantic doing nor passive withdrawal, but lucid engagement — absorbed in the task, unmoved by its stakes.",
+  "question": "What does the passage identify as the Gita's definition of 'true rest'?",
+  "options": [
+    { "text": "The complete withdrawal from action through the practice of jnana yoga", "correct": false },
+    { "text": "The absence of activity during formal periods of meditation", "correct": false },
+    { "text": "The absence of compulsive reaction, not the absence of activity", "correct": true },
+    { "text": "Performing only those actions that produce no karma for the actor", "correct": false }
+  ]
+}

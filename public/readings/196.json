@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius returned obsessively in his journal to the brevity of fame — not as a source of despair but as a clearing agent. 'How many a Camillus, how many a Caeso, how many a Volesus have there been?' he writes, naming figures once celebrated and now forgotten. The exercise is specifically temporal: project your praise into the future and watch it dissolve. Scholars of Stoic practice call this the via negativa of reputation — you approach right action not by pursuing honor but by exposing the emptiness of honor's appeal. The journal becomes a lens that burns off vanity before it can distort the day's choices.",
+  "question": "According to the passage, what do scholars of Stoic practice call Marcus Aurelius's technique of exposing the emptiness of reputation?",
+  "options": [
+    { "text": "The memento mori discipline", "correct": false },
+    { "text": "The via negativa of reputation", "correct": true },
+    { "text": "Negative visualization", "correct": false },
+    { "text": "The temporal reduction method", "correct": false }
+  ]
+}

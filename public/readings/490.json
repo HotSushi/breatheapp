@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The illusion of multitasking competence is self-reinforcing. Researchers Iqbal and Bailey found that people who switch tasks frequently report feeling more productive even when objective output measures decline. The sensation of busyness — the constant movement between inputs — registers as effort and effort registers as progress. Cal Newport, in \"Deep Work,\" termed this \"pseudo-productivity\": the use of visible activity as a proxy for genuine output. The most damaging aspect of chronic task-switching may not be the cognitive cost in any single session but the gradual erosion of a person's tolerance for the boredom that precedes genuine depth.",
+  "question": "What does Cal Newport mean by \"pseudo-productivity\"?",
+  "options": [
+    { "text": "A state of productivity achieved through short, frequent work intervals rather than long sessions", "correct": false },
+    { "text": "The tendency to overestimate one's output when working with digital tools", "correct": false },
+    { "text": "The use of visible activity as a proxy for genuine output", "correct": true },
+    { "text": "A productivity technique that prioritizes shallow tasks to build momentum for deep work", "correct": false }
+  ]
+}

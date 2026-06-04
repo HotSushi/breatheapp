@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The 'implementation intention' is a specific if-then plan — 'If situation X occurs, I will perform response Y' — and it dramatically improves follow-through. Peter Gollwitzer, who developed the concept, showed that people who formed implementation intentions were two to three times more likely to act on goals than those with equally strong general intentions. The mechanism is pre-decisional: by mentally linking a situational cue to a response in advance, the person offloads the decision to the environment. When the cue appears, the behavior is triggered almost automatically, bypassing the deliberation that so often leads to postponement. Implementation intentions essentially convert prospective memory demands into something closer to habit.",
+  "question": "According to the passage, how do implementation intentions improve follow-through?",
+  "options": [
+    { "text": "They strengthen emotional commitment to the goal.", "correct": false },
+    { "text": "They link a situational cue to a response in advance, automating the decision.", "correct": true },
+    { "text": "They rely on time-based reminders rather than environmental cues.", "correct": false },
+    { "text": "They reduce the cognitive cost of holding intentions in working memory.", "correct": false }
+  ]
+}

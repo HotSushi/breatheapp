@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Software engineering teams at Microsoft Research studied how long interruptions actually last — not the moment of disruption, but the full recovery arc. Gloria Mark's fieldwork, conducted over years of in-situ observation, found the average time to fully resume a complex task after interruption was twenty-three minutes and fifteen seconds. Workers, however, rarely waited that long; they allowed themselves to be interrupted again, creating cascading fragmentation. The engineers who performed best were not those who ignored all interruptions but those who batched them — holding questions, messages, and non-urgent decisions until a designated window outside the sprint, then processing them in a single deliberate block.",
+  "question": "According to Gloria Mark's research cited in the passage, how long does it typically take to fully resume a complex task after an interruption?",
+  "options": [
+    { "text": "Approximately five minutes, matching the length of a Pomodoro break", "correct": false },
+    { "text": "Around forty-five minutes, depending on task complexity", "correct": false },
+    { "text": "Up to ten minutes for routine tasks and twenty for creative ones", "correct": false },
+    { "text": "Twenty-three minutes and fifteen seconds on average", "correct": true }
+  ]
+}

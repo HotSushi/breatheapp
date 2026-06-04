@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "When television networks discovered in the 1960s that fear and conflict reliably held audience attention, they discovered something with profound political implications: the emotional architecture of a population could be continuously recalibrated by whoever controlled the broadcast. Communication scholar George Gerbner called this the \"mean world syndrome\" — heavy television viewers, regardless of their actual neighborhood's crime rate, consistently estimated the world as more dangerous than light viewers. A population living in a subjectively more dangerous world makes predictably different political choices: it tolerates more surveillance, accepts more restriction, and clings more tightly to authoritarian promises of safety.",
+  "question": "What did Gerbner's research find about heavy television viewers' perception of danger?",
+  "options": [
+    { "text": "They accurately assessed risk based on the information networks provided", "correct": false },
+    { "text": "They were desensitized to danger and underestimated real-world threats", "correct": false },
+    { "text": "They consistently overestimated world danger regardless of their actual neighborhood's crime rate", "correct": true },
+    { "text": "They developed stronger critical thinking skills by processing more news content", "correct": false }
+  ]
+}

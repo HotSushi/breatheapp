@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In the Bhagavad Gita's second chapter, Krishna introduces nishkama karma — action performed without craving for its fruit. He tells the warrior Arjuna: 'You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.' This teaching reframes the purpose of effort itself. When the mind fixates on outcomes, attention fractures: part of it acts while another part anxiously monitors results. Nishkama karma resolves this split by anchoring awareness entirely in the present action. The task becomes the whole field of consciousness, not a means to some imagined end.",
+  "question": "According to the passage, what causes attention to fracture during action?",
+  "options": [
+    { "text": "Performing duties prescribed by others rather than chosen freely", "correct": false },
+    { "text": "The mind fixating on outcomes while simultaneously acting", "correct": true },
+    { "text": "Practicing nishkama karma without a qualified teacher", "correct": false },
+    { "text": "Arjuna's reluctance to engage in battle on the Kurukshetra field", "correct": false }
+  ]
+}

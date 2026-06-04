@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "There is a paradox at the heart of sleep and learning: the brain must be destabilized before it can be consolidated. When a new memory forms, synapses are temporarily weakened — a process called synaptic tagging — before being selectively strengthened during slow-wave sleep. Neuroscientist Björn Rasch and colleagues demonstrated this using targeted memory reactivation: odors associated with learning tasks were re-introduced during slow-wave sleep, and subjects showed significantly enhanced recall the following morning. The sleeping brain was not passive; it was actively replaying, selecting, and strengthening memories cued by sensory input. Rest, properly understood, is not the absence of activity but a different kind of it.",
+  "question": "What did Rasch's targeted memory reactivation experiment demonstrate about the sleeping brain?",
+  "options": [
+    { "text": "That REM sleep is the primary stage for consolidating newly formed verbal memories", "correct": false },
+    { "text": "That sensory input during slow-wave sleep can cue the brain to actively strengthen specific memories", "correct": true },
+    { "text": "That odors presented before sleep reduce the time needed to reach slow-wave stages", "correct": false },
+    { "text": "That synaptic tagging occurs during the transition between wakefulness and light sleep", "correct": false }
+  ]
+}

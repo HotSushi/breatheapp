@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The stream of consciousness does not flow at a constant speed. James noticed that thought alternates between what he called 'resting places' — substantive parts where the mind holds a clear image or idea — and 'flights' — the rapid transitional passages between them. Most introspective efforts, he warned, capture only the resting places, because the moment we stop to examine a flight, we kill it. 'It is as if a snowflake were to try to catch itself falling,' he wrote. This insight anticipates modern findings that introspective reports systematically misrepresent the dynamic, fleeting nature of ongoing mental processes.",
+  "question": "Why did James warn that introspective efforts tend to miss the 'flights' in conscious thought?",
+  "options": [
+    { "text": "Flights are too brief to enter long-term memory", "correct": false },
+    { "text": "The act of examining a flight destroys it", "correct": true },
+    { "text": "Flights occur below the threshold of consciousness", "correct": false },
+    { "text": "Introspection can only access emotional states, not transitions", "correct": false }
+  ]
+}

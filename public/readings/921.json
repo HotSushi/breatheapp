@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Shoshana Zuboff coined the term 'surveillance capitalism' in 2014 to describe an economic logic that claims human experience as free raw material for behavioral data. Unlike industrial capitalism, which extracted value from nature and labor, surveillance capitalism mines the minute textures of daily life: your hesitations, your scrolls, your route to work. Google pioneered this model almost accidentally — engineers discovered that the behavioral residue generated as a byproduct of search could predict future conduct far more accurately than users themselves could. That surplus data was too commercially valuable to discard, and a new economic order was born.",
+  "question": "According to the passage, how did Google first discover the commercial potential of behavioral surplus data?",
+  "options": [
+    { "text": "Through a deliberate initiative to study user psychology and monetize attention", "correct": false },
+    { "text": "By observing that byproduct data from search predicted future behavior with high accuracy", "correct": true },
+    { "text": "By adapting industrial-era models of labor extraction to digital platforms", "correct": false },
+    { "text": "Through Zuboff's academic consultancy work with the company in the early 2000s", "correct": false }
+  ]
+}

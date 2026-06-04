@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Pythagorean communities preceded the Stoics in prescribing evening verse — members recited a set of questions about the day's conduct before sleep. The Stoics borrowed this structure but stripped away its ritualistic character, replacing memorized verse with genuine interrogation. Hierocles, a second-century Stoic, described the evening review as the moment when the day becomes data. What you experienced is no longer happening to you; it is now available to you. This shift from subject to observer is precisely what neuroscientists call decentering — the capacity to watch one's own thoughts as events rather than as reality, which researchers associate with reduced emotional reactivity.",
+  "question": "According to the passage, what term do neuroscientists use for the shift from experiencing thoughts as reality to watching them as events?",
+  "options": [
+    { "text": "Metacognition", "correct": false },
+    { "text": "Decentering", "correct": true },
+    { "text": "Defusion", "correct": false },
+    { "text": "Prohairesis", "correct": false }
+  ]
+}

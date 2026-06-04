@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 1922, Walter Lippmann argued that most citizens never directly experience the world they must make decisions about. Instead, they navigate a \"pseudo-environment\" — a picture of the world assembled from newspapers, rumor, and secondhand report. Whoever controls the assembly of that picture holds an extraordinary kind of power: not the power to command action, but the power to define what problems exist and which solutions seem thinkable. Modern attention engineers have turned this insight into infrastructure. By curating what surfaces in a feed, they shape not behavior directly but the terrain of awareness itself — the prior step that makes all other influence possible.",
+  "question": "According to Lippmann, what makes control over the 'pseudo-environment' a form of political power?",
+  "options": [
+    { "text": "It allows authorities to issue commands citizens cannot disobey", "correct": false },
+    { "text": "It determines which problems and solutions people are even able to think about", "correct": true },
+    { "text": "It gives propagandists access to citizens' emotional memories", "correct": false },
+    { "text": "It replaces direct experience with manufactured emotions", "correct": false }
+  ]
+}

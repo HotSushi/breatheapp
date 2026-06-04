@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Jonathan Levav and Shai Danziger extended decision fatigue research into consumer behavior, finding that car buyers who customized their vehicles in a showroom made systematically worse choices as the configuration session lengthened. Presented with a long sequence of options — engine size, upholstery, trim — buyers grew progressively more likely to accept the default. Each binary choice cost something, and the accumulating cost produced capitulation. The default, in any choice architecture, is the option that requires no active decision. Decision fatigue is therefore not merely a psychological curiosity; it is a mechanism that choice architects — marketers, insurers, software designers — routinely exploit.",
+  "question": "According to the passage, what behavioral pattern emerged as car buyers' configuration sessions lengthened?",
+  "options": [
+    { "text": "Buyers became more deliberate and chose fewer optional upgrades.", "correct": false },
+    { "text": "Buyers grew increasingly likely to accept the default option.", "correct": true },
+    { "text": "Buyers abandoned the purchase entirely rather than make poor choices.", "correct": false },
+    { "text": "Buyers made more expensive choices to avoid further deliberation.", "correct": false }
+  ]
+}

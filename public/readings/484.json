@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The concept of \"attention residue\" was introduced by organizational psychologist Sophie Leroy to explain why task-switching degrades subsequent performance. When you leave a task unfinished to attend to something else, part of your cognitive processing remains anchored to the original task. That lingering residue consumes working memory and impairs the quality of attention available for the new task. Leroy's experiments showed that people who were interrupted mid-task and forced to switch performed significantly worse on the subsequent task than those who completed the first task before switching — even when given the same amount of total time.",
+  "question": "According to Leroy's research, what is \"attention residue\"?",
+  "options": [
+    { "text": "A neurological condition caused by prolonged screen exposure", "correct": false },
+    { "text": "Cognitive processing that remains anchored to a previous unfinished task", "correct": true },
+    { "text": "The accumulated fatigue of sustained concentration over many hours", "correct": false },
+    { "text": "A measure of how much attention remains after a full night's sleep", "correct": false }
+  ]
+}

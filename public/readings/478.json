@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The neuroscience of attention hijacking begins with dopamine. Neuroscientist Kent Berridge distinguishes between 'wanting' and 'liking' — two systems that can operate independently. Dopamine governs wanting: the urgent, craving pull toward a stimulus. 'Liking,' which involves opioid circuits, is the actual pleasure of receipt. Crucially, you can want something intensely without liking it once you have it. Social media notifications exploit the wanting system: each buzz primes a dopamine spike in anticipation. By the time you read the notification and feel mild disappointment, the wanting has already served its purpose — you looked at the phone. The platform needed only your gaze, not your satisfaction.",
+  "question": "According to Berridge's framework, what does dopamine specifically govern in the brain?",
+  "options": [
+    { "text": "The experience of pleasure upon receiving a reward", "correct": false },
+    { "text": "The regulation of sleep and focus cycles", "correct": false },
+    { "text": "The wanting — the urgent craving pull toward a stimulus", "correct": true },
+    { "text": "Memory consolidation of emotionally significant events", "correct": false }
+  ]
+}

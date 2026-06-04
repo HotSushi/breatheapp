@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "There is a revealing asymmetry in how knowledge workers describe lost time. Ask a manager what a canceled meeting cost her, and she will say 'an hour.' Ask a programmer whose three-hour coding block was interrupted by a fifteen-minute standup, and she will say 'the whole afternoon.' This asymmetry is not exaggeration — it is phenomenologically accurate. Neuroscience confirms that prefrontal re-engagement after interruption is energetically expensive and time-consuming. The manager measures cost in clock units; the maker measures cost in cognitive units, which have a completely different exchange rate. Organizations that conflate these two currencies will always systematically underestimate the price of interruptions.",
+  "question": "Why does the passage say a maker's description of lost time is 'phenomenologically accurate' rather than an exaggeration?",
+  "options": [
+    { "text": "Makers are more sensitive to stress and feel losses more intensely.", "correct": false },
+    { "text": "Prefrontal re-engagement after interruption is genuinely expensive and time-consuming.", "correct": true },
+    { "text": "Fifteen-minute meetings always run over into longer sessions.", "correct": false },
+    { "text": "Makers work in longer cycles so any interruption cuts proportionally more.", "correct": false }
+  ]
+}

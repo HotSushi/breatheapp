@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chapter five of the Enchiridion addresses the distress people feel at a relative's death or illness. Epictetus does not deny the grief; he examines what drives it past its natural limit. It is not the death itself but our judgment that the death is terrible — a judgment we install — that becomes the source of prolonged suffering. He asks: does the hardship come from outside, or from your interpretation? This is not a trick to suppress emotion. It is an invitation to examine the invisible layer of commentary we add to every event. That commentary, unlike the event, is genuinely ours to revise.",
+  "question": "According to Epictetus in chapter five of the Enchiridion, what is the actual source of prolonged suffering around a death?",
+  "options": [
+    { "text": "The physical absence of the person who has died", "correct": false },
+    { "text": "Insufficient mourning rituals in Roman society", "correct": false },
+    { "text": "The failure to accept mortality as a philosophical principle", "correct": false },
+    { "text": "The judgment that the death is terrible — a commentary we add to the event", "correct": true }
+  ]
+}

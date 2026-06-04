@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Mental intrusion — the unbidden return of an unfinished task to conscious awareness — is not random noise. Researchers Roy Baumeister and E.J. Masicampo demonstrated in 2011 that intrusive thoughts about incomplete goals decrease sharply when people make a specific plan for completing the task, even without actually completing it. The plan, not the execution, relieves the cognitive system. This finding reframes procrastination anxiety: the mind does not demand that you finish things; it demands that you have a credible path to finishing them. Writing down a next step satisfies the system's need for closure with far less effort than the work itself.",
+  "question": "According to Baumeister and Masicampo, what reduces intrusive thoughts about incomplete goals?",
+  "options": [
+    { "text": "Completing the task before moving to a new one", "correct": false },
+    { "text": "Making a specific plan for completing the task", "correct": true },
+    { "text": "Deliberately suppressing thoughts about the task", "correct": false },
+    { "text": "Setting a deadline to impose external accountability", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "B.J. Fogg's Persuasive Technology Lab at Stanford produced many of Silicon Valley's most influential designers, including Instagram's Mike Krieger. Fogg's Behavior Model holds that behavior occurs when motivation, ability, and a trigger converge at the same moment. Platforms engineered for engagement work by maximizing all three simultaneously: notifications supply the trigger, simplified interfaces lower the ability barrier, and variable rewards — the unpredictable mix of likes and new posts — exploit the motivational circuitry that drives slot-machine gambling. Fogg himself has expressed discomfort with how his research was applied at scale, noting that academic models of persuasion were never designed for deployment on billions of people.",
+  "question": "According to Fogg's Behavior Model as described in the passage, when does behavior occur?",
+  "options": [
+    { "text": "When a person has sufficient motivation and receives a compelling social reward", "correct": false },
+    { "text": "When motivation, ability, and a trigger converge at the same moment", "correct": true },
+    { "text": "When repeated exposure gradually reduces resistance to an action", "correct": false },
+    { "text": "When an interface removes all friction from a desired user action", "correct": false }
+  ]
+}

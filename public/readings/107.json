@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Aurelius writes in Book IX that to wrong yourself is to step outside the present: \"The present is all one has to live.\" But this line is often misread as comfort. In context, it is a structural claim about agency. The Stoics held a doctrine called sympatheia — the interconnection of all things — but paired it with a strict division between what is \"up to us\" (eph' hemin) and what is not. The present moment is the precise intersection where these two principles meet: it is the only point at which the self can act, and therefore the only point morally worth occupying.",
+  "question": "According to the passage, what Stoic doctrine described the interconnection of all things?",
+  "options": [
+    { "text": "Eph' hemin", "correct": false },
+    { "text": "Premeditatio malorum", "correct": false },
+    { "text": "Sympatheia", "correct": true },
+    { "text": "Hegemonikon", "correct": false }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher Albert Borgmann introduced the concept of the 'device paradigm' to describe how modern technology hides its machinery while delivering only the commodity \u2014 warmth without the hearth, music without the instrument. Smartphones exemplify this: they deliver stimulation without the engagement of making, doing, or waiting that once structured daily life. Borgmann argued that what we lose is not convenience but 'focal practices' \u2014 activities demanding enough to anchor attention and identity. When every gap is filled by a device, we lose not just boredom but the entire category of experiences that boredom once made room for.",
+  "question": "What does Borgmann mean by 'focal practices' in the context of the passage?",
+  "options": [
+    {
+      "text": "Activities that are demanding enough to anchor attention and identity.",
+      "correct": true
+    },
+    {
+      "text": "Mindfulness exercises that train sustained attention through repetition.",
+      "correct": false
+    },
+    {
+      "text": "The specific mental focus required to operate complex technological devices.",
+      "correct": false
+    },
+    {
+      "text": "Professional skills that require deep concentration to maintain over a career.",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "William James observed in 1890 that the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will. He believed this capacity was the cardinal human virtue, yet lamented that no systematic training existed for it. Contemporary neuroscience has validated James's intuition: the prefrontal cortex, which governs sustained attention, is among the most plastic regions of the adult brain. Consistent deep work sessions function as resistance training for this region — each successful return from distraction strengthens the attentional network. Newport frames focus not as a fixed trait but as a cultivatable skill.",
+  "question": "What did William James identify as the root of judgment, character, and will?",
+  "options": [
+    { "text": "The discipline to eliminate all sources of environmental distraction", "correct": false },
+    { "text": "The capacity to voluntarily bring back a wandering attention, repeatedly", "correct": true },
+    { "text": "The ability to maintain emotional calm under conditions of high cognitive load", "correct": false },
+    { "text": "The habit of deliberate practice applied to one's core professional skill", "correct": false }
+  ]
+}

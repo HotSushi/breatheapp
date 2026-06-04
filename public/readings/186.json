@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic concept of oikeiosis — natural affiliation or appropriation — described how a creature naturally draws toward what benefits its own constitution. In infants, this begins as simple self-preservation. But as human rationality develops, oikeiosis expands outward: we come to recognize other rational beings as continuous with ourselves, their flourishing as genuinely connected to ours. Hierocles, a second-century Stoic, described this as a series of concentric circles — self, family, community, humanity — that wisdom progressively contracted. To live naturally, then, was to extend rational care outward, treating the welfare of strangers not as charity but as logic.",
+  "question": "According to the passage, what did Hierocles' concentric circles represent in the context of oikeiosis?",
+  "options": [
+    { "text": "The hierarchy of obligations one owes, from self outward to strangers", "correct": false },
+    { "text": "The stages of rational development that wisdom progressively contracted inward", "correct": false },
+    { "text": "The different spheres of nature that a Stoic must harmonize simultaneously", "correct": false },
+    { "text": "Expanding circles of natural affiliation that wisdom drew closer together", "correct": true }
+  ]
+}

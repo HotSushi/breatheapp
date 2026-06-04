@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Philosopher Michael Sandel has argued that some goods are corrupted when they become market commodities. Attention may be the clearest example. When a friend holds your gaze, something real passes between you. When an algorithm holds your gaze, the same neural circuits activate — but the purpose is extraction, not connection. The subjective experience of engagement can be identical even as the underlying relationship is opposite. This is the peculiar danger of the attention economy: it colonizes the very feeling of being present, making it difficult to distinguish genuine focus from engineered captivation.",
+  "question": "What does the passage identify as the peculiar danger of the attention economy?",
+  "options": [
+    { "text": "It makes people less likely to make eye contact with friends", "correct": false },
+    { "text": "It devalues human relationships by replacing them with algorithms", "correct": false },
+    { "text": "It colonizes the feeling of presence, making genuine focus and engineered captivation feel identical", "correct": true },
+    { "text": "It causes neural damage to the circuits responsible for social bonding", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cal Newport calls it the \"shutdown ritual\" — a deliberate sequence of actions that convinces your brain the workday is truly over. The ritual matters because the brain's default mode network keeps rehearsing unresolved tasks during ostensible rest, a phenomenon psychologists call the Zeigarnik effect. Without a formal close, the prefrontal cortex continues scanning for incomplete items, bleeding cognitive resources into the evening. Newport's own ritual ends with the spoken phrase \"shutdown complete\" — not merely symbolic, but a conditioned cue that interrupts rumination. The specificity of the phrase, repeated identically each day, builds an associative anchor the nervous system learns to trust.",
+  "question": "According to the passage, why does Newport use the exact same spoken phrase to end his shutdown ritual each day?",
+  "options": [
+    { "text": "To signal to colleagues that he is no longer available", "correct": false },
+    { "text": "Because Newport believes verbal affirmations reduce cortisol levels", "correct": false },
+    { "text": "To build a conditioned associative anchor that the nervous system learns to trust", "correct": true },
+    { "text": "To satisfy a journaling habit he developed during graduate school", "correct": false }
+  ]
+}

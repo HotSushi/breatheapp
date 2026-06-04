@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The binding problem asks how the brain unifies disparate neural processes — color, shape, motion, sound — into a single coherent experience. Francis Crick and Christof Koch proposed that gamma-wave oscillations around 40 Hz serve as the brain's binding mechanism, synchronizing activity across distant cortical regions. When attention is divided, this synchrony breaks down. Distracted cognition may not merely be slower; it may be genuinely less unified, producing a form of consciousness that is fragmented at the neural level. The experience of focus, then, is also the experience of a more integrated self.",
+  "question": "What did Crick and Koch propose as the brain's mechanism for binding disparate neural processes?",
+  "options": [
+    { "text": "Dopamine bursts that coordinate the hippocampus and prefrontal cortex.", "correct": false },
+    { "text": "Gamma-wave oscillations around 40 Hz synchronizing distant cortical regions.", "correct": true },
+    { "text": "Serial processing through the thalamic relay center at roughly 100 Hz.", "correct": false },
+    { "text": "Slow delta waves that reset attention after each perceptual event.", "correct": false }
+  ]
+}

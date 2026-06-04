@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Neuroscientist Michael Merzenich's research on neuroplasticity revealed an uncomfortable truth: the brain physically reshapes itself around its habitual inputs. Decades of screen-trained attention — rapid context-switching, shallow scanning, response to intermittent reward — do not just form habits. They remodel the neural architecture itself, pruning circuits devoted to sustained focus while strengthening those tuned to novelty detection. Resistance, then, cannot be passive. Choosing to read a long-form argument, to sit with ambiguity, to resist the pull of a notification — these are neurological interventions. Each act of sustained attention is literally rebuilding the brain that distraction dismantled.",
+  "question": "According to Merzenich's research, what happens when the brain is habituated to rapid context-switching?",
+  "options": [
+    { "text": "The brain becomes more efficient at multitasking without losing depth", "correct": false },
+    { "text": "Neural circuits for novelty detection are pruned while focus circuits grow", "correct": false },
+    { "text": "Habits form but the underlying neural architecture remains unchanged", "correct": false },
+    { "text": "Circuits for sustained focus are pruned while those for novelty detection are strengthened", "correct": true }
+  ]
+}

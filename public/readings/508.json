@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle argued that the soul's rational part has two components: the part that grasps universal, necessary truths — the nous — and the part that deliberates about contingent action — the phronesis. Flourishing requires both, but they demand different kinds of attention. Nous asks for long, unbroken contemplation; phronesis asks for careful perception of particulars. Modern productivity culture often collapses these into a single mode — rapid problem-solving — crowding out the slower, more receptive attention that genuine understanding requires. Aristotle's architecture of mind suggests that deep knowledge and wise action each need protected cognitive space.",
+  "question": "According to the passage, what does Aristotle's distinction between nous and phronesis imply about attention?",
+  "options": [
+    { "text": "Rapid problem-solving is the form of attention that best cultivates both nous and phronesis.", "correct": false },
+    { "text": "Nous is superior to phronesis and should receive the greater share of daily cognitive effort.", "correct": false },
+    { "text": "Phronesis operates on universal truths while nous handles the contingent decisions of daily life.", "correct": false },
+    { "text": "Deep knowledge and wise action each require a different and protected mode of attention.", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil's concept of attention has a striking parallel in the Buddhist notion of 'beginner's mind,' described by Shunryu Suzuki in 'Zen Mind, Beginner's Mind' (1970): 'In the beginner's mind there are many possibilities, but in the expert's mind there are few.' Both traditions warn against the foreclosing effect of prior knowledge. The expert's categories screen out the unexpected; the attentive person — Weil's or Suzuki's — must resist the impulse to slot new experience into familiar grooves. What Weil called 'waiting with expectation' and Suzuki called 'not-knowing' point toward the same cognitive posture: holding open the space where something genuinely new can appear.",
+  "question": "What shared cognitive posture do Weil's 'waiting with expectation' and Suzuki's 'not-knowing' both describe?",
+  "options": [
+    { "text": "Using prior expertise to prepare for novel challenges", "correct": false },
+    { "text": "Resisting distraction through deliberate willpower", "correct": false },
+    { "text": "Holding open the space where something genuinely new can appear", "correct": true },
+    { "text": "Achieving meditative emptiness through breath control", "correct": false }
+  ]
+}

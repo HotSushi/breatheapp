@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The gut-brain axis has reshaped how researchers think about cognitive nutrition. The enteric nervous system — sometimes called the 'second brain' — contains roughly 500 million neurons lining the gastrointestinal tract. These neurons communicate bidirectionally with the brain via the vagus nerve, and the gut microbiome heavily influences this channel. Certain fermented and fiber-rich foods promote populations of bacteria that produce short-chain fatty acids and neurotransmitter precursors, including serotonin. Psychiatrist Felice Jacka's landmark SMILES trial demonstrated that switching patients to a Mediterranean-style diet significantly reduced depression scores, implicating dietary patterns as direct levers on mood and mental clarity.",
+  "question": "According to the passage, what did the SMILES trial, led by Felice Jacka, demonstrate?",
+  "options": [
+    { "text": "That omega-3 supplements outperform diet changes for depression", "correct": false },
+    { "text": "That the vagus nerve can be trained through meditation", "correct": false },
+    { "text": "That gut bacteria produce the majority of the body's glucose", "correct": false },
+    { "text": "That switching to a Mediterranean-style diet significantly reduced depression scores", "correct": true }
+  ]
+}

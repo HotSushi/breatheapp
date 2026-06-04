@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil's life was itself a practice of the attention she theorized. During World War II she insisted on eating only the ration allotted to occupied French civilians, a form of bodily solidarity that her doctors believed hastened her death at thirty-four. Philosopher Iris Murdoch, who wrote extensively on Weil, described this as 'the just and loving gaze directed upon individual reality' — attention enacted through the body, not just the mind. Murdoch borrowed Weil's concept to argue that moral vision, like perceptual attention, must be trained: we see others clearly only after long practice in looking, and most ethical failure is first a failure of seeing.",
+  "question": "How did Iris Murdoch adapt Weil's concept of attention for moral philosophy?",
+  "options": [
+    { "text": "She argued that attention must be directed inward before it can be extended to others", "correct": false },
+    { "text": "She used it to support a deontological framework based on duty rather than perception", "correct": false },
+    { "text": "She applied it to political theory, linking inattention to structural oppression", "correct": false },
+    { "text": "She argued that moral vision, like perceptual attention, must be trained and that most ethical failure is first a failure of seeing", "correct": true }
+  ]
+}

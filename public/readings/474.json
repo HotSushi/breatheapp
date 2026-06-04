@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Algorithmic amplification does not merely surface popular content — it actively manufactures popularity. A 2021 study by MIT Media Lab researchers found that false news spreads six times faster than true news on Twitter, not because bots push it but because humans find it more novel and emotionally arousing. The algorithm, rewarded for engagement, amplifies exactly this quality. This creates a feedback loop: sensational falsehoods generate engagement, engagement generates visibility, visibility generates more engagement. The architecture does not distinguish between a claim being shared because it is illuminating and a claim being shared because it provokes outrage.",
+  "question": "What did MIT Media Lab researchers find was the primary reason false news spreads faster on Twitter?",
+  "options": [
+    { "text": "Bots and automated accounts systematically amplify misinformation", "correct": false },
+    { "text": "Platform moderators are too slow to remove false content before it spreads", "correct": false },
+    { "text": "Humans find false news more novel and emotionally arousing and share it willingly", "correct": true },
+    { "text": "Advertisers pay more to place ads alongside sensational stories", "correct": false }
+  ]
+}

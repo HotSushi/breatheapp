@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "One striking objection to the extended mind thesis comes from the philosophers Adams and Aizawa, who introduced the 'coupling-constitution fallacy.' They argued that Clark and Chalmers conflate two distinct claims: that external tools are causally coupled to cognition (true and uncontroversial) with the claim that they constitute cognition (bold and contested). A blind person's cane is causally coupled to their navigation, but we do not say the cane is part of their perceptual system. The question is not whether tools influence minds, but whether they literally become mental — a distinction Adams and Aizawa insisted Clark's functionalism too readily collapsed.",
+  "question": "What does the 'coupling-constitution fallacy' allege that Clark and Chalmers have confused?",
+  "options": [
+    { "text": "The difference between biological and artificial memory systems", "correct": false },
+    { "text": "The difference between conscious and unconscious cognitive processes", "correct": false },
+    { "text": "The difference between individual and collective intelligence", "correct": false },
+    { "text": "The difference between causal coupling to cognition and literally constituting cognition", "correct": true }
+  ]
+}

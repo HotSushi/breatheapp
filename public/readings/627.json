@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The concept of the flow channel has a structural parallel in Lev Vygotsky's 'zone of proximal development' — the cognitive space just beyond what a learner can do alone but within reach with guidance. Both frameworks share a key insight: growth happens not in comfort, nor in overwhelm, but in the narrow band of productive difficulty. Vygotsky's zone was designed to describe learning in children; Csikszentmihalyi's channel maps the same geometry onto adult performance. The implication is that optimal experience and optimal learning are not separate phenomena. They may be the same phenomenon viewed from different angles.",
+  "question": "What structural parallel does the passage draw between the flow channel and Vygotsky's zone of proximal development?",
+  "options": [
+    { "text": "Both were originally developed to describe the experience of professional athletes.", "correct": false },
+    { "text": "Both suggest that growth occurs in the narrow band between comfort and overwhelm.", "correct": true },
+    { "text": "Both frameworks argue that difficulty should be avoided to maintain psychological safety.", "correct": false },
+    { "text": "Both frameworks identify external feedback as the primary driver of peak performance.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Gita's concept of buddhi — discriminative intelligence — occupies a higher place in the hierarchy of mind than mere manas, or sensory processing. Krishna describes the undisciplined person as one whose buddhi is 'unsteady,' tossed by the senses like a boat in a storm. When buddhi is firm, it functions as an executive filter, allowing some sensory inputs through while suppressing others. This maps closely onto what neuroscientist Earl Miller calls 'top-down attention' — goal-directed filtering that originates in the prefrontal cortex rather than being driven by stimulus salience. The Gita's prescription for strengthening buddhi through meditation and philosophical inquiry anticipates the neural mechanisms that modern attention science has only recently characterized.",
+  "question": "What does the passage identify as the Gita's term for discriminative intelligence that filters sensory input?",
+  "options": [
+    { "text": "Manas", "correct": false },
+    { "text": "Sattva", "correct": false },
+    { "text": "Vairagya", "correct": false },
+    { "text": "Buddhi", "correct": true }
+  ]
+}

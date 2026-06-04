@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca wrote that the noise most dangerous to a thinking person is not the shouting of the crowd but the murmur of the crowd that has moved inside. Years of exposure to opinion, gossip, and spectacle leave residues — half-formed judgments, borrowed anxieties, second-hand desires. He advised his friend Lucilius to perform a kind of inner audit: trace each belief back to its source and ask whether it arrived through reason or through mere absorption. Much of what we call our own views, Seneca warned, are simply the views of the many that we forgot to question. The unexamined mind is the crowd's most loyal member.",
+  "question": "What did Seneca mean by the noise that has 'moved inside'?",
+  "options": [
+    { "text": "The physical sounds of Rome that followed Lucilius into his study", "correct": false },
+    { "text": "Memories of past trauma that surface during meditation", "correct": false },
+    { "text": "Opinions, anxieties, and desires absorbed from others without examination", "correct": true },
+    { "text": "The competing philosophical schools debated within the Academy", "correct": false }
+  ]
+}

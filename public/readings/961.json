@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Sociologist Sherry Turkle coined the phrase 'alone together' to describe a paradox she observed in her MIT research: people surrounded by devices and contacts who nonetheless reported profound loneliness. Her interviews revealed a pattern she called 'the flight from conversation' — individuals preferring texts to calls precisely because texts could be edited, controlled, and abandoned. The result was not connection but its simulation. Real intimacy requires tolerance for the unscripted moment, the awkward pause, the uncontrollable other. When we engineer out that vulnerability, we engineer out the very friction that produces genuine closeness.",
+  "question": "According to Turkle, why do people prefer texts over calls?",
+  "options": [
+    { "text": "Texts are faster and more efficient for sharing information.", "correct": false },
+    { "text": "Texts allow for editing, control, and the option to disengage.", "correct": true },
+    { "text": "Calls require more sustained attention than most people can offer.", "correct": false },
+    { "text": "Texts create a written record that can be revisited later.", "correct": false }
+  ]
+}

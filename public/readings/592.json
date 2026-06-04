@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Mishnaic phrase lo alecha hamlacha ligmor — \"it is not upon you to complete the task\" — functions as a structural principle, not merely consolation. In rabbinic thought, the universe itself is considered incomplete; creation was left unfinished so that humanity could become partners in its ongoing repair, a concept the Talmud calls tikkun olam. This framing transforms the individual's partial contribution from a failure into a moral necessity. You are not expected to finish because finishing was never the architecture of meaningful work. The task exceeds any single life; what is required is unbroken participation.",
+  "question": "According to the passage, why does the Talmud frame the universe as incomplete?",
+  "options": [
+    { "text": "To explain why Torah study can never be fully mastered", "correct": false },
+    { "text": "So that humanity can become partners in its ongoing repair", "correct": true },
+    { "text": "To discourage scholars from pursuing personal recognition", "correct": false },
+    { "text": "Because creation was disrupted by human disobedience", "correct": false }
+  ]
+}

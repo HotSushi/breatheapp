@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "When Facebook's internal researchers tested what they called 'integrity interventions' in 2019 — tweaks that reduced misinformation but also reduced engagement — executives shelved the changes. Whistleblower Frances Haugen later testified that the company had conducted research showing Instagram worsened body image in teenage girls, then declined to act. These cases illustrate what scholars call the 'engagement-safety tradeoff': because platforms are rewarded financially for engagement, safety improvements that reduce time-on-site create a structural conflict of interest. The problem is not that individual engineers are callous; it is that the incentive architecture makes harm a rational byproduct of profit.",
+  "question": "What do scholars call the structural conflict described in the passage between platform profit and user safety?",
+  "options": [
+    { "text": "The attention asymmetry problem", "correct": false },
+    { "text": "Platform capture", "correct": false },
+    { "text": "The engagement-safety tradeoff", "correct": true },
+    { "text": "Algorithmic moral hazard", "correct": false }
+  ]
+}

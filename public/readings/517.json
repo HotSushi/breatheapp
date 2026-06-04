@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Confucian concept of zhengming — rectification of names — held that moral and cognitive disorder begins when words lose their precise meaning. \"If names are not correct, speech will not accord with truth; if speech does not accord with truth, affairs cannot be accomplished.\" This is not pedantry but attentional hygiene: vague language permits vague thinking, which permits vague action. Cognitive linguist George Lakoff's work on framing confirms that the words chosen to describe a problem constrain the solutions imaginable. Confucius understood that the first act of focused, effective thought is to name what you are actually dealing with.",
+  "question": "What does Confucius's concept of zhengming connect, according to the passage?",
+  "options": [
+    { "text": "Political titles to governing authority", "correct": false },
+    { "text": "Precise language to clear thought and effective action", "correct": true },
+    { "text": "Classical vocabulary to moral virtue", "correct": false },
+    { "text": "Scholarly terminology to mastery of the classics", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tibetan Book of the Dead, known in Tibetan as the 'Bardo Thodol,' presents rigpa not as an achievement but as a sudden confrontation at the moment of death, when the ordinary mind dissolves and bare awareness blazes up in what the text calls 'the clear light of the dharmata.' Most people, the text warns, will fail to recognize it — not because it is too subtle, but because it is too vivid. The brilliance triggers panic and the dying person turns away toward the dimmer, more familiar lights of habitual experience. Dzogchen practice is, in this framework, rehearsal: learning to recognize the brilliant unfamiliar so that recognition does not fail at the crucial moment.",
+  "question": "According to the passage, why does the Bardo Thodol warn that most people fail to recognize the clear light at death?",
+  "options": [
+    { "text": "Because the clear light is too subtle and fleeting for untrained minds", "correct": false },
+    { "text": "Because the dying person lacks access to a qualified teacher at that moment", "correct": false },
+    { "text": "Because its brilliance triggers panic and the person turns toward dimmer, more familiar experiences", "correct": true },
+    { "text": "Because negative karma accumulated during life obscures the dharmata entirely", "correct": false }
+  ]
+}

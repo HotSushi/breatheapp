@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus, who had been enslaved and later became Rome's most celebrated teacher of philosophy, argued that the mind's natural freedom was precisely what no external force could touch. The body could be chained; reputation could be destroyed; health could fail. But the prohairesis — the faculty of deliberate choice — belonged entirely to the individual. This was not consolation but metaphysics: the deliberating mind, for Epictetus, was structurally immune to external determination. What nature had given human beings was not safety from circumstance but sovereignty over response. The only truly unnatural act was to surrender that sovereignty voluntarily, by treating external things as if they were one's own.",
+  "question": "According to the passage, what did Epictetus call the faculty that external forces could not touch?",
+  "options": [
+    { "text": "The prohairesis", "correct": true },
+    { "text": "The hegemonikon", "correct": false },
+    { "text": "The logos", "correct": false },
+    { "text": "The pneuma", "correct": false }
+  ]
+}

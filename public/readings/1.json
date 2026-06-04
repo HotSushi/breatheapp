@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In 2001, Marcus Raichle and colleagues at Washington University made a counterintuitive discovery: the brain is never truly idle. Scanning subjects at rest, they found a constellation of regions — the medial prefrontal cortex, posterior cingulate, and angular gyrus — that consistently activated when people were doing nothing in particular. Raichle named this the default mode network. Its activity, he showed, is actually suppressed during focused tasks. The brain doesn't wake up when you concentrate; it quiets a parallel system that runs continuously in the background, narrating, evaluating, and projecting the self forward through imagined futures.",
+  "question": "What happens to the default mode network when a person focuses on a task?",
+  "options": [
+    { "text": "It shifts activity to the prefrontal cortex", "correct": false },
+    { "text": "It becomes more active to support concentration", "correct": false },
+    { "text": "Its activity is suppressed", "correct": true },
+    { "text": "It merges with the task-positive network", "correct": false }
+  ]
+}

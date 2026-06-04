@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The global reach of attention-harvesting platforms creates what sociologist Shoshana Zuboff calls 'behavioral surplus' — data collected in excess of what is needed to serve the user, then sold to predict and modify future behavior. This dynamic is not confined to wealthy markets. By 2020, sub-Saharan Africa had become one of the fastest-growing regions for Facebook usage. The same extraction infrastructure that monetizes a teenager in California now operates identically in Lagos and Nairobi. The democratization of connectivity and the democratization of behavioral surveillance arrived simultaneously, packaged as the same product.",
+  "question": "What does Shoshana Zuboff mean by 'behavioral surplus'?",
+  "options": [
+    { "text": "The excess productivity people gain from using digital tools efficiently", "correct": false },
+    { "text": "Data collected beyond what is needed to serve users, used to predict and modify their behavior", "correct": true },
+    { "text": "The surplus of unread notifications that accumulates in users' feeds", "correct": false },
+    { "text": "Revenue generated when users voluntarily share their behavioral data", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Not everyone read 'The Shallows' as a call to alarm. Some critics noted that every major communication technology — writing itself, the printing press, the telegraph — was greeted by anxious claims that it would degrade the mind. Plato famously had Socrates argue that writing would weaken memory by providing an external crutch. Yet writing produced philosophy, science, and literature of extraordinary depth. Perhaps, these critics suggested, the internet is simply the latest medium to rewire cognition in ways we cannot yet evaluate fairly. Carr anticipated this objection and conceded the historical pattern — but maintained that the internet's defining feature, its capacity for continuous interruption, was qualitatively different from any prior medium.",
+  "question": "How does the passage characterize Carr's response to the objection that every new medium has been greeted with alarm?",
+  "options": [
+    { "text": "He dismissed the objection as historically illiterate", "correct": false },
+    { "text": "He conceded the pattern but argued that the internet's continuous interruption was qualitatively different", "correct": true },
+    { "text": "He cited Plato as evidence that ancient thinkers were correct to fear writing", "correct": false },
+    { "text": "He argued that prior technologies had not been studied with modern neuroscience", "correct": false }
+  ]
+}

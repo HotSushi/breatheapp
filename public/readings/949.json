@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In his 1967 work \"The Society of the Spectacle,\" Guy Debord argued that authentic social life had been replaced by its representation — that capitalism had colonized not just labor and goods but experience itself. The spectacle, for Debord, was not merely entertainment but an organizing principle: a permanent stream of imagery that substitutes contemplation of representations for direct participation in life. What Debord could not have anticipated was the degree to which citizens would eventually volunteer their own attention as raw material for the spectacle, producing and distributing content that serves the logic of commodified attention while experiencing this participation as freedom and self-expression.",
+  "question": "What did Debord mean by 'the spectacle' as an organizing principle of capitalist society?",
+  "options": [
+    { "text": "The theatrical staging of political elections to simulate democratic participation", "correct": false },
+    { "text": "The use of celebrity culture to distract citizens from economic inequality", "correct": false },
+    { "text": "A permanent stream of imagery that replaces direct participation in life with its representation", "correct": true },
+    { "text": "The tendency of mass media to prioritize entertainment over political information", "correct": false }
+  ]
+}

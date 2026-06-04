@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "A landmark 1991 study by Roger Ulrich and colleagues measured stress recovery in subjects who had watched a disturbing film, then viewed either nature scenes or urban environments. Those exposed to natural settings — forests, water, vegetation — showed measurably faster cardiovascular recovery, lower skin conductance, and more rapid normalization of muscle tension. Urban scenes, even pleasant ones, produced comparatively sluggish physiological recovery. Ulrich argued this reflected an evolutionary legacy: the nervous system reads natural environments as intrinsically safe, triggering parasympathetic restoration. The body, not just the mind, has a preference for nature built in at a level that predates conscious preference.",
+  "question": "What did Ulrich's 1991 study measure to assess recovery from stress?",
+  "options": [
+    { "text": "Self-reported mood and cognitive test performance", "correct": false },
+    { "text": "Brain wave activity and cortisol levels in saliva", "correct": false },
+    { "text": "Cardiovascular recovery, skin conductance, and muscle tension", "correct": true },
+    { "text": "Eye movement patterns and pupil dilation during scene viewing", "correct": false }
+  ]
+}

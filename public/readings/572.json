@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil's most radical claim was that attention is the rarest and purest form of generosity. To truly attend to another person — not to project, advise, or sympathize from a distance, but to receive their reality exactly as it is — demands a self-evacuation few can sustain. In 'Waiting for God,' she wrote that the capacity to ask 'What are you going through?' and then genuinely listen is nearly miraculous. Most human interaction, she observed, is mutual monologue: each party waiting for their turn. The gift of full attention, she argued, is rarer than wealth and harder to give than any material resource.",
+  "question": "What does Weil identify as the rarest and purest form of generosity?",
+  "options": [
+    { "text": "Material sacrifice for a stranger in need", "correct": false },
+    { "text": "Genuine attention to another person's reality without projection", "correct": true },
+    { "text": "Sustained prayer on behalf of someone suffering", "correct": false },
+    { "text": "Emotional sympathy expressed through active listening", "correct": false }
+  ]
+}

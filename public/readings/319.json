@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Digital environments are structurally hostile to flow, and the reasons are precise. Flow requires a single, clear goal; social media offers an infinite, shifting stream of micro-goals — likes, notifications, new posts — that fragment attention into incompletable loops. Flow requires challenge calibrated to skill; algorithmic feeds are calibrated to arousal, not growth. Flow requires uninterrupted time; push notifications are architecturally designed to interrupt at intervals short enough to prevent deep absorption. Psychologist Adam Alter, in Irresistible, calls these \"variable reward schedules\" — borrowed from slot machine design. The result is an environment that mimics the surface features of engagement while systematically blocking the conditions that make genuine flow possible.",
+  "question": "According to the passage, how do algorithmic feeds differ from the challenge calibration that flow requires?",
+  "options": [
+    { "text": "Algorithmic feeds are calibrated to arousal rather than to skill growth", "correct": true },
+    { "text": "Algorithmic feeds present challenges that are consistently too easy for skilled users", "correct": false },
+    { "text": "Algorithmic feeds require multitasking, which disrupts single-task focus", "correct": false },
+    { "text": "Algorithmic feeds suppress dopamine release, which flow depends on", "correct": false }
+  ]
+}

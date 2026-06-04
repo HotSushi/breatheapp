@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Chunking is not merely a memory trick; it is the mechanism by which expertise is built. When a musician learns a scale, individual notes are first processed as separate items. With practice, the scale becomes a single chunk, freeing working memory to attend to phrasing or dynamics. This automaticity is governed by myelination: repeated activation of neural pathways accelerates signal transmission, making the pathway more efficient and less demanding of conscious attention. George Pólya, the mathematician, described expert problem-solving as 'seeing' solutions rather than computing them — a phenomenological description of chunked knowledge responding faster than reflective thought.",
+  "question": "According to the passage, what neurological process underlies the formation of chunks through practice?",
+  "options": [
+    { "text": "Synaptic pruning that eliminates competing neural pathways", "correct": false },
+    { "text": "Hippocampal consolidation that moves chunks from working to long-term memory", "correct": false },
+    { "text": "Dopaminergic reinforcement of correct responses in the basal ganglia", "correct": false },
+    { "text": "Myelination, which accelerates signal transmission along repeatedly activated pathways", "correct": true }
+  ]
+}

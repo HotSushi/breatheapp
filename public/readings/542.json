@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Seneca warned a friend: 'Recede in te ipse' — withdraw into yourself. He was not prescribing hermitage but a daily discipline of mental rehearsal, reviewing each action before sleep and rehearsing tranquility before the day's noise begins. Seneca's concern was that constant exposure to crowds contoxicates: their anxieties, opinions, and appetites seep in unconsciously, displacing the self. Withdrawal was a hygiene practice, a regular clearing of what he called 'alien impressions,' so that one's own reason could reassert itself before the next encounter with the world.",
+  "question": "According to Seneca, what is the primary danger of constant exposure to crowds?",
+  "options": [
+    { "text": "Physical exhaustion from social performance", "correct": false },
+    { "text": "Loss of time that could be spent in study", "correct": false },
+    { "text": "Unconscious absorption of others' anxieties and opinions", "correct": true },
+    { "text": "Increased ambition and competitive thinking", "correct": false }
+  ]
+}

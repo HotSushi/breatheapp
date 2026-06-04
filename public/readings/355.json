@@ -1,0 +1,23 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The refractory period does not respect modality. Even when the first task is auditory and the second visual, the bottleneck persists. This finding, confirmed across dozens of experiments, dismantled the intuition that the brain can truly walk and chew gum simultaneously when the tasks are cognitively demanding. The response-selection stage appears to be a single-lane road: cars may arrive from any direction, but they must merge and proceed one at a time. Pashler called this the 'central bottleneck model.' Its implication is uncomfortable \u2014 every moment spent selecting one response is a moment unavailable for another, regardless of how differently the two tasks seem to draw on the brain.",
+  "question": "What does the central bottleneck model predict about tasks in different sensory modalities?",
+  "options": [
+    {
+      "text": "Different modalities bypass the bottleneck and can be processed simultaneously",
+      "correct": false
+    },
+    {
+      "text": "The bottleneck only applies when both tasks are visual",
+      "correct": false
+    },
+    {
+      "text": "The bottleneck disappears when one task is automatic",
+      "correct": false
+    },
+    {
+      "text": "Response selection is serial even when the two tasks involve different senses",
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics used the metaphor of the cylinder to explain why assent remains free even when impressions are compelling. A cylinder set rolling needs an initial push, but thereafter rolls by its own nature — its shape determines its motion. Chrysippus argued that impressions provide the push; the character of the soul provides the shape. A person of weak character, upon receiving an enticing impression, rolls far in the direction of desire. A person of trained reason rolls less — or comes to rest. The push cannot be prevented, but neither is it decisive. Moral training is therefore not the avoidance of temptation but the reshaping of the cylinder itself.",
+  "question": "In the cylinder metaphor, what does the shape of the cylinder represent?",
+  "options": [
+    { "text": "The strength of the original impression that sets the cylinder rolling", "correct": false },
+    { "text": "The circumstances of the external environment", "correct": false },
+    { "text": "The memory of how past similar impulses resolved", "correct": false },
+    { "text": "The character and trained nature of the soul", "correct": true }
+  ]
+}

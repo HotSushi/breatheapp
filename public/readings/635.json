@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The sculptor Constantin Brancusi kept unfinished works covered for months, returning to them only after his mental image had faded. He was exploiting what psychologists call perceptual adaptation — the tendency of sustained exposure to a stimulus to deaden the perceiver's response to it. Familiarity breeds not just contempt but blindness. A writer who reads their draft immediately after writing it sees what they intended, not what is on the page. The gap between a work's composition and its revision is not wasted time; it is the mechanism by which the creator becomes, temporarily, the first reader.",
+  "question": "What psychological phenomenon does the passage say Brancusi was exploiting by keeping works covered for months?",
+  "options": [
+    { "text": "Unconscious thought theory", "correct": false },
+    { "text": "The incubation effect", "correct": false },
+    { "text": "Perceptual adaptation", "correct": true },
+    { "text": "Cognitive load reduction", "correct": false }
+  ]
+}

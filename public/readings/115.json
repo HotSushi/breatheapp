@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Enchiridion's second chapter extends the dichotomy to desire itself: Epictetus instructs us to withdraw desire entirely from things not in our power. If you desire what you cannot control — health, wealth, the affection of a particular person — you have made your happiness a hostage. The Stoic move is not to stop caring but to redirect care. You may pursue health through good habits; you may not demand that the body comply. You may pursue friendship through virtue; you may not demand reciprocation. The distinction matters because one path leaves your flourishing intact against all eventualities, while the other makes it permanently fragile.",
+  "question": "According to the passage, what is the Stoic approach to things outside our control, such as health or friendship?",
+  "options": [
+    { "text": "To stop caring about them entirely and practice emotional detachment", "correct": false },
+    { "text": "To pursue them through appropriate means while not demanding a specific outcome", "correct": true },
+    { "text": "To accept whatever happens and take no action toward improvement", "correct": false },
+    { "text": "To desire them moderately rather than intensely", "correct": false }
+  ]
+}

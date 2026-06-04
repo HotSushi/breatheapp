@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The Buddhist philosopher Nagarjuna described presence as 'dependent origination' applied to experience itself: the witnessing self and the witnessed object arise together, neither preceding the other. There is no observer standing outside the moment looking in — observer and moment co-constitute each other. Contemporary neuroscientist Francisco Varela developed a similar idea under the term 'enaction': consciousness does not represent a pre-given world but enacts it through sensorimotor coupling. Full presence, on this account, is not passive absorption but an active co-creation — you are not immersed in an experience, you are, for that moment, the experience becoming aware of itself.",
+  "question": "What does Francisco Varela's concept of 'enaction' claim about the relationship between consciousness and the world?",
+  "options": [
+    { "text": "Consciousness passively mirrors a world that exists independently of perception", "correct": false },
+    { "text": "Consciousness enacts the world through sensorimotor coupling rather than representing a pre-given reality", "correct": true },
+    { "text": "The world imposes its structure on consciousness through sensory data streams", "correct": false },
+    { "text": "Consciousness and world are fully separate but interact through neural correlates", "correct": false }
+  ]
+}

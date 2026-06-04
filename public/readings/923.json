@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Zuboff argues that surveillance capitalism operates through three core moves she calls the 'dispossession cycle.' First, platforms invade a domain of private life — the home, the body, the car — and extract behavioral data without meaningful consent. Second, they declare this extraction to be natural and inevitable, framing refusal as irrational. Third, they use the resulting predictions to modify behavior in ways that serve their clients rather than the individual. Each cycle normalizes the previous invasion and prepares the ground for the next. What began with search has migrated into smart speakers, health monitors, and emotional recognition systems.",
+  "question": "What does Zuboff's 'dispossession cycle' describe as the second move after data extraction?",
+  "options": [
+    { "text": "Using predictions to modify individual behavior for clients' benefit", "correct": false },
+    { "text": "Declaring the extraction natural and inevitable, framing refusal as irrational", "correct": true },
+    { "text": "Selling the extracted data to government intelligence agencies", "correct": false },
+    { "text": "Migrating the model into smart speakers and health monitors", "correct": false }
+  ]
+}

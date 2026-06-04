@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The stress response triggered by an overflowing inbox isn't metaphorical — it's physiological. Gloria Mark's research, conducted in collaboration with heart-rate monitor studies, found that employees who were cut off from email for five days showed markedly lower and more stable heart-rate variability, a biomarker of stress recovery. Unconstrained email access, by contrast, kept subjects in a state of near-continuous low-grade arousal. The inbox functions as an unpredictable stimulus: you never know whether the next message will be trivial or urgent, and that uncertainty triggers the same vigilance response that once kept early humans alert to predators.",
+  "question": "What physiological effect did cutting workers off from email for five days produce, according to the passage?",
+  "options": [
+    {
+      "text": "Lower and more stable heart-rate variability, indicating reduced stress",
+      "correct": false
+    },
+    {
+      "text": "Elevated cortisol levels due to anxiety about missed messages",
+      "correct": false
+    },
+    {
+      "text": "Reduced sleep duration from worry about work falling behind",
+      "correct": false
+    },
+    {
+      "text": "Higher blood pressure as workers struggled to adjust to the new routine",
+      "correct": true
+    }
+  ]
+}

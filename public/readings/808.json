@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Daniel Simons made inattentional blindness famous with his 1999 gorilla experiment: observers asked to count basketball passes frequently failed to notice a person in a gorilla suit walking through the scene. The finding is not about vision — participants saw perfectly well. It is about consciousness. The visual system processed the gorilla; the attentional system decided it was irrelevant and excluded it from awareness. What reaches consciousness is not what is present but what has been selected as task-relevant. Simons's work demonstrated that our sense of perceiving the full scene is an illusion — awareness is always narrower than we believe.",
+  "question": "In Simons's gorilla experiment, why did participants fail to notice the gorilla?",
+  "options": [
+    { "text": "Their visual acuity was impaired by the counting task", "correct": false },
+    { "text": "The gorilla appeared for too short a time to register", "correct": false },
+    { "text": "The attentional system excluded it from awareness as task-irrelevant", "correct": true },
+    { "text": "The gorilla was positioned at the edge of the visual field", "correct": false }
+  ]
+}

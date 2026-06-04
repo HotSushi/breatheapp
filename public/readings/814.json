@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Franz Brentano's original claim was bold: intentionality is the mark that separates mental phenomena from physical phenomena. Physical events — a rock falling, water boiling — do not point beyond themselves. But every mental act, Brentano argued, contains its object within itself 'intentionally.' Love is always love of something; belief is always belief that something. This 'inexistence' of the object within the act — the object's immanent presence — was Brentano's way of explaining how the mind could genuinely be about the world without requiring a mysterious causal bridge. Husserl inherited this diagnosis but found Brentano's solution too psychologistic, launching phenomenology as a more rigorous alternative.",
+  "question": "What did Brentano claim distinguishes mental phenomena from physical phenomena?",
+  "options": [
+    { "text": "Their dependence on brain chemistry", "correct": false },
+    { "text": "Their temporal duration and persistence", "correct": false },
+    { "text": "Their capacity for self-reflection", "correct": false },
+    { "text": "Their intentional directedness toward an object", "correct": true }
+  ]
+}

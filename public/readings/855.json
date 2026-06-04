@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Thomas Nagel observed that consciousness always has a 'view from somewhere' — a perspective that cannot be flattened into objective description. What we choose to notice, he implied, is partly constitutive of who we are. To attend habitually to grievance is not merely to register more grievances; it is to become a grievance-noticing being. This is why Buddhist teacher Tara Brach speaks of attention as the most intimate act: what you repeatedly turn toward shapes neural circuitry, emotional baseline, and ultimately character. The objects of habitual attention are not just witnessed; they are, in a real sense, chosen.",
+  "question": "According to the passage, what does habitually attending to grievance do beyond simply registering more grievances?",
+  "options": [
+    { "text": "It activates the default mode network more frequently", "correct": false },
+    { "text": "It fulfills the 'view from somewhere' that Nagel described", "correct": false },
+    { "text": "It makes one a grievance-noticing being, shaping neural circuitry and character", "correct": true },
+    { "text": "It reduces the emotional baseline over time", "correct": false }
+  ]
+}

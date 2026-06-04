@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The dzogchen distinction between 'sem' and 'rigpa' is foundational. Sem — the ordinary, conceptual mind — is always doing something: grasping, judging, narrating, planning. Rigpa is the awareness within which sem arises, but it does not itself do anything. Contemporary neuroscientist Francisco Varela, who collaborated with the Dalai Lama on the Mind and Life dialogues, found this distinction philosophically striking because Western cognitive science had no clean concept for awareness that was neither blank unconsciousness nor active cognition. The dzogchen framework names a third thing: witnessing presence that is fully awake without being directed at any object.",
+  "question": "According to the passage, why did Francisco Varela find the sem/rigpa distinction philosophically striking?",
+  "options": [
+    { "text": "Western cognitive science had no clean concept for awareness that was neither blank nor actively directed", "correct": true },
+    { "text": "He had never encountered a Buddhist teaching that used technical philosophical terminology", "correct": false },
+    { "text": "The distinction proved that consciousness could survive physical death", "correct": false },
+    { "text": "Western neuroscience had already mapped sem onto prefrontal activity but not rigpa", "correct": false }
+  ]
+}

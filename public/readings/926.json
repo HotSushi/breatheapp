@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Critics of Zuboff's framework argue that surveillance capitalism overstates platform omnipotence. Sociologist Nick Couldry and Ulises Mejias counter with the concept of 'data colonialism': the idea that the extraction of behavioral data from the global south mirrors, in structure, the extraction of natural resources by European empires. Where colonialism seized land and bodies, data colonialism seizes the social relations and daily behaviors of billions without compensation or representation. This reframing shifts the analysis from a Silicon Valley story to a global one, implicating not just tech giants but international supply chains of data processing and cloud infrastructure.",
+  "question": "How do Couldry and Mejias reframe Zuboff's surveillance capitalism argument?",
+  "options": [
+    { "text": "They dispute her claim that behavioral data has commercial value in prediction markets", "correct": false },
+    { "text": "They argue that platforms lack the technical capacity to modify behavior at scale", "correct": false },
+    { "text": "They extend the analysis globally by framing data extraction as a form of colonialism", "correct": true },
+    { "text": "They propose that cloud infrastructure, not platforms, is the true site of data collection", "correct": false }
+  ]
+}

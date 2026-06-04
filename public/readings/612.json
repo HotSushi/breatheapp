@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The critical mechanism in deliberate practice is working at the edge of competence — what Ericsson called the 'proximal zone of development,' borrowing from Vygotsky. A musician who rehearses pieces she already plays fluently is reinforcing existing circuits, not building new ones. Growth requires operating just beyond current mastery, where errors are frequent and attention is total. This is why the most productive practice sessions feel effortful and slightly frustrating. The discomfort is not incidental; it is the signal that real adaptation is occurring. Comfortable repetition produces automaticity. Uncomfortable repetition produces expertise. Most people confuse the two, spending hours in the former while expecting the results of the latter.",
+  "question": "According to the passage, what distinguishes practice that produces expertise from practice that merely produces automaticity?",
+  "options": [
+    { "text": "Expertise requires longer sessions while automaticity comes from frequent short bursts", "correct": false },
+    { "text": "Expertise develops from working just beyond current mastery with frequent errors and total attention", "correct": true },
+    { "text": "Automaticity is more valuable than expertise in most professional domains", "correct": false },
+    { "text": "Expertise requires a teacher while automaticity can be developed independently", "correct": false }
+  ]
+}

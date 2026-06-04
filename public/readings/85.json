@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Vigilance — a demanding form of sustained attention — decays in a remarkably consistent pattern. In 1948, psychologist Norman Mackworth placed radar operators in a task requiring them to detect rare signal blips over a two-hour watch. Performance dropped sharply in the first thirty minutes and plateaued at a degraded level thereafter. This \"Mackworth decrement\" has since been replicated across dozens of tasks and cultures. The mechanism appears to involve depletion of phasic norepinephrine responses: the brain stops generating a sharp neural alert to rare but meaningful events, blurring signal against noise. Modern knowledge workers face their own invisible radar screen — the inbox, the feed — and suffer the same decay.",
+  "question": "According to the passage, what is the neural mechanism behind the Mackworth vigilance decrement?",
+  "options": [
+    { "text": "Excess dopamine release suppresses the anterior cingulate's conflict monitoring.", "correct": false },
+    { "text": "Phasic norepinephrine responses are depleted, blurring signal against noise.", "correct": true },
+    { "text": "The prefrontal cortex exhausts its glucose supply and enters conservation mode.", "correct": false },
+    { "text": "Serotonin binds to locus coeruleus receptors, slowing arousal recovery.", "correct": false }
+  ]
+}

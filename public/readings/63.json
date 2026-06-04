@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The human brain processes information serially, not in parallel — a fact that surprises most people who consider themselves skilled multitaskers. Neuroscientist Earl Miller at MIT demonstrated that what feels like simultaneous processing is actually rapid sequential switching between tasks. Each switch is governed by a bottleneck in the prefrontal cortex: only one stream of goal-directed cognition can occupy the neural spotlight at a time. What we call multitasking is cognitive interleaving, and it degrades the quality of every thread. Miller's finding upended the popular belief that humans could train themselves into true parallel processing through practice.",
+  "question": "What did Earl Miller's research reveal about multitasking?",
+  "options": [
+    { "text": "Skilled multitaskers can achieve genuine parallel processing with training", "correct": false },
+    { "text": "Multitasking is actually rapid sequential switching, not simultaneous processing", "correct": true },
+    { "text": "The prefrontal cortex can handle two goal-directed tasks simultaneously", "correct": false },
+    { "text": "Cognitive interleaving improves when tasks are sufficiently different", "correct": false }
+  ]
+}

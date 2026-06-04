@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Graham Wallas, in his 1926 book \"The Art of Thought,\" proposed a four-stage model of creativity: preparation, incubation, illumination, and verification. The incubation stage — the period of apparent idleness between effortful work and the sudden solution — was, Wallas believed, when the most important cognitive activity occurred, invisible to introspection. What neuroscience has since confirmed is not merely that incubation helps, but why: the prefrontal cortex, which enforces familiar associative pathways, relaxes its gatekeeping during rest, allowing the brain to surface remote, weakly-connected associations it would otherwise suppress as irrelevant.",
+  "question": "According to the passage, why does incubation help creativity, according to neuroscience?",
+  "options": [
+    { "text": "The hippocampus replays relevant memories at higher speed during rest.", "correct": false },
+    { "text": "The brain enters a theta-wave state that enhances long-range connectivity.", "correct": false },
+    { "text": "The prefrontal cortex relaxes its gatekeeping, allowing remote associations to surface.", "correct": true },
+    { "text": "The default mode network generates novel metaphors by combining semantic fields.", "correct": false }
+  ]
+}

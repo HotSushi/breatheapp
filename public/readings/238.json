@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh introduced the concept of 'interbeing' to describe what fresh perception actually reveals: that no phenomenon exists in isolation. When you look at a flower with beginner's mind — without immediately categorizing it — you begin to notice the cloud that became rain, the soil composed of ancient organisms, the sunlight that drove photosynthesis. The expert names the flower and moves on. The beginner remains with it long enough to see the flower as a temporary convergence of everything else. This is not romantic mysticism; it is ecological accuracy. Beginner's mind, in Hanh's framing, is the perceptual precondition for understanding interconnected systems.",
+  "question": "According to the passage, what does Thich Nhat Hanh mean by 'interbeing'?",
+  "options": [
+    { "text": "A romantic mystical state achieved through extended meditation retreats.", "correct": false },
+    { "text": "The Buddhist concept that all living beings share a common consciousness.", "correct": false },
+    { "text": "The recognition that no phenomenon exists in isolation — each is a convergence of everything else.", "correct": true },
+    { "text": "The interdependence of beginner's mind and expert knowledge in advanced Zen practice.", "correct": false }
+  ]
+}

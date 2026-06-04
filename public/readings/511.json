@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Confucius opened the Analects with a question about practice: \"Is it not pleasant to learn with constant perseverance and application?\" The word he used — xue — meant not passive reception but active rehearsal, the repeated working of knowledge into habit. Modern cognitive science echoes this: retrieval practice, not mere re-reading, cements learning. For Confucius, self-cultivation was a craft requiring daily repetition, the way a jade carver returns to the same stone. Attention was not a gift but a discipline — something earned through structured, recurring effort rather than inspired moments of concentration.",
+  "question": "What does the Confucian term xue emphasize about learning?",
+  "options": [
+    {
+      "text": "Active rehearsal that works knowledge into habit",
+      "correct": true
+    },
+    {
+      "text": "Passive reception of wisdom from a teacher",
+      "correct": false
+    },
+    {
+      "text": "Silent meditation on classical texts",
+      "correct": false
+    },
+    {
+      "text": "Memorization of the Analects by recitation",
+      "correct": false
+    }
+  ]
+}

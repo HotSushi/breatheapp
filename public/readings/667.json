@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The Pomodoro Technique is often misread as a productivity hack, but Cirillo's original framing was therapeutic. He developed it to combat his own anxiety about academic performance — the paralysis that comes from staring at an assignment too large to hold in mind. The twenty-five-minute interval was not optimized for cognitive efficiency; it was chosen because that was the timer on his kitchen gadget. What matters is the principle: any interval short enough to feel survivable severs the link between task size and emotional dread. Later practitioners who extend intervals to fifty or ninety minutes often find diminishing returns, not because longer is worse, but because they lose the psychological relief of a guaranteed endpoint.",
+  "question": "According to the passage, why did Cirillo originally choose the twenty-five-minute interval?",
+  "options": [
+    { "text": "Research showed it matched the brain's natural ultradian alertness cycle", "correct": false },
+    { "text": "It was the duration recommended in his university's academic coaching program", "correct": false },
+    { "text": "It was simply the duration set on the kitchen timer he happened to own", "correct": true },
+    { "text": "Pilot testing revealed it maximized hippocampal consolidation between breaks", "correct": false }
+  ]
+}

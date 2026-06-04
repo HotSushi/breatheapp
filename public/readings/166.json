@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics divided the virtues into four: wisdom, justice, courage, and temperance — and held that they were unified. To possess any one fully is to possess all four; to lack any one is to lack virtue altogether. This doctrine of the unity of virtue had a sharp implication for attention: a person who allows their mind to be endlessly scattered by trivial pursuits is not merely inefficient but is, in a precise sense, failing at justice and wisdom simultaneously. Scattered attention is not a productivity problem to be optimized — it is a symptom of a soul that has not yet decided what it values.",
+  "question": "According to the passage, what does scattered attention indicate for the Stoics?",
+  "options": [
+    { "text": "A need for better cognitive tools and scheduling practices", "correct": false },
+    { "text": "A soul that has not yet decided what it values", "correct": true },
+    { "text": "A surplus of creative energy seeking an outlet", "correct": false },
+    { "text": "An imbalance between courage and temperance specifically", "correct": false }
+  ]
+}

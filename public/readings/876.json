@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Nagel once wrote that the subjective point of view cannot be abandoned without abandoning the subject. This has a practical implication for attention: when we treat our own experience as data — something to optimize, track, or rate — we step out of it. The self-help impulse to monitor one's mindfulness is itself a form of distraction from presence. Buddhist philosophers anticipated this: the Zen concept of 'no-mind' (mushin) is not an absence of experience but an absence of the self-commentary that splits experience into observer and observed. Full presence collapses that split.",
+  "question": "What does the Zen concept of mushin refer to, according to the passage?",
+  "options": [
+    { "text": "A meditative state in which all sensory experience is suppressed", "correct": false },
+    { "text": "The absence of experience itself, achieved through deep concentration", "correct": false },
+    { "text": "The tracking and optimization of one's own mindfulness practice", "correct": false },
+    { "text": "An absence of self-commentary that splits experience into observer and observed", "correct": true }
+  ]
+}

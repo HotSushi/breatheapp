@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Hermann Ebbinghaus, testing his own memory in the 1880s with lists of nonsense syllables, discovered what he called the spacing effect: information reviewed at expanding intervals is retained far longer than the same material crammed into a single session. His forgetting curve showed that memories decay rapidly at first, then level off — and that each review resets the curve, with subsequent decays growing shallower. The mechanism is partially explained by retrieval effort: a memory recalled just before it fades requires more cognitive work, and that effortful retrieval itself strengthens the neural trace in ways that easy recall cannot.",
+  "question": "According to the passage, why does retrieval that occurs just before a memory fades produce stronger retention?",
+  "options": [
+    { "text": "It allows the brain to reorganize information into long-term storage during sleep", "correct": false },
+    { "text": "It resets the forgetting curve so subsequent decays become steeper", "correct": false },
+    { "text": "The effortful retrieval required at that moment strengthens the neural trace more than easy recall does", "correct": true },
+    { "text": "It triggers the hippocampus to consolidate the memory before it is lost entirely", "correct": false }
+  ]
+}

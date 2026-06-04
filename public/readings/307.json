@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The halo effect illustrates how System 1 constructs coherent narratives from fragmentary data. When we learn one positive fact about a person — that they are warm, for instance — System 1 immediately begins generating supplementary positive inferences: they are probably also generous, competent, honest. Kahneman traces this to a deeper principle he calls WYSIATI — What You See Is All There Is. System 1 does not wait for complete information; it builds the most coherent story possible from whatever is available, and then acts as if that story is the whole picture. Missing evidence is simply not missed.",
+  "question": "What does Kahneman's acronym WYSIATI stand for?",
+  "options": [
+    { "text": "What You Seek Is Always There In Analysis", "correct": false },
+    { "text": "What You See Is All There Is", "correct": true },
+    { "text": "When Your System Is Automatically Triggered In Action", "correct": false },
+    { "text": "What You Signal Is Assessed Through Intuition Alone", "correct": false }
+  ]
+}

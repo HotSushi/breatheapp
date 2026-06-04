@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Before James, the philosophy of attention belonged almost entirely to introspection. Thinkers described what attention felt like from the inside; no one had systematically studied its mechanisms, limits, or trainability. James changed that. He synthesized European experimental psychology — the work of Wundt, Helmholtz, and Ribot — with his own observations to produce the first comprehensive scientific framework for attention in English. His description of attention's neural basis, though written before the era of brain imaging, anticipated findings that would take a century to confirm. He called the focusing of consciousness 'the taking possession of the mind' — a phrase still cited in neuroscience today.",
+  "question": "What phrase did James use to describe the focusing of consciousness?",
+  "options": [
+    { "text": "The architecture of sustained thought", "correct": false },
+    { "text": "The taking possession of the mind", "correct": true },
+    { "text": "The effort par excellence of perception", "correct": false },
+    { "text": "The will applied to sensation", "correct": false }
+  ]
+}

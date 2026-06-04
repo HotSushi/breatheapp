@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Cal Newport draws a sharp line between connection and conversation. Connection — the low-friction exchange of status updates, likes, and brief messages — is abundant and cheap. Conversation — the sustained, reciprocal, attentive exchange that philosopher Harry Frankfurt called 'caring about' another person — is scarce and demanding. Newport argues that platforms are deliberately engineered to substitute the former for the latter, training users to mistake the dopamine signal of a notification for the slower, quieter satisfaction of genuine understanding. The result is a population that feels perpetually in touch and yet chronically unheard.",
+  "question": "How does Cal Newport distinguish 'connection' from 'conversation' in the passage?",
+  "options": [
+    { "text": "Connection is verbal; conversation is written and more carefully composed.", "correct": false },
+    { "text": "Connection is low-friction status exchange; conversation is sustained, reciprocal, attentive caring.", "correct": true },
+    { "text": "Connection is private; conversation is public and subject to social scrutiny.", "correct": false },
+    { "text": "Connection is digital; conversation must occur face to face to be authentic.", "correct": false }
+  ]
+}

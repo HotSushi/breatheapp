@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Not all task-switching is equally costly. Researchers distinguish between \"voluntary\" and \"involuntary\" switches: choosing to move between tasks versus being interrupted. Involuntary switches — triggered by a notification, a colleague's question, or an ambient alarm — carry a substantially higher switching cost because the brain had not begun preparing the new task schema in advance. A 2008 study by Gloria Mark at UC Irvine found that after an involuntary interruption, it takes an average of 23 minutes to return to deep engagement with the original task. The interruption itself may last seconds; the attentional debt lasts far longer.",
+  "question": "What did Gloria Mark's research find about returning to deep focus after an involuntary interruption?",
+  "options": [
+    { "text": "Most people recover focus within 5 minutes if they use a structured re-entry routine", "correct": false },
+    { "text": "Recovery time depends primarily on the complexity of the interrupted task", "correct": false },
+    { "text": "It takes an average of 23 minutes to return to deep engagement", "correct": true },
+    { "text": "Short interruptions under 30 seconds do not significantly disrupt focus", "correct": false }
+  ]
+}

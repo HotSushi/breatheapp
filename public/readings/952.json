@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "When Nicholas Carr published \"Is Google Making Us Stupid?\" in 2008, critics dismissed it as technophobia. A decade later, neuroscientists studying media consumption confirmed his intuition with data: the brain's capacity for deep reading — the sustained, interpretive engagement that allows readers to simulate narrative, infer authorial intent, and reason across paragraphs — depends on neural circuits that atrophy without use. Maryanne Wolf calls this the \"reading brain,\" a culturally acquired architecture layered atop older structures. Shift to skim-reading as a default, and those deeper circuits weaken, making long-form comprehension effortful in a way it previously was not.",
+  "question": "What did Maryanne Wolf call the neural architecture that supports deep reading?",
+  "options": [
+    { "text": "The interpretive cortex", "correct": false },
+    { "text": "The literacy network", "correct": false },
+    { "text": "The reading brain", "correct": true },
+    { "text": "The comprehension circuit", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "A striking 2013 study by Diana Tamir and Jason Mitchell found that people devote 30 to 40 percent of spontaneous thought to self-referential narrative — projecting themselves into past or future scenarios. Brain imaging showed that this self-narrative recruits the default mode network, which is suppressed during externally directed attention. The networks are competitive: the louder the inner story, the quieter the channel for present-moment perception. This neurological trade-off means that the richness of our self-concept comes at a measurable perceptual cost — we literally see less of the world when we are most absorbed in our own story.",
+  "question": "What neurological trade-off did Tamir and Mitchell's research reveal about self-referential narrative?",
+  "options": [
+    { "text": "The default mode network enhances visual processing during self-reflection", "correct": false },
+    { "text": "The louder the inner story, the quieter the channel for present-moment perception", "correct": true },
+    { "text": "Self-narrative activates the prefrontal cortex at the expense of emotional regulation", "correct": false },
+    { "text": "Spontaneous thought occupies more than 60 percent of waking mental activity", "correct": false }
+  ]
+}

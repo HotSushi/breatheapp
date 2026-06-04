@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The cultural ADD diagnosis carries a class dimension that is rarely acknowledged. Access to long-form reading — novels, essays, longform journalism — correlates strongly with socioeconomic status, as does the ability to work in distraction-free environments. Jonathan Crary's \"24/7\" argues that the relentless stimulation of digital commerce is not equally distributed: those with greater resources purchase silence, sequestration, and depth, while attention-harvesting platforms are most aggressively monetized in low-income markets. The collapse of collective attention capacity is therefore not merely cultural but stratified — deepening a cognitive divide that maps onto existing inequalities.",
+  "question": "What argument does Jonathan Crary's '24/7' make about the distribution of digital stimulation?",
+  "options": [
+    { "text": "That digital distraction is a universal condition affecting all economic classes equally", "correct": false },
+    { "text": "That attention-harvesting platforms are most aggressively monetized in low-income markets", "correct": true },
+    { "text": "That long-form reading has been replaced by video content across all demographics", "correct": false },
+    { "text": "That economic inequality is caused primarily by differences in media consumption habits", "correct": false }
+  ]
+}

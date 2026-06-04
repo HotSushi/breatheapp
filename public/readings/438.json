@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Before electricity, the boundary between work and rest was enforced by darkness. The sociologist Max Weber traced how the Protestant work ethic began eroding leisure as a moral category, but even Weber could not have imagined a technology that makes every waking hour equally available for labor. Researcher Arlie Hochschild found that for many dual-income households, email and mobile phones had effectively abolished the 'third shift' — the small pockets of personal time — by making it permanently interruptible. What is lost is not merely rest but the psychological condition that rest requires: the genuine belief that one is, for now, allowed to stop.",
+  "question": "What does Hochschild mean by the abolition of the 'third shift'?",
+  "options": [
+    { "text": "The elimination of overnight work schedules in knowledge industries", "correct": false },
+    { "text": "The disappearance of domestic labor as a recognized form of work", "correct": false },
+    { "text": "The loss of small pockets of personal time made permanently interruptible by mobile technology", "correct": true },
+    { "text": "The merging of commute time with productive working hours through podcasts", "correct": false }
+  ]
+}

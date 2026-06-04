@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Stoics identified a practice they called prosoche — sustained, vigilant attention to the present moment and to one's own impressions. Marcus Aurelius returned to it obsessively in his Meditations: 'Confine yourself to the present.' For the Stoics, distraction was not merely inconvenient; it was a moral failure, because a scattered mind cannot discern what is truly in one's control. Simplicity of desire was the precondition for this clarity. Epictetus, who owned virtually nothing, argued that wanting few things was not deprivation but leverage — the fewer your dependencies, the less fortune could disorder your focus. Prosoche required pruning life's branches so attention could flow to the root.",
+  "question": "According to the passage, why did the Stoics consider distraction a moral failure?",
+  "options": [
+    { "text": "It wasted time that could be spent in public service", "correct": false },
+    { "text": "It violated the Stoic code of self-discipline", "correct": false },
+    { "text": "A scattered mind cannot discern what is truly in one's control", "correct": true },
+    { "text": "It prevented the study of logic and rhetoric", "correct": false }
+  ]
+}

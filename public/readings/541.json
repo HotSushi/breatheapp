@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Montaigne, writing in his tower study in the 1570s, argued that solitude is not the same as physical isolation. A man who flees the city but carries his ambitions and resentments with him has achieved nothing. 'We must reserve a little back-shop,' he wrote, 'all our own, entirely free, in which to establish our real liberty.' The back-shop is an interior room — a habitual retreat where the mind decouples from social performance and recovers its own judgments. Montaigne's tower was a symbol of this inner withdrawal, not its cause.",
+  "question": "What does Montaigne mean by the 'back-shop' of the mind?",
+  "options": [
+    { "text": "A private library stocked with classical texts", "correct": false },
+    { "text": "An interior mental space reserved for free, unperformed thought", "correct": true },
+    { "text": "The habit of writing in solitude every morning", "correct": false },
+    { "text": "A physical room separate from the household", "correct": false }
+  ]
+}

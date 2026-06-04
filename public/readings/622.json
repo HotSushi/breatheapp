@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The autotelic experience — from the Greek autos (self) and telos (goal) — describes activity that is its own reward. Csikszentmihalyi distinguished autotelic tasks from exotelic ones, where the motivation lies entirely outside the act: the paycheck, the grade, the approval. In autotelic experience, the goal is internal: a chess player who loses track of time is not pursuing a trophy but is absorbed by the game itself. Research shows that autotelic individuals report significantly higher life satisfaction not because their circumstances are better, but because they find intrinsic structure in ordinary activity that others pass through without noticing.",
+  "question": "What distinguishes an autotelic experience from an exotelic one, according to the passage?",
+  "options": [
+    { "text": "Autotelic tasks always involve creative work, while exotelic tasks are mechanical.", "correct": false },
+    { "text": "In autotelic experience, the motivation comes from within the activity itself rather than from external rewards.", "correct": true },
+    { "text": "Autotelic individuals are more competitive and set harder goals for themselves.", "correct": false },
+    { "text": "Exotelic tasks produce flow more reliably because they have clear external benchmarks.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics drew a sharp line between two categories of nature: universal nature, the rational order governing the cosmos, and particular nature, the specific capacities of each creature. For humans, these coincided in a unique way. To follow universal nature was to participate in the logos pervading all things; to follow particular nature was to exercise reason within one's own life. Zeno argued these were the same act. Living by logos — governing impressions carefully, choosing in accordance with what is genuinely good — was simultaneously to harmonize with the larger rational structure of the universe. Virtue was therefore cosmic, not merely personal.",
+  "question": "According to the passage, what was Zeno's argument about universal and particular nature for humans?",
+  "options": [
+    { "text": "They were opposed forces requiring constant reconciliation", "correct": false },
+    { "text": "Universal nature governed the cosmos while particular nature was irrelevant", "correct": false },
+    { "text": "Particular nature had to be suppressed to align with universal nature", "correct": false },
+    { "text": "Following one's rational particular nature was the same act as harmonizing with universal nature", "correct": true }
+  ]
+}

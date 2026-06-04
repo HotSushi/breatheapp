@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "David Meyer's research at the University of Michigan found that switching between tasks carries a hidden cost: the brain requires time to disengage from one rule set and load another. He called this the 'executive control process,' and measured its toll in hundreds of milliseconds per switch. For complex tasks, the cumulative switching cost can consume up to 40% of productive time. The illusion of multitasking persists because this overhead is invisible to introspection — we experience the transitions as seamless when they are actually costly interruptions with measurable neural signatures.",
+  "question": "What did David Meyer's research find about the time cost of switching between tasks?",
+  "options": [
+    { "text": "Switching costs only apply to physical tasks, not cognitive ones.", "correct": false },
+    { "text": "Task switching can consume up to 40% of productive time for complex tasks.", "correct": true },
+    { "text": "The executive control process operates below 50 milliseconds and is therefore negligible.", "correct": false },
+    { "text": "People accurately perceive switching costs through introspection.", "correct": false }
+  ]
+}

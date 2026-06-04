@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Tibetan Buddhist concept of shinay — often translated as 'calm abiding' — distinguishes nine progressive stages of mental stabilization, mapped by the eleventh-century scholar Kamalashila in the Bhavanakrama. At the first stage, the mind can hold its object for only a few seconds before distraction wins. By the ninth stage, called 'single-pointed equipoise,' concentration sustains itself without effort, the way a wheel, once set spinning, continues without another push. The metaphor is deliberate: the goal is not the force of gripping but the momentum of a mind that has learned, through thousands of gentle returns, to prefer stillness.",
+  "question": "According to the passage, what does the wheel metaphor in the ninth stage of shinay represent?",
+  "options": [
+    { "text": "The speed at which thoughts arise and pass away", "correct": false },
+    { "text": "Concentration that sustains itself without effort, like momentum", "correct": true },
+    { "text": "The circular nature of distraction and return in meditation", "correct": false },
+    { "text": "The practitioner's ability to accelerate their progress through stages", "correct": false }
+  ]
+}

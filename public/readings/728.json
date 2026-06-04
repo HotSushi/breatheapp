@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The idea of mental hygiene — maintaining the mind through deliberate practice, just as one maintains the body — acquired biological precision with the discovery that sleep actively removes the toxic byproducts of thinking itself. Thought is metabolically expensive: neurons burn glucose and produce waste molecules, including tau proteins and amyloid-beta, as a byproduct of electrical activity. During waking hours, these molecules accumulate faster than the brain can clear them. Sleep shifts the system into clearance mode. This is why sleep deprivation accelerates the accumulation of amyloid-beta measurably within a single night — the cleansing machinery simply stops running when sleep is denied.",
+  "question": "According to the passage, what produces the toxic byproducts that sleep clears from the brain?",
+  "options": [
+    { "text": "Cortisol secreted during prolonged stress and waking hours", "correct": false },
+    { "text": "Inflammation triggered by irregular circadian rhythms", "correct": false },
+    { "text": "The metabolic activity of neurons during normal thought and electrical activity", "correct": true },
+    { "text": "Glial cell death that occurs as a natural part of neural turnover", "correct": false }
+  ]
+}

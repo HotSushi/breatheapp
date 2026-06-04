@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The visuospatial sketchpad, working memory's visual counterpart to the phonological loop, allows us to mentally rotate objects, navigate maps, and simulate physical arrangements. It is why a surgeon can rehearse an incision before making it, or why a chess player can evaluate a board without moving pieces. But its capacity is similarly limited — roughly three to four visual objects with distinct properties. Crucially, visual working memory is disrupted not only by competing visual tasks but also by irrelevant speech, suggesting the subsystems are less independent than Baddeley's original model implied. Attention is not a single spotlight; it is a fragile ensemble.",
+  "question": "What does the passage suggest about the independence of working memory subsystems?",
+  "options": [
+    { "text": "Irrelevant speech disrupts visual working memory, suggesting subsystems are less independent than originally modeled", "correct": true },
+    { "text": "They operate entirely independently and do not interfere with each other", "correct": false },
+    { "text": "The visuospatial sketchpad is larger and more resilient than the phonological loop", "correct": false },
+    { "text": "Visual tasks interfere with phonological rehearsal but not the reverse", "correct": false }
+  ]
+}

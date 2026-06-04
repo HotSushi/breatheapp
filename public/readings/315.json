@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "One of Csikszentmihalyi's most important findings was that flow is more common at work than during leisure — a result that surprised even him. When experience-sampling researchers pinged adults at random moments and asked them to rate challenge, skill, and mood, flow signatures appeared during complex work tasks twice as often as during television watching or passive recreation. Yet when asked where they wanted to be, respondents consistently preferred leisure. This paradox — finding more flow at work but wanting less of it — suggests our intuitions about happiness are unreliable guides. We seek rest when what produces the deepest satisfaction is engaged challenge. Csikszentmihalyi called this \"the paradox of work.\"",
+  "question": "What did experience-sampling research reveal about where flow most commonly occurs?",
+  "options": [
+    { "text": "During leisure activities like hobbies and outdoor recreation", "correct": false },
+    { "text": "Equally across work and leisure depending on personality type", "correct": false },
+    { "text": "During complex work tasks, at roughly twice the rate of passive leisure", "correct": true },
+    { "text": "During creative tasks but not during analytical or technical work", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Behavioral prediction markets are the commercial engine beneath surveillance capitalism. Platforms do not simply sell advertising space; they sell certainty about future behavior. When a company purchases an ad slot on a social network, it is buying a probabilistic guarantee that a specific person will act in a specific way at a specific moment. The more granular the behavioral data, the higher the price that certainty commands. Zuboff calls this the 'behavioral futures market': a trading floor where human conduct is the commodity, and the most accurate prediction wins. Users are not the customers. They are the raw ore.",
+  "question": "In Zuboff's framework, what exactly is being bought and sold in a behavioral futures market?",
+  "options": [
+    { "text": "Users' personal data stored in platform databases", "correct": false },
+    { "text": "Advertising space targeted to broad demographic categories", "correct": false },
+    { "text": "Probabilistic guarantees that specific people will act in specific ways", "correct": true },
+    { "text": "Subscriptions to analytical dashboards showing user engagement trends", "correct": false }
+  ]
+}

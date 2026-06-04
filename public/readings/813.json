@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Husserl distinguished between the act of perceiving and the act of imagining the same object. Both are intentional — both are directed toward something — but they differ in what he called their 'intentional character.' When you perceive a candle, it presents itself as actually present. When you imagine it, the candle is meant as absent. This difference is not located in the object but in the mode of intending. Husserl called this the difference between positing and non-positing acts. The insight matters because it shows that consciousness does not merely receive inputs passively but actively constitutes how objects show up, shaping whether they appear as real, imagined, remembered, or expected.",
+  "question": "According to the passage, where does Husserl locate the difference between perceiving and imagining an object?",
+  "options": [
+    { "text": "In the physical properties of the object being considered", "correct": false },
+    { "text": "In the mode of intending rather than in the object itself", "correct": true },
+    { "text": "In the emotional response triggered by the object", "correct": false },
+    { "text": "In the duration of time spent attending to the object", "correct": false }
+  ]
+}

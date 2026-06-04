@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Thomas Metzinger argues that the self is not a thing but a process — a 'phenomenal self-model' that the brain constructs and updates continuously. When that model becomes too thick with narrative — when we are lost in self-concept — it crowds out immediate experience. Metzinger calls this the difference between 'transparent' self-modeling, in which we look through ourselves at the world, and 'opaque' self-modeling, in which we become preoccupied with our own mental representation. Presence, on this account, is transparency: the world shows up vividly because the self-model recedes, becoming a window rather than a mirror.",
+  "question": "In Metzinger's framework, what is 'transparent' self-modeling?",
+  "options": [
+    { "text": "A form of self-awareness in which one can clearly observe one's own biases and mental patterns", "correct": false },
+    { "text": "Self-modeling in which one looks through oneself at the world, rather than focusing on one's own mental representation", "correct": true },
+    { "text": "A state in which the brain's self-model is temporarily suppressed during meditation", "correct": false },
+    { "text": "The process by which narrative self-concept crowds out immediate sensory experience", "correct": false }
+  ]
+}

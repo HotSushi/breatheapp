@@ -1,0 +1,23 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Acetylcholine is the chemical messenger of rest. Where adrenaline shouts, acetylcholine whispers \u2014 released by vagal nerve endings directly onto heart muscle, it slows the pacemaker cells within milliseconds without entering the bloodstream. This local, targeted chemistry is architecturally opposite to the sympathetic system's systemic hormone release. Pharmacologist Otto Loewi, working in 1921, confirmed this mechanism in a famous frog-heart experiment that won him the Nobel Prize: fluid from a slowed heart, transferred to a second heart, slowed it too. He named the substance Vagusstoff \u2014 vagus substance. Loewi's discovery established that calm is not merely a state of mind but a chemical event, precise and transferable.",
+  "question": "What did Otto Loewi name the substance he isolated in his 1921 frog-heart experiment?",
+  "options": [
+    {
+      "text": "Acetylcholine",
+      "correct": false
+    },
+    {
+      "text": "Adrenaline",
+      "correct": false
+    },
+    {
+      "text": "Vagusstoff",
+      "correct": true
+    },
+    {
+      "text": "Serotonin",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Interoceptive disruption \u2014 a mismatch between the brain's predicted body state and the actual signals arriving \u2014 is now understood to be a core feature of anxiety. Neuroscientist Lisa Feldman Barrett argues that anxiety is often misattributed outward: we experience it as fear of something external, when in fact the brain is struggling to make sense of unexpected internal signals. This misattribution pulls attention toward surveillance of the environment, fragmenting focus. Body-based anchoring practices interrupt this loop not by relaxing the body but by improving interoceptive precision \u2014 giving the predictive brain better data so it stops scanning for threats that aren't there.",
+  "question": "According to Lisa Feldman Barrett as described in the passage, what causes anxiety to fragment outward-directed attention?",
+  "options": [
+    {
+      "text": "Overactivation of the sympathetic nervous system drowning out prefrontal regulation",
+      "correct": false
+    },
+    {
+      "text": "Elevated cortisol impairing the hippocampus's ability to contextualize sensory input",
+      "correct": false
+    },
+    {
+      "text": "The brain misattributing unexpected internal signals as external threats, triggering environmental surveillance",
+      "correct": true
+    },
+    {
+      "text": "Suppression of the insula reducing the brain's ability to generate calming predictions",
+      "correct": false
+    }
+  ]
+}

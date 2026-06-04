@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James wrote in 1890 that attention is the very stuff of consciousness — 'the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects.' Yet James also observed that voluntary attention is exhausting and cannot be sustained more than a few seconds. What we call 'sustained presence' is actually a rapid series of reconcentrations. Thomas Metzinger's more recent work refines this: the phenomenal self-model must periodically reset to refresh its grip on the present. Presence is not a steady state but a rhythm — a pulse of engagement, release, and re-engagement the mind performs dozens of times per minute.",
+  "question": "What did William James observe about the duration of voluntary attention?",
+  "options": [
+    { "text": "It is exhausting and cannot be held for more than a few seconds at a time", "correct": true },
+    { "text": "It can be sustained indefinitely with sufficient motivation", "correct": false },
+    { "text": "It lasts approximately thirty seconds before the mind must refocus", "correct": false },
+    { "text": "It strengthens progressively over repeated practice sessions", "correct": false }
+  ]
+}

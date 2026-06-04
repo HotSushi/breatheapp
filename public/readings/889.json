@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Contemplative traditions anticipated embodied cognition by millennia. In Zen archery, as described by Eugen Herrigel in Zen in the Art of Archery, mastery is achieved when the archer no longer aims consciously — the arrow 'shoots itself' through a body that has become transparent to intention. This is strikingly close to what Merleau-Ponty described as the collapse of subject-object duality in skilled action: the archer does not represent a target mentally and then send commands to muscles; the body and target form a unified perceptual-motor field. Modern attention research on 'flow states,' as studied by Mihaly Csikszentmihalyi, captures the same merger: in flow, the self disappears into the task.",
+  "question": "According to the passage, what does Herrigel's account of Zen archery share with Merleau-Ponty's phenomenology?",
+  "options": [
+    { "text": "Both argue that conscious mental representation must precede all skilled bodily movement", "correct": false },
+    { "text": "Both describe the collapse of subject-object duality when the body becomes transparent in skilled action", "correct": true },
+    { "text": "Both hold that traditional contemplative practices are scientifically equivalent to flow research", "correct": false },
+    { "text": "Both claim that mastery requires sustained effortful attention rather than habitual automaticity", "correct": false }
+  ]
+}

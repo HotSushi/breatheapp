@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic concept of oikeiosis — roughly, 'appropriation' or 'affiliation' — describes how reason orients a being toward what is genuinely its own. Animals act on instinct; humans, possessing logos, can extend this orientation outward: from self-preservation to family, community, and ultimately to all of humanity. Hierocles depicted this as concentric circles of concern. What modern cognitive science calls 'in-group bias' the Stoics identified as a failure of logos — a contraction of reason back to its narrowest circle. The rational life, for the Stoics, was one of continual expansion of what you recognized as belonging to you.",
+  "question": "What did the Stoics call the process of reason orienting a being toward what is genuinely its own?",
+  "options": [
+    { "text": "Apatheia", "correct": false },
+    { "text": "Oikeiosis", "correct": true },
+    { "text": "Logos", "correct": false },
+    { "text": "Phantasia", "correct": false }
+  ]
+}

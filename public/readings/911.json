@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Herbert Simon was the first economist to name the paradox that haunts modern life: as information multiplies, the one resource it consumes is scarce — human attention. Writing in 1971, Simon observed that a wealth of information creates a poverty of attention. He called for a theory of attention allocation the same way economists theorize the allocation of money. Decades before smartphones, he understood that the bottleneck of the information age would not be storage or transmission but the finite cognitive bandwidth of the people receiving it.",
+  "question": "According to Herbert Simon, what scarce resource is consumed as information multiplies?",
+  "options": [
+    { "text": "Storage capacity in computing systems", "correct": false },
+    { "text": "Human attention", "correct": true },
+    { "text": "The speed of information transmission", "correct": false },
+    { "text": "Economic capital needed to fund networks", "correct": false }
+  ]
+}

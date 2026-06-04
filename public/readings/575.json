@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil's philosophy stands in sharp contrast to modern productivity culture, which treats attention as a resource to be optimized — allocated, rationed, and protected through willpower. Weil would have found this framing backwards. Attention, for her, is not a finite commodity that gets depleted; it is a capacity that deepens through practice and diminishes through misuse — specifically, through the habit of half-attention, of skimming, of giving the outward appearance of presence while inwardly elsewhere. The contemporary term 'continuous partial attention,' coined by Linda Stone in the 1990s, describes precisely the condition Weil saw as the core pathology of distracted modern life.",
+  "question": "Who coined the term 'continuous partial attention' that the passage connects to Weil's diagnosis?",
+  "options": [
+    { "text": "Simone Weil herself in her later essays", "correct": false },
+    { "text": "Linda Stone in the 1990s", "correct": true },
+    { "text": "Herbert Simon in his work on bounded rationality", "correct": false },
+    { "text": "Alain, Weil's mathematics teacher in Paris", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics developed a precise vocabulary for the problem of signal and noise. They called false impressions phantasiai alogoi — impressions without logos, appearances that seduce the mind into assenting to what is not actually there. Zeno of Citium used the image of an open hand to represent a mere impression, a closed fist for assent, and two clasped hands for full knowledge. The crucial move, he argued, happens between the open hand and the fist: the moment of assent. Noise becomes confusion only when we assent to it. The discipline of reason is the discipline of the pause before assent.",
+  "question": "In Zeno's hand metaphor, what does the closed fist represent?",
+  "options": [
+    { "text": "A false impression that seduces the mind", "correct": false },
+    { "text": "Assent — the act of agreeing to an impression", "correct": true },
+    { "text": "Full knowledge achieved through study", "correct": false },
+    { "text": "The moment of doubt before accepting a belief", "correct": false }
+  ]
+}

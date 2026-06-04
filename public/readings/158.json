@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic philosopher Hierocles proposed a series of concentric circles — self, family, community, city, nation, humankind — and urged us to 'draw the outer circles inward,' extending our moral concern outward while shrinking our egocentric perspective. Modern cognitive psychologists call a similar failure 'construal level theory': we think about distant things abstractly and nearby things concretely, which means local irritants feel more vivid and urgent than they deserve. Hierocles' exercise was a deliberate correction of this bias, training the mind to see the local through the lens of the universal before deciding how much attention to award it.",
+  "question": "According to the passage, what cognitive bias does Hierocles' concentric circles exercise correct?",
+  "options": [
+    { "text": "The tendency to prioritize future consequences over present discomfort", "correct": false },
+    { "text": "The construal level bias that makes nearby irritants feel more urgent than they deserve", "correct": true },
+    { "text": "The moral failure to extend concern beyond one's immediate family", "correct": false },
+    { "text": "Overconfidence in abstract reasoning at the expense of concrete experience", "correct": false }
+  ]
+}

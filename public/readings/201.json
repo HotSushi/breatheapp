@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Samatha — the Pali word for 'calm abiding' — is not the suppression of thought but the deliberate withdrawal of fuel from it. The Visuddhimagga, Buddhaghosa's fifth-century meditation manual, describes forty distinct objects a practitioner may use to steady the mind, from the kasina disc to the breath itself. What unifies them is the principle of ekaggata, or one-pointedness: the capacity to hold a single object without the mind sliding away. Neuroimaging studies by Richard Davidson at the University of Wisconsin found that long-term samatha practitioners show measurably reduced amygdala reactivity, suggesting the calm is physiological, not merely philosophical.",
+  "question": "According to the passage, what principle unifies the forty meditation objects described in the Visuddhimagga?",
+  "options": [
+    { "text": "Each object must be visualized with precise color and form", "correct": false },
+    { "text": "All objects originate from the breath as their foundation", "correct": false },
+    { "text": "The principle of ekaggata — holding a single object without the mind sliding away", "correct": true },
+    { "text": "They are arranged in order of increasing difficulty for the practitioner", "correct": false }
+  ]
+}

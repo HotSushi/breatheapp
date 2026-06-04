@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The neuroscience of environmental priming is clear: sensory cues associated with past focused work lower the activation threshold for entering that state again. This is why productivity researchers recommend dedicating a single physical location exclusively to deep work — never to email, entertainment, or casual conversation. The brain learns that entering that chair, at that desk, under that light, means one thing. Stanford's BJ Fogg calls this 'anchor design': attaching a desired behavior to a stable environmental trigger. Over time, the location does part of the work of concentration for you, before you've written a single word.",
+  "question": "What does BJ Fogg call the practice of attaching a behavior to a stable environmental trigger?",
+  "options": [
+    { "text": "Contextual reinforcement", "correct": false },
+    { "text": "Sensory priming", "correct": false },
+    { "text": "Threshold reduction", "correct": false },
+    { "text": "Anchor design", "correct": true }
+  ]
+}

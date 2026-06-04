@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Eightfold Path's section on Right Speech, Right Action, and Right Livelihood constitutes sila — ethical conduct. Far from peripheral, sila is the structural foundation that makes meditation possible. Psychologist and meditation teacher Tara Brach notes that unresolved ethical harm creates what the tradition calls papanca — mental proliferation — a restless, guilt-laden chatter that undermines concentration before it can take root. The Vinaya, the monastic code Theravada monks follow, contains 227 rules precisely because its compilers understood that outer discipline stabilizes inner stillness. Clean conduct is not moralism; it is cognitive architecture.",
+  "question": "According to the passage, why did the Vinaya's compilers create 227 monastic rules?",
+  "options": [
+    { "text": "To enforce social hierarchy within the early Buddhist community", "correct": false },
+    { "text": "To demonstrate the Buddha's authority over his followers", "correct": false },
+    { "text": "To eliminate the mental proliferation that arises from unresolved ethical harm", "correct": false },
+    { "text": "Because outer discipline stabilizes the inner stillness needed for meditation", "correct": true }
+  ]
+}

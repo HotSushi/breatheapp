@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Economist Herbert Simon was among the first to name the central paradox of the information age: a wealth of information creates a poverty of attention. Writing in 1971, Simon observed that information consumes the attention of its recipients — meaning that a surfeit of information must inevitably deplete the very resource needed to evaluate it. This insight preceded the internet by decades, yet it predicted with uncanny accuracy the trap that knowledge workers now inhabit: surrounded by more data than any previous generation, yet consistently unable to think as deeply as the problems demand.",
+  "question": "According to Herbert Simon, what does a surfeit of information inevitably deplete?",
+  "options": [
+    { "text": "The quality of data available to decision-makers", "correct": false },
+    { "text": "The attention needed to evaluate that information", "correct": true },
+    { "text": "The motivation of workers to seek new knowledge", "correct": false },
+    { "text": "The storage capacity of organizational memory", "correct": false }
+  ]
+}

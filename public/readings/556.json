@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Buddhist concept of 'papañca' — often translated as 'mental proliferation' — describes the mind's tendency to spin narratives outward from any moment of stillness. When the meditator sits, the untrained mind does not rest; it elaborates. A sound becomes a story, a story becomes a grievance, a grievance becomes a planning session. Early Buddhist texts treated papañca not as a minor quirk but as the root mechanism of suffering — the mind's compulsive flight from bare experience into the safer territory of abstraction and commentary. Pascal and the Buddha, separated by a millennium and a continent, diagnosed the same disease.",
+  "question": "According to the passage, what does the Buddhist concept of papañca describe?",
+  "options": [
+    { "text": "The mind's capacity to achieve insight through concentrated single-pointed focus", "correct": false },
+    { "text": "A meditative state in which the practitioner dissolves the sense of self", "correct": false },
+    { "text": "The mind's compulsive flight from bare experience into abstraction and commentary", "correct": true },
+    { "text": "The proliferation of desires that arises from contact with sensory pleasure", "correct": false }
+  ]
+}

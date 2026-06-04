@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's treatment of wasted hours anticipates what modern cognitive scientists call 'time discounting' — the tendency to undervalue future time relative to immediate gratification. He observed the same bias in Rome without the neuroscience: people who would never hand a stranger their purse freely surrendered entire afternoons to parties and spectacle. His insight was that this asymmetry is not laziness but a failure of imagination. We cannot feel tomorrow's lost hour the way we feel today's inconvenience. His solution was 'ante nos' practice — imagining yourself at the end of life looking back, which makes future time emotionally present and therefore harder to squander.",
+  "question": "According to Seneca, why do people surrender their hours despite valuing their money?",
+  "options": [
+    { "text": "Roman social norms made refusing invitations a punishable offense", "correct": false },
+    { "text": "It is a failure of imagination, not laziness — future time lacks emotional weight", "correct": true },
+    { "text": "Stoic philosophy had not yet developed tools for resisting temptation", "correct": false },
+    { "text": "People instinctively trust collective entertainment over solitary study", "correct": false }
+  ]
+}

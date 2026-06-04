@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The economist David Ricardo articulated comparative advantage in 1817: nations benefit by specializing in goods they produce most efficiently relative to alternatives, not simply those they produce best in absolute terms. Newport applies the same logic to careers. Even if a machine can perform your core skill faster, you retain comparative advantage if the combination of your judgment, contextual knowledge, and technical depth is harder to replicate than competing alternatives. Rare and valuable skills, in this framework, are those that require sustained investment to develop and resist commoditization. Surface-level competence, however broad, offers no such protection.",
+  "question": "How does the passage apply Ricardo's comparative advantage to the question of career-relevant skills?",
+  "options": [
+    { "text": "Workers should specialize in whatever skill has the highest current market salary", "correct": false },
+    { "text": "Skills developed through formal education carry more comparative advantage than self-taught ones", "correct": false },
+    { "text": "Skills that require sustained investment and resist commoditization retain career value even against faster competitors", "correct": true },
+    { "text": "Breadth of competence across many domains is the best hedge against automation", "correct": false }
+  ]
+}

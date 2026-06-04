@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In 2001, neuroscientists René Marois and Jason Ivanoff demonstrated what they called the 'attentional blink': when two stimuli appear in rapid succession, the brain reliably misses the second one. This is not a failure of effort but of architecture. The brain's bottleneck lies in a neural processing stage that can handle only one task at a time — roughly 270 milliseconds per item. What we call multitasking is more accurately described as rapid sequential monotasking, with measurable gaps between each switch. The sense of simultaneity is a retrospective construction, not a live event.",
+  "question": "According to the passage, what does the attentional blink reveal about multitasking?",
+  "options": [
+    { "text": "The brain can process two tasks simultaneously if they use different sensory channels.", "correct": false },
+    { "text": "With sufficient practice, the attentional bottleneck can be eliminated.", "correct": false },
+    { "text": "Multitasking is actually rapid sequential processing, not genuine simultaneity.", "correct": true },
+    { "text": "The sense of doing two things at once reflects accurate real-time perception.", "correct": false }
+  ]
+}

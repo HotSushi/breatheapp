@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon's framework illuminates why the solution to information overload is not silence but design. If attention is a resource to be allocated, then the design of information environments determines how that allocation happens — often without the user's awareness. Simon and later cognitive scientist Donald Norman arrived at a similar insight through different routes: environments shape cognition, and whoever designs the environment shapes the thought. The feed algorithm, the notification badge, the infinite scroll — each is an architectural choice that pre-decides where your attention goes before you make any conscious decision.",
+  "question": "According to the passage, what insight did Simon and Donald Norman share?",
+  "options": [
+    { "text": "That silence is the most effective remedy for information overload", "correct": false },
+    { "text": "That individual willpower is sufficient to overcome poor information design", "correct": false },
+    { "text": "That environments shape cognition, and designers of environments shape thought", "correct": true },
+    { "text": "That cognitive science should replace economics as the study of attention", "correct": false }
+  ]
+}

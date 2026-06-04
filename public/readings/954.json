@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The average length of a U.S. presidential speech fell from over five thousand words in the nineteenth century to under two thousand by the twentieth, and continues to compress. Historians of rhetoric note a parallel narrowing in argumentative complexity: Lincoln's Cooper Union address spent hours building a single sustained legal and historical case; contemporary political communication operates in assertions, not arguments. This is not a story of declining intelligence but of incentive structures — when audiences have been trained by short-form media to expect conclusions without premises, speakers who provide premises are punished with inattention.",
+  "question": "What does the passage say happened to the average length of U.S. presidential speeches over time?",
+  "options": [
+    { "text": "It remained stable but became more technically complex", "correct": false },
+    { "text": "It increased as education levels rose in the twentieth century", "correct": false },
+    { "text": "It fell from over five thousand words in the nineteenth century to under two thousand by the twentieth", "correct": true },
+    { "text": "It varied unpredictably depending on the political party in power", "correct": false }
+  ]
+}

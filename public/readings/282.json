@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Zhuangzi illustrated wu wei through the story of Cook Ding, who carved an ox with such fluid mastery that his blade never dulled — because he followed the natural spaces in the animal rather than hacking through resistance. The parable is not about skill alone but about perception: Ding saw the ox's structure before he moved. Attention researchers call this 'task-set priming,' the preparatory neural state that precedes effortless performance. When attention is forced, this priming collapses and performance degrades. Wu wei, in cognitive terms, is the cultivation of that receptive readiness before action begins.",
+  "question": "In the passage, what does Zhuangzi's Cook Ding parable illustrate about attention?",
+  "options": [
+    { "text": "That repetitive practice eventually makes all tasks effortless", "correct": false },
+    { "text": "That perceiving structure before acting enables fluid, non-forced performance", "correct": true },
+    { "text": "That slowing down movement reduces cognitive load", "correct": false },
+    { "text": "That mastery requires suppressing all emotional responses", "correct": false }
+  ]
+}

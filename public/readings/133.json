@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "In his Meditations, Marcus Aurelius returns again and again to a single corrective instruction: 'Confine yourself to the present.' This was not a call for impulsiveness but a structural claim about where value lives. The past is inaccessible; the future, uncertain. Only the present moment contains an action that can be chosen and executed. Yet Marcus noticed that the mind migrates habitually — into past grievances or future anxieties — and that each migration carries a small cost in attention and composure. Moment-to-moment vigilance meant catching these migrations early, before they compounded into what he called 'passion,' a state in which reason loses its footing.",
+  "question": "According to the passage, what did Marcus Aurelius mean by 'confine yourself to the present'?",
+  "options": [
+    { "text": "That the present moment is the only location where a choosable action exists", "correct": true },
+    { "text": "That one should ignore consequences and act impulsively", "correct": false },
+    { "text": "That memories and plans are inherently irrational", "correct": false },
+    { "text": "That composure requires suppressing all emotion", "correct": false }
+  ]
+}

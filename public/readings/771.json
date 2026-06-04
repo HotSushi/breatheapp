@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The brain runs almost exclusively on glucose, consuming roughly 20% of the body's energy despite accounting for only 2% of its mass. Neuroscientist Ewan McNay's research at SUNY Albany demonstrated that cognitive tasks measurably deplete local glucose in the hippocampus — the region central to memory consolidation. When that supply dips, working memory falters first. This is why willpower feels finite: the prefrontal cortex, which governs self-control and sustained attention, is metabolically expensive and among the first regions to underperform when blood glucose fluctuates. Stable fuel, not simply more fuel, is what protects cognitive stamina.",
+  "question": "According to the passage, which brain region is described as metabolically expensive and vulnerable to glucose fluctuation?",
+  "options": [
+    { "text": "The hippocampus", "correct": false },
+    { "text": "The cerebellum", "correct": false },
+    { "text": "The prefrontal cortex", "correct": true },
+    { "text": "The amygdala", "correct": false }
+  ]
+}

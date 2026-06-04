@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "William James wrote in 1890 that habit is 'the enormous flywheel of society, its most precious conservative agent.' His metaphor was mechanical: once a behavioral pattern reaches sufficient momentum, it sustains itself with minimal input. James was also the first major psychologist to argue that habits reduce the cognitive burden of living, freeing the mind for higher-order deliberation. But he added a warning: the same automaticity that liberates the mind also imprisons the character. A person who has not chosen their habits deliberately, he argued, will find that habit has chosen for them — and that they are, at forty, the bundle of habits they assembled without intention at twenty.",
+  "question": "What warning did William James attach to his account of habit's liberating function?",
+  "options": [
+    { "text": "Habits formed before age thirty are impossible to break through conscious effort", "correct": false },
+    { "text": "The automaticity that frees the mind also traps the character of those who form habits without deliberate choice", "correct": true },
+    { "text": "Society's reliance on habit makes collective behavioral change structurally impossible", "correct": false },
+    { "text": "Higher-order deliberation is itself a habit and therefore equally resistant to change", "correct": false }
+  ]
+}

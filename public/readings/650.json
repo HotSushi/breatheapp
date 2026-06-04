@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The master calligrapher focuses on a single brushstroke. The surgeon operates on one vessel at a time. The novelist writes one sentence, then another. These are not limitations imposed by biology — they are practices refined over generations because they consistently produce superior results. William James, who gave psychology its first serious treatment of attention in 1890, wrote that 'the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will.' He saw monotasking not as avoidance of the modern world but as the active exercise of the most human faculty we possess.",
+  "question": "How did William James characterize the faculty of repeatedly returning wandering attention to a single focus?",
+  "options": [
+    { "text": "As the primary cause of intellectual exhaustion in modern workers", "correct": false },
+    { "text": "As a technique best practiced through meditation rather than work", "correct": false },
+    { "text": "As a cognitive limitation that the modern world must learn to accommodate", "correct": false },
+    { "text": "As the very root of judgment, character, and will", "correct": true }
+  ]
+}

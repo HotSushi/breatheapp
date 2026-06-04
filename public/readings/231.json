@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Shunryu Suzuki, the Zen master who brought Soto Buddhism to America, coined the phrase 'beginner's mind' in his 1970 collection 'Zen Mind, Beginner's Mind.' He meant something precise: the mind that encounters each object as if for the first time, unburdened by accumulated conclusions. 'In the beginner's mind there are many possibilities,' he wrote, 'but in the expert's mind there are few.' Expertise, paradoxically, forecloses perception. A sommelier stops tasting wine and starts confirming categories. The Zen student is asked to unlearn this foreclosure — not to abandon knowledge, but to hold it loosely enough that reality can still surprise.",
+  "question": "According to Suzuki, what is the paradox of expertise described in the passage?",
+  "options": [
+    { "text": "Experts perceive more details but process them more slowly than beginners.", "correct": false },
+    { "text": "Expertise causes people to abandon knowledge and return to ignorance.", "correct": false },
+    { "text": "Expertise reduces possibilities by leading the mind to confirm categories rather than perceive freshly.", "correct": true },
+    { "text": "Experts find more meaning in simple tasks than beginners do.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "In Letter I, Seneca introduces a taxonomy of time-thieves that still holds. Some hours, he says, are seized by others — the morning caller, the demanding patron. Some are stolen by circumstance — illness, obligations we never chose. But most, he insists, simply slip away: 'fluunt et labuntur' — they flow and glide. This third category is most dangerous because it leaves no visible wound. Seneca's counsel is radical accounting: collect the hours the way a miser counts coins, because time, unlike money, cannot be borrowed or repaid once gone.",
+  "question": "According to Seneca's taxonomy, which category of time loss is most dangerous?",
+  "options": [
+    { "text": "Hours seized by demanding social obligations", "correct": false },
+    { "text": "Hours lost to illness and unchosen circumstance", "correct": false },
+    { "text": "Hours that simply flow and glide away unnoticed", "correct": true },
+    { "text": "Hours wasted in hollow philosophical debate", "correct": false }
+  ]
+}

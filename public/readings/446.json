@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "A 2018 experiment by Hunt, Marx, and colleagues at the University of Pennsylvania assigned students to limit Facebook, Instagram, and Snapchat use to ten minutes per platform per day. After three weeks, the restricted group showed significant reductions in loneliness and depression compared to controls. The finding is counterintuitive: the platforms promise connection, yet reducing them reduces loneliness. The researchers suggested the mechanism was a decline in passive social comparison — the scrolling observation of others' lives without interaction. Consumption without contact appears to worsen the very feelings it promises to relieve.",
+  "question": "What mechanism did the University of Pennsylvania researchers suggest explained reduced loneliness after limiting social media use?",
+  "options": [
+    { "text": "Students had more time for sleep and exercise, which reduced depression.", "correct": false },
+    { "text": "Less time online meant students made more phone calls to friends.", "correct": false },
+    { "text": "A decline in passive social comparison — observing others' lives without interaction.", "correct": true },
+    { "text": "Reduced screen time lowered cortisol levels, which are linked to feelings of loneliness.", "correct": false }
+  ]
+}

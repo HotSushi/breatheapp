@@ -1,0 +1,23 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Not all attention is equal, and Gloria Mark distinguishes between what she calls 'direct attention' — the deliberate, effortful focus required for complex work — and the ruminative, wandering mode the mind defaults to when direct attention collapses. Her research found that after a day of heavy digital multitasking, workers reported spending more time in what she terms 'flow-adjacent' states: absorbed in tasks requiring minimal challenge relative to skill. The mind, depleted by constant switching, gravitates toward the familiar and the easy. Deep work doesn't merely require the absence of interruption; it requires a reservoir of attentional capacity that fragmented digital environments drain before the workday begins.",
+  "question": "According to the passage, what happens to workers' task preferences after a day of heavy digital multitasking?",
+  "options": [
+    {
+      "text": "They seek out more challenging projects to compensate for the day's shallow output",
+      "correct": false
+    },
+    {
+      "text": "They gravitate toward tasks requiring minimal challenge relative to their skill level",
+      "correct": false
+    },
+    {
+      "text": "They become more creative as their internal editor is quieted by cognitive depletion",
+      "correct": true
+    },
+    {
+      "text": "They spend more time in unstructured social interaction to recover depleted focus",
+      "correct": false
+    }
+  ]
+}

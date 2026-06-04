@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius returned obsessively to a single question in his private notebooks: what is the nature of my ruling faculty right now? Not whether circumstances were pleasant, but whether his mind was performing its natural function — weighing impressions honestly, acting without avoidance, assenting only to what was clear. For Marcus, the mind unobstructed by false judgment was like a sphere: no rough surfaces to catch on distraction, no anxiety protruding into the space between stimulus and response. 'The impediment to action advances action,' he wrote. 'What stands in the way becomes the way.' Obstacles revealed where the mind had not yet learned its own nature.",
+  "question": "According to the passage, what did Marcus Aurelius compare the unobstructed mind to?",
+  "options": [
+    { "text": "A calm river flowing without resistance", "correct": false },
+    { "text": "A sphere with no rough surfaces to catch distraction", "correct": true },
+    { "text": "A fire that consumes obstacles and grows stronger", "correct": false },
+    { "text": "A soldier who advances despite resistance", "correct": false }
+  ]
+}

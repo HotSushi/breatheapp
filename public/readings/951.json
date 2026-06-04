@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The sociologist Robert Putnam documented how television eroded civic participation across decades; today's researchers point to a more granular disruption. Each notification interrupt costs not merely the seconds spent reading it, but what cognitive scientists call the \"resumption lag\" — the four to twenty-three minutes required to fully re-engage with interrupted deep work. Multiplied across a knowledge worker's day, these micro-interruptions collectively hollow out the cognitive hours available for sustained reasoning. The problem is structural, not motivational: the architecture of attention-harvesting platforms is optimized to interrupt, not to restore.",
+  "question": "According to the passage, what is 'resumption lag'?",
+  "options": [
+    { "text": "The delay before a notification appears on screen", "correct": false },
+    { "text": "The time required to fully re-engage with deep work after an interruption", "correct": true },
+    { "text": "The fatigue that accumulates after a full day of cognitively demanding tasks", "correct": false },
+    { "text": "The gap between receiving a message and choosing to respond to it", "correct": false }
+  ]
+}

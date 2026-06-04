@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The phrase 'capturing attention' is not metaphorical — it is territorial. Psychologist William James argued in 1890 that attention is the taking possession of the mind, in clear and vivid form, of one out of several simultaneously possible objects. To capture it is to displace everything else. Advertising engineers understood this before neuroscientists named it: a moving image, a loud sound, an unexpected color contrast — each exploits the orienting reflex, the ancient alarm system that evolved to detect predators, now redirected toward selling soap.",
+  "question": "According to the passage, why do moving images and loud sounds effectively capture attention?",
+  "options": [
+    { "text": "They align with William James's theory of voluntary attention", "correct": false },
+    { "text": "They exploit the orienting reflex, an ancient alarm system for detecting threats", "correct": true },
+    { "text": "They overwhelm the prefrontal cortex's ability to filter stimuli", "correct": false },
+    { "text": "They create a sense of territorial possession in the viewer", "correct": false }
+  ]
+}

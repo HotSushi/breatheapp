@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Sustained attention is not a single monolithic ability but a family of related capacities with distinct neural substrates. Nilli Lavie's \"Load Theory,\" developed through a series of experiments in the 1990s and 2000s, argues that distraction is not inevitable: when a primary task fully occupies perceptual processing resources, distractors are filtered automatically because there is no spare capacity to process them. The implication is counterintuitive — a harder task, one that genuinely saturates your attention, is less vulnerable to interruption than an easy one. Boredom creates attentional vacancy; deep engagement creates its own shield.",
+  "question": "According to Nilli Lavie's Load Theory, under what condition are distractors filtered automatically?",
+  "options": [
+    { "text": "When the observer deliberately suppresses bottom-up attention circuits.", "correct": false },
+    { "text": "When the task involves motor action rather than pure perception.", "correct": false },
+    { "text": "When norepinephrine levels are elevated by brief physical exercise.", "correct": false },
+    { "text": "When the primary task fully occupies available perceptual processing resources.", "correct": true }
+  ]
+}

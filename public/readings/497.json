@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Architect and urbanist Colin Ellard studies how built environments shape mental states. His fieldwork shows that spaces designed for dwelling — slow, featureless, uncrowded — trigger contemplative neural states associated with reflection and memory consolidation. Cities, by contrast, flood the perceptual system, suppressing inward attention. Ellard argues that the smartphone replicates urban overstimulation even in quiet rooms: it imports the attentional demands of a busy street into every private moment. Reclaiming mental space is therefore partly a design problem. The quality of our thinking depends on whether we protect architecturally — and behaviorally — the conditions that allow it.",
+  "question": "According to Ellard, what does the smartphone do to mental space in quiet environments?",
+  "options": [
+    { "text": "It provides a low-stimulation alternative to urban environments that supports reflective states.", "correct": false },
+    { "text": "It reduces heart rate variability, signaling a physiological shift toward calm.", "correct": false },
+    { "text": "It imports the attentional demands of a busy street into private moments.", "correct": true },
+    { "text": "It reinforces urban habits of multitasking that are difficult to unlearn.", "correct": false }
+  ]
+}

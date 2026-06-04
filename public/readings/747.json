@@ -1,0 +1,23 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The immune system does not operate in isolation from the nervous system. During genuine rest, the vagus nerve activates the cholinergic anti-inflammatory pathway \u2014 a circuit discovered by immunologist Kevin Tracey in 2000 \u2014 in which acetylcholine suppresses the production of tumor necrosis factor and other pro-inflammatory cytokines in the spleen. This means rest is not passive recuperation but an active immunological operation. Tracey's finding overturned a long-standing assumption that the nervous and immune systems were separate bureaucracies. Sustained sympathetic activation \u2014 the physiological signature of chronic stress \u2014 keeps this anti-inflammatory circuit offline, which helps explain epidemiological links between chronic stress and inflammatory disease.",
+  "question": "What did Kevin Tracey's 2000 discovery reveal about the vagus nerve and inflammation?",
+  "options": [
+    {
+      "text": "The vagus nerve activates a cholinergic anti-inflammatory pathway that suppresses pro-inflammatory cytokine production",
+      "correct": true
+    },
+    {
+      "text": "The vagus nerve triggers cytokine release during acute stress to fight infection",
+      "correct": false
+    },
+    {
+      "text": "The vagus nerve coordinates white blood cell production in the spleen during exercise",
+      "correct": false
+    },
+    {
+      "text": "The vagus nerve signals the adrenal glands to reduce cortisol after an immune response",
+      "correct": false
+    }
+  ]
+}

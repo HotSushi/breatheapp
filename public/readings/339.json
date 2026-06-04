@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The relationship between incomplete tasks and sleep is particularly illuminating. Sleep researchers have found that the hippocampus preferentially consolidates emotionally salient and unresolved experiences during slow-wave sleep — a process that may represent the brain's own attempt to 'close loops' overnight. This is one reason that intrusive thoughts about unfinished work spike at bedtime: the brain is preparing to process them and encounters them already active. Matthew Walker notes that REM sleep in particular serves a form of emotional processing, stripping the affective charge from difficult memories. An unresolved task carried to bed is not merely distraction — it is raw material the brain intends to work on.",
+  "question": "According to the passage, why do intrusive thoughts about unfinished work spike at bedtime?",
+  "options": [
+    { "text": "The prefrontal cortex becomes less active, reducing the ability to suppress thoughts", "correct": false },
+    { "text": "Fatigue amplifies the emotional weight attached to incomplete tasks", "correct": false },
+    { "text": "The brain is preparing to process these tasks and encounters them already active", "correct": true },
+    { "text": "Circadian rhythms shift attention from external tasks to internal states", "correct": false }
+  ]
+}

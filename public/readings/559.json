@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The ancient Greek concept of 'scholē' — from which we derive 'school' — did not mean leisure in the modern sense of relaxation. It meant time deliberately freed from necessity, made available for thinking. Aristotle considered scholē the highest form of human activity: not because idleness is virtuous, but because only in non-instrumental time can the mind pursue understanding for its own sake. The tragedy of modernity, several philosophers have argued, is that we have abolished necessity without creating scholē — we have only created more elaborate divertissement, mistaking stimulation for freedom.",
+  "question": "According to the passage, what did Aristotle mean by calling scholē the highest form of human activity?",
+  "options": [
+    { "text": "That rest and recuperation are prerequisites for all productive intellectual work", "correct": false },
+    { "text": "That only in non-instrumental time can the mind pursue understanding for its own sake", "correct": true },
+    { "text": "That citizens who are freed from labor will naturally develop civic virtues", "correct": false },
+    { "text": "That idleness cultivates the kind of humility required for philosophical inquiry", "correct": false }
+  ]
+}

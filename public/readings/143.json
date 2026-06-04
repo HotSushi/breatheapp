@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus taught that logos manifests most clearly in the act of distinguishing what is ours from what is not. Reason, he argued, is the one faculty no external force can corrupt without our consent. A tyrant can take your property, your freedom, even your life — but only you can surrender your judgment. This is why the Stoics treated sloppy thinking as a moral failing, not merely an intellectual one. When you mistake opinion for fact, or passion for reason, you have handed over the very instrument that makes you human. The chains, Epictetus noted, are often invisible.",
+  "question": "According to the passage, what did Epictetus consider the one faculty no external force could corrupt?",
+  "options": [
+    { "text": "Physical endurance", "correct": false },
+    { "text": "Social reputation", "correct": false },
+    { "text": "Reason and judgment", "correct": true },
+    { "text": "Emotional discipline cultivated through habit", "correct": false }
+  ]
+}

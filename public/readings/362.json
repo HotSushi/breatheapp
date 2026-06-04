@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Ulric Neisser, one of cognitive psychology's founders, conducted an early version of the gorilla-type experiment in 1975 using overlapping video streams. Observers watching one group of players frequently missed events in the other stream entirely. Neisser coined the term 'inattentional blindness' to describe a failure rooted not in the eyes but in the mind's allocation of processing resources. Perception, he argued, is an active cycle: the brain anticipates, samples, and constructs experience. When anticipations are fixed on a narrow task, stimuli outside that frame are not merely unattended — they are structurally excluded from the perceptual cycle before consciousness ever has a chance to evaluate them.",
+  "question": "According to the passage, what did Neisser mean by calling perception an 'active cycle'?",
+  "options": [
+    { "text": "The brain continuously evaluates all stimuli and then selects which to highlight", "correct": false },
+    { "text": "The brain anticipates, samples, and constructs experience, excluding out-of-frame stimuli before consciousness", "correct": true },
+    { "text": "Perception cycles between conscious and unconscious processing at regular intervals", "correct": false },
+    { "text": "The visual system refreshes its model of the environment every few seconds", "correct": false }
+  ]
+}

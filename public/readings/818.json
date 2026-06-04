@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "One underappreciated consequence of Husserlian intentionality is its challenge to the traditional picture of attention. In the standard empiricist model, inherited from Locke, the mind is a passive receiver of sensory inputs, and attention is simply a spotlight that illuminates whichever input happens to be brightest. But if consciousness is always already directed — if intending is the structure of experience itself — then attention is not a filter applied to raw data but an expression of the mind's inherent directedness. We do not first receive a neutral flux of sensation and then attend; we always already encounter the world as meaningful because intentionality structures perception from the outset.",
+  "question": "According to the passage, how does Husserlian intentionality challenge the empiricist model of attention?",
+  "options": [
+    { "text": "It shows attention is determined solely by the brightness of sensory inputs", "correct": false },
+    { "text": "It suggests the mind passively filters a neutral sensory flux", "correct": false },
+    { "text": "It argues that intentionality structures perception before attention applies", "correct": true },
+    { "text": "It claims attention can only operate on linguistic representations", "correct": false }
+  ]
+}

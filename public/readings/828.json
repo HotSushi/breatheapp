@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The philosopher Edmund Husserl argued that consciousness is never simply present — it always reaches forward and backward in time. He called this structure 'internal time-consciousness': each moment of experience contains a 'retention' of the just-elapsed moment and a 'protention,' an anticipatory grasp of what is about to come. This temporal thickness is what makes experience feel continuous rather than a series of disconnected snapshots. When we focus, we do not observe a frozen present; we inhabit a moving window of time. Distraction, on this view, is not just the loss of an object — it is the collapse of that window, a fragmentation of the living present into isolated, disconnected instants.",
+  "question": "In Husserl's account, what gives conscious experience its sense of temporal continuity?",
+  "options": [
+    { "text": "The brain's ability to store short-term memories and replay them in rapid succession", "correct": false },
+    { "text": "A retention of the just-elapsed moment combined with a protention of what is about to come", "correct": true },
+    { "text": "The synchronization of neural oscillations across the prefrontal and parietal cortices", "correct": false },
+    { "text": "The narrative self-model that integrates past experience into a coherent personal identity", "correct": false }
+  ]
+}

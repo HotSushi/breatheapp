@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "One underappreciated variable in inattentional blindness is cognitive load. Steven Most and colleagues demonstrated that the harder the primary task, the less likely observers are to detect unexpected stimuli. This is not simply a matter of looking in the wrong place: eye-tracking data show that observers can fixate directly on an unexpected object and still fail to process it consciously when working memory is taxed. The mechanism appears to involve competition for limited attentional resources between the primary task and any potential new entry. What the gorilla experiment dramatizes vividly, the load research quantifies precisely: distraction does not just steal time — it steals the perceptual capacity to register what time contains.",
+  "question": "What did eye-tracking data in Steven Most's research reveal about high cognitive load?",
+  "options": [
+    { "text": "Observers under high load looked away from unexpected objects more often", "correct": false },
+    { "text": "Observers could fixate directly on an unexpected object and still fail to consciously process it", "correct": true },
+    { "text": "High load caused faster eye movements that prevented proper fixation", "correct": false },
+    { "text": "Eye-tracking showed observers noticed unexpected objects but suppressed reporting them", "correct": false }
+  ]
+}

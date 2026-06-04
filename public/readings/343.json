@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The cue in a habit loop can be drawn from five categories: location, time, emotional state, other people, or an immediately preceding action. Duhigg argues that cues are often invisible to us precisely because we are inside the routines they trigger — we rarely notice a behavior's starting gun. Identifying the cue is therefore the first and hardest step of habit change. Behaviorist B.F. Skinner had earlier shown that stimulus control — the power of environmental cues to elicit conditioned responses — was stronger and more reliable than willpower. The implication is stark: redesigning your environment is more effective than resolving to behave differently.",
+  "question": "According to the passage, why are cues often invisible to the person experiencing them?",
+  "options": [
+    { "text": "Cues are stored in long-term memory and cannot be consciously accessed", "correct": false },
+    { "text": "People are already inside the routines the cues trigger by the time they notice them", "correct": true },
+    { "text": "The basal ganglia suppresses cue recognition to preserve cognitive energy", "correct": false },
+    { "text": "Skinner showed that cues only become visible after the reward is received", "correct": false }
+  ]
+}

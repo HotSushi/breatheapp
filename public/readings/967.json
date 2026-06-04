@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Attachment theory, developed by John Bowlby, holds that deep bonds form through repeated cycles of attunement: one person signals a need, the other responds with consistent sensitivity, and trust accumulates through that pattern over time. Digital communication disrupts this cycle at its core. Read receipts introduce anxiety about the gap between seen and replied. Algorithmic sorting means a message may arrive hours after it was sent. And the partial attention we bring to conversations — one eye on a screen — produces the 'ambient awareness' that feels like presence while delivering the emotional content of absence.",
+  "question": "According to the passage, how does partial attention in digital conversations relate to attachment theory?",
+  "options": [
+    { "text": "It accelerates attunement by keeping people continuously aware of each other.", "correct": false },
+    { "text": "It substitutes symbolic gestures for the consistent sensitivity that Bowlby identified as the basis of trust.", "correct": false },
+    { "text": "It disrupts the attunement cycle by producing the feeling of presence while delivering the content of absence.", "correct": true },
+    { "text": "It weakens attachment primarily in early childhood but has little effect on adult bonds.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Serial processing in the brain is not simply a limitation — it is a feature that enables depth. Because the prefrontal cortex allocates its executive bandwidth to a single task stream, that stream receives the full force of the brain's most sophisticated machinery: working memory, inhibitory control, goal maintenance, and error monitoring. Shallow parallel engagement, by contrast, spreads these resources thin, reducing every thread to a surface pass. Cal Newport's \"deep work\" framework is, at its neurological core, a claim about serial processing: to think genuinely hard about something, you must allow the brain's serial executive system to settle fully onto one problem and stay there.",
+  "question": "According to the passage, what neurological advantage does serial processing provide over shallow parallel engagement?",
+  "options": [
+    { "text": "It activates the hippocampus more reliably, improving long-term memory encoding", "correct": false },
+    { "text": "It allows the full force of the brain's executive machinery to be directed at one task", "correct": true },
+    { "text": "It reduces the metabolic cost of cognition by limiting glucose consumption", "correct": false },
+    { "text": "It enables faster task completion by eliminating the need for error monitoring", "correct": false }
+  ]
+}

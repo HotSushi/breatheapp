@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In dzogchen instruction, the sky is the canonical metaphor for the nature of mind. Clouds appear, thicken, and dissolve, yet the sky is never stained or diminished by them. Thoughts and emotions are the clouds; rigpa is the sky. This is not merely poetic decoration. The metaphor carries a precise technical claim: awareness itself has no center, no edge, and no content of its own, yet it is the condition that makes all content possible. Patrul Rinpoche's nineteenth-century teaching text 'The Words of My Perfect Teacher' opens with exactly this image to orient students before any technique is introduced.",
+  "question": "According to the passage, what technical claim does the sky metaphor carry in dzogchen instruction?",
+  "options": [
+    { "text": "That awareness is vast but still bounded by the practitioner's karma", "correct": false },
+    { "text": "That awareness has no center, no edge, and no content of its own, yet enables all content", "correct": true },
+    { "text": "That thoughts must be dissolved before the sky-like mind can be revealed", "correct": false },
+    { "text": "That the mind becomes spacious only after sustained concentration practice", "correct": false }
+  ]
+}

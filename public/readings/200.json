@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoic concept of kathêkon — roughly translated as appropriate action — gives the evening review its true stakes. Every day presents hundreds of small choices whose correctness can only be assessed in hindsight, against the specific circumstances that obtained. Epictetus stressed that wisdom is not a permanent state but a continuous recalibration: today's kathêkon differs from yesterday's because circumstances differ. The journal is therefore not a ledger of success and failure but a calibration log — evidence used to refine the algorithm of judgment. James Stockdale, the naval officer and prisoner of war who survived years of torture by applying Stoic principles, described his nightly self-review as the only instrument by which he could measure moral drift.",
+  "question": "According to the passage, how did James Stockdale describe his nightly self-review?",
+  "options": [
+    { "text": "As a source of courage under physical duress", "correct": false },
+    { "text": "As the only instrument by which he could measure moral drift", "correct": true },
+    { "text": "As a record of acts of resistance against his captors", "correct": false },
+    { "text": "As a method for planning the following day's actions", "correct": false }
+  ]
+}

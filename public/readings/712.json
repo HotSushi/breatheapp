@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Ultradian rhythms operate on timescales shorter than a day — most prominently the 90-to-110-minute oscillation that governs hormone secretion, gut contractions, nasal airflow, and neural firing patterns simultaneously. The synchrony is remarkable: growth hormone pulses roughly every 90 minutes, as does the shift between left- and right-hemisphere dominance in the brain. When the right hemisphere takes its turn at the front, cognitive style shifts toward holistic, associative thinking — the kind suited to synthesis and creative leaps rather than sequential analysis. Rest periods, from this view, are not empty intervals but phases of a different kind of intelligence.",
+  "question": "According to the passage, what cognitive shift accompanies the 90-minute shift to right-hemisphere dominance?",
+  "options": [
+    { "text": "Deeper capacity for sequential, logical analysis", "correct": false },
+    { "text": "A move toward holistic, associative thinking suited to creative leaps", "correct": true },
+    { "text": "Increased vigilance and sensory alertness", "correct": false },
+    { "text": "Suppression of growth hormone to preserve focus", "correct": false }
+  ]
+}

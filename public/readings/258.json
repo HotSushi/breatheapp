@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The four brahmaviharas — metta, karuna, mudita, and upekkha — are sometimes called the 'divine abodes' because they represent a complete reorientation of the attention. While metta is goodwill toward the happy and karuna is compassion toward the suffering, mudita is often the hardest: sympathetic joy at others' good fortune. Social comparison theory, developed by Leon Festinger in 1954, explains why social media exploits the opposite impulse — upward comparisons trigger envy, which the platform algorithmically amplifies. Mudita practice directly countertrains this circuit, making others' success a source of warmth rather than threat, dissolving the scarcity logic that makes attention zero-sum.",
+  "question": "Why does the passage identify mudita as the hardest of the four brahmaviharas?",
+  "options": [
+    { "text": "It requires visualizing people we have never met, which demands greater imaginative effort.", "correct": false },
+    { "text": "It involves feeling joy at others' good fortune, directly countering the envy that social comparison triggers.", "correct": true },
+    { "text": "Mudita is rarely taught in Western mindfulness programs and lacks supporting research.", "correct": false },
+    { "text": "It must be practiced in silent retreat conditions unavailable to most modern practitioners.", "correct": false }
+  ]
+}

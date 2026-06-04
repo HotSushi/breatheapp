@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Mason Currey's research into the daily routines of 161 creative figures, published as 'Daily Rituals,' revealed a counterintuitive pattern: the most productive workers were rarely those who worked the longest hours. Darwin walked the same gravel path for hours each day thinking; Kant rose at 5am and lectured until noon; Beethoven counted exactly 60 coffee beans each morning. These rituals share a structural feature: they impose predictability on everything except the work itself. By automating peripheral decisions — when to rise, what to eat, when to begin — creative practitioners preserved their limited decision-making capacity for the work that actually required it.",
+  "question": "According to the passage, what structural feature do the rituals of Darwin, Kant, and Beethoven share?",
+  "options": [
+    { "text": "They all began before sunrise to take advantage of peak cognitive hours", "correct": false },
+    { "text": "They imposed predictability on everything except the work itself", "correct": true },
+    { "text": "They involved physical movement as a precondition for intellectual effort", "correct": false },
+    { "text": "They restricted social interaction to specific hours of the afternoon", "correct": false }
+  ]
+}

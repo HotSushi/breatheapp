@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James, writing in 1890, described attention as 'the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought.' James understood that focus is not neutral reception but active selection — and that selection has a cost. Whatever is not attended to fades not because it disappears from the world but because the mind turns away from it. He also noticed that attention could not be held indefinitely on a featureless object: it would involuntarily drift and then return. Focus, for James, was less a state than a rhythm — a continuous act of reclaiming the wandering mind.",
+  "question": "What did William James observe about sustained attention on a featureless object?",
+  "options": [
+    { "text": "The mind could hold it indefinitely if the object was made sufficiently vivid", "correct": false },
+    { "text": "Attention would inevitably drift and then voluntarily return in a recurring rhythm", "correct": true },
+    { "text": "The prefrontal cortex would gradually encode the object into long-term memory", "correct": false },
+    { "text": "Sustained attention on featureless objects produced measurable anxiety responses", "correct": false }
+  ]
+}

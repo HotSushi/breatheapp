@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The philosopher Henri Bergson distinguished between two ways the mind relates to time: habitual memory, which encodes repeated actions as compressed schemas, and pure memory, which preserves the singular texture of lived experience. Mental time travel, in the cognitive science sense, draws on the latter — the episodic, textured, personally situated kind. Bergson argued that most daily functioning suppresses pure memory in favor of efficiency, collapsing the richness of past experience into usable routines. The cost is a kind of temporal flattening: a reduced sensitivity to where one has been, and therefore a reduced precision about where one is going. Attention to the specific, he implied, is both an ethical and cognitive achievement.",
+  "question": "According to Bergson as described in the passage, what is the cost of favoring habitual memory over pure memory?",
+  "options": [
+    { "text": "It prevents the formation of new long-term memories.", "correct": false },
+    { "text": "It leads to temporal flattening and reduced precision about past and future.", "correct": true },
+    { "text": "It causes the mind to confuse imagined events with real ones.", "correct": false },
+    { "text": "It makes event-based prospective memory unreliable.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Mihaly Csikszentmihalyi first encountered the concept he would call flow while studying chess players, rock climbers, and surgeons in the 1970s. What struck him was not their skill, but their absorption — a quality of attention so complete that self-consciousness dissolved. He described flow as an \"autotelic\" experience, meaning it is intrinsically rewarding, pursued for its own sake rather than external outcome. The word comes from the Greek autos (self) and telos (goal). In flow, the activity becomes its own justification. Time distorts. Hunger fades. Csikszentmihalyi argued this state represents the deepest form of human happiness — not pleasure, but engagement so total it crowds out every other concern.",
+  "question": "What does Csikszentmihalyi mean by calling flow an 'autotelic' experience?",
+  "options": [
+    { "text": "It requires years of deliberate practice to achieve", "correct": false },
+    { "text": "It is intrinsically rewarding, pursued for its own sake rather than external outcomes", "correct": true },
+    { "text": "It produces measurable neurological changes in the prefrontal cortex", "correct": false },
+    { "text": "It can only occur during high-stakes competitive activities", "correct": false }
+  ]
+}

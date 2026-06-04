@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Sleep scientist Matthew Walker describes slow-wave sleep as the brain's 'save' function — the nightly process that transfers fragile short-term memories held in the hippocampus into durable long-term storage in the neocortex. What is less well known is that brief daytime rest achieves a weaker version of the same transfer. A UC Berkeley study led by Walker found that subjects who napped for ninety minutes after a learning session performed significantly better on recall tests than those who continued studying without rest. The implication for structured work: a rest block is not idle time but active consolidation, and the sprint that follows a true rest begins with a freshened hippocampus rather than an overwritten one.",
+  "question": "According to Walker's UC Berkeley study, what happened to subjects who napped for ninety minutes after learning compared to those who kept studying?",
+  "options": [
+    { "text": "They showed higher creative problem-solving scores but lower recall accuracy", "correct": false },
+    { "text": "They performed significantly better on recall tests", "correct": true },
+    { "text": "They required shorter subsequent work sprints to achieve the same output", "correct": false },
+    { "text": "They entered slow-wave sleep faster in subsequent nights", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Pierre Hadot, the French historian of ancient philosophy, argued that Stoic texts were not doctrinal treatises but 'spiritual exercises' — technologies for reshaping attention. The Meditations of Marcus Aurelius, Hadot observed, were never meant for publication; they are private rehearsals, repetitions of the same formulas, intended to carve grooves in a wandering mind. Repetition was the mechanism. Each time Marcus wrote 'this too will pass' or 'the obstacle is the way,' he was not recording a discovery but performing an act of attentional re-centering. The philosophy was inseparable from the practice of returning, again and again, to a chosen orientation.",
+  "question": "According to Pierre Hadot, what was the primary function of the Meditations as a text?",
+  "options": [
+    { "text": "To document Marcus Aurelius's political decisions for posterity", "correct": false },
+    { "text": "To serve as a philosophical treatise for Stoic students", "correct": false },
+    { "text": "To perform repeated attentional re-centering rather than record discoveries", "correct": true },
+    { "text": "To critique Epictetus's interpretation of prosoche", "correct": false }
+  ]
+}

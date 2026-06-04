@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The pull-to-refresh gesture — dragging down on a feed to check for new content — is structurally identical to pulling the arm of a slot machine. Both involve a physical action, a brief suspense, and an unpredictable reward. Behavioral psychologist B.F. Skinner showed in the 1950s that variable-ratio reinforcement schedules — where rewards arrive unpredictably rather than consistently — produce the highest and most persistent rates of behavior. Unlike fixed rewards, variable ones never allow the nervous system to fully habituate. This is why users check feeds not because they expect something new, but because they cannot be certain nothing is there. Uncertainty, not content, is the engine.",
+  "question": "Why do variable-ratio reinforcement schedules produce more persistent behavior than fixed ones, according to the passage?",
+  "options": [
+    { "text": "Because variable rewards are larger on average than fixed rewards", "correct": false },
+    { "text": "Because they activate dopamine release more intensely than predictable rewards", "correct": false },
+    { "text": "Because unpredictability prevents the nervous system from fully habituating", "correct": true },
+    { "text": "Because they require more physical effort, which increases engagement", "correct": false }
+  ]
+}

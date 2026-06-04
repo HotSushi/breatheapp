@@ -1,0 +1,23 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The heartbeat evoked potential (HEP) is a brain response measurable on EEG that occurs roughly 300 milliseconds after each heartbeat. Researchers Hyeong-Dong Park and Tali Sharot found that the HEP is stronger in people who are more accurate at detecting their own heartbeats \u2014 a proxy for interoceptive awareness. More strikingly, the strength of the HEP predicts how well a person can sustain attention on a given trial. This suggests the brain is not simply reacting to the heart; it is actively listening to it as a pacing signal. Attention and cardiac rhythm are not parallel processes but deeply intertwined ones.",
+  "question": "What does the strength of the heartbeat evoked potential (HEP) predict, according to the passage?",
+  "options": [
+    {
+      "text": "How accurately a person can time their breathing to match environmental rhythms",
+      "correct": false
+    },
+    {
+      "text": "How quickly a person recovers from attentional lapses after distraction",
+      "correct": false
+    },
+    {
+      "text": "How much cortical gray matter is present in the anterior insula",
+      "correct": false
+    },
+    {
+      "text": "How well a person can sustain attention on a given trial",
+      "correct": true
+    }
+  ]
+}

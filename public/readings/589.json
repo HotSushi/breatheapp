@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Desert Fathers of fourth-century Egypt fled Alexandria's intellectual bustle not because ideas were corrupt, but because the city's pace prevented the slow work of integrating them. Abba Moses gave advice that would have pleased Thoreau: 'Go, sit in your cell, and your cell will teach you everything.' The cell — a bare room, a hut — was an instrument of simplification. By removing novelty and social obligation, it forced the monk into sustained encounter with whatever arose from within. Medieval monks called this lectio divina: slow, ruminative reading in which a single verse might be held in mind for hours. Speed was the enemy; depth was achieved only by radical reduction of surface area.",
+  "question": "What did Abba Moses mean when he advised monks to 'sit in your cell'?",
+  "options": [
+    { "text": "To isolate oneself from temptation through physical enclosure", "correct": false },
+    { "text": "To use radical simplification to force sustained inner encounter", "correct": true },
+    { "text": "To memorize scripture by removing all external distractions", "correct": false },
+    { "text": "To practice lectio divina as a form of penance", "correct": false }
+  ]
+}

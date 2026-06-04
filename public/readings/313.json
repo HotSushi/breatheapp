@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Neuroscientists studying flow have identified a counterintuitive signature: reduced activity in the prefrontal cortex. This region normally governs self-monitoring, doubt, and deliberate control — the inner critic that second-guesses every move. In flow, its suppression produces what researchers call transient hypofrontality: the temporary quieting of self-referential thought. Without the prefrontal cortex constantly auditing performance, the brain's faster, more automatic systems take over. Actions feel effortless not because they require no skill, but because the neural overhead of self-monitoring has been lifted. The composer loses track of composing. The athlete stops thinking about their body. This is not mindlessness — it is a different, more unified kind of mind.",
+  "question": "What is 'transient hypofrontality' as described in the passage?",
+  "options": [
+    { "text": "A permanent reduction in prefrontal cortex volume caused by repetitive tasks", "correct": false },
+    { "text": "The brain's shift to processing visual information more efficiently during skilled tasks", "correct": false },
+    { "text": "The temporary quieting of self-referential thought as prefrontal cortex activity reduces in flow", "correct": true },
+    { "text": "A state of heightened dopamine release that occurs during competitive performance", "correct": false }
+  ]
+}

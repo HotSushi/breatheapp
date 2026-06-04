@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius opens Book II of the Meditations with a striking discipline: before rising each morning, he reminds himself that he will meet ungrateful, violent, and deceitful people — and that none of it can harm him unless he allows his own mind to be corrupted. This premeditation, which the Stoics called premeditatio malorum, is not pessimism but inoculation. By imagining difficulty in advance, the mind loses its capacity to be ambushed by it. Aurelius was not preparing for misery; he was refusing to grant the future the power to destabilize the present moment he already occupied.",
+  "question": "According to the passage, what was Aurelius's purpose in imagining future difficulties each morning?",
+  "options": [
+    { "text": "To rehearse arguments against ungrateful people", "correct": false },
+    { "text": "To practice gratitude by contrasting hardship with comfort", "correct": false },
+    { "text": "To inoculate the mind so the future could not destabilize the present moment", "correct": true },
+    { "text": "To cultivate indifference toward all human relationships", "correct": false }
+  ]
+}

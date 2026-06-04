@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Sigmund Freud described a phenomenon he called 'unfinished business' — emotional residue from incomplete interpersonal encounters that resurfaces in dreams, slips of the tongue, and compulsive repetition. Fritz Perls later formalized this in Gestalt therapy, arguing that the mind seeks closure as naturally as the eye completes an incomplete circle. For Perls, mental disturbance was often a backlog of unresolved gestalts competing for attention and draining psychic energy. Though Perls and Zeigarnik worked in different traditions, their parallel observations converge: the mind cannot rest comfortably amid incompletion. Unresolved experience does not disappear — it cycles, waiting to be addressed.",
+  "question": "What did Fritz Perls argue was a common source of mental disturbance?",
+  "options": [
+    { "text": "Excessive reliance on external validation for completing tasks", "correct": false },
+    { "text": "A backlog of unresolved gestalts competing for attention", "correct": true },
+    { "text": "Suppression of emotionally charged memories during waking life", "correct": false },
+    { "text": "The conflict between conscious goals and unconscious drives", "correct": false }
+  ]
+}

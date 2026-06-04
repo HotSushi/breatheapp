@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Journalist Johann Hari, drawing on research by Microsoft's productivity team, describes what he calls 'the tyranny of the urgent': when notifications arrive every few minutes, the brain gradually recalibrates its threshold for what counts as important. Shallow stimuli — a retweet, a calendar ping — begin to feel as pressing as genuine emergencies. Over time, the nervous system loses its ability to distinguish between noise and signal, leaving people perpetually reactive rather than deliberately purposeful. The device does not just interrupt thought; it rewires the criteria by which the mind decides what deserves thought in the first place.",
+  "question": "According to the passage, what long-term effect does constant notification have on the brain's decision-making?",
+  "options": [
+    { "text": "It causes the brain to ignore all incoming alerts eventually", "correct": false },
+    { "text": "It trains the brain to multitask more efficiently across tasks", "correct": false },
+    { "text": "It rewires the criteria the mind uses to judge what deserves attention", "correct": true },
+    { "text": "It increases the prefrontal cortex's sensitivity to genuine emergencies", "correct": false }
+  ]
+}

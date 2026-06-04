@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Thich Nhat Hanh taught that the breath is the bridge between body and mind — the one automatic function we can also control, making it uniquely suited as an anchor for attention. When we breathe consciously, we are not adding mindfulness to an otherwise distracted life; we are discovering that the body is always already present and that the mind has simply been elsewhere. He called this \"coming home.\" The breath requires no special equipment, no retreat, no teacher in the room. Its availability in every moment is precisely what makes it revolutionary: attention can always return, regardless of what the mind has been doing.",
+  "question": "According to Thich Nhat Hanh, why is the breath described as a \"bridge\" between body and mind?",
+  "options": [
+    { "text": "Because breathing techniques were developed in ancient Indian yoga traditions", "correct": false },
+    { "text": "Because it is the only bodily function that can be either automatic or consciously controlled", "correct": true },
+    { "text": "Because breath connects the meditator to the teacher's energy during instruction", "correct": false },
+    { "text": "Because it slows the nervous system in a way other anchors cannot", "correct": false }
+  ]
+}

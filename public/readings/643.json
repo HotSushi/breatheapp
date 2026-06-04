@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The Japanese concept of 'ichigyo zammai' describes the state of complete absorption in a single act — the term is used in Zen practice to describe how a monk might treat the simple act of eating as the entirety of the universe in that moment. The concept has no direct Western equivalent, which is itself revealing. English productivity culture invented 'multitasking' in the 1960s as a term borrowed from computing, applying a machine metaphor to human cognition. Ichigyo zammai inverts that logic entirely: it assumes that full presence within a single action is not a constraint but a form of excellence.",
+  "question": "What does the passage say 'ichigyo zammai' assumes about full presence within a single action?",
+  "options": [
+    { "text": "That it is a meditative technique reserved for monks", "correct": false },
+    { "text": "That it is borrowed from Western productivity models", "correct": false },
+    { "text": "That it requires eliminating the multitasking impulse through discipline", "correct": false },
+    { "text": "That it is not a constraint but a form of excellence", "correct": true }
+  ]
+}

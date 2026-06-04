@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Newport's case for \"deep work\" — the ability to concentrate without distraction on cognitively demanding tasks — rests on a straightforward economic argument: as automation and artificial intelligence commoditize routine cognitive labor, the capacity to master hard things quickly and produce at a high level becomes disproportionately valuable. Yet the same networked tools that enable knowledge workers to collaborate globally also fragment the attention those workers need for depth. The result is a professional culture that is simultaneously more connected and less capable of the concentrated effort that creates genuinely scarce value.",
+  "question": "According to the passage, what economic dynamic makes deep work increasingly valuable?",
+  "options": [
+    { "text": "Remote work has expanded the global talent pool, raising the premium on rare skills", "correct": false },
+    { "text": "Automation commoditizes routine cognitive labor, making the capacity for mastery and high output disproportionately scarce", "correct": true },
+    { "text": "Corporate investment in distraction-free workspaces has declined, making those who can self-regulate more productive", "correct": false },
+    { "text": "The attention economy has made shallow information so abundant that depth commands a price premium", "correct": false }
+  ]
+}

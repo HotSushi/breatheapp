@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Taoist archer does not aim by gripping tighter; she aims by releasing the tension that clouds her seeing. This principle appears in the Japanese martial art of kyudo, where teachers correct students not by instructing them to focus harder but by directing them to 'let the arrow shoot itself.' Psychologist Mihaly Csikszentmihalyi observed the same dynamic in his research on flow states: peak performers consistently describe a dissolution of self-conscious effort, not its intensification. The arrow and the intention become unified when the ego-driven intermediary steps aside — a condition Csikszentmihalyi linked to optimal prefrontal quieting.",
+  "question": "What does the passage say Csikszentmihalyi linked to optimal prefrontal quieting?",
+  "options": [
+    { "text": "Intense goal-directed focus and deliberate self-monitoring", "correct": false },
+    { "text": "The dissolution of self-conscious effort during peak performance", "correct": true },
+    { "text": "Regular physical training that builds automatic motor responses", "correct": false },
+    { "text": "The structured elimination of environmental distractions", "correct": false }
+  ]
+}

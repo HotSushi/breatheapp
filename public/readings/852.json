@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Philosopher Harry Frankfurt distinguished between first-order desires — wanting to eat the cake — and second-order desires — wanting to want to resist it. His framework maps neatly onto attention: we have first-order pulls toward the notification, the scroll, the distraction. The person with strong will, Frankfurt suggested, is one whose second-order volitions align with their first-order actions. Applied to focus, freedom is not the absence of distraction but the capacity to identify which attentional habits you actually endorse and to refuse, at least occasionally, those you do not.",
+  "question": "In Frankfurt's framework as applied to attention, what distinguishes a person with strong will?",
+  "options": [
+    { "text": "They experience fewer first-order pulls toward distraction", "correct": false },
+    { "text": "Their second-order volitions align with their first-order actions", "correct": true },
+    { "text": "They can suppress desire entirely through conscious effort", "correct": false },
+    { "text": "They never act on first-order desires for novelty", "correct": false }
+  ]
+}

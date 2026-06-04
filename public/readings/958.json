@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Short-form dominance creates what media critic Evgeny Morozov calls \"technological solutionism\" at scale: complex social problems are reframed to fit the format in which they can be discussed. A systemic issue requiring historical context and interdisciplinary analysis gets condensed into a binary, a hashtag, a hot take. The problem is not that people are incapable of nuance — laboratory studies confirm that given appropriate conditions, most adults reason quite well. The problem is that platforms structurally reward the confident assertion over the careful qualification, training audiences and producers alike to mistake brevity for clarity and certainty for insight.",
+  "question": "What does the passage say laboratory studies confirm about people's capacity for nuance?",
+  "options": [
+    { "text": "That nuanced thinking is an acquired skill requiring formal education", "correct": false },
+    { "text": "That people can only reason well when they are not distracted by technology", "correct": false },
+    { "text": "That given appropriate conditions, most adults reason quite well", "correct": true },
+    { "text": "That nuanced reasoning declines measurably with increased social media use", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics made a philosophical move that most ancient schools refused: they declared that virtue alone constitutes the good. Health, wealth, and pleasure are 'preferred indifferents' — nice to have, but worth nothing if obtained or maintained through vice. Zeno of Citium, the school's founder, used the analogy of an archer: the archer's virtue lies in drawing the bow with skill and intention. Whether the arrow strikes home depends partly on wind and chance. We are responsible for the quality of our action, not for every consequence that follows from it.",
+  "question": "In Zeno's archery analogy, where does the archer's virtue reside?",
+  "options": [
+    { "text": "In whether the arrow hits the target", "correct": false },
+    { "text": "In selecting the straightest arrow", "correct": false },
+    { "text": "In drawing the bow with skill and intention", "correct": true },
+    { "text": "In practicing more than opponents", "correct": false }
+  ]
+}

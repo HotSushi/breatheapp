@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Anders Ericsson's research on expert performance shattered the comfortable idea that talent is innate. Studying violinists at the Berlin Academy, he found that the most accomplished players had accumulated roughly ten thousand hours of deliberate practice — not casual playing, but focused sessions designed to push against specific weaknesses. Newport seized on this finding: deliberate practice and deep work share the same neural mechanism. Both require intense concentration to force the myelin sheathing of relevant neural circuits, literally thickening the brain's wiring for a skill. Distraction during practice doesn't just slow progress; it prevents the biological substrate of expertise from forming.",
+  "question": "What biological mechanism, according to the passage, links deep work and deliberate practice?",
+  "options": [
+    { "text": "The activation of dopamine pathways during periods of focused reward", "correct": false },
+    { "text": "The myelin sheathing of neural circuits that occurs under intense concentration", "correct": true },
+    { "text": "The consolidation of procedural memory during REM sleep following practice", "correct": false },
+    { "text": "The reduction of cortisol that allows the hippocampus to encode new skills", "correct": false }
+  ]
+}

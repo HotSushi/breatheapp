@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Tibetan Buddhist teacher Chogyam Trungpa introduced the term 'spiritual materialism' to describe how practitioners can unconsciously collect spiritual experiences as ego trophies — a subtle violation of Right Mindfulness. The Satipatthana Sutta specifies that mindfulness should be cultivated 'without dependence, not clinging to anything in the world.' This phrase, anissito, points to a non-grasping quality that extends even to meditative states themselves. Contemporary teacher Shinzen Young operationalizes this as equanimity — not indifference, but the capacity to fully contact an experience without being contracted by it. The path, paradoxically, includes letting go of attachment to the path.",
+  "question": "According to the passage, how does the Satipatthana Sutta's term anissito qualify the practice of mindfulness?",
+  "options": [
+    { "text": "It specifies that mindfulness must be practiced for at least one hour daily", "correct": false },
+    { "text": "It indicates that mindfulness should be cultivated without dependence or clinging", "correct": true },
+    { "text": "It describes the indifference a practitioner must maintain toward all sensation", "correct": false },
+    { "text": "It warns against collecting spiritual experiences as proof of progress", "correct": false }
+  ]
+}

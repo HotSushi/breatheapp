@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Neuroscientist Antonio Damasio's somatic marker hypothesis offers a physiological counterpart to Merleau-Ponty's body schema. Damasio found that patients with damage to the ventromedial prefrontal cortex, though intellectually intact, make disastrous decisions — because they lack the bodily feeling-states that normally bias choice before deliberation begins. The body, in his account, is not a passive vehicle for the reasoning mind; it continuously marks options with valenced signals that shape what we attend to. Attention is never purely perceptual: it is pre-sorted by the body's history of pleasure and pain, steering perception toward what the soma has learned to care about.",
+  "question": "What did Damasio find about patients with ventromedial prefrontal cortex damage, according to the passage?",
+  "options": [
+    { "text": "They lost intellectual capacity but retained the ability to make sound practical decisions", "correct": false },
+    { "text": "They showed heightened perceptual attention due to reduced emotional interference", "correct": false },
+    { "text": "They remained intellectually intact but made disastrous decisions due to absent bodily feeling-states", "correct": true },
+    { "text": "They relied exclusively on the body schema rather than somatic markers to guide choice", "correct": false }
+  ]
+}

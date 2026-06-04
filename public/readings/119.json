@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Modern cognitive behavioral therapy shares unexpected architecture with the Enchiridion. Albert Ellis, who developed rational emotive behavior therapy in the 1950s, credited Epictetus directly: 'People are disturbed not by things, but by their opinions about things.' Ellis's ABC model — Activating event, Belief, Consequence — formalizes precisely the invisible layer Epictetus described. The difference is therapeutic rather than philosophical: Epictetus aimed at virtue; Ellis aimed at relief from neurotic suffering. Yet both locate the leverage point in the same place: the judgment that mediates between the world's events and the mind's response. Two millennia apart, they drew the same map.",
+  "question": "According to the passage, what is the key difference between Epictetus's aim and Albert Ellis's aim, despite their shared architecture?",
+  "options": [
+    { "text": "Ellis focused on changing external behavior, while Epictetus focused on changing internal belief", "correct": false },
+    { "text": "Ellis rejected the idea that beliefs mediate events, while Epictetus embraced it", "correct": false },
+    { "text": "Epictetus worked with Roman emperors, while Ellis worked only with ordinary patients", "correct": false },
+    { "text": "Epictetus aimed at virtue, while Ellis aimed at relief from neurotic suffering", "correct": true }
+  ]
+}

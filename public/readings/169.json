@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics held that each person carries a fragment of the divine logos — universal reason — and that the rational life consists in aligning one's own reason with this larger order. Distraction, from this perspective, is not merely a waste of time but a kind of self-betrayal: to surrender your attention to trivialities is to ignore the highest capacity you possess. Musonius Rufus, the Roman Stoic who taught before Epictetus, argued that philosophy is not a subject studied at school but a daily discipline of refusing to let the lesser parts of the self govern the greater. He called this the 'practice of reason in action.'",
+  "question": "How did Musonius Rufus define philosophy, according to the passage?",
+  "options": [
+    { "text": "A system of logic that reveals universal truths", "correct": false },
+    { "text": "A set of arguments proving the supremacy of virtue over pleasure", "correct": false },
+    { "text": "A subject studied intensively at a school of ethics", "correct": false },
+    { "text": "A daily discipline of refusing to let the lesser parts of the self govern the greater", "correct": true }
+  ]
+}

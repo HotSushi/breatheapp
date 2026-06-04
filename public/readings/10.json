@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "A striking feature of the task-positive network is its dependence on challenge. Mihaly Csikszentmihalyi observed that optimal engagement — the state he called flow — occurs at the precise boundary where skill and difficulty are balanced. Neuroimaging studies have since shown that this state corresponds to sustained task-positive network dominance with near-complete default mode suppression. Tasks too easy bore the system into DMN reactivation; tasks too hard overwhelm it, triggering anxiety and self-monitoring. The narrow corridor of flow is, neurologically speaking, the zone where the self-model quiets and the task-positive network can hold continuous command without competition.",
+  "question": "According to the passage, why do tasks that are too easy fail to sustain the flow state?",
+  "options": [
+    { "text": "They reduce dopamine availability in the striatum", "correct": false },
+    { "text": "They cause the salience network to misfire", "correct": false },
+    { "text": "They bore the system into DMN reactivation", "correct": true },
+    { "text": "They over-activate the anterior insula, disrupting focus", "correct": false }
+  ]
+}

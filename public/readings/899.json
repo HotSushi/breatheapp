@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The philosopher Thomas Nagel famously asked what it is like to be a bat — arguing that subjective experience has a first-person character no third-person account can fully capture. A less-examined implication of his argument concerns the texture of attention itself. What is it like to be a fragmented mind? Nagel's framework suggests that the quality of consciousness is not fixed but varies with the structure of attention. A mind scattered across a dozen inputs is not the same experiential subject as one gathered around a single focus. Consciousness, on this view, is not a constant backdrop but a quality that contracts and expands with attentional coherence.",
+  "question": "What does the passage suggest Nagel's framework implies about fragmented versus focused attention?",
+  "options": [
+    { "text": "Nagel argued that bats, like multitaskers, experience a richer perceptual world than humans.", "correct": false },
+    { "text": "The quality of consciousness varies with attentional coherence, not just with brain activity.", "correct": true },
+    { "text": "Consciousness is a fixed backdrop independent of whether attention is unified or scattered.", "correct": false },
+    { "text": "Nagel's bat argument applies only to non-human animals and cannot be extended to human cognition.", "correct": false }
+  ]
+}

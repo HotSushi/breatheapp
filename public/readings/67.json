@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Task residue is not merely a performance problem — it has an emotional signature. Sophie Leroy's later research showed that attention residue correlates with elevated anxiety and reduced feelings of accomplishment at the end of a workday. When workers frequently switched tasks without natural stopping points, they reported feeling less effective despite having been objectively busy. The residue accumulates across the day: each incomplete thread adds to a background hum of cognitive tension. Leroy's prescription was structural — not willpower but task architecture: finishing discrete units before transitioning, rather than relying on mental discipline to suppress lingering threads.",
+  "question": "What solution does Sophie Leroy's research suggest for managing task residue?",
+  "options": [
+    { "text": "Using mindfulness techniques to suppress awareness of incomplete tasks", "correct": false },
+    { "text": "Completing discrete task units before transitioning, rather than relying on willpower", "correct": true },
+    { "text": "Scheduling brief recovery breaks between every task switch", "correct": false },
+    { "text": "Reducing overall workload to prevent accumulation of open threads", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The color red has specific physiological effects: it elevates heart rate and signals urgency. Early smartphone engineers chose red for notification badges knowing this. The choice was not arbitrary — it was imported from traffic signals and emergency warnings, contexts where red reliably triggers an orienting response. This is notification design at the level of perceptual hijacking: before conscious thought engages, the visual system has already flagged the badge as a priority. Philosopher James Williams calls this 'capturing' attention — commandeering cognitive resources without consent. Changing notification badges to gray, as some digital wellness tools do, measurably reduces compulsive checking.",
+  "question": "According to the passage, why was red specifically chosen for notification badges?",
+  "options": [
+    { "text": "It was the easiest color for early smartphone displays to render accurately", "correct": false },
+    { "text": "It matches the branding colors used by most major social media platforms", "correct": false },
+    { "text": "It triggers an orienting response in the visual system before conscious thought engages", "correct": true },
+    { "text": "User testing showed red badges were clicked more often than other colors", "correct": false }
+  ]
+}

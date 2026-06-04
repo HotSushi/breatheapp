@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Pascal's room is a thought experiment with clinical precision. He does not ask you to meditate, pray, or achieve enlightenment. He asks only that you sit. The question of whether you can — for ten minutes, without a device, without an errand, without manufacturing urgency — is not a question about willpower. It is a diagnostic. It reveals how much of your inner life has been displaced by noise, and how much territory the self has quietly ceded to distraction. The room does not need to be silent. You need to become someone who can inhabit silence without fleeing it.",
+  "question": "According to the passage, what does the inability to sit quietly in Pascal's room reveal?",
+  "options": [
+    { "text": "A deficit of willpower that can be corrected through habit formation", "correct": false },
+    { "text": "How much of one's inner life has been displaced by noise and ceded to distraction", "correct": true },
+    { "text": "An underlying anxiety disorder that requires therapeutic intervention", "correct": false },
+    { "text": "That the person has not yet developed a consistent meditation practice", "correct": false }
+  ]
+}

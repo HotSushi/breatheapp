@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon's economics training led him to frame attention as a budgetary problem. Every person has roughly sixteen waking hours per day — a fixed endowment that cannot be expanded regardless of how many devices compete for it. Businesses, governments, and media organizations all draw from the same finite pool. Simon called this an \"allocation\" problem: the real question is not how to produce more information but how to allocate attention wisely among the information that already exists. This reframe shifted the unit of analysis from content to cognition, from what is being said to who has the capacity to hear it.",
+  "question": "According to the passage, what did Simon identify as the real question in an information-rich world?",
+  "options": [
+    { "text": "How to produce higher-quality information", "correct": false },
+    { "text": "How to expand the number of waking hours available", "correct": false },
+    { "text": "How to reduce the number of competing devices", "correct": false },
+    { "text": "How to allocate attention wisely among existing information", "correct": true }
+  ]
+}

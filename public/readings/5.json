@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Jonathan Smallwood has spent over a decade mapping the cognitive architecture of mind-wandering. His research distinguishes between two types: deliberate mind-wandering, where we intentionally disengage to plan or daydream, and spontaneous mind-wandering, where attention simply decouples from the present without intention or awareness. The latter is associated with reduced metacognitive awareness — we don't notice we've drifted. Smallwood's work suggests that the capacity to catch oneself mid-wander, sometimes called meta-awareness, is a trainable skill and a critical hinge between distraction and focus. Without it, the drift goes undetected and uncorrected.",
+  "question": "According to Smallwood, what distinguishes spontaneous from deliberate mind-wandering?",
+  "options": [
+    { "text": "Spontaneous mind-wandering involves future planning while deliberate wandering does not", "correct": false },
+    { "text": "Spontaneous mind-wandering is associated with reduced metacognitive awareness of the drift", "correct": true },
+    { "text": "Deliberate mind-wandering activates the default mode network more intensely", "correct": false },
+    { "text": "Spontaneous mind-wandering occurs only during low-effort tasks", "correct": false }
+  ]
+}

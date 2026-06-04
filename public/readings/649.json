@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Productivity researcher Cal Newport distinguishes between 'batch processing' and 'reactive processing' as two fundamentally different relationships to incoming work. Reactive processing — responding to tasks as they arrive — keeps the mind permanently in a state of low-level alertness that consumes attentional resources without producing deep output. Batch processing consolidates similar tasks into single dedicated periods, allowing the brain to build up context and momentum. Newport points out that email read in five scattered two-minute intervals consumes far more total attention than the same email read once in a focused ten-minute block, because context-building must restart each time.",
+  "question": "According to Newport, why does reading email in five scattered intervals consume more attention than one focused block?",
+  "options": [
+    { "text": "Because the brain is more alert in the morning than in scattered intervals", "correct": false },
+    { "text": "Because reactive processing generates more dopamine than batch processing", "correct": false },
+    { "text": "Because context-building must restart each time after a scattered interval", "correct": true },
+    { "text": "Because each switching event disrupts long-term memory consolidation", "correct": false }
+  ]
+}

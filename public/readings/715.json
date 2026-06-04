@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The ancient Greeks had two words for time: chronos, the measurable sequence of minutes and hours, and kairos, the qualitative sense of a right or opportune moment. Modern chronobiology has given kairos a biological substrate. Neuroscientist Andrew Huberman and others have documented that specific windows — roughly one to three hours after waking, and a second window in the late afternoon — correspond to elevated levels of dopamine and epinephrine that support focused, motivated effort. To treat these windows as interchangeable with any other hour is to mistake chronos for the whole of time, ignoring the texture of the body's own calendar.",
+  "question": "According to the passage, what biological conditions define the windows best suited for focused, motivated effort?",
+  "options": [
+    { "text": "Low cortisol and high melatonin levels in the early morning", "correct": false },
+    { "text": "Synchronized ultradian rest phases and reduced hemispheric dominance", "correct": false },
+    { "text": "Elevated dopamine and epinephrine in specific post-waking windows", "correct": true },
+    { "text": "Peak serotonin levels that occur uniformly across a 24-hour period", "correct": false }
+  ]
+}

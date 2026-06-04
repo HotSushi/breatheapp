@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Paul Graham wrote his essay on maker vs. manager schedules partly as an explanation for why Y Combinator's founders flourished: they were protected, structurally, from the manager's grid. No mandatory all-hands, no recurring status calls, no time sliced into hourly appointments. The insight generalizes. Elite research labs, great novelists, and prolific composers throughout history have organized their days around the same principle: mornings, or large contiguous blocks, are sovereign territory. Afternoon engagements are permitted precisely because the morning's creative output is already banked. The sequence matters as much as the total hours.",
+  "question": "According to the passage, what made Y Combinator's founders unusually productive?",
+  "options": [
+    { "text": "They were selected for higher baseline intelligence than typical employees.", "correct": false },
+    { "text": "They worked longer total hours than people on a manager's schedule.", "correct": false },
+    { "text": "They were structurally shielded from the fragmentation of the manager's calendar.", "correct": true },
+    { "text": "They held all meetings in the afternoons, reserving evenings for deep work.", "correct": false }
+  ]
+}

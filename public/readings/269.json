@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Right View, the first limb of the Eightfold Path, encompasses both mundane and transcendent levels. At the mundane level, it means understanding karma — that intentional actions have consequences. At the transcendent level, it means seeing the three characteristics of existence: anicca (impermanence), dukkha (unsatisfactoriness), and anatta (non-self). Scholar Johannes Bronkhorst has argued that the anatta doctrine was revolutionary in its ancient Indian context, directly contradicting the Upanishadic notion of an eternal atman. Right Mindfulness, according to the Sammaditthi Sutta, functions as the eye that allows the practitioner to actually see these characteristics rather than merely believe them.",
+  "question": "According to the passage, what did Johannes Bronkhorst argue made the anatta doctrine revolutionary?",
+  "options": [
+    { "text": "It rejected karma and the idea that actions have consequences", "correct": false },
+    { "text": "It directly contradicted the Upanishadic concept of an eternal self", "correct": true },
+    { "text": "It introduced impermanence as a concept absent from earlier Indian philosophy", "correct": false },
+    { "text": "It claimed that mindfulness, not ethics, was the primary path to liberation", "correct": false }
+  ]
+}

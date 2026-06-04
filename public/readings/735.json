@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "There is a metabolic irony at the heart of chronic stress: cortisol mobilizes glucose to fuel emergency action, yet the sustained elevation of blood glucose it triggers ultimately impairs the very organ it is meant to protect. The brain consumes roughly twenty percent of the body's total energy despite being only two percent of its mass. Neurons are exquisitely sensitive to fluctuations in that supply. Research by Rajita Sinha at Yale found that individuals with chronically elevated cortisol showed measurably reduced gray matter volume in the prefrontal cortex — a structural deficit, not merely a functional one. The distracted mind is not lazy; it may be genuinely under-resourced.",
+  "question": "What structural finding did Rajita Sinha's research link to chronically elevated cortisol?",
+  "options": [
+    { "text": "Increased gray matter volume in the amygdala", "correct": false },
+    { "text": "Reduced gray matter volume in the prefrontal cortex", "correct": true },
+    { "text": "Thickening of the corpus callosum connecting brain hemispheres", "correct": false },
+    { "text": "Enlarged hippocampal volume due to excess glucose", "correct": false }
+  ]
+}

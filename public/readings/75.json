@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Body-based attention anchors work because they exploit a quirk of neural architecture: the brain cannot fully attend to two streams simultaneously when one is sensory and the other is conceptual. Feeling the pressure of the feet on the floor, for instance, activates primary somatosensory cortex — a low-level, automatic channel. This activation competes with the default mode network, whose hallmark is self-referential thought and mind-wandering. Neuroscientist Judson Brewer has documented this competition directly, showing that interoceptive focus reliably suppresses posterior cingulate cortex activity, the hub of rumination. The body anchor does not require willpower; it simply occupies the network that otherwise wanders.",
+  "question": "According to the passage, why do body-based attention anchors reduce mind-wandering without requiring willpower?",
+  "options": [
+    { "text": "They activate the prefrontal cortex, which inhibits limbic arousal", "correct": false },
+    { "text": "They slow brainwave frequency from beta to alpha, inducing calm", "correct": false },
+    { "text": "They occupy the somatosensory cortex, which competes with the default mode network", "correct": true },
+    { "text": "They trigger the parasympathetic nervous system, reducing cortical excitability", "correct": false }
+  ]
+}

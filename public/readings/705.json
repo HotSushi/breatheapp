@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Archimedes in the bath, Newton under the apple tree, Kekulé dreaming of a snake biting its own tail: the history of science is littered with breakthroughs that arrived during rest. These are not folk myths. Research by Ap Dijksterhuis at Radboud University demonstrated that complex decisions — those involving many variables — were made more accurately by subjects who were distracted and prevented from consciously deliberating. Unconscious thought, he argued, processes information in parallel rather than serially, integrating constraints that conscious attention cannot hold simultaneously. The incubation period is not procrastination; it is a different mode of computation.",
+  "question": "What did Ap Dijksterhuis's research find about complex decisions made after distraction?",
+  "options": [
+    { "text": "They were made more slowly but with greater emotional confidence.", "correct": false },
+    { "text": "They were more accurate than decisions made through conscious deliberation.", "correct": true },
+    { "text": "They relied on the same neural circuits as focused analysis.", "correct": false },
+    { "text": "They were less accurate because distraction impaired memory encoding.", "correct": false }
+  ]
+}

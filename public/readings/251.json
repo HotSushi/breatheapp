@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Pali term metta — often translated as loving-kindness — carries a more precise meaning: the wish for beings to be happy, free from suffering, without expectation of return. The Buddha distinguished metta from ordinary affection, which he called pema, because affection is conditional and can curdle into possessiveness. Metta, by contrast, is described in the Metta Sutta as boundless: it should extend to all beings 'as a mother would protect her only child with her own life.' Psychologist Barbara Fredrickson's research at UNC found that metta practice measurably broadens awareness and rebuilds psychological resources — what she calls the 'broaden-and-build' effect.",
+  "question": "How does the Buddha distinguish metta from ordinary affection (pema)?",
+  "options": [
+    { "text": "Metta is reserved for family members, while pema extends to strangers.", "correct": false },
+    { "text": "Metta requires daily meditation, while pema arises spontaneously.", "correct": false },
+    { "text": "Metta is unconditional and cannot become possessiveness, unlike pema.", "correct": true },
+    { "text": "Metta focuses on the self, while pema focuses on others.", "correct": false }
+  ]
+}

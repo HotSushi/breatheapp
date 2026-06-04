@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "A 2015 study by researchers at the University of California, Irvine found that it takes an average of 23 minutes and 15 seconds to fully regain focused attention after an interruption. The data was gathered through direct observation of office workers over several weeks, tracking not just interruptions but the subsequent behavioral chain — the side conversations, email checks, and micro-diversions that cascade after the initial break. The finding suggests that the cost of a two-minute phone check is not two minutes but potentially the better part of half an hour of impaired cognitive performance.",
+  "question": "What did the UC Irvine study find about returning to focused work after an interruption?",
+  "options": [
+    { "text": "It takes an average of 5 minutes to fully regain focus", "correct": false },
+    { "text": "It takes an average of 23 minutes and 15 seconds to fully regain focused attention", "correct": true },
+    { "text": "It takes an average of 10 to 12 minutes depending on task complexity", "correct": false },
+    { "text": "Focus is typically restored within the same work session without lasting effect", "correct": false }
+  ]
+}

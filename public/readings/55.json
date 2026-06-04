@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Neuroscientist Marc Berman and colleagues demonstrated in 2008 that even brief nature walks improve directed attention more than urban walks of equivalent duration. Participants who walked in a tree-lined arboretum outperformed those who walked busy city streets on a backward digit span task — a standard measure of working memory capacity. Crucially, the effect appeared even when subjects were not enjoying themselves: nature's restorative benefit was not mediated by positive mood alone. The finding implies that the environment was doing cognitive work independently of subjective experience, supporting the Kaplans' claim that natural settings restore attention through mechanisms that operate below the level of conscious preference.",
+  "question": "What task did Berman use to measure directed attention in the 2008 study?",
+  "options": [
+    { "text": "A backward digit span task measuring working memory capacity", "correct": true },
+    { "text": "A sustained vigilance test tracking response times to rare stimuli", "correct": false },
+    { "text": "A Stroop color-word interference task measuring inhibitory control", "correct": false },
+    { "text": "A spatial memory task requiring recall of object locations", "correct": false }
+  ]
+}

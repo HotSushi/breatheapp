@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Open loops are not only a feature of undone tasks — they are endemic to modern communication. Every unanswered email, every flagged Slack message, every half-read article represents an implicit commitment the brain treats as pending. Researcher Gloria Mark found that it takes an average of 23 minutes to fully regain deep focus after an interruption, but her later work revealed something subtler: many interruptions are self-generated, triggered by the mental pull of unresolved threads. Closing loops proactively — writing a brief reply, noting the decision needed, archiving the article — removes the cognitive trigger before it can summon an interruption from within.",
+  "question": "According to Gloria Mark's later research cited in the passage, what triggers many workplace interruptions?",
+  "options": [
+    { "text": "Notification sounds from messaging applications", "correct": false },
+    { "text": "The mental pull of unresolved threads, making many interruptions self-generated", "correct": true },
+    { "text": "Colleagues who have not yet adopted communication norms around focus time", "correct": false },
+    { "text": "The 23-minute recovery window after an external interruption", "correct": false }
+  ]
+}

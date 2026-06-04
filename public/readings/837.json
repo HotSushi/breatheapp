@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Ellen Langer's decades of research on mindlessness revealed that most of human activity runs on cognitive autopilot — scripts assembled from past experience, executed without genuine contact with the present situation. In one landmark study, subjects accepted an absurd request simply because it was phrased in the familiar structure of a reason. Langer calls full engagement 'mindfulness,' but her version differs from the meditative tradition: it is not stillness but active noticing, the continuous discovery that this situation differs from all prior situations. Presence, in Langer's framework, is not a feeling of calm but an epistemological commitment to treating the present as genuinely novel.",
+  "question": "How does Ellen Langer's concept of mindfulness differ from the meditative tradition?",
+  "options": [
+    { "text": "It emphasizes physical stillness and breath regulation over cognitive activity", "correct": false },
+    { "text": "It focuses on suppressing narrative thought rather than observing it", "correct": false },
+    { "text": "It involves active noticing and treating each situation as novel rather than seeking stillness", "correct": true },
+    { "text": "It relies on pre-programmed cognitive scripts to reduce mental effort", "correct": false }
+  ]
+}

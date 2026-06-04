@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Research by psychologist Gloria Mark at UC Irvine found that after a digital interruption, it takes an average of 23 minutes to return to the original task at full depth. This is not mere inefficiency — it is a wholesale restructuring of experience. A worker interrupted every three to five minutes, as Mark's studies found typical, never actually enters the state of sustained concentration at all. The mind skims perpetually along the surface. The daily practice of resistance, then, is not about heroic feats of willpower. It is about engineering enough uninterrupted time for depth to become biologically possible — and then protecting that time as one would any scarce and precious resource.",
+  "question": "What did Gloria Mark's research find about the time needed to recover full depth of focus after a digital interruption?",
+  "options": [
+    { "text": "Approximately 5 minutes on average", "correct": false },
+    { "text": "Approximately 10 to 15 minutes, depending on task complexity", "correct": false },
+    { "text": "An average of 23 minutes", "correct": true },
+    { "text": "The research found recovery time varied too widely to average", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus, the third head of the Stoic school, identified the foundational act of cognition as the phantasia — the impression. Every perception, memory, or desire arrives first as an impression stamped on the mind, much as a signet ring leaves its mark in wax. Crucially, Chrysippus insisted that the impression itself is neutral: it carries information but carries no command. The mind does not yet feel, decide, or act. That step belongs to a separate faculty. Before the stamp can govern behavior, the rational soul must either extend synkatathesis — assent — or withhold it. The impression knocks; we alone choose whether to open the door.",
+  "question": "According to Chrysippus, what must occur before an impression can govern behavior?",
+  "options": [
+    { "text": "The impression must be repeated several times to gain strength", "correct": false },
+    { "text": "The rational soul must extend or withhold assent", "correct": true },
+    { "text": "The body must register a corresponding physical sensation", "correct": false },
+    { "text": "The impression must be stored in memory before it can influence action", "correct": false }
+  ]
+}

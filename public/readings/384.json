@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In the 1970s, Frank Dempster reviewed decades of classroom research and found that massed practice — studying the same material in one concentrated block — consistently underperforms spaced practice on delayed tests. Yet educators persistently ignored this evidence. Dempster called it one of the most robust yet underutilized findings in educational psychology. The problem was cultural and structural: schools schedule subjects in isolated blocks, textbooks group identical problems together, and students interpret the fluency of massed review as evidence of learning. The spacing effect requires faith in a process that feels inefficient precisely when it is working best.",
+  "question": "What did Frank Dempster identify as the main reason the spacing effect remained underutilized despite strong evidence?",
+  "options": [
+    { "text": "Schools, textbooks, and students' own intuitions all reinforced massed practice over spaced practice", "correct": true },
+    { "text": "The research was conducted in laboratory settings that did not translate to real classrooms", "correct": false },
+    { "text": "Teachers lacked the training to implement spaced practice schedules effectively", "correct": false },
+    { "text": "Spaced practice only benefits declarative memory, not the procedural skills schools prioritize", "correct": false }
+  ]
+}

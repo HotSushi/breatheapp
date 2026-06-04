@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "For Zeno, the mind's natural state was not rest but active coherence — all impressions aligned with reason, all impulses proportionate to genuine goods. Chrysippus, his successor, sharpened this idea: the passions were not irrational forces battling reason from outside, but reason itself gone wrong, miscalculating what matters. Grief over a lost reputation, he argued, was not a storm crashing into the mind; it was the mind falsely judging reputation to be among the highest goods. The cure was not suppression but correction — reasoning more accurately about what is truly worthy of desire.",
+  "question": "According to Chrysippus as described in the passage, what causes the passions?",
+  "options": [
+    { "text": "Irrational forces overpowering reason from outside", "correct": false },
+    { "text": "Reason miscalculating what genuinely matters", "correct": true },
+    { "text": "Insufficient emotional suppression during childhood", "correct": false },
+    { "text": "Physical imbalances in the body affecting the mind", "correct": false }
+  ]
+}

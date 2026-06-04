@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Productivity researcher Alex Soojung-Kim Pang, in his study of Nobel laureates and prolific scientists, found a striking pattern: almost none worked more than four to five focused hours per day. Darwin, Poincaré, Fermi — their output was dense but their active hours were short, padded by naps, walks, and deliberate idleness. Pang argues this is not coincidence but causation: deep creative and analytical work depletes a finite neural resource that rest regenerates. He calls this 'deliberate rest' — structurally different from leisure because it is intentionally positioned to serve recovery, not distraction. The rest is part of the work, not a respite from it.",
+  "question": "According to Alex Soojung-Kim Pang's research on Nobel laureates and prolific scientists, how many focused hours per day did most of them work?",
+  "options": [
+    { "text": "Eight to ten hours, with long mid-day breaks", "correct": false },
+    { "text": "Four to five hours", "correct": true },
+    { "text": "Six to seven hours, split across morning and evening", "correct": false },
+    { "text": "Two to three hours of uninterrupted deep work", "correct": false }
+  ]
+}

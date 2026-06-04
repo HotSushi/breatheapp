@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Astronauts aboard the International Space Station experience sixteen sunrises per day — a condition that obliterates circadian cues and requires careful pharmacological and behavioral management. NASA chronobiologists use timed light exposure, strict meal schedules, and melatonin precisely dosed to maintain crew performance. The program demonstrates an often-overlooked principle: circadian alignment is not passive. It requires active entrainment. On Earth, most people inadvertently work against their clocks through irregular schedules, artificial lighting, and late meals — accumulating what chronobiologist Russell Foster calls \"circadian debt,\" a subtler but pervasive form of the ISS problem.",
+  "question": "What term does chronobiologist Russell Foster use for the gradual misalignment caused by irregular schedules and artificial lighting?",
+  "options": [
+    { "text": "Social jetlag", "correct": false },
+    { "text": "Circadian debt", "correct": true },
+    { "text": "Internal desynchrony", "correct": false },
+    { "text": "Entrainment deficit", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Cognitive scientist Mark Johnson argues that all abstract thought is grounded in bodily image schemas — recurring patterns of physical experience like containment, balance, and path. Our narratives inherit this embodied structure: a life is a journey, a problem is an obstacle, an argument is a battle. These metaphors are not decorative; they determine what counts as progress, threat, or resolution. A person living inside the \"life as competition\" metaphor will scan every encounter for rankings and rivals. Swap the metaphor to \"life as cultivation\" and the same environment yields entirely different affordances for attention.",
+  "question": "According to Johnson, what determines what a person attends to in a given environment?",
+  "options": [
+    { "text": "The density of image schemas encoded during early childhood development", "correct": false },
+    { "text": "The balance between paradigmatic and narrative reasoning modes", "correct": false },
+    { "text": "The default mode network's baseline activation level in that person", "correct": false },
+    { "text": "The underlying metaphor structuring their narrative, which governs what counts as relevant", "correct": true }
+  ]
+}

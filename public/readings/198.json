@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Chrysippus, the third head of the Stoic school, argued that the passions are not feelings that overwhelm reason but are themselves a form of false judgment. Anger, for example, is the mistaken belief that a slight deserves retaliation. This matters for journaling practice: if passions are cognitive errors, they can be corrected by argument. The evening review is an act of forensic philosophy — you return to the moment of passion and reconstruct the flawed premise. Modern cognitive psychologists would recognize the structure as the ABC model: Antecedent, Belief, Consequence. Chrysippus built it two millennia before Aaron Beck named it.",
+  "question": "According to the passage, how did Chrysippus define the passions?",
+  "options": [
+    { "text": "As feelings that temporarily overwhelm rational judgment", "correct": false },
+    { "text": "As impulses arising from the body rather than the mind", "correct": false },
+    { "text": "As a form of false judgment that can be corrected by argument", "correct": true },
+    { "text": "As habits of response formed by repeated indulgence", "correct": false }
+  ]
+}

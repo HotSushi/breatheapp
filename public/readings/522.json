@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When the freed prisoner in Plato's cave is dragged up into sunlight, he cannot see at all. His eyes, calibrated to darkness, are overwhelmed. Plato treats this blindness not as failure but as the necessary cost of genuine reorientation. The Greek word he uses for this turning — periagoge — means a complete revolution of the soul, not a minor adjustment of gaze. True education, for Plato, was not the insertion of knowledge into an empty mind but the turning of the whole person: redirecting what was already a powerful faculty of attention toward objects worthy of it.",
+  "question": "What does the Greek word 'periagoge' mean, according to the passage?",
+  "options": [
+    { "text": "The insertion of knowledge into an empty mind", "correct": false },
+    { "text": "A complete revolution of the soul", "correct": true },
+    { "text": "The ability to see clearly in bright light", "correct": false },
+    { "text": "A minor adjustment of the direction of one's gaze", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Kahneman describes System 2 as a lazy supervisor. When System 1 encounters a problem it cannot resolve automatically, it passes the task upward — but System 2, hungry for cognitive ease, often accepts the first plausible answer it receives rather than working through to the correct one. This tendency, called satisficing by Herbert Simon, means that effortful thinking is not the same as rigorous thinking. A person can feel they are reasoning carefully while still accepting a heuristic shortcut. The quality of deliberate thought depends less on intelligence than on the willingness to override that seductive pull toward premature resolution.",
+  "question": "According to the passage, what term did Herbert Simon use for the tendency to accept the first plausible answer?",
+  "options": [
+    { "text": "Anchoring", "correct": false },
+    { "text": "Cognitive ease", "correct": false },
+    { "text": "Satisficing", "correct": true },
+    { "text": "Heuristic override", "correct": false }
+  ]
+}

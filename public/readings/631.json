@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Graham Wallas, in his 1926 work The Art of Thought, mapped the creative process into four stages: preparation, incubation, illumination, and verification. The incubation stage — often dismissed as idleness — is where unconscious cognition performs its most consequential work. Neuroimaging studies show that the default mode network, active during mind-wandering, integrates disparate memories and forges remote associations that focused attention suppresses. The paradox Wallas identified is that deliberate effort can obstruct the very synthesis it seeks. Stepping away from a problem is not abandoning it; it is delegating it to a cognitive system better suited to the task.",
+  "question": "According to the passage, why does focused attention sometimes obstruct creative synthesis?",
+  "options": [
+    { "text": "It suppresses the remote associations the default mode network would otherwise forge.", "correct": true },
+    { "text": "It exhausts working memory before connections can form.", "correct": false },
+    { "text": "It activates the default mode network prematurely.", "correct": false },
+    { "text": "It prevents the verification stage from completing.", "correct": false }
+  ]
+}

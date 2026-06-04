@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Late Stoics recognized a paradox at the heart of their tradition: the very conditions of civilized life — complexity, abundance, social noise — created systematic pressure against the mind's natural operation. Epictetus noted that most people spent their attention on what others thought of them, what fortune had delivered or withheld, what pleasures remained unenjoyed. These were all externals — things 'not up to us.' The natural mind directed its energy inward, toward the quality of its own judgments and choices. This was not withdrawal from the world but a reorientation within it: full engagement from a stable interior rather than a reactive surface. What was natural for the mind was precisely what civilization made hardest to sustain.",
+  "question": "According to the passage, how did Epictetus characterize what most people spent their attention on?",
+  "options": [
+    { "text": "Philosophical questions that exceeded ordinary human capacity", "correct": false },
+    { "text": "Externals such as others' opinions, fortune's gifts, and unenjoyed pleasures", "correct": true },
+    { "text": "Physical pleasures that distracted from rational self-governance", "correct": false },
+    { "text": "Past regrets and future anxieties rather than present circumstances", "correct": false }
+  ]
+}

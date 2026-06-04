@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Carl Sagan borrowed from the Stoic tradition when he described the 'pale blue dot' — Earth photographed from Voyager 1 at 3.7 billion miles, a mote suspended in a sunbeam. 'Our planet is a lonely speck in the great enveloping cosmic dark,' he wrote. The Stoics called this cosmopolitanism: understanding yourself as a citizen of the cosmos first, a city second. What follows is not paralysis but priority. When the thing that upset you this morning is measured against the scale of the universe, the question is not 'does it matter?' but 'does it matter enough to warrant the attention I am giving it?'",
+  "question": "According to the passage, what practical question does the cosmic perspective prompt us to ask?",
+  "options": [
+    { "text": "Does my suffering make me a better citizen of the cosmos?", "correct": false },
+    { "text": "Is the thing that upset me worth the attention I am giving it?", "correct": true },
+    { "text": "Should I adopt Stoicism as my primary philosophical framework?", "correct": false },
+    { "text": "How does the universe assign meaning to individual human concerns?", "correct": false }
+  ]
+}

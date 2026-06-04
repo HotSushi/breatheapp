@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Irisin, a hormone first identified in 2012 by Bruce Spiegelman's lab at Harvard, offered a new molecular bridge between exercise and the brain. Released by contracting skeletal muscle, irisin travels through the bloodstream and crosses the blood-brain barrier, where it upregulates the expression of BDNF in hippocampal neurons. Some researchers initially called it the 'exercise hormone,' though its full role remains debated. What was clear from early studies is that irisin levels drop in Alzheimer's patients and rise with physical activity. A sedentary life, in this framing, deprives the brain not only of fitness but of a specific hormonal signal that the hippocampus appears to depend on.",
+  "question": "According to the passage, what is irisin's relationship to BDNF in the brain?",
+  "options": [
+    { "text": "Irisin competes with BDNF for the same receptor sites", "correct": false },
+    { "text": "Irisin is released by the hippocampus in response to BDNF signals", "correct": false },
+    { "text": "Irisin upregulates BDNF expression in hippocampal neurons after crossing the blood-brain barrier", "correct": true },
+    { "text": "Irisin suppresses BDNF during periods of low activity to conserve energy", "correct": false }
+  ]
+}

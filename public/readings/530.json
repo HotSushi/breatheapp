@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When Plato's freed prisoner returns to announce that the shadows are unreal, the remaining prisoners do not believe him. They conclude his eyes have been damaged by whatever he encountered above. Plato notes, with dark irony, that if anyone attempted to free them by force, they would kill him — an unmistakable allusion to the fate of Socrates. This element of the allegory shifts its register from epistemology to social psychology. The difficulty of turning toward the light is not only individual reluctance but collective enforcement of the status quo. Communities, like individuals, can be oriented away from clarity — and can punish those who reorient.",
+  "question": "According to the passage, what do the prisoners conclude about the freed prisoner when he returns?",
+  "options": [
+    { "text": "That he has seen the Form of the Good and can no longer be trusted", "correct": false },
+    { "text": "That his eyes have been damaged by what he encountered above", "correct": true },
+    { "text": "That he is lying in order to trick them into leaving the cave", "correct": false },
+    { "text": "That he has been corrupted by the people who carried objects before the fire", "correct": false }
+  ]
+}

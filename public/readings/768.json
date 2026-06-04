@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "A 2011 study by Kirk Erickson and colleagues at the University of Pittsburgh provided some of the first direct evidence that exercise physically enlarges the human hippocampus. After a year of aerobic training, older adults showed a 2 percent increase in hippocampal volume — reversing the typical age-related shrinkage of roughly 1 to 2 percent per year. The sedentary control group, by contrast, experienced the expected volume decline. Crucially, hippocampal volume correlated with serum BDNF levels, reinforcing the molecular pathway. What Erickson's team demonstrated was not merely that exercise benefits cognition abstractly — it was that the brain grows measurable tissue in response to sustained movement.",
+  "question": "According to the passage, what happened to hippocampal volume in the sedentary control group in Erickson's study?",
+  "options": [
+    { "text": "It increased by 1 percent after one year", "correct": false },
+    { "text": "It remained stable throughout the study period", "correct": false },
+    { "text": "It experienced the expected age-related volume decline", "correct": true },
+    { "text": "It showed the same 2 percent increase as the aerobic group", "correct": false }
+  ]
+}

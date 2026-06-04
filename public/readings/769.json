@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Not all movement is cognitively equivalent. Research by Charles Hillman at the University of Illinois distinguishes between aerobic and non-aerobic physical activity in their neural effects. A session of walking on a treadmill consistently produces measurable improvements in executive function — the cluster of abilities governing attention, impulse control, and working memory — while equivalent time spent in stretching or resistance training at low intensity does not reliably produce the same acute boost. The difference appears to hinge on cardiovascular demand: sustained elevation of heart rate stimulates the molecular cascade that reshapes prefrontal activity. Effort, not merely motion, is the active ingredient.",
+  "question": "According to the passage, what distinguishes aerobic activity from low-intensity resistance training in its cognitive effects?",
+  "options": [
+    { "text": "Aerobic activity targets hippocampal volume while resistance training targets the prefrontal cortex", "correct": false },
+    { "text": "Sustained cardiovascular demand from aerobic activity stimulates the molecular cascade affecting executive function", "correct": true },
+    { "text": "Resistance training produces stronger BDNF effects than aerobic exercise over time", "correct": false },
+    { "text": "Both forms of exercise produce identical improvements in working memory", "correct": false }
+  ]
+}

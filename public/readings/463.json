@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Newport draws a sharp distinction between the \"any benefit\" mindset and the craftsman's standard. Under the any-benefit approach, a person adopts a tool the moment they can identify any positive use for it, ignoring its costs in time, attention, and cognitive fragmentation. The craftsman's standard, borrowed from the ethic of skilled tradespeople, demands instead that tools be evaluated by whether they are the best means to achieve goals that matter most. The difference sounds subtle but produces radically different digital lives: one cluttered with marginal utility, the other spare and purposeful.",
+  "question": "What does Newport mean by the \"any benefit\" mindset?",
+  "options": [
+    { "text": "Adopting a tool whenever it offers any positive use, regardless of its costs", "correct": true },
+    { "text": "Choosing tools that maximize measurable productivity benefits", "correct": false },
+    { "text": "Using technology only when it provides benefits to others as well as oneself", "correct": false },
+    { "text": "Evaluating tools by the craftsman's standard of quality output", "correct": false }
+  ]
+}

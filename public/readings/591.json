@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Rabbi Tarfon's declaration in Pirkei Avot — \"It is not your duty to finish the work, but neither are you free to desist from it\" — was addressed to students paralyzed by the enormity of Torah study. The Talmud recognized a peculiar cognitive trap: when a task appears infinite, the mind tends toward complete withdrawal rather than partial engagement. By severing the obligation to complete from the obligation to begin, Rabbi Tarfon dissolved the psychological impasse. The work does not require your completion; it requires your presence. Sustained attention becomes possible precisely when the horizon of total mastery is removed.",
+  "question": "According to the passage, what psychological trap does Rabbi Tarfon's teaching address?",
+  "options": [
+    { "text": "The tendency to rush through study without deep comprehension", "correct": false },
+    { "text": "The habit of blaming others when difficult tasks go unfinished", "correct": false },
+    { "text": "The mind's tendency to withdraw entirely from tasks that appear infinite", "correct": true },
+    { "text": "The difficulty of choosing which subjects deserve the most attention", "correct": false }
+  ]
+}

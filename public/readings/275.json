@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In the dzogchen transmission called 'pointing-out instruction,' the teacher does not explain rigpa but provokes direct recognition. The classic method attributed to Garab Dorje, the legendary first human teacher of dzogchen, involves three principles: direct introduction, no doubt about what is introduced, and continuing in that recognition. The second principle is often misunderstood. It does not mean intellectual certainty about a concept. It means that the mind, once it has glimpsed its own nature, should not subsequently talk itself out of that recognition by searching for it as though it were something else — something more exotic, more distant, harder to reach.",
+  "question": "According to the passage, what does the second of Garab Dorje's three principles actually mean?",
+  "options": [
+    { "text": "The student must memorize the pointing-out instruction word for word", "correct": false },
+    { "text": "The mind should not talk itself out of its recognition by treating rigpa as something more distant or exotic", "correct": true },
+    { "text": "The teacher must remove all doubt by providing scriptural citations from the Tibetan canon", "correct": false },
+    { "text": "Intellectual certainty about the concept of emptiness must precede any recognition", "correct": false }
+  ]
+}

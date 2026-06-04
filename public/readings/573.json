@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil developed her philosophy of attention while studying under the mathematician Alain at the Lycée Henri-IV in Paris. Alain taught that schoolwork, done rightly, was not about acquiring information but about training the faculty of attention itself — and that this faculty was transferable. A student who truly attends to a Latin translation, Weil absorbed, is developing the same capacity that will later allow them to attend to a suffering human being. The subject matter is almost incidental; what matters is practicing the posture of receptive, patient waiting. Academic difficulty, on this view, is spiritual exercise in disguise.",
+  "question": "According to Weil's account of Alain's teaching, what is the real purpose of difficult schoolwork?",
+  "options": [
+    { "text": "Building discipline through repetitive memorization", "correct": false },
+    { "text": "Acquiring domain knowledge that transfers to professional life", "correct": false },
+    { "text": "Developing the transferable faculty of attention itself", "correct": true },
+    { "text": "Cultivating humility by confronting one's intellectual limits", "correct": false }
+  ]
+}

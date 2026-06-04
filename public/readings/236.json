@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Beginner's mind is sometimes misread as emptiness — a blank cognitive slate. But Suzuki Roshi was careful to distinguish shoshin from ignorance. The beginner's mind he described is full: full of readiness, full of presence, full of what Zen calls 'don't-know mind.' This is closer to the philosophical stance of aporia — Socrates' professed ignorance — than to literal unknowing. The Zen monk Huang Po wrote in the ninth century that 'to study Buddhism is to study the self; to study the self is to forget the self.' Shoshin is the posture in which forgetting the self becomes possible, because you are no longer busy confirming who you already are.",
+  "question": "According to the passage, how did Suzuki Roshi distinguish shoshin from ignorance?",
+  "options": [
+    { "text": "Shoshin is achieved only after mastering foundational Buddhist doctrine, unlike ignorance which is unlearned.", "correct": false },
+    { "text": "Shoshin is a blank cognitive slate that Suzuki described as the foundation of Zen practice.", "correct": false },
+    { "text": "Shoshin is a state of readiness and presence, not a literal absence of knowledge.", "correct": true },
+    { "text": "Shoshin requires forgetting all prior learning, while ignorance is simply the absence of instruction.", "correct": false }
+  ]
+}

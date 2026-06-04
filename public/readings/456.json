@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The Gutenberg press is often celebrated as a democratizing force — and it was. But Carr asks us to notice what the codex book, which preceded and outlasted Gutenberg, demanded of its reader: a posture of sustained surrender. Unlike the scroll, which was consulted in sections, the bound book invited cover-to-cover immersion. It created, over centuries, a new cognitive ideal: the contemplative reader, alone with a text, following a single thread of thought to its end. This ideal was cultural before it was neurological. The internet does not merely distract us from books; it replaces this cultural ideal with another — the networked browser, perpetually connected, perpetually partial.",
+  "question": "How does the passage distinguish the codex book from the scroll in terms of what they demanded from readers?",
+  "options": [
+    { "text": "The codex required literacy while the scroll could be interpreted through images", "correct": false },
+    { "text": "The codex invited cover-to-cover immersion while the scroll was consulted in sections", "correct": true },
+    { "text": "The codex was faster to read while the scroll required more deliberate pace", "correct": false },
+    { "text": "The codex was designed for private use while the scroll was read aloud publicly", "correct": false }
+  ]
+}

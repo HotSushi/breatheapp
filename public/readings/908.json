@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Simon's attention scarcity thesis inverts the intuition that more choice is always better. Classical economics celebrates choice as welfare-enhancing. But if every choice requires attentional processing, and attention is finite, then multiplying choices multiplies the cognitive tax. Psychologist Barry Schwartz formalized this as the 'paradox of choice' — more options produce less satisfaction and more paralysis. Simon's structural critique runs deeper: it is not merely that excess choice feels overwhelming, but that the infrastructure required to evaluate it consumes the very resource — sustained attention — that is needed for any deliberate, values-based decision.",
+  "question": "According to the passage, what does Simon's analysis add to Barry Schwartz's paradox of choice?",
+  "options": [
+    { "text": "A neurological account of why options cause emotional distress", "correct": false },
+    { "text": "Evidence that choice satisfaction increases once options exceed a threshold", "correct": false },
+    { "text": "The insight that evaluating choices consumes the attention needed for values-based decisions", "correct": true },
+    { "text": "A reminder that classical economics already accounted for cognitive limits", "correct": false }
+  ]
+}

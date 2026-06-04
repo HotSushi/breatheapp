@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The Japanese concept of ma — often translated as negative space or pause — captures something neuroscience has only recently articulated. In music, architecture, and conversation, ma refers to the meaningful gap between events: the silence that gives notes their weight. Neurologically, inter-stimulus intervals perform an analogous function. Researcher Jason Moser at Michigan State found that brief pauses between tasks allow the anterior cingulate cortex to recalibrate error-monitoring sensitivity. Without these gaps, the brain's quality-control system accumulates drift, and errors go undetected not because attention wanes but because the benchmark for acceptable performance quietly lowers.",
+  "question": "According to Jason Moser's research cited in the passage, what does the anterior cingulate cortex do during brief pauses between tasks?",
+  "options": [
+    { "text": "It consolidates procedural memories from the prior task", "correct": false },
+    { "text": "It recalibrates error-monitoring sensitivity", "correct": true },
+    { "text": "It suppresses default mode network interference", "correct": false },
+    { "text": "It releases dopamine to restore motivational drive", "correct": false }
+  ]
+}

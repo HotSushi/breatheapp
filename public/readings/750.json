@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "The philosopher William James wrote in 1890 that the art of wise living 'consists in the art of knowing what to overlook.' He could not have known the neuroscience, but the biology vindicates him. During physiological calm, the default mode network — active during inward reflection and future simulation — operates at full capacity, while the salience network that flags urgency quiets. Researchers including Marcus Raichle have shown that this inward mode is not idle: it consolidates episodic memory, runs social simulations, and generates the narrative self. None of this processing is available when the body is in alarm. Rest, in the deepest biological sense, is when the mind turns toward meaning — and chronic distraction forecloses exactly that.",
+  "question": "According to the passage, what does the default mode network do during physiological calm?",
+  "options": [
+    { "text": "It monitors the external environment for low-level threat signals on behalf of the amygdala", "correct": false },
+    { "text": "It suppresses salience detection to allow the prefrontal cortex to filter distractions", "correct": false },
+    { "text": "It consolidates episodic memory, runs social simulations, and generates the narrative self", "correct": true },
+    { "text": "It coordinates heart rate variability with the ventral vagal system", "correct": false }
+  ]
+}

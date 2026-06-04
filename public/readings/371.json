@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Prospective memory — remembering to perform an intended action in the future — is categorically different from retrospective memory. Where retrospective memory retrieves what happened, prospective memory must fire at the right moment, often without an external prompt. Psychologists Gilles Einstein and Mark McDaniel identified two subtypes: time-based (remember to take medicine at 8 a.m.) and event-based (remember to mention the meeting when you see Sarah). Event-based intentions are more reliable because the environment itself serves as a cue. Time-based intentions demand self-initiated monitoring — a continuous tax on attentional resources that explains why busy people miss appointments even when they care deeply about keeping them.",
+  "question": "According to the passage, why are event-based intentions more reliable than time-based ones?",
+  "options": [
+    { "text": "They involve stronger emotional motivation to act.", "correct": false },
+    { "text": "They are stored in a different region of the brain.", "correct": false },
+    { "text": "The environment itself serves as a retrieval cue.", "correct": true },
+    { "text": "They require less working memory to encode initially.", "correct": false }
+  ]
+}

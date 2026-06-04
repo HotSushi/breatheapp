@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca's evening examination was methodical. In his Letters to Lucilius, he describes interrogating his day under three headings: what bad habit did I cure today, what vice did I resist, and in what respect am I better? The order matters. He begins with cure, not achievement — the Stoic hierarchy places the removal of error above the accumulation of virtue. This structure anticipates what psychologists now call 'process-focused reflection,' which research by Timothy Wilson and colleagues links to more durable behavioral change than outcome-focused review. Seneca's nightly audit was diagnostic, not merely confessional.",
+  "question": "According to the passage, what does Seneca name as the first of his three evening examination questions?",
+  "options": [
+    { "text": "What virtue did I practice today?", "correct": false },
+    { "text": "What bad habit did I cure today?", "correct": true },
+    { "text": "In what respect am I better?", "correct": false },
+    { "text": "What vice did I resist?", "correct": false }
+  ]
+}

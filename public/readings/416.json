@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Multitasking, as most people practice it, is a misnomer. The brain doesn't process two demanding tasks simultaneously; it switches rapidly between them, paying a toll at every transition. Cognitive psychologists call this the task-switching cost: each shift depletes a small pool of executive resources, slowing processing speed and increasing error rates. Email is a particularly efficient tax collector. Because messages arrive at unpredictable intervals, workers have habituated to checking constantly as a form of pre-emptive control — not because each check reveals something urgent, but because the uncertainty itself is harder to tolerate than the interruption. The cure, paradoxically, feels more stressful than the disease.",
+  "question": "According to the passage, why do workers habitually check email even when messages are rarely urgent?",
+  "options": [
+    { "text": "Because their managers expect near-instant responses to maintain professional standing", "correct": false },
+    { "text": "Because the unpredictability of email arrival makes the uncertainty harder to tolerate than the interruption", "correct": true },
+    { "text": "Because notifications are designed with sounds that trigger an involuntary startle reflex", "correct": false },
+    { "text": "Because task-switching costs are lower when workers check proactively rather than reactively", "correct": false }
+  ]
+}

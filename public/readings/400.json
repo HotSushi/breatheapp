@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Neuroscientist David Badre distinguishes between two kinds of cognitive control: reactive control, which corrects errors after they occur, and proactive control, which maintains goals in working memory as a buffer against anticipated interference. The prefrontal cortex supports both, but they trade off: proactive control is metabolically expensive and tends to degrade over time, while reactive control is cheaper but slower. High metacognitive function involves knowing which mode the current situation demands — when to hold a goal actively in mind versus when to relax and correct on the fly. Failing to make this strategic distinction is itself a form of poor metacognition, wasting cognitive resources on vigilance when the situation does not require it.",
+  "question": "What makes proactive cognitive control distinct from reactive control, according to Badre?",
+  "options": [
+    { "text": "It is faster but less accurate than reactive control", "correct": false },
+    { "text": "It maintains goals in working memory as a buffer against anticipated interference", "correct": true },
+    { "text": "It relies on the hippocampus rather than the prefrontal cortex", "correct": false },
+    { "text": "It operates below the threshold of conscious awareness", "correct": false }
+  ]
+}

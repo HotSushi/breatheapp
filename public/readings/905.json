@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The phrase 'attention economy' was popularized not by Simon but by writer Michael Goldhaber in 1997, though it was Simon's foundational logic that gave the concept its teeth. Goldhaber extended Simon's scarcity premise into a full economic model: in a world saturated with information, attention becomes the primary currency. Performers, politicians, and platforms all compete for attentional revenue. Goldhaber predicted that this competition would favor spectacle over substance, because spectacle captures faster and holds longer. His forecast describes the media environment of the 2020s with unsettling accuracy.",
+  "question": "According to the passage, what did Michael Goldhaber predict would be favored in an attention economy?",
+  "options": [
+    { "text": "Substance over spectacle, because depth retains audiences longer", "correct": false },
+    { "text": "Educational content, because informed audiences generate more revenue", "correct": false },
+    { "text": "Short-form media, because bounded rationality limits reading time", "correct": false },
+    { "text": "Spectacle over substance, because it captures and holds attention more effectively", "correct": true }
+  ]
+}

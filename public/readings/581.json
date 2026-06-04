@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When Thoreau moved to Walden Pond in July 1845, he was conducting an experiment in attention. He wanted to discover what remained when the noise of Concord society was stripped away. What he found was not emptiness but density — a world of minute particulars that ordinary life rendered invisible. He recorded the exact temperature at which ice formed, the precise songs of different thrushes, the daily progress of bean rows. Simplicity, for Thoreau, was not impoverishment but a precondition: you could not perceive deeply while managing complexity. 'Our life is frittered away by detail,' he wrote. 'Simplify, simplify.'",
+  "question": "According to the passage, what did Thoreau discover when he stripped away the noise of society?",
+  "options": [
+    { "text": "An inner emptiness that meditation could fill", "correct": false },
+    { "text": "A world of minute particulars that ordinary life had rendered invisible", "correct": true },
+    { "text": "The inadequacy of rural life compared to town living", "correct": false },
+    { "text": "That simplicity leads to boredom without intellectual stimulation", "correct": false }
+  ]
+}

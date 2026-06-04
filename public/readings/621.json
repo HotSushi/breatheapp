@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Mihaly Csikszentmihalyi's flow channel describes a precise psychological corridor between anxiety and boredom. When a task's demands slightly exceed your current skill level, the brain enters a state of productive stretch — challenge and ability locked in dynamic tension. Too wide a gap produces anxiety; too narrow a gap produces tedium. What makes the channel remarkable is its instability: as skill improves, the same task migrates toward boredom, demanding a fresh increase in challenge to restore flow. The channel is not a destination but a moving target, explaining why mastery requires perpetual self-imposed difficulty.",
+  "question": "According to the passage, what happens to a task as a person's skill improves?",
+  "options": [
+    { "text": "It migrates toward boredom, requiring a new increase in challenge.", "correct": true },
+    { "text": "It becomes a reliable source of flow without further adjustment.", "correct": false },
+    { "text": "It shifts toward the anxiety zone, requiring less effort.", "correct": false },
+    { "text": "It produces deeper concentration because the process feels automatic.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "In 2016, researchers at the Oxford Internet Institute documented the systematic use of \"computational propaganda\" — automated social media accounts deployed to amplify political messages during elections across seventeen countries. What distinguished this from older propaganda was scale and personalization: algorithms could identify micro-segments of the electorate susceptible to specific emotional appeals and deliver targeted messages at volumes no human operation could match. Political scientist Philip Howard described the result as a new kind of power asymmetry: one in which well-resourced actors can steer the attention of millions while those millions have no equivalent mechanism for collective response, creating a structural imbalance in democratic deliberation.",
+  "question": "According to Philip Howard, what power asymmetry does computational propaganda create?",
+  "options": [
+    { "text": "Governments can now monitor citizen communications faster than citizens can organize", "correct": false },
+    { "text": "Wealthy actors can steer mass attention while citizens lack equivalent collective response capacity", "correct": true },
+    { "text": "Algorithms amplify extreme viewpoints more effectively than moderate ones", "correct": false },
+    { "text": "Foreign states can intervene in elections more effectively than domestic political parties", "correct": false }
+  ]
+}

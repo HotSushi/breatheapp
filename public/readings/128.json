@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Seneca draws a sharp distinction between living long and living much. A person can accumulate eighty years while inhabiting, in any meaningful sense, almost none of them — moving from appetite to appetite, never pausing to ask what any of it was for. He calls this existere sine vita, existing without truly living. By contrast, a life of even modest length that is fully inhabited — each hour weighed, each relationship chosen, each pleasure consciously received — constitutes what he considers a long life. Duration is a biological accident. Depth is an achievement. The Letters are, among other things, an argument that Lucilius still has time to choose depth.",
+  "question": "What does Seneca mean by 'existere sine vita'?",
+  "options": [
+    { "text": "Dying before one's natural lifespan has concluded", "correct": false },
+    { "text": "Living in exile far from one's homeland and community", "correct": false },
+    { "text": "Accumulating years without truly inhabiting any of them", "correct": true },
+    { "text": "Practicing philosophy without applying it to daily conduct", "correct": false }
+  ]
+}

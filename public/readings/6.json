@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The default mode network has a strange privilege: it can hijack the senses. Research by Malia Mason and colleagues showed that during mind-wandering, activity in sensory processing regions actually decreases, as if the brain closes its windows to the external world while the interior narrative takes over. This is why a driver can travel miles without consciously perceiving the road, or a reader can reach the bottom of a page with no memory of the words. The phenomenological experience of absence — being physically present but mentally elsewhere — has a precise neural signature: the DMN in ascendance, the sensory cortices in recession.",
+  "question": "What happens to sensory processing regions during mind-wandering, according to Malia Mason's research?",
+  "options": [
+    { "text": "They become hyperactive, overwhelming conscious attention", "correct": false },
+    { "text": "Activity in sensory processing regions decreases", "correct": true },
+    { "text": "They synchronize with the default mode network", "correct": false },
+    { "text": "They remain at baseline levels, unaffected", "correct": false }
+  ]
+}

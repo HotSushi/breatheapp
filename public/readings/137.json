@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Zeno of Citium, the founder of Stoicism, reportedly spent years listening in silence before he began to teach. His students understood this as an embodiment of prosoche — the practice of attending before acting. Stoic ethics holds that speech is an outward expression of inner judgment, and faulty judgment almost always flows from insufficient attention to what is actually present. Speaking too quickly meant endorsing impressions before they had been examined. The disciplined pause was not passivity; it was the interval in which the rational faculty (logos) could assess an impression and either affirm it as true or decline to endorse it at all.",
+  "question": "According to the passage, what Stoic practice did Zeno's years of silent listening embody?",
+  "options": [
+    { "text": "Prohairesis — the distinction between what is and is not in our power", "correct": false },
+    { "text": "Akrasia — the deliberate cultivation of willpower through restraint", "correct": false },
+    { "text": "Prosoche — attending carefully before acting or speaking", "correct": true },
+    { "text": "Logos — the direct expression of rational faculty through silence", "correct": false }
+  ]
+}

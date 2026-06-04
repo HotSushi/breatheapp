@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Not all cognitive training transfers equally. A critical distinction in neuroplasticity research is the difference between near transfer — improvement on tasks closely resembling the training task — and far transfer, improvement on unrelated abilities. Commercial brain-training programs typically show near transfer only, which is why someone who trains on a memory game gets better at that game but not at real-world attention. Meditation and focused-attention practices appear distinct in this regard: because they train the meta-cognitive act of noticing and redirecting attention itself, the skill generalizes across contexts. You are not learning a task; you are strengthening the mechanism by which any task is approached.",
+  "question": "Why might meditation show broader transfer than commercial brain-training programs, according to the passage?",
+  "options": [
+    { "text": "Meditation activates more brain regions simultaneously than memory games do", "correct": false },
+    { "text": "Commercial programs rely on near transfer, while meditation is scientifically validated", "correct": false },
+    { "text": "Meditation trains the meta-cognitive act of noticing and redirecting attention itself, not a specific task", "correct": true },
+    { "text": "Brain-training programs produce cortical thickening that interferes with general focus", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Csikszentmihalyi's research on flow — the state of complete absorption in a challenging task — reveals a paradox of creative work: the conditions that produce flow also make the work invisible to the worker. In flow, self-monitoring diminishes, time distorts, and effort feels effortless. But these same features mean a creator immersed in execution often cannot evaluate what they have made. Distance is not a luxury; it is an epistemological requirement. The architect who sleeps on a blueprint and finds obvious flaws in the morning has not grown smarter — they have regained the perspective that proximity had erased.",
+  "question": "Why, according to the passage, can a creator immersed in flow not evaluate their work accurately?",
+  "options": [
+    { "text": "Self-monitoring diminishes during flow, removing the perspective needed for evaluation.", "correct": true },
+    { "text": "Flow activates the default mode network, which suppresses critical judgment.", "correct": false },
+    { "text": "The effortlessness of flow produces overconfidence in the final product.", "correct": false },
+    { "text": "Csikszentmihalyi found that flow states last too briefly to allow reflection.", "correct": false }
+  ]
+}

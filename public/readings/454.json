@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 2006, researchers at University College London studied how scholars used online journals and e-book archives. The data revealed a striking pattern: users bounced between documents, rarely reading more than one or two pages of any source before moving on, often never returning. The researchers called this behavior 'power browsing' — a horizontal sweep across titles, abstracts, and first paragraphs in place of vertical immersion in a single text. What looked like increased access to knowledge was, in practice, a new mode of avoiding it. More documents were opened; fewer were actually read. Breadth had displaced depth so seamlessly that users appeared not to notice the substitution.",
+  "question": "What term did UCL researchers use to describe the pattern of skimming titles and abstracts without reading full sources?",
+  "options": [
+    { "text": "Shallow surfing", "correct": false },
+    { "text": "Hyperlink drift", "correct": false },
+    { "text": "Lateral reading", "correct": false },
+    { "text": "Power browsing", "correct": true }
+  ]
+}

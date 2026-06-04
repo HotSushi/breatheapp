@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Neuroscientist Adam Gazzaley and psychologist Larry Rosen documented what they call the 'war on attention' — a mismatch between the brain's evolved capacity and the modern information environment. The prefrontal cortex, responsible for sustained focus, evolved to track a few meaningful stimuli at once in a relatively static savanna environment. It is outmatched by a feed delivering hundreds of novel, emotionally charged signals per minute. Novelty-seeking, once adaptive, now fires continuously. The result is not weakness of will but a structural incompatibility: our neural architecture was not designed for an environment that competes for it this aggressively.",
+  "question": "What do Gazzaley and Rosen identify as the root cause of the brain's struggle with modern information environments?",
+  "options": [
+    { "text": "Declining educational standards that reduce people's capacity for sustained reading", "correct": false },
+    { "text": "Excessive use of social media by teenagers during critical developmental years", "correct": false },
+    { "text": "The prefrontal cortex's inability to distinguish real threats from digital ones", "correct": false },
+    { "text": "A structural incompatibility between prefrontal cortex evolution and a high-novelty feed environment", "correct": true }
+  ]
+}

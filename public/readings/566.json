@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The concept of voluntary attention sits at the intersection of psychology, philosophy of mind, and ethics. For James, it was not merely a cognitive tool but a moral one. The ability to choose where one places attention is the ability to choose, in some meaningful sense, what one's life consists of. A life of involuntary attention — always hijacked by the loudest signal — is a life shaped by accident rather than intention. James believed this made attentional training the deepest form of self-cultivation available to a human being. To master attention is to author the content of experience itself. Few capacities, he thought, were more worth developing.",
+  "question": "How did James characterize a life governed entirely by involuntary attention?",
+  "options": [
+    { "text": "A life rich in sensory experience but lacking in depth", "correct": false },
+    { "text": "A life shaped by accident rather than intention", "correct": true },
+    { "text": "A life well-adapted to high-stimulus environments", "correct": false },
+    { "text": "A life driven by immediate rather than derived interest", "correct": false }
+  ]
+}

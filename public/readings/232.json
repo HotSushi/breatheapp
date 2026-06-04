@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Japanese word shoshin — literally 'beginner's heart-mind' — derives from the Zen tradition but carries a psychological specificity beyond mere openness. Neuroscientist Moshe Bar's research on predictive processing shows why shoshin is so difficult: the brain perpetually generates predictions about incoming sensory data, comparing reality to expectation rather than perceiving it directly. This efficiency has costs. We see what we expect. Shoshin practice, in modern terms, is a disciplined interruption of that predictive loop — a deliberate pause before the brain's hypothesis is confirmed, so the raw signal can land. It is not naive; it is a cultivated suspension of premature conclusion.",
+  "question": "According to the passage, what does Moshe Bar's research reveal about why shoshin is difficult to practice?",
+  "options": [
+    { "text": "The brain lacks sufficient memory capacity to hold multiple interpretations simultaneously.", "correct": false },
+    { "text": "The brain generates predictions and compares reality to expectation rather than perceiving it directly.", "correct": true },
+    { "text": "Shoshin requires years of monastic training before it becomes neurologically accessible.", "correct": false },
+    { "text": "The prefrontal cortex overrides sensory input during states of expertise.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Montaigne's essay 'On Experience' ends with a defense of the particular: each man's experience, if examined honestly, contains universal truth. This is why his solitude is never merely introspective navel-gazing. By attending scrupulously to his own digestion, moods, and reading habits, he was doing what he considered the hardest thing: observing without a framework borrowed from authority. The crowd supplies ready-made frameworks — religious, political, fashionable. Withdrawing from it was, in Montaigne's practice, the only way to encounter the texture of actual experience rather than the idea of experience one has been handed.",
+  "question": "Why does Montaigne insist on observing one's own experience without borrowed frameworks?",
+  "options": [
+    { "text": "To avoid the influence of corrupt religious institutions", "correct": false },
+    { "text": "Because universally valid truth can only be found in careful personal observation", "correct": false },
+    { "text": "To encounter actual experience rather than the idea of experience supplied by the crowd", "correct": true },
+    { "text": "Because personal experience is more reliable than classical philosophy", "correct": false }
+  ]
+}

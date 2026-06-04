@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Stoics identified a recurring failure they called akrasia — acting against one's better judgment. Attention was the linchpin: akrasia almost always begins not as a willed bad choice but as a small lapse of vigilance. You drift toward the wrong thing before you have consciously decided to. Epictetus taught that the remedy was not stronger willpower but earlier interception. The moment of maximum leverage is the instant an impression (phantasia) first arises — before it has been endorsed by judgment. Catching an impression at the threshold, rather than wrestling with a full-blown desire, was the practical genius of Stoic moment-to-moment attention.",
+  "question": "According to Epictetus, when is the ideal moment to intercept an unwanted impulse?",
+  "options": [
+    { "text": "After the desire has fully formed but before acting on it", "correct": false },
+    { "text": "The instant an impression first arises, before it has been endorsed by judgment", "correct": true },
+    { "text": "During the evening review of the day's actions", "correct": false },
+    { "text": "When the impulse has been repeated enough to become a habit", "correct": false }
+  ]
+}

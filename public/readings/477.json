@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Echo chambers and filter bubbles are related but distinct phenomena. A filter bubble is imposed algorithmically: the platform decides what you see based on your behavioral data. An echo chamber is chosen socially: you follow people who share your views and mute those who do not. Sociologist Chris Bail's large-scale study on Twitter found, counterintuitively, that users exposed to opposing views through algorithmic nudges became more polarized, not less. Mere exposure to difference, without the conversational context that creates understanding, can harden positions rather than soften them. The distinction matters because the remedy for each is different.",
+  "question": "What did Chris Bail's study find happened when Twitter users were algorithmically exposed to opposing views?",
+  "options": [
+    { "text": "They gradually moderated their positions over several weeks", "correct": false },
+    { "text": "They became more polarized, not less", "correct": true },
+    { "text": "They unfollowed the accounts suggesting opposing content", "correct": false },
+    { "text": "They reported feeling more informed but no change in belief", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cal Newport argues that deep work requires more than willpower — it requires architecture. The ritual is the architecture. Newport studied the routines of figures like Carl Jung, who built a stone tower at Bollingen specifically to think without interruption, and Donald Knuth, who disconnected from email entirely in 1990. Both recognized that sustained cognitive effort cannot be summoned on demand; it must be coaxed through consistent environmental and behavioral cues. A fixed start time, a particular location, and a defined ending condition train the brain to enter a focused state with less friction each time the ritual begins.",
+  "question": "According to the passage, why did Carl Jung build a tower at Bollingen?",
+  "options": [
+    { "text": "To store his personal library and manuscripts away from visitors", "correct": false },
+    { "text": "To think without interruption and support sustained cognitive effort", "correct": true },
+    { "text": "To demonstrate that physical isolation improves academic output", "correct": false },
+    { "text": "To follow a trend among European intellectuals of his era", "correct": false }
+  ]
+}

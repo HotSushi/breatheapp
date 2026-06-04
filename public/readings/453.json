@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Before the internet, reading was understood as a technology of interiority. The printed page demanded that the reader's attention move inward — following an argument, inhabiting a character's consciousness, holding narrative threads across hundreds of pages. This was not a natural capacity; it was one cultivated over centuries of print culture. Neuroscientist Maryanne Wolf calls this 'deep reading,' a set of cognitive skills that includes inference, critical analysis, and empathic projection. These skills, she warns, are not hardwired. They depend on repeated practice, and they can be lost. A generation raised on screen-skimming may inherit the alphabet while losing the deeper literacy it once supported.",
+  "question": "According to neuroscientist Maryanne Wolf, which cognitive skill is included in what she calls 'deep reading'?",
+  "options": [
+    { "text": "Rapid pattern recognition across visual fields", "correct": false },
+    { "text": "The capacity for empathic projection", "correct": true },
+    { "text": "Phonemic decoding of unfamiliar words", "correct": false },
+    { "text": "Long-term memory consolidation during sleep", "correct": false }
+  ]
+}

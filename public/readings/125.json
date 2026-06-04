@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The Letters to Lucilius are unusual in Stoic literature because they dramatize philosophy rather than merely stating it. Seneca writes as though mid-conversation, breaking off arguments to describe what he can see from his window or what Lucilius just wrote. Scholars debate whether Lucilius actually received these letters or whether they are a literary device — a way of staging philosophy in real time. What is clear is that the epistolary form was chosen deliberately. A letter implies a specific reader, a finite block of time, and the pressure of the present moment. The form enacts its own content: attend now, to this, because the exchange is impermanent.",
+  "question": "What does the passage say scholars debate about the Letters to Lucilius?",
+  "options": [
+    { "text": "Whether Seneca wrote them before or after his exile from Rome", "correct": false },
+    { "text": "Whether the letters were accurately translated from their original Greek", "correct": false },
+    { "text": "Whether Lucilius actually received them or they are a literary device", "correct": true },
+    { "text": "Whether Lucilius was a real person or a fictional composite student", "correct": false }
+  ]
+}

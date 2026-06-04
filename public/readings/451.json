@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Nicholas Carr's 2010 book 'The Shallows' opened with a confession: he had lost the ability to read deeply. A decade of web browsing had left him restless with long texts, his mind perpetually scanning for the next link. Carr drew on neuroscience to explain what had happened. The brain's plasticity — its capacity to rewire itself through repeated experience — meant that habitual skimming was literally reshaping his neural pathways. The circuits built for sustained, linear reading were weakening from disuse, while circuits tuned to rapid, stimulus-driven attention were growing stronger. The internet was not merely a tool; it was a medium that changed the organ using it.",
+  "question": "According to Carr, what neurological mechanism explains how web browsing undermines deep reading?",
+  "options": [
+    { "text": "The prefrontal cortex shrinks when exposed to excessive screen light", "correct": false },
+    { "text": "Dopamine released by notifications permanently damages reading circuits", "correct": false },
+    { "text": "The brain's plasticity reinforces skimming circuits while weakening those built for sustained reading", "correct": true },
+    { "text": "Short-term memory becomes overloaded, preventing long-form text retention", "correct": false }
+  ]
+}

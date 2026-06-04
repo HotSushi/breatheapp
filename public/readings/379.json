@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The gap between intention and action is not primarily a problem of motivation but of encoding. When people form a goal vaguely — 'I should exercise more' — they create no specific retrieval cue and the intention drifts, surfacing as guilt rather than behavior. Research on goal-setting by Gabriele Oettingen introduced WOOP: Wish, Outcome, Obstacle, Plan. The Plan step, which specifies a concrete if-then response to a likely obstacle, is what transforms a floating aspiration into a prospective memory trace with an actual trigger. Without the trigger, the wish remains a wish. The mind is not a filing cabinet; intentions without cues are intentions without addresses — they cannot be delivered.",
+  "question": "According to the passage, what is the primary reason vague goals fail to produce action?",
+  "options": [
+    { "text": "They are associated with negative emotions like guilt rather than positive ones.", "correct": false },
+    { "text": "They lack the motivational intensity of more specific goals.", "correct": false },
+    { "text": "They create no specific retrieval cue to trigger the behavior.", "correct": true },
+    { "text": "They overload working memory by remaining unresolved for too long.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "William James, writing in 1890, noticed that humans have two distinct modes of attending: voluntary attention, which requires effort and fatigues, and involuntary attention, drawn irresistibly by novelty or threat. Deep work requires sustained voluntary attention — what James called the 'will to attend' — held in place against constant pulls toward distraction. Flow states, paradoxically, dissolve this distinction. Once absorption is complete, attention no longer feels voluntary; it simply is. The act of maintaining focus disappears as a separate effort, suggesting that flow is not sustained concentration but the moment when concentration ceases to cost anything.",
+  "question": "According to the passage, what distinguishes flow from ordinary voluntary attention?",
+  "options": [
+    { "text": "Flow relies on involuntary attention triggered by novelty or threat.", "correct": false },
+    { "text": "In flow, maintaining focus ceases to feel like a separate, effortful act.", "correct": true },
+    { "text": "Flow strengthens voluntary attention by making it habitual over time.", "correct": false },
+    { "text": "Voluntary attention and flow both fatigue the brain, but at different rates.", "correct": false }
+  ]
+}

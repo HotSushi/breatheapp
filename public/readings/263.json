@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Right Mindfulness, or samma sati, is defined in the Satipatthana Sutta through four foundations: body (kaya), feeling-tone (vedana), mind-states (citta), and mental objects (dhamma). The vedana foundation is particularly subtle — it does not mean emotion but rather the immediate valence of experience: pleasant, unpleasant, or neutral. Psychologist Paul Ekman, collaborating with the Dalai Lama, found that practitioners skilled in vedana observation could detect the onset of an emotional impulse before it became a full reaction. This gap between stimulus and response is precisely where the Satipatthana training aims to operate.",
+  "question": "According to the passage, what does the Pali term vedana refer to in the context of mindfulness?",
+  "options": [
+    { "text": "The full range of human emotions, including joy and grief", "correct": false },
+    { "text": "The quality of a meditator's concentration during formal sitting", "correct": false },
+    { "text": "The immediate valence of experience — pleasant, unpleasant, or neutral", "correct": true },
+    { "text": "Mental objects observed during insight meditation", "correct": false }
+  ]
+}

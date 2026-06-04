@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Psychologist Mihaly Csikszentmihalyi spent decades studying the conditions under which people lose themselves entirely in work. He called the resulting state 'flow' — a zone of effortless concentration where self-consciousness recedes and performance peaks. Flow requires that challenge and skill be closely matched: too easy and attention drifts, too hard and anxiety intrudes. Crucially, flow cannot be forced; it must be invited through what Csikszentmihalyi called 'autotelic' conditions — tasks intrinsically rewarding, with clear goals and immediate feedback. Time sprints create a structural scaffold that nudges those conditions into place by clearing external interruptions before the deeper state can settle.",
+  "question": "According to the passage, what does Csikszentmihalyi mean by 'autotelic' conditions?",
+  "options": [
+    { "text": "Tasks that are difficult enough to require prolonged concentration", "correct": false },
+    { "text": "Work environments free from digital notifications and interruptions", "correct": false },
+    { "text": "Tasks that are intrinsically rewarding with clear goals and immediate feedback", "correct": true },
+    { "text": "Mental states achieved only after at least ninety minutes of uninterrupted effort", "correct": false }
+  ]
+}

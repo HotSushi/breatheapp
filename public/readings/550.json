@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Desert Fathers of fourth-century Egypt built their withdrawal theology around a single Greek word: hesychia, meaning stillness or interior quiet. Abba Moses taught that a monk who leaves his cell for the crowd loses not just time but a specific cognitive capacity — the ability to hear the 'logismoi,' the subtle interior thoughts that, when attended to, reveal the roots of compulsive behavior. This is strikingly close to modern metacognitive research: the default mode network, active in quiet solitude, performs the self-referential processing that enables pattern recognition about one's own mental habits. The Fathers were mapping, in spiritual language, real neurological territory.",
+  "question": "What capacity did Abba Moses warn a monk loses by leaving his cell for the crowd?",
+  "options": [
+    { "text": "The ability to memorize scripture accurately", "correct": false },
+    { "text": "Resistance to physical temptation", "correct": false },
+    { "text": "Communal bonds with other monastics", "correct": false },
+    { "text": "The ability to hear subtle interior thoughts revealing roots of compulsive behavior", "correct": true }
+  ]
+}

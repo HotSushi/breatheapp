@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Marcus Aurelius opened each morning with a deliberate act the Stoics called prosoche — a self-directed attention to the quality of one's own mind. Before engaging the world, Marcus rehearsed anticipated frictions: difficult people, interruptions, ingratitude. This was not pessimism but inoculation. By pre-loading awareness of what the day might demand, he narrowed the gap between impulse and response. Epictetus called this gap the only territory a person truly owns. Prosoche was the daily labor of guarding that territory — not once, at dawn, but continuously, returning attention to the present moment each time circumstance pulled it elsewhere.",
+  "question": "According to the passage, why did Marcus Aurelius rehearse anticipated difficulties each morning?",
+  "options": [
+    { "text": "To cultivate pessimism and lower his expectations for the day", "correct": false },
+    { "text": "To narrow the gap between impulse and response through prior awareness", "correct": true },
+    { "text": "To satisfy Epictetus's requirement of a morning ritual", "correct": false },
+    { "text": "To identify enemies and prepare arguments against them", "correct": false }
+  ]
+}

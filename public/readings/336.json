@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The so-called 'cliffhanger effect' in narrative psychology is Zeigarnik's finding dressed in different clothes. Television writers have long exploited it deliberately: end an episode at the moment of maximum uncertainty, and the viewer's cognitive system will replay the unresolved scene compulsively until the next installment. Psychologist Arie Kruglanski's 'need for cognitive closure' research adds nuance here. Individuals with a high need for closure experience incomplete narratives as more distressing and seek resolution more urgently. Those low in this need tolerate ambiguity with greater ease. The Zeigarnik effect, then, is not uniform — it interacts with stable personality traits governing how the mind handles open questions.",
+  "question": "According to the passage, how does Kruglanski's 'need for cognitive closure' research relate to the Zeigarnik effect?",
+  "options": [
+    { "text": "It disproves the effect by showing that most people tolerate incompletion well", "correct": false },
+    { "text": "It shows the effect is stronger in people who have lower working memory capacity", "correct": false },
+    { "text": "It reveals that the effect is not uniform but varies with personality traits", "correct": true },
+    { "text": "It demonstrates that narrative contexts do not trigger the Zeigarnik effect", "correct": false }
+  ]
+}

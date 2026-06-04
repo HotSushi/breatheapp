@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Phenomenologist Edmund Husserl described consciousness as having a temporal structure: each moment contains a 'retention' of the just-past and a 'protention' reaching toward the imminent future. This threefold structure — retention, primal impression, protention — is what makes experience feel continuous rather than a series of disconnected snapshots. Constant digital interruption disrupts this temporal weave. When a notification breaks a train of thought, it is not just a pause; it severs the retention-protention arc, collapsing the experiential horizon. Recovery is not instantaneous — researchers estimate it takes over 20 minutes to fully reconstitute deep attention after an interruption.",
+  "question": "According to the passage, what is Husserl's 'protention'?",
+  "options": [
+    { "text": "The vivid memory of a completed experience stored in long-term memory.", "correct": false },
+    { "text": "A forward-reaching dimension of consciousness oriented toward the imminent future.", "correct": true },
+    { "text": "The brain's mechanism for suppressing irrelevant sensory input during focus.", "correct": false },
+    { "text": "A retrospective reconstruction that gives experience an illusion of continuity.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In a widely cited 2014 study, Timothy Wilson and colleagues found that people would rather administer mild electric shocks to themselves than sit alone with their thoughts for fifteen minutes. The discomfort was not pain but the absence of structure — minds accustomed to external stimulation found unscripted inner experience aversive. What Wilson's study reveals is not that boredom is unpleasant but that we have become unskilled at inhabiting it. The capacity to sit with an unoccupied mind — once developed through commutes, queues, and idle afternoons — is now so atrophied that solitude registers as threat rather than opportunity.",
+  "question": "What does Wilson's 2014 study suggest about why people find sitting with their thoughts uncomfortable?",
+  "options": [
+    { "text": "Unstructured thought generates anxiety by activating the brain's threat-detection systems.", "correct": false },
+    { "text": "People have become unskilled at inhabiting unoccupied mental states due to over-reliance on external stimulation.", "correct": true },
+    { "text": "The human mind naturally prefers physical sensation to abstract reflection.", "correct": false },
+    { "text": "Fifteen minutes is too long a duration for most people to sustain voluntary attention.", "correct": false }
+  ]
+}

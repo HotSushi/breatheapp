@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Neuroscientist Richard Davidson spent decades studying how mental training alters brain function. When he examined Tibetan monks with tens of thousands of hours of contemplative practice, he found unusually high-amplitude gamma oscillations — neural synchrony associated with focused, integrative cognition. But Davidson was equally interested in novices. Even eight weeks of mindfulness training produced measurable increases in left-prefrontal activation, a pattern linked to positive affect and attentional stability. The brain, Davidson argued, is an organ of experience, not merely its passive recorder. Train it deliberately, and it changes in the direction of your training.",
+  "question": "According to Davidson's research, what did eight weeks of mindfulness training produce in novices?",
+  "options": [
+    { "text": "High-amplitude gamma oscillations comparable to those seen in expert monks", "correct": false },
+    { "text": "A reduction in prefrontal activation due to efficiency gains", "correct": false },
+    { "text": "Measurable increases in left-prefrontal activation linked to attentional stability", "correct": true },
+    { "text": "Structural thickening in the insula but not the prefrontal cortex", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In 1670, Blaise Pascal wrote what may be the most devastating diagnosis of the human condition: 'All of humanity's problems stem from man's inability to sit quietly in a room alone.' He was not speaking metaphorically. Pascal observed that kings, courtiers, and commoners alike flee solitude with frantic urgency — filling hours with hunting, gambling, and war — not because these pursuits are pleasurable, but because they prevent a particular kind of suffering. The suffering of confronting oneself. Distraction, for Pascal, was not laziness. It was a sophisticated existential defense against the terror of one's own finitude.",
+  "question": "According to Pascal, why do people fill their lives with diversions like hunting and gambling?",
+  "options": [
+    { "text": "Because these activities bring genuine pleasure and social connection", "correct": false },
+    { "text": "Because idleness leads to physical and moral decay", "correct": false },
+    { "text": "To avoid confronting themselves and the terror of their own finitude", "correct": true },
+    { "text": "Because human nature is inherently restless and cannot be trained otherwise", "correct": false }
+  ]
+}

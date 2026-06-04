@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Not all rest is equal in its effect on creative insight. Psychologist Sandi Mann found that boredom — specifically the mild frustration of an unstimulating task like copying numbers from a phone book — produced higher scores on divergent thinking tests than a relaxed control condition. Boredom, she argued, triggers the mind to search for stimulation from within, activating daydreaming and internally generated thought. It is not the absence of stimulation but the desire for it that seems to incubate creativity. This distinction matters: passive rest may restore attention, but productive boredom appears to generate it anew.",
+  "question": "What did Sandi Mann's research find produced higher divergent thinking scores than relaxed rest?",
+  "options": [
+    { "text": "Engaging in light physical exercise like walking", "correct": false },
+    { "text": "Mild boredom, such as copying numbers from a phone book", "correct": true },
+    { "text": "Listening to music without lyrics or visual stimulation", "correct": false },
+    { "text": "Short sleep episodes of fifteen minutes or less", "correct": false }
+  ]
+}

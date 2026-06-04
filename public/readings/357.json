@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "There is a paradox at the heart of the attentional blink: trying harder makes it worse. When participants are highly motivated to catch the second target, the blink deepens. Cognitive neuroscientist Bernhard Hommel and others have proposed that this reflects an overly tight attentional episode — the more resources devoted to locking in the first target, the longer the gate stays closed. The remedy is counterintuitive: a looser, less effortful mode of attention allows the brain to process and release the first stimulus more quickly. This mirrors ancient meditative instructions to observe without grasping, now validated in millisecond-resolution reaction-time data.",
+  "question": "According to the passage, what makes the attentional blink worse?",
+  "options": [
+    { "text": "Low motivation and inattentive observation", "correct": false },
+    { "text": "Highly effortful attention that locks resources onto the first target", "correct": true },
+    { "text": "Presenting the two targets in different sensory channels", "correct": false },
+    { "text": "Extending the interval between the two targets beyond 500 milliseconds", "correct": false }
+  ]
+}

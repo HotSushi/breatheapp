@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Duhigg's investigation of Febreze's failed product launch revealed a counterintuitive truth about rewards: they must satisfy a craving that already exists, or create a new one. Procter & Gamble's original campaign positioned Febreze as an odor eliminator for homes with serious smells. Sales were flat — people with chronically smelly environments had adapted to it and felt no craving for freshness. The turnaround came when marketers repositioned Febreze as a finishing ritual: a spritz at the end of cleaning that delivered a sensory signal of completion. The product created a new craving — the feeling of a job done — and the habit loop snapped into place almost immediately.",
+  "question": "Why did Febreze's original marketing campaign fail, according to the passage?",
+  "options": [
+    { "text": "Consumers did not understand how the odor elimination technology worked", "correct": false },
+    { "text": "The cue was too subtle to reliably trigger the cleaning routine", "correct": false },
+    { "text": "People with chronically smelly homes had adapted and felt no craving for freshness", "correct": true },
+    { "text": "The reward of freshness competed with an existing habit loop tied to cleaning products", "correct": false }
+  ]
+}

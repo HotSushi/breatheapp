@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Neo-Confucian philosopher Wang Yangming taught that innate moral knowledge — liangzhi — is not acquired through external study but recovered by quieting the interference of selfish desire. His doctrine of 'knowledge and action as one' echoes wu wei: genuine understanding expresses itself directly in behavior without the labored detour of deliberate calculation. This parallels what cognitive scientists call 'automaticity,' the state in which deeply integrated skills bypass conscious effortful control. For Wang, as for Laozi, the goal was not to eliminate the mind but to let it function without the static of anxious self-direction.",
+  "question": "According to Wang Yangming's teaching described in the passage, how is innate moral knowledge — liangzhi — recovered?",
+  "options": [
+    { "text": "Through rigorous external study and memorization of classical texts", "correct": false },
+    { "text": "By quieting the interference of selfish desire", "correct": true },
+    { "text": "Through physical labor that disciplines the body and calms the mind", "correct": false },
+    { "text": "By observing the behavior of moral exemplars", "correct": false }
+  ]
+}

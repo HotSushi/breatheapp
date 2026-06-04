@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The concept of \"extent\" in Attention Restoration Theory refers not merely to physical size but to richness of coherent scope. An environment possesses extent when it contains enough depth, variety, and internal consistency to constitute a whole world unto itself — one the mind can wander through without bumping against limits that redirect attention back to everyday concerns. A forest qualifies not because it is large but because it is legible: patterned, layered, and self-referential in ways that sustain exploration. A cluttered office may occupy more visual real estate yet offers no comparable extent, because its contents point relentlessly back toward obligation and task.",
+  "question": "In Attention Restoration Theory, what primarily determines whether an environment possesses 'extent'?",
+  "options": [
+    { "text": "The physical size of the space relative to the observer's body", "correct": false },
+    { "text": "The absence of man-made objects within the environment", "correct": false },
+    { "text": "The level of ambient noise present in the environment", "correct": false },
+    { "text": "Its richness and coherence as a whole world the mind can explore without hitting limits", "correct": true }
+  ]
+}

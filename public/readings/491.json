@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Psychologist Sandi Mann spent years studying workplace boredom before arriving at a counterintuitive conclusion: boredom is not an absence of thought but a surplus of restless cognitive energy seeking an outlet. When we eliminate boredom with smartphones, we don't rest the mind — we redirect that energy into passive consumption, which satisfies nothing. Mann's research found that people who performed a boring task before a creative exercise generated significantly more original ideas than those who skipped straight to the exercise. The discomfort of boredom, it turns out, is the friction that ignites imagination.",
+  "question": "What did Sandi Mann's research find about boredom and creative output?",
+  "options": [
+    { "text": "Boredom causes cognitive fatigue that undermines creative thinking.", "correct": false },
+    { "text": "People who did a boring task first generated more original ideas in a subsequent creative exercise.", "correct": true },
+    { "text": "Passive phone use restores mental energy more effectively than sitting with boredom.", "correct": false },
+    { "text": "Creative workers should avoid boredom to maintain consistently high output.", "correct": false }
+  ]
+}

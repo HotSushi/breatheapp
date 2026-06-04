@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In the Gita's sixth chapter, Krishna describes the disciplined mind using the image of a lamp in a windless place — its flame unwavering, undistracted. This metaphor is precise. A lamp in wind does not go out; it merely flickers, consuming more fuel to produce the same light. The undisciplined mind similarly wastes enormous energy on micro-corrections: suppressing intrusive thoughts, recovering attention, re-engaging with interrupted work. Neurologically, each act of recovery costs prefrontal resources. Krishna's windless lamp suggests an environment and an inner disposition so settled that recovery never becomes necessary — because drift never begins.",
+  "question": "In the passage's interpretation of Krishna's lamp metaphor, what does the flickering flame represent?",
+  "options": [
+    { "text": "The spiritual insight that arises during moments of deep meditation", "correct": false },
+    { "text": "The mind extinguished by excessive distraction and loss of discipline", "correct": false },
+    { "text": "A mind wasting energy on micro-corrections rather than going out entirely", "correct": true },
+    { "text": "The transition from karma yoga to jnana yoga in the Gita's teaching", "correct": false }
+  ]
+}

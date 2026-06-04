@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Temporal distortion is one of the most consistent markers of deep flow states. Neuroscientists studying peak performance found that the brain's insular cortex — responsible for interoception and tracking the passage of time — reduces its activity during intense absorption. This is not mere distraction; it is a coordinated suppression. The self-referential default mode network also quiets, eliminating the background narration of 'how am I doing?' and 'how long has it been?' The result is a compression of experienced duration: hours collapse into what feels like minutes. Athletes, surgeons, and programmers all report this same dissolution of clock-time during their most productive episodes.",
+  "question": "Which brain region does the passage identify as responsible for tracking the passage of time?",
+  "options": [
+    { "text": "The prefrontal cortex", "correct": false },
+    { "text": "The default mode network", "correct": false },
+    { "text": "The hippocampus", "correct": false },
+    { "text": "The insular cortex", "correct": true }
+  ]
+}

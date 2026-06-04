@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Novices and experts navigate cognitive load very differently, and the gap has less to do with raw intelligence than with the structure of stored knowledge. For a novice, a complex problem generates high intrinsic load because each element must be held separately in working memory. For an expert, the same problem activates consolidated schemas — compact, interrelated knowledge structures that act like cognitive shortcuts. Kalyuga's 'expertise reversal effect' describes what happens when instruction designed for novices is given to experts: the scaffolding itself becomes extraneous load, slowing the expert down. Good teaching must be calibrated not just by interest, but by cognitive architecture.",
+  "question": "What is the 'expertise reversal effect' described by Kalyuga in the passage?",
+  "options": [
+    { "text": "Experts revert to novice-like errors when under time pressure", "correct": false },
+    { "text": "Novice-designed instruction becomes extraneous cognitive load for experts", "correct": true },
+    { "text": "Expertise causes over-reliance on schemas, reducing creative flexibility", "correct": false },
+    { "text": "Experts forget basic principles once advanced schemas are formed", "correct": false }
+  ]
+}

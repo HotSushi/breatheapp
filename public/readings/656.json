@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Open-plan offices, celebrated in the 1990s as engines of collaboration, have spent two decades accumulating evidence against them. A 2018 Harvard study by Ethan Bernstein and Stephen Turban found that removing physical barriers reduced face-to-face interaction by 70%, while electronic communication increased. Workers adapted to the visual chaos by wearing headphones and erecting psychological walls — a costly workaround that degrades concentration. The lesson for environmental design is counterintuitive: proximity without acoustic privacy does not create connection; it creates defensive isolation. Boundaries, not openness, are the substrate of genuine collaborative flow.",
+  "question": "What did Bernstein and Turban's 2018 Harvard study find happened to face-to-face interaction after physical barriers were removed?",
+  "options": [
+    { "text": "It increased significantly as employees felt more accessible to colleagues", "correct": false },
+    { "text": "It remained stable while electronic communication also increased", "correct": false },
+    { "text": "It decreased by 70% while electronic communication increased", "correct": true },
+    { "text": "It shifted toward informal exchanges but formal meetings declined", "correct": false }
+  ]
+}

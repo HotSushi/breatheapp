@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "During slow-wave sleep, the hippocampus replays the day's experiences in compressed sequences, transferring them to the neocortex for long-term storage. Matthew Walker's research at UC Berkeley demonstrated that a single night of sleep deprivation reduces the hippocampus's ability to encode new memories by nearly 40%. This is not mere fatigue — the mechanism involves adenosine accumulation and a breakdown of synaptic tagging, the molecular process by which neurons flag which connections should be strengthened. Without sleep, the brain's archivist stops filing, and attention during waking hours suffers as a consequence.",
+  "question": "According to the passage, what molecular process breaks down when sleep is lost?",
+  "options": [
+    { "text": "Adenosine clearance from the prefrontal cortex", "correct": false },
+    { "text": "Hippocampal replay of compressed memory sequences", "correct": false },
+    { "text": "Synaptic tagging, which flags connections for strengthening", "correct": true },
+    { "text": "Neocortical transfer of sensory information", "correct": false }
+  ]
+}

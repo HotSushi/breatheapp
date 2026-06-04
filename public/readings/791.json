@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "In the 1970s, chronobiologist Franz Halberg coined the term \"circadian\" from the Latin circa diem — approximately one day. He demonstrated that the human body does not simply respond to the environment but anticipates it. Core body temperature begins rising around 4 a.m., hours before waking. Cortisol surges before dawn to mobilize energy. These rhythms persist even in total darkness, driven by a master clock in the suprachiasmatic nucleus — roughly 20,000 neurons sitting just above the optic chiasm. Halberg's insight was radical: the body is a timekeeper first, and a reactor second.",
+  "question": "According to the passage, what did Halberg argue was the body's primary role?",
+  "options": [
+    { "text": "Responding rapidly to environmental stressors through cortisol", "correct": false },
+    { "text": "Keeping time and anticipating the environment, not merely reacting to it", "correct": true },
+    { "text": "Regulating temperature through sunlight exposure", "correct": false },
+    { "text": "Synchronizing the suprachiasmatic nucleus with the adrenal glands", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The concept of the 'attention economy,' introduced by economist Herbert Simon in 1971 and later elaborated by Michael Goldhaber, holds that in a world of information abundance, human attention becomes the scarce resource for which producers compete. What Simon could not have anticipated was the industrialization of that competition. Today, hundreds of billions of dollars fund research into how to extend dwell time by milliseconds, which notification copy triggers more opens, which thumbnail color drives more clicks. Attention has become a commodity extracted at scale, and the extractors have tools Simon could not have imagined.",
+  "question": "According to the passage, what resource did Herbert Simon identify as scarce in a world of information abundance?",
+  "options": [
+    { "text": "Reliable journalists and editors", "correct": false },
+    { "text": "Bandwidth and computing infrastructure", "correct": false },
+    { "text": "Original creative content", "correct": false },
+    { "text": "Human attention", "correct": true }
+  ]
+}

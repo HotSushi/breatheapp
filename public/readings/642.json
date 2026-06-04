@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Gary Keller, in his book 'The One Thing,' draws on research showing that extraordinary results are rarely the product of doing many things adequately. He cites the Pareto principle as evidence: in almost every domain, roughly 20 percent of efforts produce 80 percent of outcomes. Keller's insight is not merely motivational — it is structural. When you identify the single task that, if completed, makes everything else easier or unnecessary, you are applying leverage to your time. The discipline of single-tasking begins not with willpower but with that act of identification: choosing the one thing before sitting down.",
+  "question": "According to the passage, what does Keller identify as the starting point of single-tasking discipline?",
+  "options": [
+    { "text": "Eliminating distractions from your workspace", "correct": false },
+    { "text": "Applying the Pareto principle to daily scheduling", "correct": false },
+    { "text": "Identifying the one task that makes everything else easier before sitting down", "correct": true },
+    { "text": "Building willpower through consistent morning routines", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil identified a specific failure mode she called 'imaginary attention' — the state of appearing to study or listen while the mind fills the void with fantasy and self-concern. This is distinct from mere distraction; it is worse because it produces the illusion of engagement. The student who reads a page while inwardly rehearsing a conversation, or the friend who nods while composing a reply — both have substituted a private theater for genuine contact with what is before them. Weil argued that imaginary attention is not a lesser version of real attention but its opposite: it actively prevents the self-emptying on which real understanding depends.",
+  "question": "Why does Weil consider 'imaginary attention' worse than mere distraction?",
+  "options": [
+    { "text": "It consumes more cognitive energy than genuine engagement", "correct": false },
+    { "text": "It produces the illusion of engagement while actively preventing real self-emptying", "correct": true },
+    { "text": "It is a conscious form of self-deception, whereas distraction is involuntary", "correct": false },
+    { "text": "It is more difficult to correct once it becomes habitual", "correct": false }
+  ]
+}

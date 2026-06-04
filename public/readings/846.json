@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Andy Clark's book 'Natural-Born Cyborgs' argues that humans are uniquely disposed among animals to incorporate tools into their sense of self. When a skilled carpenter uses a hammer, proprioceptive signals update so that the hammer's tip feels like an extension of the hand. Neuroscientists have confirmed this: the brain's body-map, or homunculus, expands to include tools during prolonged use. Clark claims this neural plasticity is not an accidental byproduct of motor learning but the signature of a mind built from birth to dissolve the boundary between body and implement. We do not merely use tools — we absorb them.",
+  "question": "What neurological evidence does Clark cite to support the idea that humans absorb tools into their sense of self?",
+  "options": [
+    { "text": "The prefrontal cortex grows larger in tool-using populations", "correct": false },
+    { "text": "The brain's body-map expands to include tools during prolonged use", "correct": true },
+    { "text": "Dopamine levels rise when humans handle familiar tools", "correct": false },
+    { "text": "Mirror neurons fire identically whether a person or a tool performs an action", "correct": false }
+  ]
+}

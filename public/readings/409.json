@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Nir Eyal, in his later book Indistractable (2019), made a significant pivot. Having written the definitive guide to manufacturing user habits, he turned to the question of how individuals resist the systems he had described. His central claim was that distraction is not caused by technology but by our failure to manage discomfort. Every instance of distraction, he argued, is preceded by an internal trigger — an itch of boredom, anxiety, or loneliness. Technology is merely the most convenient scratch. This framing has been criticized for placing the burden of resistance entirely on the individual while exonerating the deliberate engineering that created the itch-scratch cycle in the first place.",
+  "question": "What criticism does the passage raise against Eyal's argument in Indistractable?",
+  "options": [
+    { "text": "His advice is technically impractical for ordinary smartphone users", "correct": false },
+    { "text": "He fails to distinguish between internal and external triggers accurately", "correct": false },
+    { "text": "It places the burden of resistance on individuals while exonerating deliberate platform engineering", "correct": true },
+    { "text": "He contradicts his own earlier findings about variable reward schedules", "correct": false }
+  ]
+}

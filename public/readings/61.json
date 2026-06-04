@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Every time you switch tasks, your brain pays a toll. Psychologist David Meyer calls this the \"task-switch cost\" — the measurable drop in speed and accuracy that follows any interruption. The cost arises because the prefrontal cortex must disengage one set of task-relevant rules and load another, a process that takes between 200 milliseconds and several seconds depending on task complexity. Meyer's studies found that even brief mental blocks created by task-switching can cost as much as 40 percent of productive time. The brain is not a computer that context-switches cleanly; each transition leaves residue.",
+  "question": "According to David Meyer's research, how much productive time can be lost to task-switching?",
+  "options": [
+    { "text": "Up to 20 percent", "correct": false },
+    { "text": "Up to 30 percent", "correct": false },
+    { "text": "Up to 40 percent", "correct": true },
+    { "text": "Up to 60 percent", "correct": false }
+  ]
+}

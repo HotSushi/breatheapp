@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Philosopher Martin Heidegger described 'ready-to-hand' experience as the state in which a tool disappears from consciousness during skillful use: the hammer vanishes when you hammer well. This transparency is the phenomenology of flow. The writer who is truly absorbed does not feel the keyboard; the surgeon does not feel the scalpel. The moment a tool becomes 'present-at-hand' — noticed, analyzed, awkward — absorption breaks. Distraction, on this reading, is not merely an interruption of attention but an ontological shift: you are thrown back from absorbed doing into self-conscious observing, which is an entirely different relationship with the world.",
+  "question": "According to the passage, what does Heidegger mean when a tool becomes 'present-at-hand'?",
+  "options": [
+    { "text": "The tool is being used for the first time and requires careful study.", "correct": false },
+    { "text": "The tool is functioning perfectly and no longer requires conscious monitoring.", "correct": false },
+    { "text": "The tool becomes noticed and analyzed, breaking absorbed, skillful engagement.", "correct": true },
+    { "text": "The tool has been mastered and can now be used in a flow state automatically.", "correct": false }
+  ]
+}

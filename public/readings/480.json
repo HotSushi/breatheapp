@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Media theorist Douglas Rushkoff coined the phrase 'present shock' to describe a culture so saturated with real-time information streams that narrative — the ability to connect past and future into coherent story — begins to dissolve. Where television gave us a story arc, the feed gives us an eternal present of disconnected updates, each one crowding out the last. Rushkoff argues this is not merely uncomfortable; it impairs agency. To act intentionally requires imagining consequences that unfold over time. A mind trapped in the perpetual now, perpetually notified, becomes reactive rather than deliberate — responding to stimuli rather than pursuing goals.",
+  "question": "According to Rushkoff, why does 'present shock' impair human agency?",
+  "options": [
+    { "text": "Real-time feeds expose users to more stressful news than they can process", "correct": false },
+    { "text": "Acting intentionally requires imagining consequences over time, which present shock prevents", "correct": true },
+    { "text": "Constant notifications physically exhaust the prefrontal cortex", "correct": false },
+    { "text": "Narrative storytelling is the only medium that builds empathy", "correct": false }
+  ]
+}

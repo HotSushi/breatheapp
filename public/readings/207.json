@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The physiologist Herbert Benson, studying Tibetan tummo practitioners at Harvard in the 1980s, documented what he called the 'relaxation response': a reproducible state of reduced metabolic activity triggered by sustained breath focus. Oxygen consumption dropped 10 to 17 percent — a far steeper decline than sleep produces. Benson argued this was not a mystical phenomenon but an evolved counterpart to the fight-or-flight response, equally hardwired but rarely activated in modern life. The breath, in this framing, is not a symbol of calm but a direct physiological lever: slow it deliberately, and the nervous system follows within seconds, regardless of what the thinking mind believes.",
+  "question": "According to the passage, how did Benson explain the relaxation response triggered by breath focus?",
+  "options": [
+    { "text": "As a mystical state unique to advanced Tibetan practitioners", "correct": false },
+    { "text": "As the brain suppressing the default mode network during concentration", "correct": false },
+    { "text": "As an evolved counterpart to fight-or-flight, equally hardwired but rarely activated", "correct": true },
+    { "text": "As a conditioned response that requires years of practice to reliably reproduce", "correct": false }
+  ]
+}

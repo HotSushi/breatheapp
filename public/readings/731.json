@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "When Hans Selye first described the stress response in 1936, he identified a cascade he called the General Adaptation Syndrome — a three-stage arc of alarm, resistance, and exhaustion. What he could not yet know was how intimately this cascade would intersect with attention itself. The adrenal glands release cortisol within minutes of a perceived threat, and cortisol in turn floods the amygdala with heightened reactivity. The brain enters a surveillance mode optimized for danger, not for sustained thought. Cognitive resources that once served deliberate focus are conscripted for threat detection, leaving the prefrontal cortex starved of the metabolic fuel it needs to function.",
+  "question": "According to the passage, what happens to prefrontal cortex function when cortisol floods the amygdala?",
+  "options": [
+    { "text": "It becomes hyperactive, generating excessive worry", "correct": false },
+    { "text": "It shuts down entirely, causing unconsciousness", "correct": false },
+    { "text": "It is starved of metabolic fuel needed to function", "correct": true },
+    { "text": "It redirects energy toward memory consolidation", "correct": false }
+  ]
+}

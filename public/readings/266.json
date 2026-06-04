@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Eightfold Path's Right Concentration (samma samadhi) is sometimes misread as a passive state of blissful absorption. In fact, the Canon describes four jhana stages, each involving active mental factors. The first jhana includes vitarka (applied thought) and vicara (sustained examination); later stages progressively release these in favor of equanimity and one-pointedness. Cognitive scientist Francisco Varela, co-author of The Embodied Mind, argued that jhana practice cultivates what phenomenologists call 'second-order attention' — awareness that can observe itself without collapsing into the observed. This reflexive quality distinguishes deep concentration from mere relaxation.",
+  "question": "According to the passage, what distinguishes the first jhana from later stages of concentration?",
+  "options": [
+    { "text": "The first jhana involves applied thought and sustained examination, which later stages release", "correct": true },
+    { "text": "The first jhana is passive, while later stages require active mental effort", "correct": false },
+    { "text": "The first jhana develops second-order attention, while later stages return to ordinary awareness", "correct": false },
+    { "text": "The first jhana is accessible to beginners, while later stages require monastic training", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Variable reinforcement interacts with social reward in ways that multiply its power. Psychologist John Cacioppo's research on loneliness established that social exclusion activates the same neural circuitry as physical pain, and social acceptance activates reward pathways comparable to other primary rewards. When a post receives likes, the brain registers not merely a numerical increment but a social signal with deep evolutionary weight. Platforms exploit this by making the delivery of social feedback unpredictable in timing and magnitude: you cannot know when the likes will arrive or how many. The result is a notification system that fuses variable reinforcement with a reward category — social acceptance — that the brain treats as a survival input.",
+  "question": "What made social feedback on platforms particularly potent, according to the passage?",
+  "options": [
+    { "text": "It is more frequent than other types of reward, creating stronger habituation", "correct": false },
+    { "text": "It activates memory circuits that make experiences more vivid and harder to forget", "correct": false },
+    { "text": "It bypasses the prefrontal cortex entirely, acting on older limbic structures", "correct": false },
+    { "text": "Variable timing fuses reinforcement schedules with a reward the brain treats as a survival input", "correct": true }
+  ]
+}

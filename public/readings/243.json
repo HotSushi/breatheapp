@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Dependent origination — pratītyasamutpāda in Sanskrit — is one of the Buddha's central teachings: all phenomena arise in dependence on conditions and cease when those conditions change. Unlike Western substance metaphysics, which assumes things possess intrinsic natures, dependent origination holds that identity is always relational. The philosopher Nāgārjuna developed this into Madhyamaka philosophy, arguing that because nothing is self-grounding, everything is \"empty\" (śūnya) of inherent existence. Emptiness is not nihilism; it is the recognition that existence is dynamic, interdependent process. This reframes suffering: clinging to fixed selfhood resists the very structure of reality.",
+  "question": "According to the passage, what does Nāgārjuna mean by saying things are \"empty\"?",
+  "options": [
+    { "text": "That physical matter is an illusion created by the mind", "correct": false },
+    { "text": "That suffering makes life feel devoid of meaning", "correct": false },
+    { "text": "That nothing has a fixed, self-grounding nature independent of conditions", "correct": true },
+    { "text": "That spiritual practice empties the mind of thought", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Soft fascination is the quiet engine of attention restoration. Unlike hard fascination — the gripping, involuntary pull of a thriller or a news alert — soft fascination captures the mind gently, without fully consuming it. A rippling stream, drifting clouds, or the movement of leaves holds attention with just enough engagement to prevent mind-wandering into rumination, while leaving cognitive capacity free for reflection. The Kaplans observed that this partially engaged state is precisely what depleted minds need: not blank emptiness, which invites intrusive thoughts, nor intense absorption, which continues to tax directed attention. Soft fascination is the narrow band where recovery actually happens.",
+  "question": "How does soft fascination differ from hard fascination in its effect on the mind?",
+  "options": [
+    { "text": "Soft fascination blocks all conscious thought, while hard fascination allows reflection", "correct": false },
+    { "text": "Soft fascination captures attention gently, leaving capacity free for reflection, while hard fascination consumes it fully", "correct": true },
+    { "text": "Soft fascination requires outdoor settings, while hard fascination can occur indoors", "correct": false },
+    { "text": "Soft fascination activates the prefrontal cortex, while hard fascination suppresses it", "correct": false }
+  ]
+}

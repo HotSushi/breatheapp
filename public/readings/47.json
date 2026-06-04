@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Neuroscientist Clifford Nass spent years studying media multitaskers at Stanford. He expected to find that heavy multitaskers had superior attentional control — that constant task-switching had honed their filtering abilities. What he found was the opposite. Chronic multitaskers were worse at ignoring irrelevant stimuli, worse at switching tasks deliberately, and worse at holding information in working memory than light multitaskers. The brain they had built through repeated fragmentation was a brain tuned for distraction. Neuroplasticity is not inherently beneficial; it shapes the brain toward whatever it practices most. Sustained attention and scattered attention both leave structural traces.",
+  "question": "What surprised Clifford Nass about heavy multitaskers at Stanford?",
+  "options": [
+    { "text": "They showed superior working memory but weaker emotional regulation", "correct": false },
+    { "text": "They were better at ignoring irrelevant stimuli than light multitaskers", "correct": false },
+    { "text": "They were worse at ignoring irrelevant stimuli and worse at deliberate task-switching", "correct": true },
+    { "text": "They had measurably thicker prefrontal cortices from high cognitive load", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Shaun Gallagher distinguishes the 'body schema' — a system of sensorimotor capacities that functions below intentional awareness — from the 'body image,' which is our conscious representation of our body's appearance and location. The two systems normally cooperate but can dissociate. Phantom limb sufferers retain a vivid body schema for an absent limb while their body image acknowledges its loss. This dissociation is philosophically important: it shows that skilled, attentive action draws primarily on schema, not image. When we are absorbed in a task, we act through the schema; when we become self-conscious, we shift to body image, and fluency often breaks down.",
+  "question": "According to Gallagher, what happens to the fluency of skilled action when a person shifts from body schema to body image?",
+  "options": [
+    { "text": "Fluency improves because conscious representation corrects schema errors", "correct": false },
+    { "text": "Fluency is unaffected since the two systems are functionally equivalent", "correct": false },
+    { "text": "Fluency often breaks down when self-conscious body-image attention takes over", "correct": true },
+    { "text": "Fluency increases only when the body image and schema align perfectly", "correct": false }
+  ]
+}

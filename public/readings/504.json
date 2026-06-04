@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "For Aristotle, flourishing was irreducibly social. The solitary person pursuing eudaimonia without community was, he said, either a beast or a god. Human excellence unfolds through friendship, deliberation, and shared projects — relationships he called philia. What this means for attention is underappreciated: Aristotle believed our highest cognitive work emerges in dialogue with others who challenge and sharpen our thinking. The modern habit of consuming algorithmically sorted content in isolation inverts this entirely, replacing demanding reciprocal engagement with passive reception engineered to simulate connection while eliminating its intellectual friction.",
+  "question": "According to the passage, what does Aristotle's concept of philia suggest is lost in algorithmic content consumption?",
+  "options": [
+    { "text": "The demanding reciprocal engagement and intellectual friction of genuine dialogue.", "correct": true },
+    { "text": "The physical proximity that Aristotle believed was necessary for genuine friendship.", "correct": false },
+    { "text": "The civic rituals of Greek city-states that Aristotle documented in the Politics.", "correct": false },
+    { "text": "The capacity for hedone that Aristotle associated with shared feasting and celebration.", "correct": false }
+  ]
+}

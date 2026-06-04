@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The psychologist Jeanne Nakamura, collaborating with Csikszentmihalyi, extended flow research to examine what she called \"vital engagement\" — a fusion of flow and personal meaning. Where flow is a momentary experiential state, vital engagement describes a sustained relationship with an activity developed over years. The rock climber who has climbed for decades does not merely enter flow more reliably; they have built an identity structured around the practice. Nakamura argued that vital engagement is a key component of psychological well-being not captured by hedonic happiness measures. It is the difference between an activity you enjoy and one that, over time, comes to define what your life is about.",
+  "question": "How does Nakamura's concept of 'vital engagement' differ from Csikszentmihalyi's flow?",
+  "options": [
+    { "text": "Vital engagement involves higher skill levels and more intense concentration than flow", "correct": false },
+    { "text": "Flow is cognitive while vital engagement is primarily emotional", "correct": false },
+    { "text": "Flow is a momentary state while vital engagement is a sustained relationship with an activity built over years", "correct": true },
+    { "text": "Vital engagement requires social participation whereas flow can occur in isolation", "correct": false }
+  ]
+}

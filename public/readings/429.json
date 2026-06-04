@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In his 2017 TED Talk, Tristan Harris used the image of a menu to describe how platforms shape choice. When a restaurant offers only ten dishes, your chosen meal still feels freely chosen — but the kitchen decided what was possible. Digital platforms operate as menus: they curate which emotions, connections, and ideas are available for you to engage with. The algorithm does not simply respond to your preferences; it amplifies whatever keeps you scrolling, whether that is curiosity, anxiety, or outrage. Harris argues that this process produces a systematic distortion: the version of the world users encounter online is not representative but optimized for engagement, and over time, that optimization reshapes what users believe is real.",
+  "question": "According to Harris's menu metaphor, what is the key limitation of choice within platforms?",
+  "options": [
+    { "text": "Users must pay for premium content they would otherwise choose for free", "correct": false },
+    { "text": "The platform, not the user, decides what options are available to choose from", "correct": true },
+    { "text": "Algorithms cannot accurately predict individual preferences across diverse users", "correct": false },
+    { "text": "Users are unaware that their data is used to personalize their feed", "correct": false }
+  ]
+}

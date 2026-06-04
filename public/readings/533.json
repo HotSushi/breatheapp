@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Gita's third chapter describes karma yoga — the yoga of action — as a discipline that transforms work into a form of worship. Krishna instructs Arjuna to act as if every deed were an offering to the divine, surrendering the ego's claim on results. This surrender is not passivity; it is a radical reorientation of motivation. Modern psychologists studying 'process orientation' versus 'outcome orientation' echo this insight: those who identify with the activity itself, rather than its reward, exhibit greater persistence, deeper absorption, and less susceptibility to distraction. Krishna's ancient prescription anticipates what cognitive science has spent decades rediscovering.",
+  "question": "According to the passage, what distinguishes 'process-oriented' people in modern psychological research?",
+  "options": [
+    { "text": "They complete tasks faster because they skip self-evaluation", "correct": false },
+    { "text": "Greater persistence, deeper absorption, and less susceptibility to distraction", "correct": true },
+    { "text": "They are more likely to surrender ego claims during competitive situations", "correct": false },
+    { "text": "They report higher satisfaction with outcomes even when results are poor", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus was born into slavery, likely in Hierapolis in the first century CE. His master, Epaphroditus, reportedly twisted his leg as a demonstration of power. According to Celsus, Epictetus said: 'You are breaking it.' When the leg snapped, he said simply: 'Did I not tell you?' The anecdote — possibly apocryphal — captures his philosophy in miniature. The body's destruction was beyond his control; his equanimity was not. His later students included the Roman emperor Marcus Aurelius, who read his Discourses at seventeen. That a freed slave could shape an emperor's inner life illustrates the dichotomy's radical democracy: rank commands nothing over the will.",
+  "question": "What point does the passage make by noting that a freed slave shaped the inner life of an emperor?",
+  "options": [
+    { "text": "That Stoicism was originally developed for the Roman ruling class", "correct": false },
+    { "text": "That Marcus Aurelius learned philosophy only from former slaves", "correct": false },
+    { "text": "That Epictetus eventually gained political influence through his teachings", "correct": false },
+    { "text": "That social rank has no authority over the will, illustrating the dichotomy's democratic nature", "correct": true }
+  ]
+}

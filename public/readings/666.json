@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The default mode network (DMN) is a constellation of brain regions — medial prefrontal cortex, posterior cingulate, angular gyrus — that activates during rest, daydreaming, and mind-wandering. For decades neuroscientists considered it merely the brain's 'idle' state. But research by Mary Helen Immordino-Yang and Marcus Raichle reframed its function: the DMN is where the brain integrates experience, consolidates identity, and generates creative insight. Structured rest — a deliberate pause after a focused sprint — hands control to this network. Skipping rest to push through an extra work block does not increase output; it prevents the integration that makes the previous block's effort meaningful.",
+  "question": "What function of the default mode network did Immordino-Yang and Raichle's research reveal?",
+  "options": [
+    { "text": "It filters incoming sensory information to prevent attentional overload", "correct": false },
+    { "text": "It governs the transition between waking focus and deep sleep stages", "correct": false },
+    { "text": "It integrates experience, consolidates identity, and generates creative insight during rest", "correct": true },
+    { "text": "It suppresses the prefrontal cortex to allow unconscious problem-solving", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "The philosopher Pierre Hadot, who spent decades studying Marcus Aurelius, argued that Stoic exercises were not theoretical positions but spiritual practices — what he called 'exercises of attention.' The view from above was one of several techniques the emperor performed daily, not to reach conclusions but to transform perception. Hadot observed that contemporary people inherit philosophical ideas as doctrines to be debated rather than disciplines to be practiced. The gap between knowing that a distraction is trivial and actually experiencing it as trivial is precisely the gap these exercises were designed to close — through repetition, not argument.",
+  "question": "According to Pierre Hadot as described in the passage, what distinguishes Stoic exercises from merely knowing Stoic doctrines?",
+  "options": [
+    { "text": "Stoic exercises require the guidance of a trained philosophical teacher", "correct": false },
+    { "text": "Doctrines provide ethical rules while exercises provide emotional regulation", "correct": false },
+    { "text": "Exercises close the gap between knowing something intellectually and actually experiencing it as true through repetition", "correct": true },
+    { "text": "Stoic doctrines are theoretical but exercises are drawn from empirical observation", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Insight — the sudden \"aha\" that solves a problem you stopped consciously trying to solve — has a neural signature. Using EEG, Mark Jung-Beeman and John Kounios tracked the moment of creative breakthrough to a burst of gamma-band activity in the right anterior temporal lobe, arriving about 300 milliseconds before subjects reported the solution. Crucially, this burst was preceded by a quieting of visual cortex, as if the brain had to stop processing the outside world to hear a signal arising from within. Insight does not reward persistence; it rewards the willingness to look away.",
+  "question": "According to the passage, what neural event preceded the gamma-band burst associated with insight?",
+  "options": [
+    { "text": "Increased activity in the left prefrontal cortex", "correct": false },
+    { "text": "A spike in activity in the hippocampus", "correct": false },
+    { "text": "A quieting of the visual cortex", "correct": true },
+    { "text": "Synchronized activity across both hemispheres", "correct": false }
+  ]
+}

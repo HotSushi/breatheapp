@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Sociologist Sherry Turkle coined the phrase 'always on, always on you' to describe the smartphone's role in collapsing the boundary between presence and absence. Before mobile devices, missing a conversation meant being genuinely absent — spatially elsewhere. FOMO, fear of missing out, is the psychological residue of a world that now makes every absence feel chosen and therefore culpable. You are not just away; you chose not to check. This shift from structural to moral absence is what makes FOMO so corrosive. The guilt is not irrational — the technology has genuinely changed what absence means.",
+  "question": "According to the passage, what has changed about the nature of absence in the smartphone era?",
+  "options": [
+    { "text": "Absence has become less frequent because people are more connected.", "correct": false },
+    { "text": "Absence now feels chosen and morally culpable rather than merely structural.", "correct": true },
+    { "text": "Absence triggers anxiety because people fear being forgotten by their social networks.", "correct": false },
+    { "text": "Sherry Turkle argued that absence was always a source of guilt, even before mobile devices.", "correct": false }
+  ]
+}

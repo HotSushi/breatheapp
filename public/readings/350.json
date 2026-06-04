@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Aristotle argued in the 'Nicomachean Ethics' that virtue is not a feeling but a habit: 'We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.' His insight anticipates modern research by two millennia — character, in this view, is the sedimented residue of repeated choices. What neuroscience adds is mechanism: each repetition slightly strengthens the synaptic pathways encoding that behavior, via long-term potentiation. The philosopher's 'second nature' is the neuroscientist's myelinated axon. Duhigg's contribution was to show that this ancient ethical insight applies not only to virtue but to any behavior — productive and destructive alike — that repeats in a cue-routine-reward context.",
+  "question": "According to the passage, what does neuroscience add to Aristotle's account of habit and character?",
+  "options": [
+    { "text": "It shows that virtuous habits require conscious deliberation at each repetition", "correct": false },
+    { "text": "It demonstrates that character is more influenced by emotion than by repeated action", "correct": false },
+    { "text": "It contradicts Aristotle by showing that habit formation is involuntary, not chosen", "correct": false },
+    { "text": "It provides the mechanism — synaptic strengthening through long-term potentiation — behind Aristotle's observation", "correct": true }
+  ]
+}

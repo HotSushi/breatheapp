@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Phenomenologist Dan Zahavi distinguishes between 'minimal self' and 'narrative self.' The narrative self — the one that tells your life story, worries about reputation, plans next month — is almost never present. It lives in abstracted time. The minimal self, by contrast, is the bare first-person character of any lived experience: the felt quality of 'this is happening to me, now.' Zahavi argues that distraction does not erase the minimal self; it merely layers the narrative self on top, creating a persistent hum of mental commentary that prevents experience from being registered with its full phenomenal weight. Silence that commentary and the minimal self resurfaces.",
+  "question": "According to Dan Zahavi, what does distraction do to the minimal self?",
+  "options": [
+    { "text": "It layers the narrative self on top, muffling the phenomenal weight of experience", "correct": true },
+    { "text": "It erases the minimal self entirely, leaving only cognitive processing", "correct": false },
+    { "text": "It strengthens the minimal self by forcing it to compete for attention", "correct": false },
+    { "text": "It transfers the minimal self into long-term memory storage", "correct": false }
+  ]
+}

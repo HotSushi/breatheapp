@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Newport distinguishes between two categories of professional activity: deep work, which is cognitively demanding and creates new value, and shallow work, which is logistically necessary but replicable. Email, scheduling, and status updates occupy the shallow tier. The danger is not that shallow work exists — it always will — but that it colonizes the hours previously reserved for depth. A knowledge worker who spends six hours in reactive mode and two hours in focused creation has inverted the hierarchy of value. Newport's prescription is ruthless scheduling: treat deep work as an appointment with yourself that cannot be bumped by a meeting request.",
+  "question": "What does Newport identify as the central danger of shallow work in a knowledge worker's day?",
+  "options": [
+    { "text": "It causes cognitive overload that permanently reduces working memory capacity", "correct": false },
+    { "text": "It trains workers to prefer low-effort tasks and avoid intellectual challenge", "correct": false },
+    { "text": "It eliminates the need for collaboration and long-term planning", "correct": false },
+    { "text": "It displaces the hours previously reserved for focused, value-creating work", "correct": true }
+  ]
+}

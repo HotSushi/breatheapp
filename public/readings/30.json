@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Not all attention systems are hijackable in the same way. Psychologist Michael Posner mapped three largely independent attention networks: alerting, which detects sudden change; orienting, which selects among sensory inputs; and executive control, which resolves conflict and maintains goals. Variable-reinforcement feeds target the alerting network most directly — novelty and unpredictability are exactly the signals it evolved to detect. Executive control, seated in the prefrontal cortex, can in principle override this — but it is metabolically expensive and degrades under fatigue or cognitive load. The asymmetry is critical: the alerting network operates automatically; executive control requires effort. Platforms are designed to exhaust the latter while perpetually stimulating the former.",
+  "question": "Why is the alerting attention network more vulnerable to variable-reinforcement feeds than executive control?",
+  "options": [
+    { "text": "The alerting network processes information faster and is therefore harder to suppress consciously", "correct": false },
+    { "text": "Executive control degrades under fatigue while the alerting network operates automatically", "correct": true },
+    { "text": "The alerting network receives direct dopamine input; executive control does not", "correct": false },
+    { "text": "Executive control is active only during explicit decision-making tasks, not passive browsing", "correct": false }
+  ]
+}

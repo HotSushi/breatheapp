@@ -1,0 +1,23 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The psychological refractory period has a digital-age corollary: every notification that triggers a response-selection process delays the next cognitive task by hundreds of milliseconds, even after the notification is dismissed. Gloria Mark's research at UC Irvine found that it takes an average of over twenty minutes to fully return to a deep work task after an interruption. The refractory model explains part of this: each interruption forces the central bottleneck to service a new response, deferring ongoing work. But the deeper problem is that each re-engagement requires reconstructing a mental context that was in progress \u2014 the refractory period is just the leading edge of a much longer recovery.",
+  "question": "According to the passage, what does Gloria Mark's research show about task interruptions?",
+  "options": [
+    {
+      "text": "It takes an average of over twenty minutes to fully return to a deep work task after an interruption",
+      "correct": true
+    },
+    {
+      "text": "Workers recover from interruptions in under five minutes with practice",
+      "correct": false
+    },
+    {
+      "text": "Interruptions only cause lasting delays when they involve a verbal response",
+      "correct": false
+    },
+    {
+      "text": "The refractory period fully explains why recovery from interruption is slow",
+      "correct": false
+    }
+  ]
+}

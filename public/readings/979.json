@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Sociologist Shoshana Zuboff coined the term 'surveillance capitalism' to describe the economic logic by which behavioral data is extracted from users, analyzed, and sold as predictions of future behavior. Attention is the point of extraction: platforms must first capture focus before they can harvest the behavioral signals that advertisers purchase. Zuboff argues this system does not merely monetize attention — it modifies it, training users toward compulsive checking, reactive engagement, and shortened tolerance for delay. The damage is not only to individual cognition but to the collective deliberative capacity that democratic society depends upon.",
+  "question": "According to Zuboff's framework, what happens to attention beyond its initial capture for monetization?",
+  "options": [
+    { "text": "Attention becomes permanently fragmented and cannot be restored through training", "correct": false },
+    { "text": "Attention is reinforced, making users more focused on platform-approved content", "correct": false },
+    { "text": "Attention is modified toward compulsive checking and shortened tolerance for delay", "correct": true },
+    { "text": "Attention is redistributed from individuals to collective network intelligence", "correct": false }
+  ]
+}

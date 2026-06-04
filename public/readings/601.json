@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Cal Newport's central claim is deceptively simple: the ability to perform deep work — cognitively demanding tasks executed without distraction — is becoming simultaneously rarer and more valuable. As organizations fragment attention through open offices, Slack notifications, and meeting cultures, the worker who can sustain focus for two to four uninterrupted hours gains a compounding advantage. Newport borrows from economics: when a skill is scarce and the market rewards it, its practitioners capture disproportionate returns. Deep work is not merely a productivity technique; it is, Newport argues, the core competency of the knowledge economy.",
+  "question": "According to Newport's argument, why does deep work confer a compounding advantage on its practitioners?",
+  "options": [
+    { "text": "Because it reduces the need for collaboration and meetings", "correct": false },
+    { "text": "Because organizations are making it rarer while the market rewards it more heavily", "correct": true },
+    { "text": "Because it improves memory consolidation during sleep", "correct": false },
+    { "text": "Because knowledge workers are paid by the hour and focus increases output volume", "correct": false }
+  ]
+}

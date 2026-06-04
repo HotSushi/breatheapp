@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The default mode network — a constellation of brain regions active during mind-wandering — does not simply idle during rest. During sleep, it undergoes active reorganization. Researchers at Washington University found that the default mode network's connectivity patterns shift significantly after a full night of sleep, correlating with improved creative problem-solving the following morning. This reweaving of neural architecture is disrupted by even moderate sleep restriction. The implication is striking: the brain's capacity to make unexpected connections between ideas is not a waking achievement but a nocturnal one.",
+  "question": "What does the passage say correlates with the shift in default mode network connectivity patterns during sleep?",
+  "options": [
+    { "text": "Reduced amyloid-beta accumulation in hippocampal tissue", "correct": false },
+    { "text": "Improved ability to sustain attention on repetitive tasks", "correct": false },
+    { "text": "Improved creative problem-solving the following morning", "correct": true },
+    { "text": "Higher spindle density during stage 2 sleep", "correct": false }
+  ]
+}

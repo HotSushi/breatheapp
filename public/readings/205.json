@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In Theravada practice, the monkey mind is calmed not by silencing thought but by changing one's relationship to it. The instruction — 'note and return' — sounds deceptively mechanical. But monk and scholar Bhikkhu Analayo argues in Satipatthana: The Direct Path to Realization that the 'noting' step is the critical one: it converts an unconscious pull into a witnessed event. Once seen, a distraction loses the quality of compulsion. Cognitive neuroscientist Judson Brewer's research on default mode network deactivation shows measurably reduced posterior cingulate cortex activity when meditators note rather than suppress their wandering thoughts.",
+  "question": "According to the passage, why does the 'noting' step reduce the power of distraction?",
+  "options": [
+    { "text": "It suppresses the thought before it can spread to other mental processes", "correct": false },
+    { "text": "It converts an unconscious pull into a witnessed event, removing compulsion", "correct": true },
+    { "text": "It activates the prefrontal cortex to override the default mode network", "correct": false },
+    { "text": "It interrupts the breath cycle, forcing the mind to reset", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Psychologist Robert Weiss distinguished two irreducible forms of loneliness: social loneliness, the absence of a network of friends and acquaintances, and emotional loneliness, the absence of a single intimate attachment. The two do not substitute for each other. A person can eliminate social loneliness entirely — filling every hour with company and conversation — and still suffer emotional loneliness with full force. This distinction clarifies why high connectivity can coexist with profound isolation. Social media addresses social loneliness efficiently, flooding the zone with contact. But emotional loneliness demands something that no platform can engineer: the sustained, exclusive attention of one person who truly knows you.",
+  "question": "According to Weiss's framework as described in the passage, why can high connectivity coexist with profound isolation?",
+  "options": [
+    { "text": "Social media contacts tend to be geographically distant and therefore unable to offer physical support.", "correct": false },
+    { "text": "Social loneliness and emotional loneliness are distinct and do not substitute for each other.", "correct": true },
+    { "text": "High connectivity increases social comparison, which intensifies both forms of loneliness simultaneously.", "correct": false },
+    { "text": "Most digital contacts are too recent to have accumulated the shared history that reduces loneliness.", "correct": false }
+  ]
+}

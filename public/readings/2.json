@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The default mode network is not a network of distraction — it is a network of self. Neuroscientist Mary Helen Immordino-Yang has argued that its core function is autobiographical simulation: rehearsing who we are, who we might become, and how our actions connect to other people. When you stare out a window and your mind drifts to a past conversation or an imagined reunion, the DMN is doing deep social and moral processing. The problem is not the network itself but its poor timing — firing during moments that demand directed attention, pulling focus toward the interior at the expense of the external task.",
+  "question": "According to Mary Helen Immordino-Yang, what is the core function of the default mode network?",
+  "options": [
+    { "text": "Filtering irrelevant sensory information", "correct": false },
+    { "text": "Autobiographical simulation and social processing", "correct": true },
+    { "text": "Coordinating motor planning during rest", "correct": false },
+    { "text": "Consolidating short-term memories into long-term storage", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "William James, writing in 1892, drew a distinction that would later become foundational to Attention Restoration Theory: the difference between voluntary attention, which requires effort to sustain, and involuntary attention, which is effortlessly captured by intrinsically interesting stimuli. James noted that the mind cannot voluntarily attend for long without fatigue — but it can be endlessly absorbed by what genuinely interests it. The Kaplans reformulated this insight decades later, identifying the involuntary mode as not merely pleasant but actively restorative. What James called interest, they called fascination; what he observed about mental fatigue, they grounded in mechanisms of cognitive depletion. The vocabulary changed; the essential structure did not.",
+  "question": "According to the passage, what did the Kaplans add to William James's original distinction between voluntary and involuntary attention?",
+  "options": [
+    { "text": "They identified the voluntary mode as the primary driver of creative insight", "correct": false },
+    { "text": "They showed that involuntary attention is not merely pleasant but actively restorative and connected it to cognitive depletion", "correct": true },
+    { "text": "They proved that involuntary attention requires more neural resources than voluntary attention", "correct": false },
+    { "text": "They distinguished between intrinsic and extrinsic sources of involuntary attention", "correct": false }
+  ]
+}

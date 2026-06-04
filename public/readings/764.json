@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "There is a precise dose-response relationship between exercise intensity and BDNF production. A 2012 study by Ferris and colleagues found that high-intensity interval training elevated BDNF levels more sharply than moderate continuous effort, but the spike was short-lived — peaking within 15 minutes post-exercise, then returning to baseline within an hour. Moderate aerobic effort, while producing a smaller BDNF surge, sustains elevated levels longer. This temporal architecture matters: a brief, intense run before a demanding cognitive task may confer a neurological window of enhanced plasticity, but the timing of that window must be respected. Biology, it turns out, schedules its own appointments.",
+  "question": "According to the passage, how does high-intensity interval training differ from moderate aerobic effort in its effect on BDNF?",
+  "options": [
+    { "text": "High-intensity training produces no BDNF elevation at all", "correct": false },
+    { "text": "High-intensity training produces a sharper but shorter BDNF spike than moderate effort", "correct": true },
+    { "text": "Moderate effort produces higher BDNF levels than high-intensity training", "correct": false },
+    { "text": "Both intensities produce identical BDNF elevation lasting about one hour", "correct": false }
+  ]
+}

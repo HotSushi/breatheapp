@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Eli Pariser coined the term 'filter bubble' in 2011 to describe the invisible algorithmic curation that seals each user inside a personalized information world. Unlike a newspaper, which exposes readers to editors' choices across the political and cultural spectrum, a filter bubble shows you only what your past behavior predicts you will click. Pariser demonstrated this by asking friends with different political leanings to Google the same term — they received dramatically different results. The danger is not mere inconvenience; it is epistemic. When your information environment is curated to confirm what you already believe, your model of reality quietly diverges from your neighbors'.",
+  "question": "What danger does Pariser identify as the primary consequence of filter bubbles?",
+  "options": [
+    { "text": "Users spend more time online than they intend to", "correct": false },
+    { "text": "Search engines become slower due to personalization overhead", "correct": false },
+    { "text": "Each person's model of reality quietly diverges from others'", "correct": true },
+    { "text": "Advertisers gain too much influence over editorial decisions", "correct": false }
+  ]
+}

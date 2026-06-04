@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Agenda-setting theory, developed by Maxwell McCombs and Donald Shaw from their 1968 Chapel Hill study, established a crucial distinction: the press may not tell people what to think, but it is strikingly successful at telling people what to think about. By measuring correlation between media coverage and voter issue salience, McCombs and Shaw showed that the prominence given to a topic in coverage predicted how important citizens rated that topic — even when controlling for prior beliefs. This is attention as political architecture. The act of deciding what is newsworthy does not merely reflect public concern; it actively constitutes it, making agenda-setting one of the most politically consequential editorial decisions.",
+  "question": "What did McCombs and Shaw's Chapel Hill study demonstrate about the media's influence on public opinion?",
+  "options": [
+    { "text": "The press shapes what citizens believe is true about political issues", "correct": false },
+    { "text": "Media coverage has no measurable effect on voter priorities in a competitive information environment", "correct": false },
+    { "text": "Media prominence given to a topic predicts how important citizens rate that topic", "correct": true },
+    { "text": "Television is more powerful than print in shaping political preferences", "correct": false }
+  ]
+}

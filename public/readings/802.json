@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "James identified five defining features of the stream of consciousness: it is personal, always changing, sensibly continuous, intentional (it is always 'of' something), and selective. That last quality was the most consequential. Out of the vast flood of sensation available at any moment, the mind chooses a small portion and ignores the rest. 'My experience is what I agree to attend to,' James wrote. This was not a passive filtering but an active construction — consciousness is less a mirror of reality than a sculptor that carves experience from raw sensation according to its own interests and habits.",
+  "question": "According to James, what makes consciousness more like a sculptor than a mirror?",
+  "options": [
+    { "text": "It reflects sensation without distortion", "correct": false },
+    { "text": "It passively records all available input", "correct": false },
+    { "text": "It actively selects and constructs experience from sensation", "correct": true },
+    { "text": "It stores memories for later retrieval", "correct": false }
+  ]
+}

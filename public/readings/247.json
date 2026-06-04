@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Interbeing challenges not only how we see the self but how we understand time. Thich Nhat Hanh wrote that the present moment contains both the past and the future — not as memories and projections, but as living constituents of what is happening now. A sunflower contains the sun, the soil, and centuries of evolutionary selection that shaped its heliotropism. To meet the sunflower fully in the present is to encounter all of this simultaneously. This non-linear view of time aligns with what physicists describe as the block universe, where past, present, and future coexist — though Hanh arrived there through contemplation rather than equations.",
+  "question": "According to the passage, what does Thich Nhat Hanh mean when he says the present moment contains the past and future?",
+  "options": [
+    { "text": "That meditation allows practitioners to access memories and visions of the future", "correct": false },
+    { "text": "That each present moment is shaped by and contains all the conditions that produced it", "correct": true },
+    { "text": "That time is an illusion and only the present moment has reality", "correct": false },
+    { "text": "That past suffering can be healed by dwelling in present awareness", "correct": false }
+  ]
+}

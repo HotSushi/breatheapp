@@ -1,0 +1,23 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "William James, writing in 1890, described consciousness not as a thing but as a stream \u2014 continuous, selective, and personal. Its selective character is crucial: the mind does not register everything but chooses, mostly below the level of deliberate decision, what to admit to awareness. James called this selective function 'the choosing of one part of an otherwise chaotic world.' Digital environments, designed to hijack that selection process with engineered novelty, produce what amounts to a stream hijacked at its source \u2014 attention redirected before the subject can choose. Presence, under these conditions, requires recovering the authorship of one's own stream.",
+  "question": "According to William James, what is the function he described as 'the choosing of one part of an otherwise chaotic world'?",
+  "options": [
+    {
+      "text": "Memory consolidation during sleep",
+      "correct": false
+    },
+    {
+      "text": "The deliberate decision to focus on a single task",
+      "correct": false
+    },
+    {
+      "text": "The stream of consciousness as it flows between waking and dreaming",
+      "correct": false
+    },
+    {
+      "text": "The selective function of consciousness that determines what enters awareness",
+      "correct": true
+    }
+  ]
+}

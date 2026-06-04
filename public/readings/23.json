@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "B.F. Skinner's most unsettling discovery was not that rewards shape behavior — everyone knew that. It was that intermittent rewards shape behavior far more powerfully than consistent ones. In his variable-ratio reinforcement schedule, a lever delivered food pellets on an unpredictable basis. Rats pressed the lever obsessively, far more than when every press produced a pellet. The unpredictability itself was the engine. Skinner had stumbled onto a principle that would later underpin gambling machines, loot boxes, and infinite feeds: when you cannot predict whether this action will pay off, you cannot easily stop performing it. Certainty extinguishes compulsion; uncertainty inflames it.",
+  "question": "Why does variable-ratio reinforcement produce more persistent behavior than consistent reward schedules?",
+  "options": [
+    { "text": "Because the rewards are larger when they do arrive", "correct": false },
+    { "text": "Because the unpredictability of the reward prevents the behavior from extinguishing", "correct": true },
+    { "text": "Because the brain stores variable rewards in a separate memory system", "correct": false },
+    { "text": "Because animals learn to anticipate the pattern and time their actions accordingly", "correct": false }
+  ]
+}

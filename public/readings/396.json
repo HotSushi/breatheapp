@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Attention researchers distinguish between two modes of focus monitoring: online monitoring, which tracks task engagement in real time, and offline monitoring, which evaluates performance retrospectively. Most people rely heavily on the offline version — they notice they were distracted only after resurfacing, sometimes minutes later. Michael Kane and colleagues, using experience sampling across weeks, found that the average person spends roughly 12 percent of daily life in unnoticed mind-wandering during demanding tasks. Online monitoring is rarer and more cognitively costly; it requires what researchers call a \"meta-level interrupt\" — a brief suspension of object-level processing to evaluate its own quality.",
+  "question": "What term do researchers use for the brief suspension of task processing to evaluate its own quality?",
+  "options": [
+    { "text": "Offline retrospection", "correct": false },
+    { "text": "Attentional sampling", "correct": false },
+    { "text": "Decoupled monitoring", "correct": false },
+    { "text": "Meta-level interrupt", "correct": true }
+  ]
+}

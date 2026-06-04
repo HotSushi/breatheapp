@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In his study of 'hyperconnectivity,' communication scholar Vincent Mosco observed that each new communication technology in history has been greeted with utopian promises of a more connected, more democratic world. Radio would end war; television would educate the masses; the internet would dissolve hierarchy. Each time, the technology did produce connection, but the connection itself became a new site of scarcity — first of signal, then of bandwidth, now of attention. The scarce resource in the digital age is not information but the human capacity to be genuinely present with any of it, a limit that no network upgrade can extend.",
+  "question": "What does Mosco identify as the scarce resource in the digital age, distinct from earlier technological scarcities?",
+  "options": [
+    { "text": "Reliable internet infrastructure in rural and low-income communities", "correct": false },
+    { "text": "The human capacity to be genuinely present with information", "correct": true },
+    { "text": "High-quality content worth consuming among the flood of low-quality material", "correct": false },
+    { "text": "The bandwidth required to support video and real-time communication", "correct": false }
+  ]
+}

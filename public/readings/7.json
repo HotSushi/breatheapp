@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Not all mind-wandering is cognitively costly. Researchers at the University of British Columbia found that people whose minds wandered to personal goals — ongoing concerns about the future — performed better on subsequent creativity tasks than those who remained on-task. This phenomenon, sometimes called incubation, suggests the default mode network serves a prospective function: running simulations of future scenarios in the background while the conscious mind is occupied elsewhere. The insight arrives not because you tried harder, but because the DMN worked laterally, connecting concepts the task-positive network, with its narrower spotlight, would never have joined.",
+  "question": "According to the passage, why might mind-wandering toward personal goals improve creativity?",
+  "options": [
+    { "text": "It allows the task-positive network to rest and recharge", "correct": false },
+    { "text": "It activates the anterior insula, which governs creative insight", "correct": false },
+    { "text": "It triggers dopamine release that broadens associative thinking", "correct": false },
+    { "text": "The DMN connects concepts laterally that the narrower task-positive spotlight would not", "correct": true }
+  ]
+}

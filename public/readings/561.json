@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "William James, writing in 1890, offered the first rigorous psychological account of attention. In his landmark Principles of Psychology, he distinguished two fundamentally different modes: passive attention, captured involuntarily by novelty or intensity, and voluntary attention, sustained by deliberate effort against competing stimuli. James observed that we cannot hold voluntary attention on any object continuously — the mind drifts, then consciously returns. He called this return 'the effort par excellence of the will.' The entire practice of mental discipline, he argued, is this repeated exercise of bringing attention back. Every such return is not a failure but the training itself.",
+  "question": "According to James, what did he call the act of consciously returning attention to its object?",
+  "options": [
+    { "text": "Passive recapture", "correct": false },
+    { "text": "The effort par excellence of the will", "correct": true },
+    { "text": "Voluntary inhibition", "correct": false },
+    { "text": "Sustained deliberation", "correct": false }
+  ]
+}

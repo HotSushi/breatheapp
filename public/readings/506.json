@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Aristotle drew a sharp distinction between two types of desire: boulesis, rational wish directed toward a considered good, and epithumia, appetite for immediate gratification. The person of practical wisdom — the phronimos — is not one who has eliminated epithumia, but one in whom boulesis governs. Every time we redirect attention from a notification back to a meaningful task, we are exercising exactly this capacity. The Stoics later called it proairesis — the faculty of choice — but Aristotle established the foundational insight: eudaimonia requires that reason, not appetite, sets the direction of one's days.",
+  "question": "According to the passage, what distinguishes the phronimos from other people?",
+  "options": [
+    { "text": "The phronimos has eliminated epithumia entirely through years of philosophical training.", "correct": false },
+    { "text": "The phronimos follows Stoic proairesis rather than Aristotle's concept of practical wisdom.", "correct": false },
+    { "text": "The phronimos avoids all digital devices to preserve undivided attentional resources.", "correct": false },
+    { "text": "The phronimos possesses boulesis governing epithumia, so reason directs action rather than appetite.", "correct": true }
+  ]
+}

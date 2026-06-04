@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "In 2017, Apple introduced a Do Not Disturb mode that silenced notifications during designated hours. Google followed with Digital Wellbeing tools in Android. Former Google design ethicist Tristan Harris observed that these features were structurally inadequate: they asked users to opt out of disruption rather than requiring platforms to justify each interruption. Harris argued for a 'notification audit' principle — that every notification a product sends should pass a minimum threshold of genuine user benefit before being permitted. Under this standard, most social platform notifications, engineered primarily to drive re-engagement rather than deliver value, would fail.",
+  "question": "What was Tristan Harris's core critique of Apple's Do Not Disturb and similar opt-out tools?",
+  "options": [
+    { "text": "They were too difficult for average users to configure correctly", "correct": false },
+    { "text": "They blocked beneficial notifications alongside manipulative ones", "correct": false },
+    { "text": "They required users to opt out rather than requiring platforms to justify each interruption", "correct": true },
+    { "text": "They did not address the underlying variable reward mechanisms in apps", "correct": false }
+  ]
+}

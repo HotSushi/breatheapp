@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "The most important distinction in the Hooked model is the shift from external to internal triggers. An external trigger is a push notification, an email badge, a red dot — it arrives from outside and commands attention. But product designers consider external triggers a crutch. The real goal is colonizing the user's internal emotional landscape: to become the default response to discomfort. When someone reaches for their phone during a moment of boredom without any external prompt, the product has graduated to internal trigger status. It no longer needs to interrupt — it has become the interruption users inflict on themselves.",
+  "question": "According to the passage, what distinguishes an internal trigger from an external one in the Hooked model?",
+  "options": [
+    { "text": "Internal triggers require no emotional investment from the user", "correct": false },
+    { "text": "Internal triggers are initiated by the platform rather than the user", "correct": false },
+    { "text": "Internal triggers are consciously chosen while external ones are not", "correct": false },
+    { "text": "Internal triggers arise from within the user with no external prompt required", "correct": true }
+  ]
+}

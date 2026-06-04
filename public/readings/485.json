@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Media theorist Neil Postman argued in \"Amusing Ourselves to Death\" that the format of television restructured public discourse toward fragmentation and immediacy. Decades later, that critique applies with greater force to the smartphone. The device does not merely deliver distraction — it trains the neural circuits that regulate attention. Every pull-to-refresh gesture reinforces a variable-reward loop identical in structure to a slot machine. Tristan Harris, a former Google design ethicist, called this \"a race to the bottom of the brain stem,\" in which platforms compete to capture the most primitive and compulsive attentional responses, bypassing deliberate thought entirely.",
+  "question": "What did Tristan Harris mean by \"a race to the bottom of the brain stem\"?",
+  "options": [
+    { "text": "Platforms competing to create apps that are easiest to use without thinking", "correct": false },
+    { "text": "A neuroscience model explaining why multitasking degrades over time", "correct": false },
+    { "text": "Platforms competing to capture primitive, compulsive attentional responses, bypassing deliberate thought", "correct": true },
+    { "text": "The physiological process of attention fatigue accumulating during screen use", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Csikszentmihalyi closed his career arguing that flow, though a psychological phenomenon, points toward something larger: a theory of meaning. In The Evolving Self, he proposed that complexity — biological, cultural, psychological — advances through a process he called differentiation and integration: the capacity to become more distinct and more connected simultaneously. Flow is the individual experience of this process. When we engage at the edge of our abilities, we become more differentiated — more uniquely skilled, more specifically ourselves. When we collaborate, teach, or create for others in flow, we integrate with something beyond the self. This is why, Csikszentmihalyi believed, the activities that produce flow are also, over a lifetime, the ones that produce a sense of having lived well.",
+  "question": "What does Csikszentmihalyi mean by 'differentiation and integration' in the passage?",
+  "options": [
+    { "text": "The neurological process by which flow states become automatic over time", "correct": false },
+    { "text": "The separation of work and leisure that allows each to provide distinct psychological benefits", "correct": false },
+    { "text": "A social process in which communities develop specialized roles and shared practices", "correct": false },
+    { "text": "Becoming more distinctly oneself while also connecting more deeply to something beyond the self", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Goal maintenance — holding a task goal active in the face of distraction — is perhaps the most essential function the prefrontal cortex performs during cognitive work. Jonathan Cohen at Princeton demonstrated that the PFC maintains 'goal representations' that act as a filter on incoming information: if a stimulus is relevant to the current goal, it receives amplified processing; if it is not, it is attenuated. The irony of modern notification design is that it engineers stimuli to appear goal-relevant — a message badge mimics the social urgency that would historically have warranted immediate attention — thereby hijacking the very filtering mechanism meant to protect focus. The PFC cannot easily distinguish a genuine emergency from a cleverly designed ping.",
+  "question": "According to Jonathan Cohen's research, how does the PFC determine which incoming stimuli receive amplified processing?",
+  "options": [
+    { "text": "It prioritizes stimuli that arrive with high sensory salience or sudden movement", "correct": false },
+    { "text": "It amplifies stimuli relevant to the current goal and attenuates those that are not", "correct": true },
+    { "text": "It relies on the amygdala to flag emotionally significant incoming information", "correct": false },
+    { "text": "It processes all stimuli equally before deciding which to suppress", "correct": false }
+  ]
+}

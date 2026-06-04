@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The term 'moral panic' was coined by sociologist Stanley Cohen in 1972 to describe episodes where a condition or group is defined as a threat to societal values and presented in stylized form by mass media. What Cohen identified in tabloid newspapers now runs on a compressed timeline. Social platforms have removed the editorial gatekeeping that once slowed the cycle — not because journalists were virtuous, but because publication lag created an involuntary cooling period. The speed of digital distribution has effectively abolished the pause between stimulus and societal response, removing the only mechanism that gave communities time to ask whether the panic was proportionate.",
+  "question": "According to the passage, what role did publication lag play in traditional media's handling of moral panics?",
+  "options": [
+    { "text": "It allowed journalists to verify facts before publishing", "correct": false },
+    { "text": "It created an involuntary cooling period between stimulus and societal response", "correct": true },
+    { "text": "It gave gatekeepers time to suppress content they disagreed with", "correct": false },
+    { "text": "It reduced the stylized presentation of threats in tabloid coverage", "correct": false }
+  ]
+}

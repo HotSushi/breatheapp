@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Soft fascination has a neurological signature distinct from both hard fascination and boredom. EEG studies show that natural scenes reliably increase alpha-wave activity in the prefrontal cortex — oscillations associated with wakeful, receptive relaxation rather than active problem-solving. This alpha state is the neurological correlate of mind-wandering that is productive rather than anxious. Crucially, it persists after the nature exposure ends: participants who viewed nature images before a difficult task showed faster alpha recovery after the task than those who viewed urban images. The brain, primed by soft fascination, returns more readily to a state of unhurried readiness.",
+  "question": "What does increased prefrontal alpha-wave activity indicate about the brain's state during soft fascination?",
+  "options": [
+    { "text": "Active problem-solving and focused analytical processing", "correct": false },
+    { "text": "Suppression of the default mode network and cessation of mind-wandering", "correct": false },
+    { "text": "Deep sleep onset triggered by reduced sensory input", "correct": false },
+    { "text": "Wakeful receptive relaxation distinct from both hard focus and boredom", "correct": true }
+  ]
+}

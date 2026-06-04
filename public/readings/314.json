@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Long before Csikszentmihalyi named it, William James described a related phenomenon in his 1890 Principles of Psychology: the experience of being so absorbed in thought that the room disappears. James called this the \"stream of consciousness\" — not the literary technique it later became, but a description of attention as something that flows, narrows, and carries us. He noted that voluntary attention is exhausting and brief, while involuntary attention — captured by interest — is self-sustaining. Flow can be read as the condition in which voluntary and involuntary attention merge: we choose to engage, but engagement then carries us forward without effort. James called this the \"willing of attention\" becoming \"a rolling snowball.\"",
+  "question": "How does the passage characterize the relationship between voluntary and involuntary attention in flow?",
+  "options": [
+    { "text": "Voluntary attention replaces involuntary attention as skill increases", "correct": false },
+    { "text": "They merge, so that chosen engagement then carries forward without effort", "correct": true },
+    { "text": "Involuntary attention suppresses voluntary attention through habit formation", "correct": false },
+    { "text": "Both forms of attention are suspended during genuine flow states", "correct": false }
+  ]
+}

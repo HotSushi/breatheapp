@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Neuroscientist Tali Sharot's research on the 'optimism bias' shows that the human brain systematically overestimates positive future outcomes. Social media exploits this bias in reverse: the feed presents others' best outcomes — the promotion, the vacation, the engagement — and our pattern-matching brains generalize from peaks to averages. We do not think 'my friend had one good trip'; we update our model of their life as uniformly excellent. This is not stupidity; it is a predictable feature of a brain designed for small-group inference being exposed to curated large-scale data. The mismatch between brain architecture and feed design is the engine of social comparison anxiety.",
+  "question": "What cognitive mechanism does the passage identify as the engine of social comparison anxiety on social media?",
+  "options": [
+    { "text": "The optimism bias causes users to believe their own lives will eventually match those they see online.", "correct": false },
+    { "text": "The brain generalizes from others' highlighted peak moments to assume their entire lives are uniformly excellent.", "correct": true },
+    { "text": "Mirror neurons cause users to feel the emotions displayed in posts as if they were their own.", "correct": false },
+    { "text": "Sharot found that dopamine released during scrolling prevents accurate self-assessment.", "correct": false }
+  ]
+}

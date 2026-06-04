@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Mental time travel is not a luxury — it is the architecture of human agency. Without the capacity to simulate a future self doing something, planning collapses into reaction. Psychologist Martin Seligman reframed this in his 'prospection' hypothesis: the brain's primary orientation is not toward the past but toward the future, and memory serves simulation rather than archiving. What we call reminiscing is often prospection in disguise — we retrieve the past to calibrate models of what might happen next. This reframing has clinical implications: depression, characterized by rumination on the past, may be more accurately described as a failure of forward simulation, a mind trapped in a loop that cannot genuinely imagine otherwise.",
+  "question": "According to Seligman's prospection hypothesis, what is the primary function of memory?",
+  "options": [
+    { "text": "To archive personal history for identity formation.", "correct": false },
+    { "text": "To serve future simulation rather than mere record-keeping.", "correct": true },
+    { "text": "To reinforce habitual behavior through repetition.", "correct": false },
+    { "text": "To support emotional regulation during periods of stress.", "correct": false }
+  ]
+}

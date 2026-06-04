@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Simone Weil wrote that attention is the rarest and purest form of generosity. She did not mean mere looking, but a quality of receptive waiting in which the self suspends its own agenda. For Weil, distraction was not laziness but a refusal of contact — a way of keeping the world at arm's length. Her account locates moral failure not in bad intentions but in the chronic inability to be present to what is actually there. If she is right, responsibility for attention is not about willpower but about a deeper willingness: the readiness to let what is real register without immediately filtering it through self-interest.",
+  "question": "In Weil's account, what does distraction represent at a moral level?",
+  "options": [
+    { "text": "A lack of cognitive effort or willpower", "correct": false },
+    { "text": "An excess of self-generated mental imagery", "correct": false },
+    { "text": "A refusal of contact — a way of keeping the world at arm's length", "correct": true },
+    { "text": "An inevitable consequence of overstimulation in modern life", "correct": false }
+  ]
+}

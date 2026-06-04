@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus, who absorbed Chrysippan theory through the Roman Stoic tradition, translated the dry mechanics of impressions and assent into a practice he called prosoche — attention to oneself. He advised students to treat every incoming impression as a visitor at the gate: do not admit it until you have examined its credentials. The examination need not be long. A moment of deliberate pause — what later contemplatives would call 'the gap' — is sufficient to interrupt the automatic sequence from impression to impulse to action. Epictetus called this gap our one unconditional freedom: circumstances may force impressions upon us, but they cannot force assent.",
+  "question": "What did Epictetus mean by treating an impression like 'a visitor at the gate'?",
+  "options": [
+    { "text": "Welcoming strong impressions and rejecting weak ones based on their intensity", "correct": false },
+    { "text": "Delaying all decisions until the impression has been forgotten", "correct": false },
+    { "text": "Examining the impression's credentials before admitting it into assent", "correct": true },
+    { "text": "Categorizing impressions by their source as either internal or external", "correct": false }
+  ]
+}

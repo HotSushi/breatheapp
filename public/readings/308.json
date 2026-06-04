@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Dual-process theory predates Kahneman. William James distinguished habit from deliberation in 1890; Freud separated the unconscious from conscious reasoning; and Seymour Epstein's cognitive-experiential self-theory in the 1990s posited an experiential system running alongside a rational one. What Kahneman contributed was not the dichotomy itself but its empirical anchoring: he and Amos Tversky spent decades documenting specific, reproducible biases that mark the seams where the two systems diverge. The names System 1 and System 2 were popularized by psychologist Keith Stanovich before Kahneman adopted them, preferring their deliberate blankness over labels that might imply anatomy.",
+  "question": "According to the passage, who originally coined the terms System 1 and System 2 before Kahneman adopted them?",
+  "options": [
+    { "text": "Amos Tversky", "correct": false },
+    { "text": "Seymour Epstein", "correct": false },
+    { "text": "William James", "correct": false },
+    { "text": "Keith Stanovich", "correct": true }
+  ]
+}

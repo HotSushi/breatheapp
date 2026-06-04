@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Aristotle described sleep as a kind of temporary death — a recuperative suspension that restores the vital heat of the body. He was more right than he could have known. Modern neuroscience has identified the glymphatic system, a network of channels surrounding cerebral blood vessels that is almost entirely inactive during waking hours but flushes through the brain during sleep. Neuroscientist Maiken Nedergaard, who described this system in 2013, found that the brain's cells shrink by nearly 60 percent during sleep, widening the channels and allowing cerebrospinal fluid to wash out metabolic waste — including amyloid-beta, the protein linked to Alzheimer's disease. Sleep is, in the most literal sense, a cleansing.",
+  "question": "What structural change in brain cells during sleep enables the glymphatic system to function, according to the passage?",
+  "options": [
+    { "text": "Glial cells expand to absorb toxins through increased surface area", "correct": false },
+    { "text": "Cerebrospinal fluid pressure drops, creating a passive suction effect", "correct": false },
+    { "text": "Brain cells shrink by nearly 60 percent, widening the surrounding channels", "correct": true },
+    { "text": "Blood vessels constrict, forcing fluid through the interstitial tissue", "correct": false }
+  ]
+}

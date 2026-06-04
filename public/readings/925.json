@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "What separates surveillance capitalism from mere data collection is the concept of 'behavioral modification at scale.' Platforms do not just observe behavior — they engineer it. Variable reward schedules, as described by behavioral psychologist B.F. Skinner, create compulsive checking patterns. Infinite scroll removes the natural stopping cues that books and newspapers build in. Notification timing is calibrated to moments of vulnerability. Each design choice is a nudge toward more engagement, more data, higher prediction accuracy. The system is not neutral software; it is an applied behavioral science project, and the subject has never consented to being in the experiment.",
+  "question": "According to the passage, what role do variable reward schedules play in surveillance capitalism's behavioral modification?",
+  "options": [
+    { "text": "They improve recommendation algorithms by rewarding users for accurate predictions", "correct": false },
+    { "text": "They create compulsive checking patterns that generate more behavioral data", "correct": true },
+    { "text": "They replace the stopping cues that infinite scroll removes from the experience", "correct": false },
+    { "text": "They were first identified by Zuboff as a mechanism of the dispossession cycle", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Not all notifications are equal. Research by Kostadin Kushlev and Elizabeth Dunn found that participants who checked email only three times daily reported significantly lower stress than those with unrestricted access — even though total email volume was identical. The finding suggests that stress does not come from information itself, but from the perpetual availability of interruption. Microsoft Research studies of knowledge workers found that after a single notification-triggered interruption, workers took an average of 23 minutes to fully return to their original task. The cost of a notification is not its content — it is the recovery time it imposes on deep work.",
+  "question": "According to the passage, what did Kushlev and Dunn's research identify as the source of notification-related stress?",
+  "options": [
+    { "text": "The volume of incoming email messages", "correct": false },
+    { "text": "The perpetual availability of interruption rather than information volume", "correct": true },
+    { "text": "The cognitive effort required to process each message", "correct": false },
+    { "text": "The social pressure to respond quickly to messages", "correct": false }
+  ]
+}

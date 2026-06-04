@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Philosopher Blaise Pascal wrote in the seventeenth century that 'all of humanity's problems stem from man's inability to sit quietly in a room alone.' Social comparison anxiety predates social media — gossip, fashion, and status games are ancient. What platforms have changed is not the appetite for comparison but its frequency and precision. Where a medieval merchant might compare himself to rivals a few times a day, a contemporary user receives hundreds of social-data points per hour. The appetite is human; the dosage is industrial. Anxiety scales not with the presence of comparison but with its unrelenting, algorithmically optimized repetition.",
+  "question": "According to the passage, what specifically have platforms changed about social comparison?",
+  "options": [
+    { "text": "Platforms have created entirely new forms of envy that did not exist before digital technology.", "correct": false },
+    { "text": "Platforms have made social comparison public rather than private.", "correct": false },
+    { "text": "Platforms have increased the frequency and precision of social comparison to an industrial dosage.", "correct": true },
+    { "text": "Pascal's observation proves that anxiety about comparison is inherently spiritual rather than social.", "correct": false }
+  ]
+}

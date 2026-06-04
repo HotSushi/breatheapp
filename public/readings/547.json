@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Pascal's famous remark — that all of humanity's problems stem from an inability to sit quietly in a room alone — is often quoted as a lament for distraction. But Pascal meant something more precise. In the 'Pensées,' he argued that the restlessness is not accidental but motivated: we seek the crowd because solitude confronts us with our own finitude. The divertissement, or diversion, is flight from self-knowledge, not merely from boredom. This means that attention practices aimed only at productivity miss the deeper function of withdrawal: it is, for Pascal, an encounter with what we are actually afraid of.",
+  "question": "According to Pascal, why do people seek the crowd rather than sitting quietly alone?",
+  "options": [
+    { "text": "Humans are naturally social and require companionship", "correct": false },
+    { "text": "Solitude confronts people with their own finitude, which they flee", "correct": true },
+    { "text": "Crowds provide stimulation that boosts mental performance", "correct": false },
+    { "text": "Quiet rooms lack the sensory input needed for clear thinking", "correct": false }
+  ]
+}

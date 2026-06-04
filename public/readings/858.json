@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Mihaly Csikszentmihalyi mapped a state he called flow: complete absorption in a challenging task, where self-consciousness dissolves and time distorts. Crucially, flow is not passive; it requires that the difficulty of the task match the skill of the person. Too easy and attention wanders; too hard and anxiety fragments it. The implications for free will are subtle: entering flow may require an act of deliberate choice — selecting the right task and conditions — even though the flow state itself feels effortless and automatic. The decision to structure one's environment for flow is itself an exercise of attentional freedom.",
+  "question": "According to the passage, what condition is required for the flow state to occur rather than boredom or anxiety?",
+  "options": [
+    { "text": "The task must be passive and require no deliberate choice", "correct": false },
+    { "text": "The difficulty of the task must match the skill of the person", "correct": true },
+    { "text": "Self-consciousness must be suppressed through meditation", "correct": false },
+    { "text": "The environment must be free of all potential distractions", "correct": false }
+  ]
+}

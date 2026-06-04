@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Carr argued that hyperlinks — the defining feature of web text — are not neutral navigational aids. Each link is a micro-interruption: a decision node that demands a split-second evaluation of whether to continue or divert. Cognitive scientists call this kind of low-level decision-making 'switching cost.' Even when a reader chooses not to follow a link, the act of evaluating it consumes working memory. A 2007 study by researchers at Cornell found that students who browsed the web during a lecture performed significantly worse on comprehension tests — not because they accessed irrelevant content, but because the act of switching attention repeatedly depleted the cognitive resources required for understanding.",
+  "question": "According to the Cornell study cited in the passage, why did students who browsed the web during lectures perform worse on comprehension tests?",
+  "options": [
+    { "text": "They accessed content unrelated to the lecture topic", "correct": false },
+    { "text": "Screen brightness reduced their sustained focus", "correct": false },
+    { "text": "Repeated attention-switching depleted the cognitive resources needed for understanding", "correct": true },
+    { "text": "Multitasking overloaded their short-term memory with irrelevant information", "correct": false }
+  ]
+}

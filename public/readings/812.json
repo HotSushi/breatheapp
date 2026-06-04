@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In Husserl's framework, every intentional act has two inseparable components: the noesis and the noema. The noesis is the act of intending itself — the seeing, judging, remembering, desiring — along with the particular way it is performed. The noema is the intended content, the object as it is meant rather than the physical thing in the world. When two people look at the same tree, the physical tree is shared, but each person's noema — the tree as perceived from a specific angle, in a specific light, with specific associations — may differ entirely. This distinction let Husserl study consciousness without reducing it to either brain states or external objects.",
+  "question": "According to the passage, what does the noema represent in Husserl's framework?",
+  "options": [
+    { "text": "The physical object existing independently in the world", "correct": false },
+    { "text": "The neurological correlate of a conscious act", "correct": false },
+    { "text": "The object as it is meant or intended by the conscious act", "correct": true },
+    { "text": "The emotional tone coloring a perception", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Not all sleep contributes equally to synaptic pruning. Research suggests that the deepest pruning occurs during slow-wave sleep, when the brain emits large, synchronized oscillations called slow oscillations and sleep spindles. These waves sweep across the cortex in coordinated bursts, and it is during these bursts that the molecular machinery of pruning — including proteins like cofilin — becomes active. REM sleep, by contrast, appears to support a different form of consolidation, particularly for emotional and procedural memories. The distinction matters: disrupting slow-wave sleep specifically impairs synaptic cleanup, while disrupting REM impairs emotional integration.",
+  "question": "According to the passage, what specifically activates the molecular machinery of synaptic pruning during sleep?",
+  "options": [
+    { "text": "The synchronized slow oscillations and sleep spindles of slow-wave sleep", "correct": true },
+    { "text": "REM bursts that stimulate cofilin release in the amygdala", "correct": false },
+    { "text": "The suppression of cortisol during the first sleep cycle", "correct": false },
+    { "text": "Delta waves generated in the brainstem during light sleep", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Flow states and deliberate practice occupy opposite ends of the experience spectrum, yet each feeds the other. Mihaly Csikszentmihalyi defined flow as effortless absorption in a challenge calibrated just above current skill. Ericsson, by contrast, described deliberate practice as effortful and often unpleasant. The paradox resolves when you map skill development over time: deliberate practice builds the competence that later enables flow. The violinist who spent years struggling through difficult passages can eventually enter flow playing them. Flow is the reward that competence eventually unlocks. Seeking flow before building competence through deliberate practice is like expecting a harvest without planting — a pleasant fantasy that forestalls the actual work.",
+  "question": "How does the passage reconcile the apparent contradiction between flow states and deliberate practice?",
+  "options": [
+    { "text": "Flow and deliberate practice are fundamentally incompatible and serve different developmental goals", "correct": false },
+    { "text": "Deliberate practice builds the competence that later enables flow as a reward", "correct": true },
+    { "text": "Flow states are more productive for beginners while deliberate practice benefits experts", "correct": false },
+    { "text": "Both require the same level of attentional effort but different emotional orientations", "correct": false }
+  ]
+}

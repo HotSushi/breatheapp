@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "Psychologists distinguish between weak ties — acquaintances who provide novel information and serendipitous opportunity — and strong ties, the deep bonds that offer emotional sustenance during crisis. Social media has powerfully amplified weak ties, giving individuals thousands of acquaintances they would never have met. But researchers at Stanford and elsewhere have found that this expansion comes at a cost: time spent maintaining peripheral connections displaces time available for the intensive, repeated, vulnerable interaction that builds strong ones. We have more ties than ever and fewer of the kind that matter most.",
+  "question": "What does the passage identify as the cost of social media's amplification of weak ties?",
+  "options": [
+    { "text": "Users become overwhelmed by novel information and stop seeking new contacts.", "correct": false },
+    { "text": "Time spent on peripheral connections displaces the interactions needed to build strong bonds.", "correct": true },
+    { "text": "Weak ties eventually crowd out professional networking opportunities.", "correct": false },
+    { "text": "Users develop distorted expectations of reciprocity from close friends.", "correct": false }
+  ]
+}

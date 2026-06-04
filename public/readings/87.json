@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "The spotlight metaphor, while powerful, understates the spatial complexity of attention. Research by Yeshurun and Carrasco in 1998 demonstrated that the attentional spotlight also sharpens spatial resolution at its focus: attended regions are perceived with greater acuity, as if a lens had been placed over them. This \"attentional zoom lens\" model captures something the spotlight misses — attention does not simply select a region, it transforms the quality of perception within it. A musician attending to a single instrument in an orchestra does not merely hear it louder; they hear its timbre, articulation, and micro-timing with a precision unavailable to divided listening.",
+  "question": "What did Yeshurun and Carrasco's 1998 research add to the basic spotlight metaphor of attention?",
+  "options": [
+    { "text": "It demonstrated that the spotlight sharpens spatial resolution at its focus.", "correct": true },
+    { "text": "It proved the spotlight model applies only to auditory, not visual, attention.", "correct": false },
+    { "text": "It showed that attention can be divided equally across multiple spatial regions.", "correct": false },
+    { "text": "It showed that the spotlight's size is fixed and cannot be adjusted voluntarily.", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Epictetus, born a slave in Hierapolis, developed what he called the dichotomy of control: some things are 'up to us,' others are not. What distracts us most violently are precisely the things not up to us — a colleague's opinion, a delayed flight, a notification count. The Stoics identified this misplacement of attention as the root of disturbance, not external events themselves. Epictetus taught that the person who cannot distinguish what lies within their will from what lies outside it will scatter their attention endlessly, chasing phantoms they can never catch and neglecting the one domain they actually govern.",
+  "question": "What does Epictetus identify as the root cause of disturbance, according to the passage?",
+  "options": [
+    { "text": "External events that are genuinely harmful to one's well-being", "correct": false },
+    { "text": "Misplacing attention on things outside one's control rather than within one's will", "correct": true },
+    { "text": "The Stoic failure to distinguish philosophy from practical life", "correct": false },
+    { "text": "Overconfidence in one's ability to govern external circumstances", "correct": false }
+  ]
+}

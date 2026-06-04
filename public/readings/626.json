@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Psychologist Jeanne Nakamura, collaborating with Csikszentmihalyi, studied flow in everyday contexts by paging participants at random intervals and asking what they were doing and how they felt. The findings were counterintuitive: people reported more flow at work than at leisure. Yet they also reported preferring leisure. This paradox — called the 'paradox of work' — suggests that humans are unreliable judges of what conditions actually produce their best mental states. Passive consumption, however pleasant in anticipation, rarely delivers the absorption and meaning that structured challenge does. The activities we choose for relaxation are often least likely to restore us.",
+  "question": "What did Nakamura and Csikszentmihalyi's paging study reveal about flow at work versus leisure?",
+  "options": [
+    { "text": "People reported more flow at work but still expressed a preference for leisure.", "correct": true },
+    { "text": "Participants reported equal amounts of flow in both work and leisure settings.", "correct": false },
+    { "text": "Leisure activities were found to be the primary source of deep flow experiences.", "correct": false },
+    { "text": "Work produced flow only in creative professions, not in routine jobs.", "correct": false }
+  ]
+}

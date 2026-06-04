@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In the Mishnah, Rabbi Tarfon's teaching appears immediately after a passage about divine reward — a placement that is deliberate. The editors of Pirkei Avot were signaling that effort untethered from outcome is its own form of piety. Modern attention science offers an unexpected parallel: psychologist Mihaly Csikszentmihalyi found that intrinsic engagement — effort made for its own sake, without measuring against a final result — produces what he called flow, a state of complete absorption. The Talmud reached this insight through ethics; Csikszentmihalyi reached it through empirical study. Both concluded that attention liberated from completion is not diminished attention. It is attention at its most alive.",
+  "question": "According to the passage, what parallel does Csikszentmihalyi's research share with Rabbi Tarfon's teaching?",
+  "options": [
+    { "text": "Both argue that study partners produce deeper focus than solo effort", "correct": false },
+    { "text": "Both conclude that attention liberated from completion is most alive", "correct": true },
+    { "text": "Both claim that divine reward motivates deeper intellectual effort", "correct": false },
+    { "text": "Both found that ancient texts outperform modern methods for building concentration", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Simone Weil, writing in 1942, described attention as 'the rarest and purest form of generosity.' She was not speaking about cognitive science but about a moral discipline: the willingness to suspend one's own preoccupations and wait, without agenda, for what is actually present. Weil distinguished attention from effort and from will. Forcing the mind to concentrate, she argued, is counterproductive; true attention is a kind of negative capability — an active emptying. For Weil, the capacity to attend fully was not merely useful but constitutive of ethical life. To see another person clearly, one must first be capable of genuine internal silence, the rarest achievement of an undistracted mind.",
+  "question": "How did Simone Weil distinguish genuine attention from effortful concentration?",
+  "options": [
+    { "text": "Genuine attention requires stronger willpower and deliberate mental forcing", "correct": false },
+    { "text": "Genuine attention is a form of negative capability — an active emptying rather than effortful forcing", "correct": true },
+    { "text": "Genuine attention is achieved through repeated practice of focused tasks over many years", "correct": false },
+    { "text": "Genuine attention depends on suppressing the default mode network through meditative techniques", "correct": false }
+  ]
+}

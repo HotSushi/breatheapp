@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Talmudic tractate Avot de-Rabbi Natan elaborates on Rabbi Tarfon's teaching with a striking metaphor: the worker hired for the day who cannot complete the building before sunset. The worker's inability to finish is not failure — it is the natural structure of time. The rabbis used this image deliberately. They were not primarily consoling the discouraged; they were reframing what it means to show up. The building does not stand on the final stone; it stands on every stone laid faithfully. A distracted hour at the project's end contributes less than an attentive hour at its middle. The ethics are in the quality of participation, not its duration.",
+  "question": "What does the day-laborer metaphor in Avot de-Rabbi Natan primarily illustrate?",
+  "options": [
+    { "text": "That wages should be paid at the end of each workday", "correct": false },
+    { "text": "That natural time constraints excuse scholars from completing difficult texts", "correct": false },
+    { "text": "That the ethics lie in quality of participation, not its duration", "correct": true },
+    { "text": "That even simple labor contains spiritual significance when done humbly", "correct": false }
+  ]
+}

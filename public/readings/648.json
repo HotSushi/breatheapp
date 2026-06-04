@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "The monastic practice of 'lectio divina' — sacred reading — prescribed that a single short passage of scripture be read, then read again, then pondered for an extended period before any new text was encountered. The medieval monk was not information-poor; monastery libraries held more books than most people would encounter in a lifetime. The choice to read one thing slowly was not scarcity but method. Theologians called this 'rumination,' deliberately adopting the image of a ruminant animal that returns the same bite of food repeatedly. The practice holds that depth of understanding comes not from breadth of exposure but from the quality of return.",
+  "question": "What does the passage say the medieval choice to read one text slowly represented?",
+  "options": [
+    { "text": "A response to the scarcity of books in monastery libraries", "correct": false },
+    { "text": "A method of spiritual humility prescribed by Church doctrine", "correct": false },
+    { "text": "Not scarcity but a deliberate method for depth of understanding", "correct": true },
+    { "text": "A way to memorize texts before printing was widely available", "correct": false }
+  ]
+}

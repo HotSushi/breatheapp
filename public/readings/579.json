@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Weil's attention philosophy has found unexpected resonance in contemporary cognitive science. Researchers studying 'default mode network' activity have found that the brain's wandering, self-referential state — the very state Weil called imaginary attention — is its default, its resting position. True presence requires active suppression of this network by the task-positive network. What Weil described as self-evacuation maps closely onto what neuroscientists call 'deactivation of the DMN': the quieting of the brain's inner narrator. The parallel suggests that Weil's spiritual phenomenology anticipated by decades what neuroscience is only now learning to measure.",
+  "question": "What does the passage identify as the brain's default resting state, corresponding to Weil's concept of imaginary attention?",
+  "options": [
+    { "text": "Task-positive network activation", "correct": false },
+    { "text": "Default mode network activity — wandering, self-referential thought", "correct": true },
+    { "text": "Alpha-wave synchronization across cortical regions", "correct": false },
+    { "text": "Prefrontal suppression of limbic arousal", "correct": false }
+  ]
+}

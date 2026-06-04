@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Recovery from stress is not passive — it is an active biological process requiring specific conditions. During genuine rest, the hypothalamic-pituitary-adrenal axis down-regulates cortisol production via a negative-feedback loop: rising glucocorticoid receptors in the hippocampus signal the hypothalamus to reduce releasing hormones. But this feedback loop is exquisitely sensitive to interruption. Research by Sonia Lupien at the Montreal Neurological Institute showed that even brief, repeated stressors — noise, social evaluation, time pressure — can blunt hippocampal glucocorticoid receptors over time, impairing the brain's ability to turn off its own stress signal. A nervous system that cannot self-quiet loses, by degrees, the biological capacity for deep attention.",
+  "question": "According to Sonia Lupien's research, what effect do repeated brief stressors have on the stress-recovery system?",
+  "options": [
+    { "text": "They strengthen the HPA axis, making the system more efficient", "correct": false },
+    { "text": "They increase hippocampal volume, improving glucocorticoid sensitivity", "correct": false },
+    { "text": "They have no lasting effect if each individual stressor is mild", "correct": false },
+    { "text": "They blunt hippocampal glucocorticoid receptors, impairing the ability to turn off the stress signal", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Paul Ricoeur argued in \"Time and Narrative\" that human time is irreducibly storied: we experience duration not as a clock ticks but as a plot unfolds, with beginnings, midpoints, and anticipated endings. This narrative time actively structures attention. We linger on moments that feel like turning points; we skim moments that feel like filler. The result is a selective editing of lived experience — not neutral and not inevitable. Ricoeur called the capacity to step back from one's narrative and examine it \"narrative distance,\" and he saw it as the foundational act of self-understanding.",
+  "question": "What did Ricoeur call the capacity to step back from one's narrative and examine it?",
+  "options": [
+    { "text": "Temporal distanciation", "correct": false },
+    { "text": "Hermeneutic reflection", "correct": false },
+    { "text": "Narrative distance", "correct": true },
+    { "text": "Emplotted consciousness", "correct": false }
+  ]
+}

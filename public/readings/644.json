@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Psychologist Mihaly Csikszentmihalyi's decades of flow research consistently found that people could not enter the flow state while simultaneously attending to multiple information streams. Flow requires what he called 'psychic energy' to be channeled into a single channel — the moment attention is split, the feedback loop that generates flow collapses. Athletes, surgeons, and chess grandmasters who routinely enter flow states all share one behavioral trait: they seal off competing inputs before beginning. The architecture of peak performance is, at its foundation, an act of deliberate exclusion.",
+  "question": "According to Csikszentmihalyi, what happens to flow when attention is split between multiple tasks?",
+  "options": [
+    { "text": "Flow becomes shallower but remains partially intact", "correct": false },
+    { "text": "The feedback loop that generates flow collapses", "correct": true },
+    { "text": "Psychic energy redistributes across all active channels", "correct": false },
+    { "text": "Flow can still occur if one task is physical and one is cognitive", "correct": false }
+  ]
+}

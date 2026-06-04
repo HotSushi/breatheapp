@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Rachel and Stephen Kaplan developed Attention Restoration Theory in the 1980s after observing participants in Outward Bound wilderness programs. Their central claim: the directed attention faculty — the executive system that filters distraction — is a finite resource that depletes with use. Urban environments exploit it relentlessly, demanding constant vigilance against traffic, noise, and social cues. Natural settings, by contrast, engage what the Kaplans called involuntary attention: a mode of effortless noticing that doesn't draw on the same depleting resource. Recovery occurs not through inactivity but through a different kind of engagement — one where the environment does the attending for you.",
+  "question": "What distinguishes how urban and natural environments engage attention according to the Kaplans?",
+  "options": [
+    { "text": "Urban environments engage involuntary attention while natural environments require directed attention", "correct": false },
+    { "text": "Natural settings restore attention because they contain no stimuli worth noticing", "correct": false },
+    { "text": "Both environments equally deplete directed attention, but nature replenishes it faster", "correct": false },
+    { "text": "Urban environments deplete directed attention while natural settings engage involuntary attention that doesn't draw on the same resource", "correct": true }
+  ]
+}

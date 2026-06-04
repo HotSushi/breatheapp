@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Jazz improvisation offers a compressed model of the entire creative cycle. In the preparation phase, musicians internalize scales, harmonic structures, and the vocabulary of their tradition until these elements become automatic. This overlearning is deliberate: it frees conscious attention during performance so that genuinely novel choices can emerge. Neuroscientist Charles Limb found that during improvisation, jazz musicians show decreased activity in the dorsolateral prefrontal cortex — the region associated with self-monitoring — while creative regions remain fully active. The musician is not thinking less; they are thinking differently, having offloaded the grammar of the craft so the mind is free to pursue meaning.",
+  "question": "What did Charles Limb find happens in the dorsolateral prefrontal cortex during jazz improvisation?",
+  "options": [
+    { "text": "It becomes hyperactive as the musician processes harmonic complexity.", "correct": false },
+    { "text": "It synchronizes with the motor cortex to coordinate physical technique.", "correct": false },
+    { "text": "Activity decreases, consistent with reduced self-monitoring.", "correct": true },
+    { "text": "It shows patterns identical to those seen during deliberate practice.", "correct": false }
+  ]
+}

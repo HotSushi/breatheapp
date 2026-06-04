@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "When economist Tyler Cowen writes about 'cognitive elites,' he means something precise: the divergence in earning power between those who can sustain complex reasoning across long stretches of time and those who cannot. In an economy where machine learning handles routine pattern recognition, the tasks that command premium wages are those requiring contextual judgment, novel synthesis, and the ability to hold contradictory considerations in mind simultaneously. These capacities are not fixed traits — they are trained through practice. The worker who daily practices sustained attention is compounding a form of human capital as surely as the investor compounding financial returns.",
+  "question": "What does the passage identify as the mechanism that makes focused attention a form of compounding human capital?",
+  "options": [
+    { "text": "Focused workers are more visible to managers, leading to faster promotion", "correct": false },
+    { "text": "Sustained attention is a fixed cognitive trait that predicts earning power from birth", "correct": false },
+    { "text": "Machine learning eliminates routine work, leaving only tasks requiring contextual judgment", "correct": false },
+    { "text": "Sustained attention is trained through daily practice, building capacities that compound over time", "correct": true }
+  ]
+}

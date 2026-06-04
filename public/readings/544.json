@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "Montaigne distrusted ambition as an attention-thief. In his essay 'On Solitude,' he observed that men seek solitude for the wrong reason — to ruminate on failure, plan revenge, or rehearse grievances. True withdrawal, he argued, requires what he called 'desoccupation': the deliberate emptying of goal-directed thought. This is not laziness but a precondition for genuine judgment. When the mind is not straining toward an outcome, it perceives more clearly. Montaigne's model was the garden-walking philosopher, not the ascetic — someone who thinks freely because nothing is at stake in the moment.",
+  "question": "What does Montaigne call the deliberate emptying of goal-directed thought?",
+  "options": [
+    { "text": "Recollection", "correct": false },
+    { "text": "Contemplation", "correct": false },
+    { "text": "Desoccupation", "correct": true },
+    { "text": "Resignation", "correct": false }
+  ]
+}

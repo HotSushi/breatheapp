@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Husserl introduced the method of 'epoché' — a deliberate suspension of the natural attitude — precisely because intentionality is ordinarily invisible to us. In everyday life we look through our acts toward the world; the act of seeing is transparent, and we attend to the tree, not to our seeing of it. The epoché 'brackets' the existence of the world to make consciousness itself the object of study. This is not skepticism about the world but a methodological redirection of attention. By suspending the assumption that objects simply exist, Husserl could examine how consciousness constitutes the sense of reality — how the world comes to have meaning for a minded subject.",
+  "question": "According to the passage, what is the purpose of Husserl's epoché?",
+  "options": [
+    { "text": "To prove that the external world does not exist", "correct": false },
+    { "text": "To redirect attention from the world to the acts of consciousness constituting it", "correct": true },
+    { "text": "To train the mind to perceive objects more accurately", "correct": false },
+    { "text": "To eliminate all background moods from conscious experience", "correct": false }
+  ]
+}

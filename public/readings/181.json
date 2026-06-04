@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "Zeno of Citium, founding the Stoa around 300 BCE, declared that the highest human good was living 'in agreement with nature' — homologoumenos te phusei zen. But Zeno did not mean nature in a pastoral sense, retreating to forests or rivers. He meant the rational nature specific to human beings: logos, the capacity to reason coherently and govern impulse. An animal lives by instinct; a plant by growth. The human being alone possesses a governing faculty — the hegemonikon — capable of standing apart from raw desire and choosing deliberately. To live unnaturally, for Zeno, was not to eat poorly but to reason poorly.",
+  "question": "According to the passage, what did Zeno mean by 'living according to nature'?",
+  "options": [
+    { "text": "Exercising the rational faculty specific to human beings", "correct": true },
+    { "text": "Spending time in natural environments away from cities", "correct": false },
+    { "text": "Following instinctual drives as animals do", "correct": false },
+    { "text": "Avoiding unnatural foods and artificial substances", "correct": false }
+  ]
+}

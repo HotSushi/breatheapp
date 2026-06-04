@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "Focusing on a task and monitoring that focus are competing demands on a limited cognitive budget. Psychologist Alan Baddeley demonstrated that working memory handles both the processing of information and the executive functions that oversee processing — a dual burden that creates a paradox: the more cognitively demanding the task, the less spare capacity remains for metacognitive oversight. This explains why focus is most likely to collapse precisely when stakes are highest. Expert performers navigate this by automating lower-level components of their work, freeing executive resources for self-monitoring. The chess grandmaster does not think about how to move pieces; freed from that, he watches his own thinking for errors.",
+  "question": "According to the passage, why do expert performers have more capacity for self-monitoring?",
+  "options": [
+    { "text": "They have inherently larger working memory capacities", "correct": false },
+    { "text": "They practice meditation to develop metacognitive awareness", "correct": false },
+    { "text": "They automate lower-level task components, freeing executive resources", "correct": true },
+    { "text": "They work more slowly and therefore experience less cognitive load", "correct": false }
+  ]
+}

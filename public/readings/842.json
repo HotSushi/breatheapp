@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "The extended mind thesis rests on what Clark and Chalmers called the 'parity principle': if an external process would be recognized as cognitive were it happening inside the head, then it should be recognized as cognitive when it happens outside the head too. Critics objected that this proves too much — by the same logic, a library or the internet would constitute part of your mind. Clark's response was that not every external resource qualifies; the resource must be reliably accessible, automatically endorsed, and directly action-guiding. A website you occasionally visit fails these criteria. A prosthetic memory device you trust implicitly and consult without deliberation may not.",
+  "question": "According to Clark, what distinguishes an external resource that qualifies as part of the mind from one that does not?",
+  "options": [
+    { "text": "The resource must be digital rather than physical", "correct": false },
+    { "text": "The resource must be reliably accessible, automatically endorsed, and directly action-guiding", "correct": true },
+    { "text": "The resource must be consulted at least once per day", "correct": false },
+    { "text": "The resource must be created by the person who uses it", "correct": false }
+  ]
+}

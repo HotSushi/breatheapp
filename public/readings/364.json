@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "The gorilla experiment is often cited as a quirky curiosity, but its implications extend into life-and-death domains. Studies of aviation accidents have found that pilots, heads-down on instrument scans, have failed to notice terrain-clearance warnings. Radiologists scanning for tumors have missed inserted images of a gorilla-sized figure in lung scans — a finding from Trafton Drew and colleagues in 2013. Expert training sharpens attention in specific directions but simultaneously creates predictable blind spots. The more skilled a professional becomes at detecting what they expect, the more vulnerable they may be to what falls outside their trained expectation. Expertise, paradoxically, can narrow the attentional aperture.",
+  "question": "What did Trafton Drew's 2013 study find about radiologists?",
+  "options": [
+    { "text": "Expert radiologists outperformed novices in detecting unexpected objects in scans", "correct": false },
+    { "text": "Radiologists scanning for tumors missed a gorilla-sized figure inserted into lung scans", "correct": true },
+    { "text": "Radiologists were more susceptible to change blindness than to inattentional blindness", "correct": false },
+    { "text": "Expertise in radiology eliminated attentional blind spots over time", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "In Rinzai Zen, koans serve a specific cognitive function: they short-circuit habitual reasoning. A student asked to explain the sound of one hand clapping cannot apply ordinary logical strategies, because the koan is designed to be insoluble by the conceptual mind. The exhaustion of familiar approaches produces what Zen calls 'great doubt' — a disorientation that cracks open the expert's foreclosed perception. Psychologists call a similar phenomenon 'productive confusion,' documented by Arthur Shimamura as a state that enhances encoding and deep processing. The koan is not a riddle with a hidden answer; it is a device for inducing beginner's mind by making the expert's toolkit temporarily useless.",
+  "question": "According to the passage, what cognitive function do Rinzai Zen koans serve?",
+  "options": [
+    { "text": "They train students to memorize canonical Buddhist texts through repetitive recitation.", "correct": false },
+    { "text": "They short-circuit habitual reasoning to induce a state of openness and beginner's mind.", "correct": true },
+    { "text": "They provide logical frameworks that deepen understanding of impermanence.", "correct": false },
+    { "text": "They generate productive confusion that strengthens the prefrontal cortex over time.", "correct": false }
+  ]
+}

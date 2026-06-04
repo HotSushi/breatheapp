@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "The Buddhist teaching of anatta — non-self — is often misread as the claim that the self does not exist. More precisely, it denies the existence of a permanent, unchanging, independently-arising self. What we call \"I\" is a process: a continuous stream of sensation, perception, mental formation, and consciousness that Buddhist analysis divides into the five aggregates, or skandhas. Thich Nhat Hanh reframes this not as loss but as liberation: when the separate self dissolves, what remains is participation in the web of interbeing. The fear that losing selfhood means losing everything inverts the actual experience practitioners report — not diminishment, but expansion.",
+  "question": "According to the passage, what does the Buddhist teaching of anatta actually deny?",
+  "options": [
+    { "text": "That consciousness survives the death of the body", "correct": false },
+    { "text": "That human beings have any form of continuous experience", "correct": false },
+    { "text": "That individual perception has any validity as a guide to reality", "correct": false },
+    { "text": "That a permanent, unchanging, independently-arising self exists", "correct": true }
+  ]
+}

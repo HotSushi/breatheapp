@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 1999, Daniel Simons and Christopher Chabris asked participants to count basketball passes in a short video. Midway through, a person in a gorilla suit walked across the screen, thumped their chest, and left. Roughly half of all observers never saw it. This is inattentional blindness: when attention is fully committed to one task, the brain does not merely ignore irrelevant stimuli — it fails to consciously register them at all. The gorilla was not filtered out after detection; it was never detected. Attention, it turns out, is not a spotlight that illuminates everything within its beam. It is a construction project that builds only what it is told to build.",
+  "question": "According to the passage, why did participants miss the gorilla?",
+  "options": [
+    { "text": "They noticed it but dismissed it as unimportant to the task", "correct": false },
+    { "text": "The gorilla moved too quickly across the screen to register", "correct": false },
+    { "text": "Attention failed to consciously register the gorilla at all, not merely filter it", "correct": true },
+    { "text": "Participants were unfamiliar with the concept of selective attention", "correct": false }
+  ]
+}

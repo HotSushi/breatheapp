@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "What distinguishes Pascal's insight from mere moralizing is its structural precision. He did not say distraction is bad. He said distraction is necessary — given the alternative. Without the noise of diversion, the silent room confronts us with what he called 'the natural unhappiness of our feeble and mortal condition.' Boredom, in this reading, is not a mild discomfort. It is the sharp edge of existential awareness pressing through whenever stimulation fails. Digital technology has not created a new problem; it has simply become the most efficient divertissement in human history.",
+  "question": "According to the passage, why did Pascal consider distraction necessary rather than merely bad?",
+  "options": [
+    { "text": "Because human beings are constitutionally incapable of sustained thought", "correct": false },
+    { "text": "Because without it, people confront the natural unhappiness of their mortal condition", "correct": true },
+    { "text": "Because structured diversions build the mental discipline needed for later focus", "correct": false },
+    { "text": "Because social diversion promotes the kind of community that sustains civilization", "correct": false }
+  ]
+}

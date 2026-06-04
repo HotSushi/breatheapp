@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Dual-task experiments reveal a sharp boundary in working memory called the psychological refractory period. When two tasks require central cognitive processing at nearly the same moment, the brain queues them — the second must wait while the first completes. This isn't multitasking; it's rapid sequential switching with a mandatory delay. Harold Pashler's experiments in the 1990s showed this bottleneck is structural, not merely habitual. No amount of practice eliminates it for tasks that compete for the same cognitive resources. The person who claims to multitask is not doing two things at once; they are doing two things badly, in alternation.",
+  "question": "What did Harold Pashler's experiments demonstrate about the psychological refractory period?",
+  "options": [
+    { "text": "It affects only novices who lack efficient chunking strategies", "correct": false },
+    { "text": "It disappears with sufficient practice on the competing tasks", "correct": false },
+    { "text": "It is caused by emotional interference rather than cognitive competition", "correct": false },
+    { "text": "It is a structural bottleneck that cannot be eliminated through practice", "correct": true }
+  ]
+}

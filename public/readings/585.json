@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "In Zen Buddhism, the concept of shoshin — 'beginner's mind' — holds that expertise crowds perception as surely as clutter crowds a room. The master calligrapher Shunryu Suzuki wrote: 'In the beginner's mind there are many possibilities, but in the expert's mind there are few.' Walden was, in part, Thoreau's attempt to cultivate beginner's mind toward his native landscape. He had walked the same woods for years without truly seeing them. Only when he removed the social obligations that structured his days did the familiar become strange again — the ice, the light, the loons — and strangeness, for Thoreau as for Zen, was the doorway back into direct experience.",
+  "question": "What does the passage say Thoreau achieved by removing his social obligations?",
+  "options": [
+    { "text": "He developed expertise in local flora and fauna", "correct": false },
+    { "text": "He made the familiar strange again, reopening direct experience", "correct": true },
+    { "text": "He validated Suzuki's theory of beginner's mind", "correct": false },
+    { "text": "He demonstrated that expertise enhances perception over time", "correct": false }
+  ]
+}

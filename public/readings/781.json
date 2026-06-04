@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Psychologist Alejandro Lleras at the University of Illinois demonstrated in 2011 that brief mental disengagement — even a 40-second diversion — can significantly reverse the vigilance decrement: the gradual erosion of sustained attention over time. The brain is poorly designed for prolonged focus on a single stimulus. Neurons adapt to constant input by reducing their firing rate, a process called neural habituation. Introducing a brief interruption resets this adaptation, making the task feel novel again. This is why the Roman poet Horace advised working in short bursts — not laziness, but neurological wisdom centuries ahead of its empirical confirmation.",
+  "question": "According to the passage, what neural process does a brief mental break reverse?",
+  "options": [
+    { "text": "Synaptic pruning caused by overuse of working memory", "correct": false },
+    { "text": "Neural habituation, which reduces neuron firing rates during sustained focus", "correct": true },
+    { "text": "Cortisol suppression that impairs attentional gating", "correct": false },
+    { "text": "Default mode network activation that disrupts task encoding", "correct": false }
+  ]
+}

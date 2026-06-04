@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "Slow exhalation is the most direct voluntary path into the parasympathetic state. The mechanism is mechanical: the diaphragm's downward pull on inhalation briefly stretches the heart, increasing heart rate; on exhalation, that stretch releases and the vagus slows the heart again. Extending the exhale relative to the inhale therefore amplifies vagal tone with each breath. Neuroscientist Andrew Huberman has described this as a 'physiological sigh' — a double inhale through the nose followed by a long exhale — as the fastest known way to off-load carbon dioxide and shift autonomic balance toward calm. The breath is the only visceral process simultaneously automatic and fully voluntary, making it a uniquely accessible lever for nervous system regulation.",
+  "question": "According to the passage, why does extending the exhale increase vagal tone?",
+  "options": [
+    { "text": "Exhalation triggers the release of acetylcholine from the adrenal glands", "correct": false },
+    { "text": "The diaphragm's upward movement during exhalation compresses the vagus nerve directly", "correct": false },
+    { "text": "On exhalation, the stretch on the heart from inhalation releases, allowing the vagus to slow the heart", "correct": true },
+    { "text": "Extended exhalation raises blood oxygen levels, signaling safety to the brainstem", "correct": false }
+  ]
+}

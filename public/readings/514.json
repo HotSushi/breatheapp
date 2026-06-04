@@ -1,0 +1,23 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "When a disciple asked Confucius to define humaneness — ren — in a single phrase, he replied: \"Overcome the self and return to ritual.\" The instruction is precise. Overcoming the self means suspending the reactive, comfort-seeking self long enough to act from principle. Neuroscientist Antonio Damasio's somatic marker hypothesis describes the opposite failure: emotional signals from the body hijack deliberative reasoning, producing impulsive choices. Confucius located the same problem two millennia earlier and prescribed the same cure — structured practice that inserts a pause between impulse and action, allowing the reflective mind to govern.",
+  "question": "What does Confucius mean by \"overcome the self,\" as explained in this passage?",
+  "options": [
+    {
+      "text": "Deny physical needs through ascetic practice",
+      "correct": false
+    },
+    {
+      "text": "Eliminate desire through meditation and stillness",
+      "correct": false
+    },
+    {
+      "text": "Subordinate personal goals to community welfare",
+      "correct": false
+    },
+    {
+      "text": "Suspend the reactive, comfort-seeking self to act from principle",
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The technique of \"astroturfing\" — manufacturing the appearance of grassroots political attention — reveals how attention itself has become a political commodity. PR firms since the 1990s have generated fake letter-writing campaigns, populated comment sections, and seeded social media with coordinated accounts designed to make fringe positions appear mainstream. The mechanism exploits a genuine cognitive heuristic: humans assess the credibility and urgency of a position partly by how many others seem to hold it. Political scientist Diana Mutz called this \"impersonal influence\" — citizens are moved not by arguments they evaluate directly but by their perception of what the broader population believes, a perception that can be systematically fabricated.",
+  "question": "What cognitive mechanism does astroturfing exploit, according to the passage?",
+  "options": [
+    { "text": "Citizens' susceptibility to emotionally charged language in political messaging", "correct": false },
+    { "text": "The tendency to evaluate positions based on how many others appear to hold them", "correct": true },
+    { "text": "The difficulty citizens have distinguishing online from offline social cues", "correct": false },
+    { "text": "The preference for visual information over text when forming political judgments", "correct": false }
+  ]
+}

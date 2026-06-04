@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Mihaly Csikszentmihalyi documented flow in athletes, surgeons, and chess players — but some of his richest accounts came from readers. The conditions for flow in reading are precise: the text must be neither too simple (producing boredom) nor too opaque (producing anxiety), but calibrated to the reader's skill level in a way that sustains effortful engagement. Literary critic James Wood calls this the \"texture of attention\" — how a prose style trains the reader's eye to slow, to notice, to linger. In this sense, a great novelist is also a great attention architect.",
+  "question": "What condition must a text meet to induce flow in a reader, according to Csikszentmihalyi's framework?",
+  "options": [
+    { "text": "It must be emotionally familiar to the reader.", "correct": false },
+    { "text": "It must be calibrated to the reader's skill level to sustain effortful engagement.", "correct": true },
+    { "text": "It must be written in a style that minimizes ambiguity.", "correct": false },
+    { "text": "It must be short enough to finish in a single session.", "correct": false }
+  ]
+}

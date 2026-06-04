@@ -1,0 +1,11 @@
+{
+  "pillar": "Ancient Wisdom on Focus",
+  "text": "The Talmud's phrase ve-lo atah ben chorin lehibatel mimena — \"you are not free to exempt yourself from it\" — uses the legal category of exemption rather than mere discouragement. In halachic reasoning, an exemption releases a person from an obligation entirely; to lack that exemption means the obligation persists regardless of circumstances. Rabbi Tarfon was making a jurisprudential claim: the duty of sustained engagement has no standing exemption. You cannot be released from it by complexity, by prior failure, or by the recognition that you will not finish. The task's incompletability is legally irrelevant to your obligation to continue.",
+  "question": "According to the passage, on what legal basis does Rabbi Tarfon argue that engagement must continue?",
+  "options": [
+    { "text": "Complexity and prior failure create stronger obligations, not weaker ones", "correct": false },
+    { "text": "The obligation persists because the duty of engagement has no standing exemption", "correct": true },
+    { "text": "Torah law requires three witnesses before any obligation can be released", "correct": false },
+    { "text": "A task's difficulty determines how long one must persevere before desisting", "correct": false }
+  ]
+}

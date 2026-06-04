@@ -1,0 +1,11 @@
+{
+  "pillar": "Biology of Rest and Recovery",
+  "text": "DHA — docosahexaenoic acid — is the omega-3 fatty acid that makes up roughly 30% of the brain's gray matter. It is structurally embedded in neuronal membranes, where it governs membrane fluidity and the efficiency of signal transmission between neurons. When dietary DHA is insufficient, the brain substitutes docosapentaenoic acid (DPA), a less effective structural stand-in that slows synaptic communication. Joseph Hibbeln at the National Institutes of Health has linked chronically low DHA intake to higher rates of depression and cognitive decline across populations. The brain cannot synthesize adequate DHA on its own; it depends entirely on dietary or supplemental sources.",
+  "question": "According to the passage, what does the brain use as a substitute when dietary DHA is insufficient?",
+  "options": [
+    { "text": "EPA (eicosapentaenoic acid)", "correct": false },
+    { "text": "Docosapentaenoic acid (DPA)", "correct": true },
+    { "text": "Arachidonic acid", "correct": false },
+    { "text": "Linoleic acid", "correct": false }
+  ]
+}

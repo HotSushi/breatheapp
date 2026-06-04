@@ -1,0 +1,11 @@
+{
+  "pillar": "Deep Work and Flow States",
+  "text": "Anders Ericsson spent thirty years studying world-class performers and arrived at an unsettling conclusion: natural talent is largely a myth. What separates experts from novices is not innate ability but a specific kind of practice he called deliberate practice — structured, effortful repetition designed to push just beyond current capability. Deliberate practice is uncomfortable by definition. It requires immediate feedback, focused attention on weaknesses, and the willingness to fail repeatedly in controlled conditions. Ericsson found that elite violinists at Berlin's Music Academy had accumulated, by age twenty, roughly ten thousand hours of solitary deliberate practice — not performance, not casual play, but concentrated struggle.",
+  "question": "According to Ericsson's research, what distinguished elite violinists from lesser performers at Berlin's Music Academy?",
+  "options": [
+    { "text": "They began training at a younger age than other students", "correct": false },
+    { "text": "They had more supportive teachers who gave detailed feedback", "correct": false },
+    { "text": "They had accumulated roughly ten thousand hours of solitary deliberate practice by age twenty", "correct": true },
+    { "text": "They practiced in groups, which accelerated their skill development", "correct": false }
+  ]
+}

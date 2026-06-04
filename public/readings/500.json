@@ -1,0 +1,11 @@
+{
+  "pillar": "Technology and Digital Distraction",
+  "text": "Anthropologist David Graeber observed that bureaucratic systems multiply paperwork not despite its uselessness but because of it — busywork signals effort even when nothing is produced. Something structurally similar governs digital behavior: a phone filled with unread notifications performs productivity, signaling demand and importance. But Jonathan Schooler's research on 'decoupled' thinking — mind-wandering that is not tracked, not shared, not captured — found it to be the most generative mental state for integrating experience. The unscheduled mind, doing nothing visible, is often doing the most consequential work. What cannot be measured by a notification count does not cease to have value.",
+  "question": "What did Jonathan Schooler's research find about 'decoupled' thinking?",
+  "options": [
+    { "text": "It correlates with higher rates of digital distraction and reduced task performance.", "correct": false },
+    { "text": "It is productive only when followed immediately by structured note-taking to capture insights.", "correct": false },
+    { "text": "It is the most generative mental state for integrating experience.", "correct": true },
+    { "text": "It mirrors the cognitive benefits of sleep and occurs most reliably in early morning hours.", "correct": false }
+  ]
+}

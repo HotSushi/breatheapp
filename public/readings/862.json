@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Psychologist Jerome Bruner distinguished two modes of thought: paradigmatic reasoning, which seeks logical proof, and narrative reasoning, which seeks verisimilitude — the feeling of truth. Crucially, Bruner found that the narrative mode dominates our everyday attention. We process the world not as a set of facts to verify but as a story already in progress, scanning for events that fit the plot we expect. This anticipatory structure is efficient but costly: stimuli that fall outside our current story arc are literally harder to perceive, demanding more neural resources to register at all.",
+  "question": "What did Bruner find about stimuli that fall outside our current narrative?",
+  "options": [
+    { "text": "They activate the paradigmatic reasoning mode instead", "correct": false },
+    { "text": "They are stored in long-term memory more reliably than expected events", "correct": false },
+    { "text": "They are harder to perceive and demand more neural resources to register", "correct": true },
+    { "text": "They trigger an automatic switch from narrative to logical processing", "correct": false }
+  ]
+}

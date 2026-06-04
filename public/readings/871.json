@@ -1,0 +1,11 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "In his 1974 essay 'What Is It Like to Be a Bat?', Thomas Nagel argued that consciousness has an irreducibly subjective character — there is something it is like to be a conscious creature, and no objective third-person description captures it fully. A bat navigates by echolocation, building a world from reflected sound. We can describe that neural process in exhaustive physical detail, yet the felt quality of that sonar experience remains inaccessible to us. Nagel's point was not mystical but logical: subjective experience belongs to a first-person perspective that third-person science, by design, cannot fully reach.",
+  "question": "According to Nagel, why can't objective scientific description fully capture a bat's sonar experience?",
+  "options": [
+    { "text": "Because bat brains are too different from human brains to study accurately", "correct": false },
+    { "text": "Because science lacks the instruments to measure echolocation precisely", "correct": false },
+    { "text": "Because subjective experience belongs to a first-person perspective that third-person science cannot reach", "correct": true },
+    { "text": "Because the felt quality of experience is located in a non-physical realm", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Cognitive Psychology",
+  "text": "In 2012, Charles Duhigg's 'The Power of Habit' crystallized decades of behavioral research into a single framework: every habit consists of a cue, a routine, and a reward. The cue triggers an automatic behavior; the routine is the behavior itself; the reward reinforces it. What makes this loop so durable is that the basal ganglia — an ancient brain structure involved in procedural memory — encodes the entire sequence as a single chunk. Once chunked, the prefrontal cortex largely disengages, handing control to automatic processing. Breaking a habit requires not eliminating the loop but intercepting it at the routine stage while keeping cue and reward intact.",
+  "question": "According to the passage, what does breaking a habit require?",
+  "options": [
+    { "text": "Eliminating the cue that triggers the behavior", "correct": false },
+    { "text": "Engaging the basal ganglia to overwrite the chunked sequence", "correct": false },
+    { "text": "Intercepting the routine while keeping the cue and reward intact", "correct": true },
+    { "text": "Suppressing the reward signal through prefrontal cortex activity", "correct": false }
+  ]
+}

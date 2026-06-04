@@ -1,0 +1,23 @@
+{
+  "pillar": "Philosophy of Mind and Consciousness",
+  "text": "Nagel's concept of a 'view from nowhere' \u2014 the ideal of a perspective-free, objective description of reality \u2014 runs into a paradox when applied to consciousness. To describe the redness of red, the ache of longing, or the texture of attention requires occupying a perspective. You cannot step outside experience to examine it the way you step outside a room. This is why Nagel insisted that physicalism, however successful at explaining behavior and function, faces a hard explanatory gap: it can tell us everything about the brain processes correlated with seeing red, but not what it is like to see it.",
+  "question": "What does Nagel call the gap between physical brain-process descriptions and the felt quality of experience?",
+  "options": [
+    {
+      "text": "The hard explanatory gap",
+      "correct": true
+    },
+    {
+      "text": "The perceptual illusion",
+      "correct": false
+    },
+    {
+      "text": "The phenomenal barrier",
+      "correct": false
+    },
+    {
+      "text": "The view from nowhere",
+      "correct": false
+    }
+  ]
+}

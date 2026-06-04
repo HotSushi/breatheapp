@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "Biophilia — E.O. Wilson's 1984 hypothesis that humans carry an innate affinity for living systems — offers a complementary lens to Attention Restoration Theory. Where the Kaplans focused on what natural environments do for depleted attention, Wilson asked why they do it at all. His answer: over hundreds of thousands of years, our ancestors thrived by reading natural environments skillfully. Landscapes that signaled resources, safety, and life became intrinsically rewarding to attend to. The nervous system did not evolve to find spreadsheets or notification badges compelling; it evolved to find rivers, treelines, and open skies compelling. Restoration may be less a cognitive trick than an evolutionary homecoming.",
+  "question": "How does Wilson's biophilia hypothesis explain why natural environments restore attention?",
+  "options": [
+    { "text": "Natural settings reduce cortisol because they are quieter than urban spaces", "correct": false },
+    { "text": "Humans evolved to find nature stimulating because it is more colorful than artificial environments", "correct": false },
+    { "text": "Natural environments activate the default mode network, which is suppressed in urban settings", "correct": false },
+    { "text": "Our ancestors evolved to attend to natural environments skillfully, making them intrinsically rewarding to engage with", "correct": true }
+  ]
+}

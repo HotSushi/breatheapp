@@ -1,0 +1,11 @@
+{
+  "pillar": "Stoic Philosophy",
+  "text": "For the later Stoics, distinguishing signal from noise was inseparable from the practice of prosoche — sustained attention to the present moment. Epictetus told his students that most suffering arises not from events but from the commentary we add to events without noticing. A ship is delayed: that is the signal. 'My plans are ruined, the universe is against me' — that is noise, a narrative pasted over fact. The discipline he prescribed was surgical: state only what you can directly observe, withhold assent from everything else. This is not pessimism but precision. Logos, he argued, always speaks in facts. It is human fear that speaks in stories.",
+  "question": "What did Epictetus identify as the source of most suffering?",
+  "options": [
+    { "text": "The inherent unpredictability of external events", "correct": false },
+    { "text": "Insufficient training in Stoic principles", "correct": false },
+    { "text": "Poverty and social instability in Roman society", "correct": false },
+    { "text": "The commentary and narrative we add to events without noticing", "correct": true }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Neuroscience of Attention",
+  "text": "In 1989, Rachel and Stephen Kaplan proposed Attention Restoration Theory, arguing that directed attention — the effortful focus we use for work and problem-solving — depletes a finite cognitive resource. Unlike a muscle, it cannot be strengthened through use alone; it requires genuine rest. The Kaplans identified four conditions that trigger restorative experience: a sense of \"being away\" from ordinary demands, \"extent\" (an environment rich enough to occupy the mind), \"fascination\" (involuntary engagement), and \"compatibility\" with one's current needs. Natural environments reliably satisfy all four, making them uniquely restorative in ways that urban settings, however stimulating, rarely achieve.",
+  "question": "According to the Kaplans' theory, what is the fundamental problem with directed attention?",
+  "options": [
+    { "text": "It can only be activated in quiet environments free from noise", "correct": false },
+    { "text": "It draws on the same neural circuits used for emotional regulation", "correct": false },
+    { "text": "It depletes a finite resource that cannot recover through continued use alone", "correct": true },
+    { "text": "It conflicts with the brain's default mode network during rest periods", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Buddhist and Eastern Mindfulness",
+  "text": "Cognitive science has begun to map what Buddhist texts have long described. Research by Jonathan Smallwood and Jonathan Schooler on mind-wandering distinguishes two states: deliberate attention and stimulus-independent thought. The default mode network — active during mind-wandering — is suppressed when sati is operative, but suppression is temporary and metabolically costly. What the tradition calls 'continuous recollection' corresponds closely to what Schooler terms 'meta-awareness': not just thinking, but noticing that one is thinking. This meta-level monitoring is precisely what sati provides — a witness function that catches the moment of departure from intended focus.",
+  "question": "According to the passage, what does Jonathan Schooler's term 'meta-awareness' correspond to in the Buddhist tradition?",
+  "options": [
+    { "text": "The default mode network's baseline activity during rest and reflection", "correct": false },
+    { "text": "Sati's witness function that catches the moment of departure from intended focus", "correct": true },
+    { "text": "The deliberate suppression of stimulus-independent thought during concentration", "correct": false },
+    { "text": "The state of deep absorption in which the default mode network is fully deactivated", "correct": false }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pillar": "Attention Economy and Society",
+  "text": "The Cambridge Analytica scandal of 2018 offered a rare public glimpse of behavioral prediction markets operating at political scale. The firm harvested personality profiles derived from Facebook data and used them to serve micro-targeted political messages calibrated to individual psychological vulnerabilities — authoritarianism, fear, tribalism. What made this episode significant was not the scale of the manipulation but its visibility. Political advertising has always sought to move behavior; Cambridge Analytica revealed that the infrastructure built by surveillance capitalism made this manipulation orders of magnitude more precise, cheap, and deniable than anything previously available.",
+  "question": "According to the passage, what made the Cambridge Analytica episode especially significant?",
+  "options": [
+    { "text": "The unprecedented number of users whose data was harvested from Facebook", "correct": false },
+    { "text": "Its revelation that surveillance capitalism infrastructure made behavioral manipulation far more precise, cheap, and deniable", "correct": true },
+    { "text": "The fact that it was the first time personality profiling was used for political advertising", "correct": false },
+    { "text": "Zuboff's direct involvement in exposing the firm's methodology through academic research", "correct": false }
+  ]
+}
