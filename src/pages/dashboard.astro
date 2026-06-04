@@ -47,18 +47,43 @@
         .sr3 { animation: slide-r  .7s ease forwards; opacity:0; animation-delay:.62s }
         .shimmer { animation: shimmer 4s ease-in-out infinite }
 
-        /* ── breathing circle ── */
-        @keyframes br-outer  { 0%,100%{transform:scale(1);opacity:.35} 50%{transform:scale(1.20);opacity:.65} }
-        @keyframes br-mid    { 0%,100%{transform:scale(1);opacity:.45} 50%{transform:scale(1.14);opacity:.75} }
-        @keyframes br-inner  { 0%,100%{transform:scale(1);opacity:.6 } 50%{transform:scale(1.08);opacity:.95} }
-        @keyframes br-core   { 0%,100%{transform:scale(1)} 50%{transform:scale(1.07)} }
-        @keyframes br-glow   { 0%,100%{opacity:.2;transform:scale(1)} 50%{opacity:.5;transform:scale(1.22)} }
+        /* ── breathing circle – state-driven ── */
+        .breathing-circle, .ring-1, .ring-2, .ring-3 {
+            transition: transform 4s cubic-bezier(0.4, 0, 0.2, 1),
+                        opacity   4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .ring-2 { transition-delay: 0.1s; }
+        .ring-3 { transition-delay: 0.2s; }
+
+        .state-inhale .breathing-circle { transform: scale(1.5); }
+        .state-inhale .ring-1 { transform: scale(1.6); opacity: 0.6; }
+        .state-inhale .ring-2 { transform: scale(1.8); opacity: 0.5; }
+        .state-inhale .ring-3 { transform: scale(2.0); opacity: 0.4; }
+
+        .state-hold .breathing-circle { transform: scale(1.5); }
+        .state-hold .ring-1 { transform: scale(1.6); opacity: 0.6; }
+        .state-hold .ring-2 { transform: scale(1.8); opacity: 0.5; }
+        .state-hold .ring-3 { transform: scale(2.0); opacity: 0.4; }
+        .state-hold .inner-glow { animation: pulse-glow 2s ease-in-out infinite alternate; }
+
+        .state-exhale .breathing-circle { transform: scale(1); }
+        .state-exhale .ring-1 { transform: scale(1); opacity: 0.3; }
+        .state-exhale .ring-2 { transform: scale(1); opacity: 0.2; }
+        .state-exhale .ring-3 { transform: scale(1); opacity: 0.1; }
+
+        .state-rest .breathing-circle { transform: scale(1); }
+        .state-rest .ring-1 { transform: scale(1); opacity: 0.3; }
+        .state-rest .ring-2 { transform: scale(1); opacity: 0.2; }
+        .state-rest .ring-3 { transform: scale(1); opacity: 0.1; }
+
+        @keyframes pulse-glow { 0% { opacity: 0.8; } 100% { opacity: 1; } }
+
+        .is-paused .breathing-circle,
+        .is-paused .ring-1,
+        .is-paused .ring-2,
+        .is-paused .ring-3 { transition: none !important; }
+
         @keyframes phase-pulse { 0%,100%{opacity:.55} 50%{opacity:1} }
-        .br-outer { animation: br-outer 8s ease-in-out infinite }
-        .br-mid   { animation: br-mid   8s ease-in-out infinite }
-        .br-inner { animation: br-inner 8s ease-in-out infinite }
-        .br-core  { animation: br-core  8s ease-in-out infinite }
-        .br-glow  { animation: br-glow  8s ease-in-out infinite }
         .phase-lbl { animation: phase-pulse 8s ease-in-out infinite }
 
         /* ── reading timer bar ── */
@@ -68,6 +93,21 @@
         /* ── answer options ── */
         @keyframes unlock-pop { 0%{transform:scale(.9);opacity:0} 70%{transform:scale(1.02)} 100%{transform:scale(1);opacity:1} }
         .unlock-pop { animation: unlock-pop .45s cubic-bezier(.34,1.56,.64,1) forwards }
+
+        /* ── completion panel ── */
+        @keyframes cp-fade-up   { from{opacity:0;transform:translateY(18px)} to{opacity:1;transform:translateY(0)} }
+        @keyframes cp-fade-in   { from{opacity:0} to{opacity:1} }
+        @keyframes cp-check-in  { 0%{transform:scale(.5);opacity:0} 70%{transform:scale(1.12);opacity:1} 100%{transform:scale(1);opacity:1} }
+        @keyframes cp-ring-exp  { 0%{transform:scale(.7);opacity:.5} 100%{transform:scale(1.5);opacity:0} }
+        .cp-fi-1  { animation: cp-fade-up  .7s cubic-bezier(.4,0,.2,1)  .20s both }
+        .cp-fi-2  { animation: cp-fade-up  .7s cubic-bezier(.4,0,.2,1)  .55s both }
+        .cp-fi-3  { animation: cp-fade-up  .7s cubic-bezier(.4,0,.2,1)  .85s both }
+        .cp-fi-4  { animation: cp-fade-up  .7s cubic-bezier(.4,0,.2,1) 1.10s both }
+        .cp-check { animation: cp-check-in .65s cubic-bezier(.4,0,.2,1)  .15s both }
+        .cp-ring  { animation: cp-ring-exp 1.4s ease-out .15s infinite }
+        .cp-ring2 { animation: cp-ring-exp 1.4s ease-out .55s infinite }
+        .cp-pill  { transition: background .2s, box-shadow .2s, transform .15s; cursor:pointer; }
+        .cp-pill:hover { background:rgba(197,131,76,.13)!important; box-shadow:0 4px 24px rgba(197,131,76,.18); transform:translateY(-1px); }
 
         .ans-btn {
             display:flex; align-items:center; gap:16px;
@@ -216,26 +256,22 @@
             <!-- ══ VIEW 1: CALM MY BODY ══ -->
             <div id="view-calm" class="flex flex-col items-center w-full" style="max-width:480px;">
 
-                <div class="fu2 flex items-center gap-3 mb-8">
-                    <div class="shimmer h-px w-8" style="background:var(--accent-border); transform-origin:right;"></div>
-                    <span class="font-sans text-xs tracking-[.28em] uppercase" style="font-weight:300; color:var(--text-muted);">Breathing Circle</span>
-                    <div class="shimmer h-px w-8" style="background:var(--accent-border); transform-origin:left;"></div>
-                </div>
 
-                <div class="fu3 relative flex items-center justify-center mb-10" style="width:300px;height:300px;">
+
+                <div id="breathing-app" class="fu3 relative flex items-center justify-center mb-10" style="width:300px;height:300px;">
                     <div class="br-glow absolute rounded-full" style="width:280px;height:280px;background:radial-gradient(circle,rgba(240,168,50,.35) 0%,transparent 70%);"></div>
-                    <div class="br-outer absolute rounded-full" style="width:268px;height:268px;border:1.5px solid rgba(220,140,40,.30);"></div>
-                    <div class="br-mid   absolute rounded-full" style="width:210px;height:210px;border:1.5px solid rgba(235,155,40,.45);"></div>
-                    <div class="br-inner absolute rounded-full" style="width:152px;height:152px;border:2px solid rgba(240,168,50,.65);"></div>
-                    <div class="br-core  absolute rounded-full flex items-center justify-center"
+                    <div class="br-outer ring-3 absolute rounded-full" style="width:268px;height:268px;border:1.5px solid rgba(220,140,40,.30);opacity:0.3;"></div>
+                    <div class="br-mid ring-2 absolute rounded-full" style="width:210px;height:210px;border:1.5px solid rgba(235,155,40,.45);opacity:0.2;"></div>
+                    <div class="br-inner ring-1 absolute rounded-full" style="width:152px;height:152px;border:2px solid rgba(240,168,50,.65);opacity:0.3;"></div>
+                    <div class="br-core breathing-circle inner-glow absolute rounded-full flex items-center justify-center"
                          style="width:96px;height:96px;background:radial-gradient(circle,rgba(240,168,50,.55) 0%,rgba(245,192,80,.25) 70%);border:1.5px solid rgba(220,140,40,.50);">
                         <i class="fa-solid fa-lungs" style="font-size:1.6rem;color:rgba(201,106,24,0.75);"></i>
                     </div>
                 </div>
 
                 <div class="fu4 flex flex-col items-center gap-2 mb-6">
-                    <h2 id="phase-text" class="phase-lbl font-serif" style="font-size:clamp(1.5rem,2.2vw,2rem);font-weight:500;color:var(--text);">Breathe In</h2>
-                    <p id="phase-sub" class="font-sans" style="font-size:.8rem;font-weight:300;letter-spacing:.08em;color:var(--text-muted);">Follow the expanding circle</p>
+                    <h2 id="phase-text" class="phase-lbl font-serif" style="font-size:clamp(1.5rem,2.2vw,2rem);font-weight:500;color:var(--text);">Inhale</h2>
+                    <p id="phase-sub" class="font-sans" style="font-size:.8rem;font-weight:300;letter-spacing:.08em;color:var(--text-muted);">Fill your lungs slowly</p>
                 </div>
 
                 <div class="fi flex items-center gap-3 mb-8">
@@ -261,13 +297,15 @@
                 </div>
 
                 <div class="fi flex flex-col items-center gap-3">
-                    <div id="countdown" class="font-sans" style="font-size:2.2rem;font-weight:300;color:var(--accent);letter-spacing:.04em;">4:00</div>
+                    <div id="countdown" class="font-sans" style="font-size:2.2rem;font-weight:300;color:var(--accent);letter-spacing:.04em;">3:00</div>
                     <button id="calm-btn" onclick="toggleCalm()"
                         class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full"
                         style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);cursor:pointer;transition:background .3s;"
                         onmouseover="this.style.background='rgba(192,120,56,.26)'" onmouseout="this.style.background='var(--accent-light)'">
                         Begin Session
                     </button>
+                    <div id="calm-continue" class="hidden"></div>
+
                 </div>
             </div>
 
@@ -311,14 +349,13 @@
                         <p id="focus-feedback-text" class="font-sans text-sm leading-relaxed" style="font-weight:300;color:var(--text);"></p>
                     </div>
 
-                    <div id="focus-continue" class="hidden mt-6 flex flex-col items-center gap-3">
-                        <button onclick="tryAnotherPractice()"
+                    <div id="focus-continue" class="hidden mt-6 flex justify-center">
+                        <button onclick="showComplete()"
                            class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full"
                            style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);cursor:pointer;transition:background .3s;"
                            onmouseover="this.style.background='rgba(240,168,50,.30)'" onmouseout="this.style.background='var(--accent-light)'">
-                            Try another practice →
+                            Continue →
                         </button>
-                        <a href="/plugin" class="font-sans" style="font-size:.72rem;font-weight:300;font-style:italic;color:rgba(138,96,48,.52);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.80)'" onmouseout="this.style.color='rgba(138,96,48,.52)'">Want to track your progress? Get the plugin</a>
                     </div>
                 </div>
             </div>
@@ -386,136 +423,69 @@
                     <div class="font-serif" style="font-size:2rem;color:rgba(192,120,56,.6);">✦</div>
                     <h3 class="font-serif" style="font-size:1.45rem;font-weight:500;color:var(--text);">Your mind is clear.</h3>
                     <p class="font-sans leading-relaxed" style="font-size:.85rem;font-weight:300;color:var(--text-muted);max-width:280px;">Those thoughts no longer own your attention. You chose presence.</p>
-                    <button onclick="tryAnotherPractice()"
+                    <button onclick="showComplete()"
                        class="font-sans text-xs tracking-[.22em] uppercase px-8 py-3 rounded-full mt-2"
                        style="font-weight:400;color:var(--text);background:var(--accent-light);border:1px solid var(--accent-border);cursor:pointer;transition:background .3s;"
                        onmouseover="this.style.background='rgba(240,168,50,.30)'" onmouseout="this.style.background='var(--accent-light)'">
-                        Try another practice →
+                        Continue →
                     </button>
-                    <a href="/plugin" class="font-sans" style="font-size:.72rem;font-weight:300;font-style:italic;color:rgba(138,96,48,.52);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.80)'" onmouseout="this.style.color='rgba(138,96,48,.52)'">Want to track your progress? Get the plugin</a>
                 </div>
 
             </div>
 
         <!-- ══ VIEW 4: COMPLETE ══ -->
-        <div id="view-complete" class="hidden flex-col w-full overflow-y-auto" style="max-width:560px; padding:8px 0 24px;">
+        <div id="view-complete" class="hidden flex-col items-center justify-center w-full text-center" style="max-width:480px; padding:40px 16px; min-height:500px;">
 
-            <!-- Success icon -->
-            <div class="flex flex-col items-center text-center mb-8">
-                <div class="relative flex items-center justify-center mb-7" style="width:88px;height:88px;">
-                    <div class="ring-pulse-1 absolute rounded-full border" style="width:88px;height:88px;border-color:rgba(220,140,40,.45);"></div>
-                    <div class="ring-pulse-2 absolute rounded-full border" style="width:88px;height:88px;border-color:rgba(240,168,50,.30);"></div>
-                    <div class="success-icon-wrap relative flex items-center justify-center rounded-full"
-                         style="width:66px;height:66px;background:radial-gradient(circle,rgba(240,180,80,.28) 0%,rgba(240,168,50,.10) 70%,transparent 100%);border:1px solid rgba(220,140,40,.35);">
-                        <svg width="26" height="26" viewBox="0 0 28 28" fill="none"><path class="check-path" d="M7 14.5 L12 19.5 L21 9" stroke="#c96a18" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                    </div>
+            <!-- Check icon with expanding rings -->
+            <div class="cp-fi-1 relative flex items-center justify-center mb-8" style="width:100px;height:100px;">
+                <div class="cp-ring  absolute rounded-full border" style="width:100px;height:100px;border-color:rgba(197,131,76,.40);"></div>
+                <div class="cp-ring2 absolute rounded-full border" style="width:100px;height:100px;border-color:rgba(197,131,76,.25);"></div>
+                <div class="cp-check relative flex items-center justify-center rounded-full"
+                     style="width:72px;height:72px;background:rgba(240,168,50,.12);border:1.5px solid rgba(197,131,76,.35);">
+                    <i class="fa-solid fa-check" style="font-size:1.4rem;color:#c96a18;"></i>
                 </div>
+            </div>
 
-                <div class="flex items-center gap-3 mb-4">
-                    <div class="h-px w-8" style="background:rgba(220,140,40,.45);"></div>
-                    <span class="font-sans text-xs tracking-[.28em] uppercase" style="font-weight:300;color:rgba(180,100,20,.60);">Session complete</span>
-                    <div class="h-px w-8" style="background:rgba(220,140,40,.45);"></div>
-                </div>
+            <!-- Label -->
+            <div class="cp-fi-1 flex items-center gap-3 mb-6">
+                <span class="h-px w-8" style="background:rgba(220,140,40,.40);display:inline-block;"></span>
+                <span class="font-sans text-xs tracking-[.25em] uppercase" style="font-weight:400;color:rgba(180,100,20,.60);">Practice Complete</span>
+                <span class="h-px w-8" style="background:rgba(220,140,40,.40);display:inline-block;"></span>
+            </div>
 
-                <h1 class="font-serif leading-[1.22] mb-3" style="font-size:clamp(1.7rem,2.6vw,2.4rem);font-weight:500;color:#4a2c08;">
-                    You returned<br><em style="font-style:italic;color:#c96a18;">to yourself.</em>
+            <!-- Headline -->
+            <div class="cp-fi-2 mb-5">
+                <h1 class="font-serif leading-tight mb-4" style="font-size:clamp(2.2rem,4vw,3.2rem);font-weight:500;color:#2e2620;">
+                    Your mind is<br><em style="font-style:italic;color:#c96a18;">yours again.</em>
                 </h1>
-                <p class="font-sans leading-relaxed" style="font-size:.88rem;font-weight:300;max-width:380px;color:rgba(138,96,48,.75);">
-                    That took intention. Your attention is worth protecting — not just today, but every time a new tab pulls you away.
+                <p class="font-sans uppercase tracking-[.18em] leading-relaxed" style="font-size:.72rem;font-weight:400;color:rgba(138,96,48,.55);max-width:320px;margin:0 auto;">
+                    The infinite loop is broken.<br>Take this clarity with you.
                 </p>
             </div>
 
             <!-- Divider -->
-            <div class="w-full flex items-center gap-4 mb-7">
-                <div class="divider-line flex-1 h-px" style="background:rgba(220,140,40,.20);"></div>
-                <span class="font-sans text-xs tracking-[.22em] uppercase flex-shrink-0" style="font-size:.62rem;font-weight:300;color:rgba(90,58,16,.38);">protect your attention, always</span>
-                <div class="divider-line flex-1 h-px" style="background:rgba(220,140,40,.20);"></div>
-            </div>
+            <div class="cp-fi-3 mb-8" style="width:64px;height:1px;background:rgba(220,140,40,.35);"></div>
 
-            <!-- Registration card -->
-            <div class="reg-card w-full rounded-3xl border px-7 py-8 mb-6"
-                 style="background:rgba(255,248,230,.65);border-color:rgba(220,140,40,.22);border-radius:24px;backdrop-filter:blur(4px);">
-
-                <div class="mb-6 text-center">
-                    <h2 class="font-serif mb-2" style="font-size:1.2rem;font-weight:500;color:#4a2c08;">Make this your new default</h2>
-                    <p class="font-sans leading-relaxed" style="font-size:.82rem;font-weight:300;max-width:360px;margin:0 auto;color:rgba(138,96,48,.72);">
-                        Save your progress and let the extension quietly replace your next distraction with this.
-                    </p>
-                </div>
-
-                <div class="flex flex-col sm:flex-row gap-3 mb-5">
-                    <button class="oauth-btn flex-1 flex items-center justify-center gap-3 rounded-2xl border px-4 py-3"
-                            style="background:rgba(240,168,50,.06);border-color:rgba(220,140,40,.20);border-radius:14px;">
-                        <svg width="17" height="17" viewBox="0 0 18 18" fill="none"><path d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.717v2.258h2.908c1.702-1.567 2.684-3.875 2.684-6.615z" fill="#4285F4" opacity=".9"/><path d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 0 0 9 18z" fill="#34A853" opacity=".9"/><path d="M3.964 10.71A5.41 5.41 0 0 1 3.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 0 0 0 9c0 1.452.348 2.827.957 4.042l3.007-2.332z" fill="#FBBC05" opacity=".9"/><path d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 0 0 .957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z" fill="#EA4335" opacity=".9"/></svg>
-                        <span class="font-sans text-sm" style="font-weight:300;color:rgba(74,44,8,.75);">Continue with Google</span>
-                    </button>
-                    <button class="oauth-btn flex-1 flex items-center justify-center gap-3 rounded-2xl border px-4 py-3"
-                            style="background:rgba(240,168,50,.06);border-color:rgba(220,140,40,.20);border-radius:14px;">
-                        <i class="fa-brands fa-apple" style="color:rgba(74,44,8,.70);font-size:1rem;"></i>
-                        <span class="font-sans text-sm" style="font-weight:300;color:rgba(74,44,8,.75);">Continue with Apple</span>
-                    </button>
-                </div>
-
-                <div class="flex items-center gap-4 mb-5">
-                    <div class="flex-1 h-px" style="background:rgba(220,140,40,.18);"></div>
-                    <span class="font-sans text-xs uppercase flex-shrink-0" style="font-size:.62rem;font-weight:300;letter-spacing:.2em;color:rgba(90,58,16,.40);">or with email</span>
-                    <div class="flex-1 h-px" style="background:rgba(220,140,40,.18);"></div>
-                </div>
-
-                <div class="flex flex-col sm:flex-row gap-3">
-                    <input id="cv-email" type="email" class="cv-email-input flex-1" placeholder="your@email.com" style="min-width:0;" />
-                    <button id="cv-signup-btn" onclick="handleCvSignup()" class="cv-cta-btn flex-shrink-0 flex items-center justify-center gap-2 px-5">
-                        <span class="font-sans text-sm" style="font-weight:400;letter-spacing:.04em;color:#5a3a10;">Protect my attention</span>
-                        <i class="fa-solid fa-arrow-right text-xs" style="color:rgba(180,100,20,.80);"></i>
-                    </button>
-                </div>
-
-                <div class="mt-4 text-center">
-                    <p class="font-sans" style="font-size:.68rem;font-weight:300;letter-spacing:.04em;color:rgba(90,58,16,.38);">
-                        No spam. No dark patterns. Just a quiet space, whenever you need it.
-                    </p>
+            <!-- Actions -->
+            <div class="cp-fi-3 flex flex-col items-center gap-4">
+                <button onclick="tryAnotherPractice()" class="cp-pill font-sans text-xs tracking-[.22em] uppercase flex items-center gap-3 px-10 py-4 rounded-full border"
+                        style="min-width:260px;justify-content:center;background:rgba(255,248,230,.80);border-color:rgba(197,131,76,.40);color:#4a2c08;font-weight:500;">
+                    <span>Try Another Practice</span>
+                    <i class="fa-solid fa-arrow-right" style="color:#c96a18;font-size:.7rem;"></i>
+                </button>
+                <div class="cp-fi-4">
+                    <a href="/plugin" class="font-sans italic" style="font-size:.75rem;font-weight:300;color:rgba(138,96,48,.52);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:3px;transition:color .2s;letter-spacing:.03em;"
+                       onmouseover="this.style.color='rgba(138,96,48,.85)'" onmouseout="this.style.color='rgba(138,96,48,.52)'">
+                        Want to track your progress? Get the plugin
+                    </a>
                 </div>
             </div>
 
-            <!-- Benefits -->
-            <div class="w-full flex flex-col sm:flex-row items-start sm:items-center justify-center gap-4 sm:gap-7 mb-7 px-2">
-                <div class="flex items-center gap-2">
-                    <div class="w-5 h-5 rounded-full flex-shrink-0 flex items-center justify-center" style="background:rgba(240,168,50,.15);border:1px solid rgba(220,140,40,.30);"><i class="fa-solid fa-check" style="font-size:.5rem;color:rgba(180,100,20,.80);"></i></div>
-                    <span class="font-sans" style="font-size:.76rem;font-weight:300;color:rgba(138,96,48,.65);">Browser extension included</span>
-                </div>
-                <div class="flex items-center gap-2">
-                    <div class="w-5 h-5 rounded-full flex-shrink-0 flex items-center justify-center" style="background:rgba(240,168,50,.15);border:1px solid rgba(220,140,40,.30);"><i class="fa-solid fa-check" style="font-size:.5rem;color:rgba(180,100,20,.80);"></i></div>
-                    <span class="font-sans" style="font-size:.76rem;font-weight:300;color:rgba(138,96,48,.65);">All exercises unlocked</span>
-                </div>
-                <div class="flex items-center gap-2">
-                    <div class="w-5 h-5 rounded-full flex-shrink-0 flex items-center justify-center" style="background:rgba(240,168,50,.15);border:1px solid rgba(220,140,40,.30);"><i class="fa-solid fa-check" style="font-size:.5rem;color:rgba(180,100,20,.80);"></i></div>
-                    <span class="font-sans" style="font-size:.76rem;font-weight:300;color:rgba(138,96,48,.65);">Always free to start</span>
-                </div>
-            </div>
-
-            <!-- Plugin nudge -->
-            <div class="flex justify-center mb-5">
-                <a href="/plugin" class="font-sans" style="font-size:.78rem;font-weight:300;color:rgba(138,96,48,.60);text-decoration:underline;text-decoration-color:rgba(220,140,40,.35);text-underline-offset:3px;cursor:pointer;transition:color .2s;" onmouseover="this.style.color='rgba(138,96,48,.90)'" onmouseout="this.style.color='rgba(138,96,48,.60)'">
-                    Want to track your progress? Get the plugin →
-                </a>
-            </div>
-
-            <!-- Skip -->
-            <div class="flex flex-col items-center gap-2 text-center">
-                <span class="font-sans" style="font-size:.75rem;font-weight:300;color:rgba(90,58,16,.38);">
-                    Not ready yet?
-                    <button onclick="switchView(lastActiveView || 'calm')"
-                            style="background:none;border:none;cursor:pointer;color:rgba(90,58,16,.55);text-decoration:underline;text-decoration-color:rgba(220,140,40,.30);text-underline-offset:2px;font-family:'Inter',sans-serif;font-size:.75rem;font-weight:300;padding:0;">
-                        Return to dashboard
-                    </button>
-                </span>
-                <div class="mt-2 flex items-center gap-0">
-                    <span class="font-sans uppercase" style="font-size:.58rem;letter-spacing:.22em;color:rgba(90,58,16,.28);">Breathe</span>
-                    <span style="display:inline-block;width:4px;height:4px;border-radius:50%;background:#f0a832;opacity:.4;margin:0 8px;vertical-align:middle;"></span>
-                    <span class="font-sans uppercase" style="font-size:.58rem;letter-spacing:.22em;color:rgba(90,58,16,.28);">Focus</span>
-                    <span style="display:inline-block;width:4px;height:4px;border-radius:50%;background:#f0a832;opacity:.4;margin:0 8px;vertical-align:middle;"></span>
-                    <span class="font-sans uppercase" style="font-size:.58rem;letter-spacing:.22em;color:rgba(90,58,16,.28);">Restore</span>
-                </div>
+            <!-- Bottom dots -->
+            <div class="cp-fi-4 absolute bottom-8 left-1/2 -translate-x-1/2 flex gap-2 items-center" style="opacity:.28;">
+                <span style="width:5px;height:5px;border-radius:50%;background:#c96a18;display:inline-block;"></span>
+                <span style="width:24px;height:1px;background:rgba(220,140,40,.6);display:inline-block;"></span>
+                <span style="width:5px;height:5px;border-radius:50%;background:#c96a18;display:inline-block;"></span>
             </div>
 
         </div><!-- /view-complete -->
@@ -552,7 +522,7 @@
                                 <h3 class="font-serif" style="font-size:1rem;font-weight:500;color:var(--text);">Calm My Body</h3>
                                 <span id="badge-calm" class="hidden font-sans" style="font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:#c96a18;background:rgba(253,246,232,0.95);border:1px solid rgba(201,106,24,.30);padding:2px 8px;border-radius:9999px;">Active</span>
                             </div>
-                            <p class="font-sans" style="font-size:.76rem;font-weight:300;color:var(--text-muted);">Guided breathing cycle · 4 minutes</p>
+                            <p class="font-sans" style="font-size:.76rem;font-weight:300;color:var(--text-muted);">Guided breathing cycle · 3 minutes</p>
                         </div>
                     </div>
                     <i class="fa-solid fa-arrow-right nav-arrow"></i>
@@ -615,9 +585,29 @@ let lastActiveView = 'calm';
 let activeView = 'calm';
 
 function tryAnotherPractice() {
+    const cv = document.getElementById('view-complete');
+    cv.classList.add('hidden'); cv.classList.remove('flex');
     const idx = VIEWS.indexOf(activeView);
     const nextView = VIEWS[(idx + 1) % VIEWS.length];
     switchView(nextView);
+}
+
+function showComplete() {
+    VIEWS.forEach(v => {
+        const el = document.getElementById('view-' + v);
+        el.classList.add('hidden'); el.classList.remove('flex');
+        document.getElementById('card-' + v).classList.remove('active');
+        document.getElementById('badge-' + v).classList.add('hidden');
+    });
+    const cv = document.getElementById('view-complete');
+    cv.classList.remove('hidden'); cv.classList.add('flex');
+    // Re-trigger entrance animations
+    cv.querySelectorAll('[class*="cp-fi"],[class*="cp-check"],[class*="cp-ring"]').forEach(el => {
+        const anim = el.style.animation || getComputedStyle(el).animation;
+        el.style.animation = 'none';
+        el.offsetHeight;
+        el.style.animation = '';
+    });
 }
 
 function switchView(key) {
@@ -639,7 +629,16 @@ function switchView(key) {
     document.getElementById('card-' + key).classList.add('active');
     document.getElementById('badge-' + key).classList.remove('hidden');
 
-    if (key === 'calm')  { calmRunning = false; clearInterval(calmInterval); clearTimeout(phaseTimeout); document.getElementById('calm-btn').textContent = 'Begin Session'; document.getElementById('countdown').textContent = '4:00'; calmSeconds = 240; }
+    if (key === 'calm')  {
+        calmRunning = false; clearInterval(calmInterval); clearTimeout(phaseTimeout);
+        const app = document.getElementById('breathing-app');
+        if (app) { app.classList.remove('state-inhale','state-hold','state-exhale','state-rest','is-paused'); }
+        document.getElementById('calm-btn').style.display = '';
+        document.getElementById('calm-btn').textContent = 'Begin Session';
+        document.getElementById('countdown').textContent = '3:00'; calmSeconds = 180;
+        const cc = document.getElementById('calm-continue');
+        cc.classList.add('hidden'); cc.classList.remove('flex');
+    }
     if (key === 'focus') { initFocus(); }
     if (key === 'head')  { initHead(); }
 }
@@ -652,22 +651,31 @@ document.getElementById('badge-calm').classList.remove('hidden');
 //  CALM MY BODY
 // ─────────────────────────────────────────────
 const breathPhases = [
-    { name:'Breathe In',  sub:'Expand gently',       dot:'dot-inhale', ms:4000 },
-    { name:'Hold',        sub:'Stay still',           dot:'dot-hold',   ms:4000 },
-    { name:'Breathe Out', sub:'Release slowly',       dot:'dot-exhale', ms:6000 },
-    { name:'Rest',        sub:'Pause and be present', dot:'dot-rest',   ms:2000 },
+    { name:'Inhale',  sub:'Fill your lungs slowly',  dot:'dot-inhale', ms:4000, state:'state-inhale' },
+    { name:'Hold',    sub:'Stay still',               dot:'dot-hold',   ms:2000, state:'state-hold'   },
+    { name:'Exhale',  sub:'Release everything',       dot:'dot-exhale', ms:4000, state:'state-exhale' },
+    { name:'Rest',    sub:'Prepare to begin',         dot:'dot-rest',   ms:2000, state:'state-rest'   },
 ];
-let phaseIdx = 0, phaseTimeout = null, calmRunning = false, calmInterval = null, calmSeconds = 240;
+let phaseIdx = 0, phaseTimeout = null, calmRunning = false, calmInterval = null, calmSeconds = 180;
 
 function runPhase() {
     if (!calmRunning) return;
-    const p = breathPhases[phaseIdx % breathPhases.length];
+    const idx = phaseIdx % breathPhases.length;
+    const p = breathPhases[idx];
     document.getElementById('phase-text').textContent = p.name;
     document.getElementById('phase-sub').textContent  = p.sub;
     ['dot-inhale','dot-hold','dot-exhale','dot-rest'].forEach(id => {
         document.getElementById(id).style.background = 'var(--divider)';
     });
     document.getElementById(p.dot).style.background = 'var(--accent)';
+
+    // Sync circle state
+    const app = document.getElementById('breathing-app');
+    if (app) {
+        app.classList.remove('state-inhale','state-hold','state-exhale','state-rest');
+        app.classList.add(p.state);
+    }
+
     phaseIdx++;
     phaseTimeout = setTimeout(runPhase, p.ms);
 }
@@ -676,14 +684,16 @@ function toggleCalm() {
     const btn = document.getElementById('calm-btn');
     if (!calmRunning) {
         calmRunning = true;
+        document.getElementById('breathing-app')?.classList.remove('is-paused');
         btn.textContent = 'Pause';
         runPhase();
         calmInterval = setInterval(() => {
             if (calmSeconds <= 0) {
                 clearInterval(calmInterval); calmRunning = false;
-                btn.textContent = 'Complete ✓';
+                btn.style.display = 'none';
                 document.getElementById('countdown').textContent = '0:00';
-                clearTimeout(phaseTimeout); return;
+                clearTimeout(phaseTimeout);
+                showComplete(); return;
             }
             calmSeconds--;
             const m = Math.floor(calmSeconds/60), s = calmSeconds%60;
@@ -692,6 +702,7 @@ function toggleCalm() {
     } else {
         calmRunning = false;
         clearInterval(calmInterval); clearTimeout(phaseTimeout);
+        document.getElementById('breathing-app')?.classList.add('is-paused');
         btn.textContent = 'Resume';
     }
 }
@@ -887,8 +898,7 @@ function releaseThoughts() {
         document.getElementById('ta-wrap').style.display   = 'none';
         document.getElementById('add-wrap').style.display  = 'none';
         document.getElementById('release-wrap').classList.add('hidden');
-        const cs = document.getElementById('cleared-state');
-        cs.classList.remove('hidden'); cs.classList.add('flex'); cs.classList.add('cleared-rise');
+        showComplete();
     }, thoughtsList.length * 65 + 1150);
 }
 
